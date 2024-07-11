@@ -15,7 +15,7 @@ let notificationContent = [];
 
 for (let i = 0; i < symbols.length; i++) {
   let symbol = symbols[i];
-  let url = `https://tsanghi.com/api/fin/crypto/daily?token={token}&ticker={ticker}`;
+  let url = `https://api.binance.com/api/v3/klines`;
 
   if (typeof $task !== 'undefined') {
     // Quantumult X
