@@ -1,0 +1,78 @@
+# Google AI 相关
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,gemini.google
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+
+# OpenAI 相关
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,poecdn.net
+DOMAIN-SUFFIX,poe.com
+
+# Anthropic（Claude）相关
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudeusercontent.com
+
+# 其他 AI 平台
+DOMAIN-SUFFIX,huggingface.co         # HF.co 别名
+DOMAIN-SUFFIX,mistral.ai
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,jasper.ai
+DOMAIN-SUFFIX,clipdrop.co
+DOMAIN-SUFFIX,pplx.ai
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,host.livekit.cloud
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN-SUFFIX,turn.livekit.cloud
+DOMAIN-SUFFIX,cloudinary.com         # pplx-res.cloudinary.com 所属
+DOMAIN-SUFFIX,dify.ai
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,openart.ai
+DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,x.ai                   #马斯克相关
+DOMAIN-SUFFIX,chutes.ai
+DOMAIN-SUFFIX,hf.co                   # Hugging Face 别名
+DOMAIN-SUFFIX,cursorapi.com
+DOMAIN-SUFFIX,cursor-cdn.com
+
+# Google Cloud 相关（动态子域名）
+DOMAIN-REGEX,^alkalicore-pa\.clients6\.google\.com$,$1
+DOMAIN-REGEX,^alkalimakersuite-pa\.clients6\.google\.com$,$1
+
+# OpenAI Azure 动态子域名
+DOMAIN-REGEX,^openaicom-api-.*\.z01\.azurefd\.net$,$1
+DOMAIN-REGEX,^production-openaicom-storage\.azureedge\.net$,$1
+DOMAIN-REGEX,^openaicom-productionae4b\.blob\.core\.windows\.net$,$1
+
+# Cloudflare CDN
+DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
+DOMAIN-REGEX,^gateway\.ai\.cloudflare\.com$,$1
+
+# 其他 CDN/存储服务
+DOMAIN-SUFFIX,pplx-res.cloudinary.com  # 已合并到 cloudinary.com 基础规则
+DOMAIN-SUFFIX,servd-anthropic-website.b-cdn.net
+DOMAIN-SUFFIX,openaicom.imgix.net
+
+# API 接口（示例：Google Generative AI API）
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+
+# Sentry 错误监控
+DOMAIN-SUFFIX,o33249.ingest.sentry.io
+DOMAIN-SUFFIX,browser-intake-datadoghq.com
