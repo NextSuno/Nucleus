@@ -1,60 +1,73 @@
-ai.google.dev
-alkalicore-pa.clients6.google.com
-alkalimakersuite-pa.clients6.google.com
-openaiapi-site.azureedge.net
-openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-openaicomproductionae4b.blob.core.windows.net
-production-openaicom-storage.azureedge.net
-pplx-res.cloudinary.com
-servd-anthropic-website.b-cdn.net
-.chatgpt.com
-.anthropic.com
-.notebooklm.google
-.x.ai
-.chutes.ai
-.dify.ai
-.grok.com
-.meta.ai
-.mistral.ai
-.openart.ai
-.openrouter.ai
-.deepmind.com
-.deepmind.google
-.generativeai.google
-.hf.co
-.groq.com
-.claudeusercontent.com
-.claude.ai
-.huggingface.co
-.cursorapi.com
-.cursor.sh
-.cursor.com
-.gemini.google
-.jasper.ai
-.cursor-cdn.com
-.chat.com
-.oaistatic.com
-.oaiusercontent.com
-.openai.com
-.sora.com
-.poecdn.net
-.poe.com
-.clipdrop.co
-.pplx.ai
-.perplexity.ai
-.bard.google.com
-.host.livekit.cloud
-.chatgpt.livekit.cloud
-.turn.livekit.cloud
-.gemini.google.com
-.aistudio.google.com
-.generativelanguage.googleapis.com
-.proactivebackend-pa.googleapis.com
-.makersuite.google.com
-.geller-pa.googleapis.com
-.notebooklm.google.com
-.gateway.ai.cloudflare.com
-.openai.com.cdn.cloudflare.net
-o33249.ingest.sentry.io
-openaicom.imgix.net
-browser-intake-datadoghq.com
+#!name=AI
+#!desc=AI 代理规则集
+# 本规则集的目的是推荐代理 AI 链接，使其避免使用中国大陆的网络访问
+# 本规则集仅推荐使用相对干净的节点
+# Author：愚者
+# Date: 2025-05-19
+
+# 精确域名匹配
+host, servd-anthropic-website.b-cdn.net
+host, ai.google.dev
+host, alkalicore-pa.clients6.google.com
+host, alkalimakersuite-pa.clients6.google.com
+host, webchannel-alkalimakersuite-pa.clients6.google.com
+host, openaiapi-site.azureedge.net
+host, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+host, openaicomproductionae4b.blob.core.windows.net
+host, production-openaicom-storage.azureedge.net
+host, pplx-res.cloudinary.com
+host, o33249.ingest.sentry.io
+host, openaicom.imgix.net
+host, browser-intake-datadoghq.com
+
+# 后缀匹配
+host-suffix, claudeusercontent.com
+host-suffix, notebooklm.google
+host-suffix, coderabbit.ai
+host-suffix, jasper.ai
+host-suffix, deepmind.com
+host-suffix, x.ai
+host-suffix, chutes.ai
+host-suffix, dify.ai
+host-suffix, grok.com
+host-suffix, meta.ai
+host-suffix, mistral.ai
+host-suffix, openart.ai
+host-suffix, openrouter.ai
+host-suffix, groq.com
+host-suffix, hf.co
+host-suffix, deepmind.google
+host-suffix, poe.com
+host-suffix, poecdn.net
+host-suffix, cursor-cdn.com
+host-suffix, cursor.com
+host-suffix, cursor.sh
+host-suffix, cursorapi.com
+host-suffix, anthropic.com
+host-suffix, claude.ai
+host-suffix, clipdrop.co
+host-suffix, pplx.ai
+host-suffix, huggingface.co
+host-suffix, generativeai.google
+host-suffix, gemini.google
+host-suffix, perplexity.ai
+host-suffix, sora.com
+host-suffix, openai.com
+host-suffix, oaiusercontent.com
+host-suffix, oaistatic.com
+host-suffix, chat.com
+host-suffix, chatgpt.com
+host-suffix, host.livekit.cloud
+host-suffix, chatgpt.livekit.cloud
+host-suffix, aistudio.google.com
+host-suffix, makersuite.google.com
+host-suffix, proactivebackend-pa.googleapis.com
+host-suffix, gemini.google.com
+host-suffix, bard.google.com
+host-suffix, generativelanguage.googleapis.com
+host-suffix, geller-pa.googleapis.com
+host-suffix, notebooklm.google.com
+host-suffix, turn.livekit.cloud
+host-suffix, coderabbit.gallery.vsassets.io
+host-suffix, gateway.ai.cloudflare.com
+host-suffix, openai.com.cdn.cloudflare.net
