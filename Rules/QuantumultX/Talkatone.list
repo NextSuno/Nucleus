@@ -1,0 +1,30 @@
+#!name=Talkatone
+#!desc=Talkatone 代理规则集
+# 本规则集的目的是推荐代理 Talkatone 链接，使其避免使用中国大陆的网络访问
+# 本规则集仅推荐使用相对干净的节点
+# Author：愚者
+# Date: 2025-05-19
+
+# Domain Suffix 规则
+HOST-SUFFIX,tktn.at
+HOST-SUFFIX,tktn.be
+HOST-SUFFIX,tenor.com
+HOST-SUFFIX,talkatone.com
+HOST-SUFFIX,agkn.com
+HOST-SUFFIX,inner-active.mobi
+HOST-SUFFIX,mobilefuse.com
+HOST-SUFFIX,inmobi.com
+HOST-SUFFIX,crashlytics.com
+HOST-SUFFIX,kochava.com
+HOST-SUFFIX,cohere.com
+HOST-SUFFIX,ip-api.com
+HOST-SUFFIX,spadsync.com
+
+# IP-CIDR 规则
+IP-CIDR,50.117.27.0/24,no-resolve
+IP-CIDR,63.251.124.0/24,no-resolve
+IP-CIDR,69.46.75.0/24,no-resolve
+IP-CIDR,131.153.7.0/24,no-resolve
+IP-CIDR,198.24.161.0/24,no-resolve
+IP-CIDR,205.164.56.0/24,no-resolve
+IP-CIDR,216.172.154.0/24,no-resolve
