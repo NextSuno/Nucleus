@@ -1,3 +1,10 @@
-收集互联网公开图标文件，版权属于原作者和商标持有人。
+> [!caution]
+> 
+> **本仓库发布的内容仅用于学习和研究目的，不得将本仓库内容用于商业或者非法用途。**
+> 
+> **本仓库数据来源于网络，版权归原作者所有，在此感谢各位原作者的辛勤付出。**
+> 
+> **如需转载，请保留原作者署名信息，且遵守本仓库的 CC BY-NC-SA 4.0 许可协议。**
 
-Collect public icon files on the Internet. The copyright belongs to the original author and trademark holder.
+---
+
