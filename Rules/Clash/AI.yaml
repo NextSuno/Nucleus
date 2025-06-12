@@ -1,5 +1,10 @@
+# SOURCE: https://github.com/MetaCubeX
+# NAME: category-ai-chat-!cn
+# DESC: 适用于 Clash
+# AUTHOR: 愚者
+# UPDATED: 2025-06-12 20:06:40
+
 payload:
-    - servd-anthropic-website.b-cdn.net
     - ai.google.dev
     - alkalicore-pa.clients6.google.com
     - alkalimakersuite-pa.clients6.google.com
@@ -9,55 +14,56 @@ payload:
     - openaicomproductionae4b.blob.core.windows.net
     - production-openaicom-storage.azureedge.net
     - pplx-res.cloudinary.com
-    - +.notebooklm.google
-    - +.sora.com
-    - +.clipdrop.co
-    - +.hf.co
+    - servd-anthropic-website.b-cdn.net
+    - +.chatgpt.com
     - +.chutes.ai
+    - +.clipdrop.co
+    - +.groq.com
+    - +.x.ai
     - +.dify.ai
-    - +.cursor.sh
+    - +.grok.com
     - +.meta.ai
     - +.mistral.ai
     - +.openart.ai
     - +.openrouter.ai
-    - +.anthropic.com
-    - +.claude.ai
-    - +.claudeusercontent.com
     - +.gemini.google
     - +.deepmind.google
     - +.jules.google
     - +.deepmind.com
-    - +.jasper.ai
-    - +.cursorapi.com
-    - +.cursor-cdn.com
-    - +.cursor.com
-    - +.x.ai
-    - +.grok.com
-    - +.poecdn.net
+    - +.notebooklm.google
+    - +.generativeai.google
     - +.poe.com
+    - +.huggingface.co
+    - +.hf.co
+    - +.claudeusercontent.com
+    - +.claude.ai
+    - +.anthropic.com
+    - +.cursorapi.com
+    - +.poecdn.net
+    - +.cursor.sh
+    - +.jasper.ai
     - +.coderabbit.ai
-    - +.pplx.ai
-    - +.perplexity.ai
-    - +.groq.com
-    - +.chatgpt.com
     - +.chat.com
     - +.oaistatic.com
     - +.oaiusercontent.com
     - +.openai.com
-    - +.generativeai.google
-    - +.huggingface.co
+    - +.sora.com
+    - +.cursor.com
+    - +.cursor-cdn.com
+    - +.pplx.ai
+    - +.perplexity.ai
     - +.notebooklm.google.com
-    - +.proactivebackend-pa.googleapis.com
-    - +.generativelanguage.googleapis.com
+    - +.aistudio.google.com
     - +.host.livekit.cloud
-    - +.chatgpt.livekit.cloud
+    - +.gemini.google.com
     - +.jules.google.com
     - +.geller-pa.googleapis.com
     - +.turn.livekit.cloud
-    - +.gemini.google.com
     - +.makersuite.google.com
+    - +.proactivebackend-pa.googleapis.com
     - +.bard.google.com
-    - +.aistudio.google.com
+    - +.chatgpt.livekit.cloud
+    - +.generativelanguage.googleapis.com
     - +.gateway.ai.cloudflare.com
     - +.coderabbit.gallery.vsassets.io
     - +.openai.com.cdn.cloudflare.net
