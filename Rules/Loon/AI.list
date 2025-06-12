@@ -1,8 +1,8 @@
-# SOURCE: https://github.com/MetaCubeX
+# SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ai-chat-!cn.list
 # NAME: category-ai-chat-!cn
 # DESC: 适用于 Loon
 # AUTHOR: 愚者
-# UPDATED: 2025-06-12 20:02:09
+# UPDATED: 2025-06-12 21:23:37
 
 DOMAIN,ai.google.dev
 DOMAIN,alkalicore-pa.clients6.google.com
