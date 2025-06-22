@@ -3,13 +3,13 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash
-# UPDATED: 2025-06-22 12:53:40
+# UPDATED: 2025-06-22 21:52:01
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 244
 # TOTAL: 245
 
 payload:
-    - venmo.s3.amazonaws.com
+    - +.venmo.s3.amazonaws.com
     - +.account-paypal.info
     - +.account-paypal.net
     - +.account-paypal.org

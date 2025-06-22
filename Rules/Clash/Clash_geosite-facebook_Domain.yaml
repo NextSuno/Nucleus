@@ -3,13 +3,13 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash
-# UPDATED: 2025-06-22 12:53:36
+# UPDATED: 2025-06-22 21:51:55
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 394
 # TOTAL: 395
 
 payload:
-    - fbcdn-a.akamaihd.net
+    - +.fbcdn-a.akamaihd.net
     - +.aboutfacebook.com
     - +.accessfacebookfromschool.com
     - +.acebooik.com

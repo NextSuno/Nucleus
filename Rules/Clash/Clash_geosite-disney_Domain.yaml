@@ -3,15 +3,15 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash
-# UPDATED: 2025-06-22 12:53:22
+# UPDATED: 2025-06-22 21:51:39
 # DOMAIN: 4
 # DOMAIN-SUFFIX: 152
 # TOTAL: 156
 
 payload:
-    - espn.api.edge.bamgrid.com
-    - espn.hb.omtrdc.net
-    - espndotcom.tt.omtrdc.net
+    - +.espn.api.edge.bamgrid.com
+    - +.espn.hb.omtrdc.net
+    - +.espndotcom.tt.omtrdc.net
     - +.thisispolaris.com
     - +.bamgrid.com
     - +.disney.bg
@@ -164,4 +164,4 @@ payload:
     - +.disneyturkiye.com.tr
     - +.disney-portal.my.onetrust.com
     - +.disneyplus.com.ssl.sc.omtrdc.net
-    - disney.my.sentry.io
+    - +.disney.my.sentry.io

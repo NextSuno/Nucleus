@@ -3,13 +3,13 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash
-# UPDATED: 2025-06-22 12:53:10
+# UPDATED: 2025-06-22 21:51:20
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 48
 # TOTAL: 50
 
 payload:
-    - manga.bilibili.com
+    - +.manga.bilibili.com
     - +.bilicomic.com
     - +.bilicomics.com
     - +.acg.tv
@@ -52,7 +52,7 @@ payload:
     - +.bilibili.tv
     - +.biliintl.com
     - +.dreamcast.hk
-    - upos-hz-mirrorakam.akamaized.net
+    - +.upos-hz-mirrorakam.akamaized.net
     - +.bilibiligame.cn
     - +.bilibiligame.co
     - +.bilibiligame.net

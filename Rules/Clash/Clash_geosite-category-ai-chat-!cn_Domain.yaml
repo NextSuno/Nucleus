@@ -3,22 +3,22 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash
-# UPDATED: 2025-06-22 12:53:14
+# UPDATED: 2025-06-22 21:51:29
 # DOMAIN: 13
 # DOMAIN-SUFFIX: 52
 # TOTAL: 65
 
 payload:
-    - openaiapi-site.azureedge.net
-    - openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-    - openaicomproductionae4b.blob.core.windows.net
-    - production-openaicom-storage.azureedge.net
-    - pplx-res.cloudinary.com
-    - servd-anthropic-website.b-cdn.net
-    - ai.google.dev
-    - alkalicore-pa.clients6.google.com
-    - alkalimakersuite-pa.clients6.google.com
-    - webchannel-alkalimakersuite-pa.clients6.google.com
+    - +.openaiapi-site.azureedge.net
+    - +.openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+    - +.openaicomproductionae4b.blob.core.windows.net
+    - +.production-openaicom-storage.azureedge.net
+    - +.pplx-res.cloudinary.com
+    - +.servd-anthropic-website.b-cdn.net
+    - +.ai.google.dev
+    - +.alkalicore-pa.clients6.google.com
+    - +.alkalimakersuite-pa.clients6.google.com
+    - +.webchannel-alkalimakersuite-pa.clients6.google.com
     - +.cursor.sh
     - +.dify.ai
     - +.jasper.ai
@@ -71,6 +71,6 @@ payload:
     - +.coderabbit.gallery.vsassets.io
     - +.gateway.ai.cloudflare.com
     - +.openai.com.cdn.cloudflare.net
-    - o33249.ingest.sentry.io
-    - openaicom.imgix.net
-    - browser-intake-datadoghq.com
+    - +.o33249.ingest.sentry.io
+    - +.openaicom.imgix.net
+    - +.browser-intake-datadoghq.com

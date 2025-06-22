@@ -3,13 +3,13 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash
-# UPDATED: 2025-06-22 12:53:13
+# UPDATED: 2025-06-22 21:51:24
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 11
 # TOTAL: 12
 
 payload:
-    - www.speedtest.net.cdn.cloudflare.net
+    - +.www.speedtest.net.cdn.cloudflare.net
     - +.cdnst.net
     - +.cellmaps.com
     - +.ekahau.cloud

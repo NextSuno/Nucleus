@@ -3,7 +3,7 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash
-# UPDATED: 2025-06-22 12:53:18
+# UPDATED: 2025-06-22 21:51:32
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 250
 # DOMAIN-KEYWORD: 4
@@ -211,8 +211,8 @@ payload:
     - +.ewapool.net
     - +.ftx.com
     - metamask
-    - token-api.metaswap.codefi.network
-    - min-api.cryptocompare.com
+    - +.token-api.metaswap.codefi.network
+    - +.min-api.cryptocompare.com
     - +.opensea.io
     - +.nftscan.com
     - +.makersplace.com

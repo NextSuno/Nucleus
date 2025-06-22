@@ -3,13 +3,13 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash
-# UPDATED: 2025-06-22 12:53:26
+# UPDATED: 2025-06-22 21:51:42
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 47
 # TOTAL: 48
 
 payload:
-    - hulu.playback.edge.bamgrid.com
+    - +.hulu.playback.edge.bamgrid.com
     - +.112263.com
     - +.callhulu.com
     - +.findyourlimits.com

@@ -3,20 +3,20 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash
-# UPDATED: 2025-06-22 12:53:27
+# UPDATED: 2025-06-22 21:51:44
 # DOMAIN: 8
 # DOMAIN-SUFFIX: 14
 # TOTAL: 22
 
 payload:
-    - audio-ak-spotify-com.akamaized.net
-    - audio4-ak-spotify-com.akamaized.net
-    - cdn-spotify-experiments.conductrics.com
-    - heads-ak-spotify-com.akamaized.net
-    - heads4-ak-spotify-com.akamaized.net
-    - spotify.com.edgesuite.net
-    - spotify.map.fastly.net
-    - spotify.map.fastlylb.net
+    - +.audio-ak-spotify-com.akamaized.net
+    - +.audio4-ak-spotify-com.akamaized.net
+    - +.cdn-spotify-experiments.conductrics.com
+    - +.heads-ak-spotify-com.akamaized.net
+    - +.heads4-ak-spotify-com.akamaized.net
+    - +.spotify.com.edgesuite.net
+    - +.spotify.map.fastly.net
+    - +.spotify.map.fastlylb.net
     - +.byspotify.com
     - +.pscdn.co
     - +.scdn.co

@@ -3,13 +3,13 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash
-# UPDATED: 2025-06-22 12:53:44
+# UPDATED: 2025-06-22 21:52:04
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 26
 # TOTAL: 27
 
 payload:
-    - github-cloud.s3.amazonaws.com
+    - +.github-cloud.s3.amazonaws.com
     - +.githubhackathon.com
     - +.ghcr.io
     - +.githubnext.com

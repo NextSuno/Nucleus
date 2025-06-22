@@ -3,7 +3,7 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash
-# UPDATED: 2025-06-22 12:53:34
+# UPDATED: 2025-06-22 21:51:52
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 20
 # TOTAL: 21
@@ -29,4 +29,4 @@ payload:
     - +.ttlivecdn.com
     - +.ttoverseaus.net
     - +.ttwstatic.com
-    - p16-tiktokcdn-com.akamaized.net
+    - +.p16-tiktokcdn-com.akamaized.net

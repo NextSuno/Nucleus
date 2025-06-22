@@ -3,55 +3,55 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash
-# UPDATED: 2025-06-22 12:54:00
+# UPDATED: 2025-06-22 21:52:23
 # DOMAIN: 54
 # DOMAIN-SUFFIX: 5822
 # TOTAL: 5876
 
 payload:
-    - geetest.datasink.sensorsdata.cn
-    - hellofontpreview.oss-cn-beijing.aliyuncs.com
-    - hellowebfonts.oss-cn-beijing.aliyuncs.com
-    - manga.bilibili.com
-    - p3-novel.byteimg.com
-    - p6-novel.byteimg.com
-    - www.libvideo.com
-    - hospital.pku.edu.cn
-    - ss.bjmu.edu.cn
-    - p1-juejin.byteimg.com
-    - p2-juejin.byteimg.com
-    - p3-juejin.byteimg.com
-    - p4-juejin.byteimg.com
-    - p5-juejin.byteimg.com
-    - p6-juejin.byteimg.com
-    - p7-juejin.byteimg.com
-    - p8-juejin.byteimg.com
-    - p9-juejin.byteimg.com
-    - p3-novel.byteimg.com
-    - p6-novel.byteimg.com
-    - p1-juejin.byteimg.com
-    - p2-juejin.byteimg.com
-    - p3-juejin.byteimg.com
-    - p4-juejin.byteimg.com
-    - p5-juejin.byteimg.com
-    - p6-juejin.byteimg.com
-    - p7-juejin.byteimg.com
-    - p8-juejin.byteimg.com
-    - p9-juejin.byteimg.com
-    - cueme-api.quark.cn
-    - ai.zhaomi.cn
-    - bbs.ztedevices.com
-    - www.ztedevices.com
-    - moocs.unipus.cn
-    - opencourse.pku.edu.cn
-    - study.163.com
-    - +.alibaba
-    - +.baidu
-    - +.citic
-    - +.icbc
-    - +.tmall
-    - +.taobao
-    - +.alipay
+    - +.geetest.datasink.sensorsdata.cn
+    - +.hellofontpreview.oss-cn-beijing.aliyuncs.com
+    - +.hellowebfonts.oss-cn-beijing.aliyuncs.com
+    - +.manga.bilibili.com
+    - +.p3-novel.byteimg.com
+    - +.p6-novel.byteimg.com
+    - +.www.libvideo.com
+    - +.hospital.pku.edu.cn
+    - +.ss.bjmu.edu.cn
+    - +.p1-juejin.byteimg.com
+    - +.p2-juejin.byteimg.com
+    - +.p3-juejin.byteimg.com
+    - +.p4-juejin.byteimg.com
+    - +.p5-juejin.byteimg.com
+    - +.p6-juejin.byteimg.com
+    - +.p7-juejin.byteimg.com
+    - +.p8-juejin.byteimg.com
+    - +.p9-juejin.byteimg.com
+    - +.p3-novel.byteimg.com
+    - +.p6-novel.byteimg.com
+    - +.p1-juejin.byteimg.com
+    - +.p2-juejin.byteimg.com
+    - +.p3-juejin.byteimg.com
+    - +.p4-juejin.byteimg.com
+    - +.p5-juejin.byteimg.com
+    - +.p6-juejin.byteimg.com
+    - +.p7-juejin.byteimg.com
+    - +.p8-juejin.byteimg.com
+    - +.p9-juejin.byteimg.com
+    - +.cueme-api.quark.cn
+    - +.ai.zhaomi.cn
+    - +.bbs.ztedevices.com
+    - +.www.ztedevices.com
+    - +.moocs.unipus.cn
+    - +.opencourse.pku.edu.cn
+    - +.study.163.com
+    - alibaba
+    - baidu
+    - citic
+    - icbc
+    - tmall
+    - taobao
+    - alipay
     - +.cloudchaozhou.com
     - +.dmzj.com
     - +.b3log.org
@@ -5734,23 +5734,23 @@ payload:
     - +.amzndns-cn.cn
     - +.amzndns-cn.com
     - +.amzndns-cn.net
-    - ntp.aliyun.com
-    - ntp1.aliyun.com
-    - ntp2.aliyun.com
-    - ntp3.aliyun.com
-    - ntp4.aliyun.com
-    - ntp5.aliyun.com
-    - ntp6.aliyun.com
-    - ntp7.aliyun.com
-    - time.amazonaws.cn
-    - time.izatcloud.net
-    - time.xtracloud.net
-    - ntp.tencent.com
-    - ntp1.tencent.com
-    - ntp2.tencent.com
-    - ntp3.tencent.com
-    - ntp4.tencent.com
-    - ntp5.tencent.com
+    - +.ntp.aliyun.com
+    - +.ntp1.aliyun.com
+    - +.ntp2.aliyun.com
+    - +.ntp3.aliyun.com
+    - +.ntp4.aliyun.com
+    - +.ntp5.aliyun.com
+    - +.ntp6.aliyun.com
+    - +.ntp7.aliyun.com
+    - +.time.amazonaws.cn
+    - +.time.izatcloud.net
+    - +.time.xtracloud.net
+    - +.ntp.tencent.com
+    - +.ntp1.tencent.com
+    - +.ntp2.tencent.com
+    - +.ntp3.tencent.com
+    - +.ntp4.tencent.com
+    - +.ntp5.tencent.com
     - +.cn.pool.ntp.org
     - +.ntp.neu.edu.cn
     - +.ntp.ntsc.ac.cn
@@ -5780,7 +5780,7 @@ payload:
     - +.owsgo.com
     - +.teleows.com
     - +.saasops.tech
-    - kc.kexinshe.com
+    - +.kc.kexinshe.com
     - +.cf-ns.com
     - +.cf-ns.net
     - +.cf-ns.site
