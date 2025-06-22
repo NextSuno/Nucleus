@@ -3,31 +3,31 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash
-# UPDATED: 2025-06-22 09:18:47
+# UPDATED: 2025-06-22 11:34:21
 # DOMAIN: 8
 # DOMAIN-SUFFIX: 14
 # TOTAL: 22
 
 payload:
-    - DOMAIN,audio-ak-spotify-com.akamaized.net
-    - DOMAIN,audio4-ak-spotify-com.akamaized.net
-    - DOMAIN,cdn-spotify-experiments.conductrics.com
-    - DOMAIN,heads-ak-spotify-com.akamaized.net
-    - DOMAIN,heads4-ak-spotify-com.akamaized.net
-    - DOMAIN,spotify.com.edgesuite.net
-    - DOMAIN,spotify.map.fastly.net
-    - DOMAIN,spotify.map.fastlylb.net
-    - DOMAIN-SUFFIX,byspotify.com
-    - DOMAIN-SUFFIX,pscdn.co
-    - DOMAIN-SUFFIX,scdn.co
-    - DOMAIN-SUFFIX,spoti.fi
-    - DOMAIN-SUFFIX,spotify-everywhere.com
-    - DOMAIN-SUFFIX,spotify.com
-    - DOMAIN-SUFFIX,spotify.design
-    - DOMAIN-SUFFIX,spotifycdn.com
-    - DOMAIN-SUFFIX,spotifycdn.net
-    - DOMAIN-SUFFIX,spotifycharts.com
-    - DOMAIN-SUFFIX,spotifycodes.com
-    - DOMAIN-SUFFIX,spotifyforbrands.com
-    - DOMAIN-SUFFIX,spotifyjobs.com
-    - DOMAIN-SUFFIX,spotify.link
+  - DOMAIN,audio-ak-spotify-com.akamaized.net
+  - DOMAIN,audio4-ak-spotify-com.akamaized.net
+  - DOMAIN,cdn-spotify-experiments.conductrics.com
+  - DOMAIN,heads-ak-spotify-com.akamaized.net
+  - DOMAIN,heads4-ak-spotify-com.akamaized.net
+  - DOMAIN,spotify.com.edgesuite.net
+  - DOMAIN,spotify.map.fastly.net
+  - DOMAIN,spotify.map.fastlylb.net
+  - DOMAIN-SUFFIX,byspotify.com
+  - DOMAIN-SUFFIX,pscdn.co
+  - DOMAIN-SUFFIX,scdn.co
+  - DOMAIN-SUFFIX,spoti.fi
+  - DOMAIN-SUFFIX,spotify-everywhere.com
+  - DOMAIN-SUFFIX,spotify.com
+  - DOMAIN-SUFFIX,spotify.design
+  - DOMAIN-SUFFIX,spotifycdn.com
+  - DOMAIN-SUFFIX,spotifycdn.net
+  - DOMAIN-SUFFIX,spotifycharts.com
+  - DOMAIN-SUFFIX,spotifycodes.com
+  - DOMAIN-SUFFIX,spotifyforbrands.com
+  - DOMAIN-SUFFIX,spotifyjobs.com
+  - DOMAIN-SUFFIX,spotify.link
