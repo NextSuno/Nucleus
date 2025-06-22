@@ -1,0 +1,21 @@
+# SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/whatsapp.yaml
+# NAME: geosite-whatsapp
+# AUTHOR: https://github.com/NextSuno
+# TG_CHANNEL: https://t.me/NextCCB
+# DESC: 适用于 Quantumult X
+# UPDATED: 2025-06-22 22:22:44
+# TOTAL: 0
+
+HOST-SUFFIX,wa.me,PROXY
+HOST-SUFFIX,whatsapp-plus.info,PROXY
+HOST-SUFFIX,whatsapp-plus.me,PROXY
+HOST-SUFFIX,whatsapp-plus.net,PROXY
+HOST-SUFFIX,whatsapp.cc,PROXY
+HOST-SUFFIX,whatsapp.com,PROXY
+HOST-SUFFIX,whatsapp.info,PROXY
+HOST-SUFFIX,whatsapp.net,PROXY
+HOST-SUFFIX,whatsapp.org,PROXY
+HOST-SUFFIX,whatsapp.tv,PROXY
+HOST-SUFFIX,whatsappbrand.com,PROXY
+HOST-SUFFIX,graph.whatsapp.com,PROXY
+HOST-SUFFIX,graph.whatsapp.net,PROXY

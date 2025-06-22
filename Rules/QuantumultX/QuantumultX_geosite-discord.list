@@ -1,0 +1,36 @@
+# SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/discord.yaml
+# NAME: geosite-discord
+# AUTHOR: https://github.com/NextSuno
+# TG_CHANNEL: https://t.me/NextCCB
+# DESC: 适用于 Quantumult X
+# UPDATED: 2025-06-22 22:22:48
+# TOTAL: 0
+
+HOST,discord-attachments-uploads-prd.storage.googleapis.com,PROXY
+HOST,hammerandchisel.ssl.zendesk.com,PROXY
+HOST-SUFFIX,dis.gd,PROXY
+HOST-SUFFIX,discord.co,PROXY
+HOST-SUFFIX,discord.com,PROXY
+HOST-SUFFIX,discord.design,PROXY
+HOST-SUFFIX,discord.dev,PROXY
+HOST-SUFFIX,discord.gg,PROXY
+HOST-SUFFIX,discord.gift,PROXY
+HOST-SUFFIX,discord.gifts,PROXY
+HOST-SUFFIX,discord.media,PROXY
+HOST-SUFFIX,discord.new,PROXY
+HOST-SUFFIX,discord.store,PROXY
+HOST-SUFFIX,discord.tools,PROXY
+HOST-SUFFIX,discord-activities.com,PROXY
+HOST-SUFFIX,discordactivities.com,PROXY
+HOST-SUFFIX,discordapp.com,PROXY
+HOST-SUFFIX,discordapp.net,PROXY
+HOST-SUFFIX,discordmerch.com,PROXY
+HOST-SUFFIX,discordpartygames.com,PROXY
+HOST-SUFFIX,discordsays.com,PROXY
+HOST-SUFFIX,discordstatus.com,PROXY
+HOST-SUFFIX,airhorn.solutions,PROXY
+HOST-SUFFIX,airhornbot.com,PROXY
+HOST-SUFFIX,bigbeans.solutions,PROXY
+HOST-SUFFIX,watchanimeattheoffice.com,PROXY
+HOST-SUFFIX,discordapp.io,PROXY
+HOST-SUFFIX,discordcdn.com,PROXY

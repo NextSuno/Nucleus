@@ -1,0 +1,35 @@
+# SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/github.yaml
+# NAME: geosite-github
+# AUTHOR: https://github.com/NextSuno
+# TG_CHANNEL: https://t.me/NextCCB
+# DESC: 适用于 Quantumult X
+# UPDATED: 2025-06-22 22:23:02
+# TOTAL: 0
+
+HOST,github-cloud.s3.amazonaws.com,PROXY
+HOST-SUFFIX,githubhackathon.com,PROXY
+HOST-SUFFIX,ghcr.io,PROXY
+HOST-SUFFIX,githubnext.com,PROXY
+HOST-SUFFIX,githubpreview.dev,PROXY
+HOST-SUFFIX,github.blog,PROXY
+HOST-SUFFIX,github.com,PROXY
+HOST-SUFFIX,github.community,PROXY
+HOST-SUFFIX,github.dev,PROXY
+HOST-SUFFIX,github.io,PROXY
+HOST-SUFFIX,githubapp.com,PROXY
+HOST-SUFFIX,githubassets.com,PROXY
+HOST-SUFFIX,githubcopilot.com,PROXY
+HOST-SUFFIX,npmjs.org,PROXY
+HOST-SUFFIX,dependabot.com,PROXY
+HOST-SUFFIX,git.io,PROXY
+HOST-SUFFIX,githubstatus.com,PROXY
+HOST-SUFFIX,githubuniverse.com,PROXY
+HOST-SUFFIX,githubusercontent.com,PROXY
+HOST-SUFFIX,myoctocat.com,PROXY
+HOST-SUFFIX,opensource.guide,PROXY
+HOST-SUFFIX,repo.new,PROXY
+HOST-SUFFIX,thegithubshop.com,PROXY
+HOST-SUFFIX,atom.io,PROXY
+HOST-SUFFIX,npm.community,PROXY
+HOST-SUFFIX,npmjs.com,PROXY
+HOST-SUFFIX,blob.core.windows.net,PROXY

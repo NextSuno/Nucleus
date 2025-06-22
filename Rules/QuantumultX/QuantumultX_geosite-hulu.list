@@ -1,0 +1,56 @@
+# SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/hulu.yaml
+# NAME: geosite-hulu
+# AUTHOR: https://github.com/NextSuno
+# TG_CHANNEL: https://t.me/NextCCB
+# DESC: 适用于 Quantumult X
+# UPDATED: 2025-06-22 22:22:13
+# TOTAL: 0
+
+HOST,hulu.playback.edge.bamgrid.com,PROXY
+HOST-SUFFIX,112263.com,PROXY
+HOST-SUFFIX,callhulu.com,PROXY
+HOST-SUFFIX,findyourlimits.com,PROXY
+HOST-SUFFIX,freehulu.com,PROXY
+HOST-SUFFIX,hooloo.tv,PROXY
+HOST-SUFFIX,hoolu.com,PROXY
+HOST-SUFFIX,hoolu.tv,PROXY
+HOST-SUFFIX,hu1u.com,PROXY
+HOST-SUFFIX,huloo.cc,PROXY
+HOST-SUFFIX,huloo.tv,PROXY
+HOST-SUFFIX,hulu.com,PROXY
+HOST-SUFFIX,hulu.jp,PROXY
+HOST-SUFFIX,hulu.tv,PROXY
+HOST-SUFFIX,hulu.us,PROXY
+HOST-SUFFIX,huluaction.com,PROXY
+HOST-SUFFIX,huluad.com,PROXY
+HOST-SUFFIX,huluapp.com,PROXY
+HOST-SUFFIX,huluasks.com,PROXY
+HOST-SUFFIX,hulucall.com,PROXY
+HOST-SUFFIX,hulufree.com,PROXY
+HOST-SUFFIX,hulugans.com,PROXY
+HOST-SUFFIX,hulugermany.com,PROXY
+HOST-SUFFIX,hulugo.com,PROXY
+HOST-SUFFIX,huluim.com,PROXY
+HOST-SUFFIX,huluinstantmessenger.com,PROXY
+HOST-SUFFIX,huluitaly.com,PROXY
+HOST-SUFFIX,hulunet.com,PROXY
+HOST-SUFFIX,hulunetwork.com,PROXY
+HOST-SUFFIX,huluplus.com,PROXY
+HOST-SUFFIX,hulupremium.com,PROXY
+HOST-SUFFIX,hulupurchase.com,PROXY
+HOST-SUFFIX,huluqa.com,PROXY
+HOST-SUFFIX,hulurussia.com,PROXY
+HOST-SUFFIX,huluspain.com,PROXY
+HOST-SUFFIX,hulusports.com,PROXY
+HOST-SUFFIX,hulustream.com,PROXY
+HOST-SUFFIX,huluteam.com,PROXY
+HOST-SUFFIX,hulutv.com,PROXY
+HOST-SUFFIX,huluusa.com,PROXY
+HOST-SUFFIX,joinmaidez.com,PROXY
+HOST-SUFFIX,mushymush.tv,PROXY
+HOST-SUFFIX,myhulu.com,PROXY
+HOST-SUFFIX,originalhulu.com,PROXY
+HOST-SUFFIX,payhulu.com,PROXY
+HOST-SUFFIX,registerhulu.com,PROXY
+HOST-SUFFIX,thehulubraintrust.com,PROXY
+HOST-SUFFIX,wwwhuluplus.com,PROXY

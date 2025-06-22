@@ -1,0 +1,17 @@
+# SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo-lite/geoip/bilibili.yaml
+# NAME: geoip-bilibili
+# AUTHOR: https://github.com/NextSuno
+# TG_CHANNEL: https://t.me/NextCCB
+# DESC: 适用于 Quantumult X，添加 no-resolve 参数
+# UPDATED: 2025-06-22 22:21:28
+# IP-CIDR: 8
+# TOTAL: 8
+
+IP-CIDR,106.75.74.76/32,DIRECT,no-resolve
+IP-CIDR,111.206.25.147/32,DIRECT,no-resolve
+IP-CIDR,119.3.238.64/32,DIRECT,no-resolve
+IP-CIDR,120.92.108.182/32,DIRECT,no-resolve
+IP-CIDR,120.92.113.99/32,DIRECT,no-resolve
+IP-CIDR,120.92.153.217/32,DIRECT,no-resolve
+IP-CIDR,134.175.207.130/32,DIRECT,no-resolve
+IP-CIDR,203.107.1.0/24,DIRECT,no-resolve

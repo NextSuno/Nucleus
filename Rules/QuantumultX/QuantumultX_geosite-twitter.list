@@ -1,0 +1,32 @@
+# SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/twitter.yaml
+# NAME: geosite-twitter
+# AUTHOR: https://github.com/NextSuno
+# TG_CHANNEL: https://t.me/NextCCB
+# DESC: 适用于 Quantumult X
+# UPDATED: 2025-06-22 22:22:26
+# TOTAL: 0
+
+HOST-SUFFIX,twtrdns.net,PROXY
+HOST-SUFFIX,twvid.com,PROXY
+HOST-SUFFIX,periscope.tv,PROXY
+HOST-SUFFIX,pscp.tv,PROXY
+HOST-SUFFIX,t.co,PROXY
+HOST-SUFFIX,tellapart.com,PROXY
+HOST-SUFFIX,tweetdeck.com,PROXY
+HOST-SUFFIX,twimg.com,PROXY
+HOST-SUFFIX,twitpic.com,PROXY
+HOST-SUFFIX,twitter.biz,PROXY
+HOST-SUFFIX,x.com,PROXY
+HOST-SUFFIX,cms-twdigitalassets.com,PROXY
+HOST-SUFFIX,twitterflightschool.com,PROXY
+HOST-SUFFIX,twittercommunity.com,PROXY
+HOST-SUFFIX,twitter.com,PROXY
+HOST-SUFFIX,twitterinc.com,PROXY
+HOST-SUFFIX,twitteroauth.com,PROXY
+HOST-SUFFIX,twitterstat.us,PROXY
+HOST-SUFFIX,ads-twitter.com,PROXY
+HOST-SUFFIX,twttr.com,PROXY
+HOST-SUFFIX,twttr.net,PROXY
+HOST-SUFFIX,twitter.jp,PROXY
+HOST-SUFFIX,vine.co,PROXY
+HOST-SUFFIX,twitter.map.fastly.net,PROXY
