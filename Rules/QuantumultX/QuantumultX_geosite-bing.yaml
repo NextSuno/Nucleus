@@ -1,0 +1,46 @@
+# SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/bing.yaml
+# NAME: geosite-bing
+# AUTHOR: https://github.com/NextSuno
+# TG_CHANNEL: https://t.me/NextCCB
+# DESC: 适用于 Quantumult X
+# UPDATED: 2025-06-22 09:36:36
+# TOTAL: 0
+
+HOST,location.microsoft.com,PROXY
+HOST-SUFFIX,bing,PROXY
+HOST-SUFFIX,dictate.ms,PROXY
+HOST-SUFFIX,sprinklesapp.com,PROXY
+HOST-SUFFIX,bing.com,PROXY
+HOST-SUFFIX,bingads.com,PROXY
+HOST-SUFFIX,bingagencyawards.com,PROXY
+HOST-SUFFIX,bingapis.com,PROXY
+HOST-SUFFIX,bingapistatistics.com,PROXY
+HOST-SUFFIX,bingparachute.com,PROXY
+HOST-SUFFIX,bingsandbox.com,PROXY
+HOST-SUFFIX,bingvisualsearch.com,PROXY
+HOST-SUFFIX,bingworld.com,PROXY
+HOST-SUFFIX,bluehatnights.com,PROXY
+HOST-SUFFIX,bing123.com,PROXY
+HOST-SUFFIX,bing.net,PROXY
+HOST-SUFFIX,microsoftpartnersolutions.com,PROXY
+HOST-SUFFIX,masalladeloslimites.com,PROXY
+HOST-SUFFIX,microsoft-give.com,PROXY
+HOST-SUFFIX,microsoftcloudsummit.com,PROXY
+HOST-SUFFIX,microsoftdiplomados.com,PROXY
+HOST-SUFFIX,microsoftlatamholiday.com,PROXY
+HOST-SUFFIX,microsoftmxfilantropia.com,PROXY
+HOST-SUFFIX,flipwithsurface.com,PROXY
+HOST-SUFFIX,msunlimitedcloudsummit.com,PROXY
+HOST-SUFFIX,office365love.com,PROXY
+HOST-SUFFIX,office365tw.com,PROXY
+HOST-SUFFIX,renovacionoffice.com,PROXY
+HOST-SUFFIX,copilot.microsoft.com,PROXY
+HOST-SUFFIX,bing.com.cn,PROXY
+HOST-SUFFIX,cn.bing.com,PROXY
+HOST-SUFFIX,cn.bing.net,PROXY
+HOST-SUFFIX,cn.mm.bing.net,PROXY
+HOST-SUFFIX,ditu.live.com,PROXY
+HOST-SUFFIX,r.bing.com,PROXY
+HOST-SUFFIX,th.bing.com,PROXY
+HOST,bj1.api.bing.com,PROXY
+HOST,emoi-cncdn.bing.com,PROXY

@@ -1,0 +1,20 @@
+# SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/reddit.yaml
+# NAME: geosite-reddit
+# AUTHOR: https://github.com/NextSuno
+# TG_CHANNEL: https://t.me/NextCCB
+# DESC: 适用于 Quantumult X
+# UPDATED: 2025-06-22 09:36:28
+# TOTAL: 0
+
+HOST-SUFFIX,redd.it,PROXY
+HOST-SUFFIX,reddit.com,PROXY
+HOST-SUFFIX,redditblog.com,PROXY
+HOST-SUFFIX,reddithelp.com,PROXY
+HOST-SUFFIX,redditinc.com,PROXY
+HOST-SUFFIX,redditmail.com,PROXY
+HOST-SUFFIX,redditmedia.com,PROXY
+HOST-SUFFIX,redditspace.com,PROXY
+HOST-SUFFIX,redditstatic.com,PROXY
+HOST-SUFFIX,redditstatus.com,PROXY
+HOST-SUFFIX,reddit.app.link,PROXY
+HOST-SUFFIX,reddit.map.fastly.net,PROXY

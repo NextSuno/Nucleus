@@ -1,0 +1,27 @@
+# SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/telegram.yaml
+# NAME: geosite-telegram
+# AUTHOR: https://github.com/NextSuno
+# TG_CHANNEL: https://t.me/NextCCB
+# DESC: 适用于 Quantumult X
+# UPDATED: 2025-06-22 09:35:56
+# TOTAL: 0
+
+HOST-SUFFIX,cdn-telegram.org,PROXY
+HOST-SUFFIX,comments.app,PROXY
+HOST-SUFFIX,contest.com,PROXY
+HOST-SUFFIX,fragment.com,PROXY
+HOST-SUFFIX,graph.org,PROXY
+HOST-SUFFIX,quiz.directory,PROXY
+HOST-SUFFIX,t.me,PROXY
+HOST-SUFFIX,tdesktop.com,PROXY
+HOST-SUFFIX,telega.one,PROXY
+HOST-SUFFIX,telegra.ph,PROXY
+HOST-SUFFIX,telegram-cdn.org,PROXY
+HOST-SUFFIX,telegram.dog,PROXY
+HOST-SUFFIX,telegram.me,PROXY
+HOST-SUFFIX,telegram.org,PROXY
+HOST-SUFFIX,telegram.space,PROXY
+HOST-SUFFIX,telesco.pe,PROXY
+HOST-SUFFIX,tg.dev,PROXY
+HOST-SUFFIX,tx.me,PROXY
+HOST-SUFFIX,usercontent.dev,PROXY

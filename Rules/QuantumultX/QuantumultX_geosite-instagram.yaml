@@ -1,0 +1,82 @@
+# SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/instagram.yaml
+# NAME: geosite-instagram
+# AUTHOR: https://github.com/NextSuno
+# TG_CHANNEL: https://t.me/NextCCB
+# DESC: 适用于 Quantumult X
+# UPDATED: 2025-06-22 09:36:08
+# TOTAL: 0
+
+HOST-SUFFIX,achat-followers-instagram.com,PROXY
+HOST-SUFFIX,acheter-followers-instagram.com,PROXY
+HOST-SUFFIX,acheterdesfollowersinstagram.com,PROXY
+HOST-SUFFIX,acheterfollowersinstagram.com,PROXY
+HOST-SUFFIX,bookstagram.com,PROXY
+HOST-SUFFIX,carstagram.com,PROXY
+HOST-SUFFIX,cdninstagram.com,PROXY
+HOST-SUFFIX,chickstagram.com,PROXY
+HOST-SUFFIX,ig.me,PROXY
+HOST-SUFFIX,igcdn.com,PROXY
+HOST-SUFFIX,igsonar.com,PROXY
+HOST-SUFFIX,igtv.com,PROXY
+HOST-SUFFIX,imstagram.com,PROXY
+HOST-SUFFIX,imtagram.com,PROXY
+HOST-SUFFIX,instaadder.com,PROXY
+HOST-SUFFIX,instachecker.com,PROXY
+HOST-SUFFIX,instafallow.com,PROXY
+HOST-SUFFIX,instafollower.com,PROXY
+HOST-SUFFIX,instagainer.com,PROXY
+HOST-SUFFIX,instagda.com,PROXY
+HOST-SUFFIX,instagify.com,PROXY
+HOST-SUFFIX,instagmania.com,PROXY
+HOST-SUFFIX,instagor.com,PROXY
+HOST-SUFFIX,instagram-brand.com,PROXY
+HOST-SUFFIX,instagram-engineering.com,PROXY
+HOST-SUFFIX,instagram-help.com,PROXY
+HOST-SUFFIX,instagram-press.com,PROXY
+HOST-SUFFIX,instagram-press.net,PROXY
+HOST-SUFFIX,instagram.com,PROXY
+HOST-SUFFIX,instagramci.com,PROXY
+HOST-SUFFIX,instagramcn.com,PROXY
+HOST-SUFFIX,instagramdi.com,PROXY
+HOST-SUFFIX,instagramhashtags.net,PROXY
+HOST-SUFFIX,instagramhilecim.com,PROXY
+HOST-SUFFIX,instagramhilesi.org,PROXY
+HOST-SUFFIX,instagramium.com,PROXY
+HOST-SUFFIX,instagramizlenme.com,PROXY
+HOST-SUFFIX,instagramkusu.com,PROXY
+HOST-SUFFIX,instagramlogin.com,PROXY
+HOST-SUFFIX,instagramm.com,PROXY
+HOST-SUFFIX,instagramn.com,PROXY
+HOST-SUFFIX,instagrampartners.com,PROXY
+HOST-SUFFIX,instagramphoto.com,PROXY
+HOST-SUFFIX,instagramq.com,PROXY
+HOST-SUFFIX,instagramsepeti.com,PROXY
+HOST-SUFFIX,instagramtakipcisatinal.net,PROXY
+HOST-SUFFIX,instagramtakiphilesi.com,PROXY
+HOST-SUFFIX,instagramtips.com,PROXY
+HOST-SUFFIX,instagramtr.com,PROXY
+HOST-SUFFIX,instagran.com,PROXY
+HOST-SUFFIX,instagranm.com,PROXY
+HOST-SUFFIX,instagrem.com,PROXY
+HOST-SUFFIX,instagrm.com,PROXY
+HOST-SUFFIX,instagtram.com,PROXY
+HOST-SUFFIX,instagy.com,PROXY
+HOST-SUFFIX,instamgram.com,PROXY
+HOST-SUFFIX,instangram.com,PROXY
+HOST-SUFFIX,instanttelegram.com,PROXY
+HOST-SUFFIX,instaplayer.net,PROXY
+HOST-SUFFIX,instastyle.tv,PROXY
+HOST-SUFFIX,instgram.com,PROXY
+HOST-SUFFIX,intagram.com,PROXY
+HOST-SUFFIX,intagrm.com,PROXY
+HOST-SUFFIX,intgram.com,PROXY
+HOST-SUFFIX,kingstagram.com,PROXY
+HOST-SUFFIX,lnstagram-help.com,PROXY
+HOST-SUFFIX,theinstagramhack.com,PROXY
+HOST-SUFFIX,oninstagram.com,PROXY
+HOST-SUFFIX,online-instagram.com,PROXY
+HOST-SUFFIX,onlineinstagram.com,PROXY
+HOST-SUFFIX,web-instagram.net,PROXY
+HOST-SUFFIX,wwwinstagram.com,PROXY
+HOST-SUFFIX,graph.instagram.com,PROXY
+HOST-SUFFIX,graph-fallback.instagram.com,PROXY
