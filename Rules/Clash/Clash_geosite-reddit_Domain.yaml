@@ -3,20 +3,20 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash
-# UPDATED: 2025-06-22 11:35:51
+# UPDATED: 2025-06-22 12:53:39
 # DOMAIN-SUFFIX: 12
 # TOTAL: 12
 
 payload:
-  - DOMAIN-SUFFIX,redd.it
-  - DOMAIN-SUFFIX,reddit.com
-  - DOMAIN-SUFFIX,redditblog.com
-  - DOMAIN-SUFFIX,reddithelp.com
-  - DOMAIN-SUFFIX,redditinc.com
-  - DOMAIN-SUFFIX,redditmail.com
-  - DOMAIN-SUFFIX,redditmedia.com
-  - DOMAIN-SUFFIX,redditspace.com
-  - DOMAIN-SUFFIX,redditstatic.com
-  - DOMAIN-SUFFIX,redditstatus.com
-  - DOMAIN-SUFFIX,reddit.app.link
-  - DOMAIN-SUFFIX,reddit.map.fastly.net
+    - +.redd.it
+    - +.reddit.com
+    - +.redditblog.com
+    - +.reddithelp.com
+    - +.redditinc.com
+    - +.redditmail.com
+    - +.redditmedia.com
+    - +.redditspace.com
+    - +.redditstatic.com
+    - +.redditstatus.com
+    - +.reddit.app.link
+    - +.reddit.map.fastly.net

@@ -3,27 +3,27 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash
-# UPDATED: 2025-06-22 11:35:46
+# UPDATED: 2025-06-22 12:53:29
 # DOMAIN-SUFFIX: 19
 # TOTAL: 19
 
 payload:
-  - DOMAIN-SUFFIX,cdn-telegram.org
-  - DOMAIN-SUFFIX,comments.app
-  - DOMAIN-SUFFIX,contest.com
-  - DOMAIN-SUFFIX,fragment.com
-  - DOMAIN-SUFFIX,graph.org
-  - DOMAIN-SUFFIX,quiz.directory
-  - DOMAIN-SUFFIX,t.me
-  - DOMAIN-SUFFIX,tdesktop.com
-  - DOMAIN-SUFFIX,telega.one
-  - DOMAIN-SUFFIX,telegra.ph
-  - DOMAIN-SUFFIX,telegram-cdn.org
-  - DOMAIN-SUFFIX,telegram.dog
-  - DOMAIN-SUFFIX,telegram.me
-  - DOMAIN-SUFFIX,telegram.org
-  - DOMAIN-SUFFIX,telegram.space
-  - DOMAIN-SUFFIX,telesco.pe
-  - DOMAIN-SUFFIX,tg.dev
-  - DOMAIN-SUFFIX,tx.me
-  - DOMAIN-SUFFIX,usercontent.dev
+    - +.cdn-telegram.org
+    - +.comments.app
+    - +.contest.com
+    - +.fragment.com
+    - +.graph.org
+    - +.quiz.directory
+    - +.t.me
+    - +.tdesktop.com
+    - +.telega.one
+    - +.telegra.ph
+    - +.telegram-cdn.org
+    - +.telegram.dog
+    - +.telegram.me
+    - +.telegram.org
+    - +.telegram.space
+    - +.telesco.pe
+    - +.tg.dev
+    - +.tx.me
+    - +.usercontent.dev

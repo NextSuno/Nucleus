@@ -3,30 +3,30 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash
-# UPDATED: 2025-06-22 11:35:49
+# UPDATED: 2025-06-22 12:53:34
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 20
 # TOTAL: 21
 
 payload:
-  - DOMAIN-SUFFIX,byteoversea.com
-  - DOMAIN-SUFFIX,muscdn.com
-  - DOMAIN-SUFFIX,musical.ly
-  - DOMAIN-SUFFIX,tik-tokapi.com
-  - DOMAIN-SUFFIX,tiktok.com
-  - DOMAIN-SUFFIX,tiktokcdn-eu.com
-  - DOMAIN-SUFFIX,tiktokcdn-us.com
-  - DOMAIN-SUFFIX,tiktokcdn.com
-  - DOMAIN-SUFFIX,tiktokd.net
-  - DOMAIN-SUFFIX,tiktokd.org
-  - DOMAIN-SUFFIX,tiktokeu-cdn.com
-  - DOMAIN-SUFFIX,tiktokrow-cdn.com
-  - DOMAIN-SUFFIX,tiktokv.com
-  - DOMAIN-SUFFIX,tiktokv.eu
-  - DOMAIN-SUFFIX,tiktokv.us
-  - DOMAIN-SUFFIX,tiktokw.eu
-  - DOMAIN-SUFFIX,tiktokw.us
-  - DOMAIN-SUFFIX,ttlivecdn.com
-  - DOMAIN-SUFFIX,ttoverseaus.net
-  - DOMAIN-SUFFIX,ttwstatic.com
-  - DOMAIN,p16-tiktokcdn-com.akamaized.net
+    - +.byteoversea.com
+    - +.muscdn.com
+    - +.musical.ly
+    - +.tik-tokapi.com
+    - +.tiktok.com
+    - +.tiktokcdn-eu.com
+    - +.tiktokcdn-us.com
+    - +.tiktokcdn.com
+    - +.tiktokd.net
+    - +.tiktokd.org
+    - +.tiktokeu-cdn.com
+    - +.tiktokrow-cdn.com
+    - +.tiktokv.com
+    - +.tiktokv.eu
+    - +.tiktokv.us
+    - +.tiktokw.eu
+    - +.tiktokw.us
+    - +.ttlivecdn.com
+    - +.ttoverseaus.net
+    - +.ttwstatic.com
+    - p16-tiktokcdn-com.akamaized.net

@@ -3,32 +3,32 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash
-# UPDATED: 2025-06-22 11:35:47
+# UPDATED: 2025-06-22 12:53:32
 # DOMAIN-SUFFIX: 24
 # TOTAL: 24
 
 payload:
-  - DOMAIN-SUFFIX,twtrdns.net
-  - DOMAIN-SUFFIX,twvid.com
-  - DOMAIN-SUFFIX,periscope.tv
-  - DOMAIN-SUFFIX,pscp.tv
-  - DOMAIN-SUFFIX,t.co
-  - DOMAIN-SUFFIX,tellapart.com
-  - DOMAIN-SUFFIX,tweetdeck.com
-  - DOMAIN-SUFFIX,twimg.com
-  - DOMAIN-SUFFIX,twitpic.com
-  - DOMAIN-SUFFIX,twitter.biz
-  - DOMAIN-SUFFIX,x.com
-  - DOMAIN-SUFFIX,cms-twdigitalassets.com
-  - DOMAIN-SUFFIX,twitterflightschool.com
-  - DOMAIN-SUFFIX,twittercommunity.com
-  - DOMAIN-SUFFIX,twitter.com
-  - DOMAIN-SUFFIX,twitterinc.com
-  - DOMAIN-SUFFIX,twitteroauth.com
-  - DOMAIN-SUFFIX,twitterstat.us
-  - DOMAIN-SUFFIX,ads-twitter.com
-  - DOMAIN-SUFFIX,twttr.com
-  - DOMAIN-SUFFIX,twttr.net
-  - DOMAIN-SUFFIX,twitter.jp
-  - DOMAIN-SUFFIX,vine.co
-  - DOMAIN-SUFFIX,twitter.map.fastly.net
+    - +.twtrdns.net
+    - +.twvid.com
+    - +.periscope.tv
+    - +.pscp.tv
+    - +.t.co
+    - +.tellapart.com
+    - +.tweetdeck.com
+    - +.twimg.com
+    - +.twitpic.com
+    - +.twitter.biz
+    - +.x.com
+    - +.cms-twdigitalassets.com
+    - +.twitterflightschool.com
+    - +.twittercommunity.com
+    - +.twitter.com
+    - +.twitterinc.com
+    - +.twitteroauth.com
+    - +.twitterstat.us
+    - +.ads-twitter.com
+    - +.twttr.com
+    - +.twttr.net
+    - +.twitter.jp
+    - +.vine.co
+    - +.twitter.map.fastly.net
