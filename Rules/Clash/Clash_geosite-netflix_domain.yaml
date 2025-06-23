@@ -1,0 +1,35 @@
+# SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/netflix.yaml
+# NAME: geosite-netflix
+# AUTHOR: https://github.com/NextSuno
+# TG_CHANNEL: https://t.me/NextCCB
+# DESC: 适用于 Clash
+# UPDATED: 2025-06-23 11:24:51
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 23
+# TOTAL: 24
+
+payload:
+    - +.netflix.com.edgesuite.net
+    - +.fast.com
+    - +.netflix.ca
+    - +.netflix.com
+    - +.netflix.net
+    - +.netflixinvestor.com
+    - +.netflixtechblog.com
+    - +.nflxext.com
+    - +.nflximg.com
+    - +.nflximg.net
+    - +.nflxsearch.net
+    - +.nflxso.net
+    - +.nflxvideo.net
+    - +.netflixdnstest0.com
+    - +.netflixdnstest1.com
+    - +.netflixdnstest2.com
+    - +.netflixdnstest3.com
+    - +.netflixdnstest4.com
+    - +.netflixdnstest5.com
+    - +.netflixdnstest6.com
+    - +.netflixdnstest7.com
+    - +.netflixdnstest8.com
+    - +.netflixdnstest9.com
+    - +.netflixdnstest10.com

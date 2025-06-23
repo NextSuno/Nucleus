@@ -1,0 +1,38 @@
+# SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/github.yaml
+# NAME: geosite-github
+# AUTHOR: https://github.com/NextSuno
+# TG_CHANNEL: https://t.me/NextCCB
+# DESC: 适用于 Clash
+# UPDATED: 2025-06-23 11:25:14
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 26
+# TOTAL: 27
+
+payload:
+    - +.github-cloud.s3.amazonaws.com
+    - +.githubhackathon.com
+    - +.ghcr.io
+    - +.githubnext.com
+    - +.githubpreview.dev
+    - +.github.blog
+    - +.github.com
+    - +.github.community
+    - +.github.dev
+    - +.github.io
+    - +.githubapp.com
+    - +.githubassets.com
+    - +.githubcopilot.com
+    - +.npmjs.org
+    - +.dependabot.com
+    - +.git.io
+    - +.githubstatus.com
+    - +.githubuniverse.com
+    - +.githubusercontent.com
+    - +.myoctocat.com
+    - +.opensource.guide
+    - +.repo.new
+    - +.thegithubshop.com
+    - +.atom.io
+    - +.npm.community
+    - +.npmjs.com
+    - +.blob.core.windows.net
