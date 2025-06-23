@@ -3,71 +3,71 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash
-# UPDATED: 2025-06-22 21:48:42
+# UPDATED: 2025-06-23 11:15:01
 # DOMAIN: 13
 # DOMAIN-SUFFIX: 52
 # TOTAL: 65
 
 payload:
-    - DOMAIN,openaiapi-site.azureedge.net
-    - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-    - DOMAIN,openaicomproductionae4b.blob.core.windows.net
-    - DOMAIN,production-openaicom-storage.azureedge.net
     - DOMAIN,pplx-res.cloudinary.com
     - DOMAIN,servd-anthropic-website.b-cdn.net
     - DOMAIN,ai.google.dev
     - DOMAIN,alkalicore-pa.clients6.google.com
     - DOMAIN,alkalimakersuite-pa.clients6.google.com
     - DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
-    - DOMAIN-SUFFIX,cursor.sh
-    - DOMAIN-SUFFIX,dify.ai
+    - DOMAIN,openaiapi-site.azureedge.net
+    - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+    - DOMAIN,openaicomproductionae4b.blob.core.windows.net
+    - DOMAIN,production-openaicom-storage.azureedge.net
+    - DOMAIN-SUFFIX,deepmind.google
+    - DOMAIN-SUFFIX,chutes.ai
     - DOMAIN-SUFFIX,jasper.ai
     - DOMAIN-SUFFIX,coderabbit.ai
-    - DOMAIN-SUFFIX,cursor.com
+    - DOMAIN-SUFFIX,gemini.google
     - DOMAIN-SUFFIX,meta.ai
     - DOMAIN-SUFFIX,mistral.ai
     - DOMAIN-SUFFIX,openart.ai
     - DOMAIN-SUFFIX,openrouter.ai
+    - DOMAIN-SUFFIX,grok.com
+    - DOMAIN-SUFFIX,x.ai
     - DOMAIN-SUFFIX,groq.com
-    - DOMAIN-SUFFIX,chatgpt.com
-    - DOMAIN-SUFFIX,chat.com
-    - DOMAIN-SUFFIX,oaistatic.com
-    - DOMAIN-SUFFIX,oaiusercontent.com
-    - DOMAIN-SUFFIX,openai.com
-    - DOMAIN-SUFFIX,sora.com
+    - DOMAIN-SUFFIX,hf.co
+    - DOMAIN-SUFFIX,huggingface.co
+    - DOMAIN-SUFFIX,poe.com
+    - DOMAIN-SUFFIX,poecdn.net
     - DOMAIN-SUFFIX,perplexity.ai
     - DOMAIN-SUFFIX,pplx.ai
     - DOMAIN-SUFFIX,cursor-cdn.com
-    - DOMAIN-SUFFIX,poe.com
-    - DOMAIN-SUFFIX,huggingface.co
-    - DOMAIN-SUFFIX,hf.co
-    - DOMAIN-SUFFIX,grok.com
-    - DOMAIN-SUFFIX,x.ai
-    - DOMAIN-SUFFIX,poecdn.net
-    - DOMAIN-SUFFIX,clipdrop.co
-    - DOMAIN-SUFFIX,chutes.ai
+    - DOMAIN-SUFFIX,cursor.com
+    - DOMAIN-SUFFIX,cursor.sh
     - DOMAIN-SUFFIX,cursorapi.com
     - DOMAIN-SUFFIX,anthropic.com
     - DOMAIN-SUFFIX,claude.ai
     - DOMAIN-SUFFIX,claudeusercontent.com
-    - DOMAIN-SUFFIX,gemini.google
-    - DOMAIN-SUFFIX,deepmind.google
+    - DOMAIN-SUFFIX,dify.ai
+    - DOMAIN-SUFFIX,clipdrop.co
     - DOMAIN-SUFFIX,jules.google
     - DOMAIN-SUFFIX,deepmind.com
     - DOMAIN-SUFFIX,notebooklm.google
     - DOMAIN-SUFFIX,generativeai.google
-    - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-    - DOMAIN-SUFFIX,jules.google.com
-    - DOMAIN-SUFFIX,bard.google.com
-    - DOMAIN-SUFFIX,geller-pa.googleapis.com
-    - DOMAIN-SUFFIX,gemini.google.com
-    - DOMAIN-SUFFIX,generativelanguage.googleapis.com
+    - DOMAIN-SUFFIX,chatgpt.com
+    - DOMAIN-SUFFIX,chat.com
+    - DOMAIN-SUFFIX,sora.com
+    - DOMAIN-SUFFIX,openai.com
+    - DOMAIN-SUFFIX,oaiusercontent.com
+    - DOMAIN-SUFFIX,oaistatic.com
     - DOMAIN-SUFFIX,aistudio.google.com
-    - DOMAIN-SUFFIX,makersuite.google.com
+    - DOMAIN-SUFFIX,jules.google.com
     - DOMAIN-SUFFIX,notebooklm.google.com
+    - DOMAIN-SUFFIX,geller-pa.googleapis.com
+    - DOMAIN-SUFFIX,bard.google.com
+    - DOMAIN-SUFFIX,gemini.google.com
+    - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+    - DOMAIN-SUFFIX,makersuite.google.com
+    - DOMAIN-SUFFIX,generativelanguage.googleapis.com
     - DOMAIN-SUFFIX,chatgpt.livekit.cloud
-    - DOMAIN-SUFFIX,turn.livekit.cloud
     - DOMAIN-SUFFIX,host.livekit.cloud
+    - DOMAIN-SUFFIX,turn.livekit.cloud
     - DOMAIN-SUFFIX,coderabbit.gallery.vsassets.io
     - DOMAIN-SUFFIX,gateway.ai.cloudflare.com
     - DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net

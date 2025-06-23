@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash
-# UPDATED: 2025-06-22 21:49:43
+# UPDATED: 2025-06-23 11:15:48
 # DOMAIN: 567
-# DOMAIN-SUFFIX: 30491
-# TOTAL: 31058
+# DOMAIN-SUFFIX: 30496
+# TOTAL: 31063
 
 payload:
     - DOMAIN,1password.drift.click
@@ -651,7 +651,7 @@ payload:
     - DOMAIN-SUFFIX,and
     - DOMAIN-SUFFIX,amazon
     - DOMAIN-SUFFIX,justdied.com
-    - DOMAIN-SUFFIX,sockscap64.com
+    - DOMAIN-SUFFIX,macbookair.kr
     - DOMAIN-SUFFIX,1337x.gd
     - DOMAIN-SUFFIX,1337x.is
     - DOMAIN-SUFFIX,1337x.st
@@ -2909,6 +2909,7 @@ payload:
     - DOMAIN-SUFFIX,artsy.net
     - DOMAIN-SUFFIX,yesasia.com
     - DOMAIN-SUFFIX,yes.xxx
+    - DOMAIN-SUFFIX,arvanstorage.ir
     - DOMAIN-SUFFIX,arxiv.org
     - DOMAIN-SUFFIX,arzon.jp
     - DOMAIN-SUFFIX,as-hp.ca
@@ -10173,7 +10174,7 @@ payload:
     - DOMAIN-SUFFIX,facebookloginhelp.net
     - DOMAIN-SUFFIX,facebooklogs.com
     - DOMAIN-SUFFIX,facebookmail.com
-    - DOMAIN-SUFFIX,jwpltx.com
+    - DOMAIN-SUFFIX,facebookmail.tv
     - DOMAIN-SUFFIX,facebookmanager.info
     - DOMAIN-SUFFIX,facebookmarketing.info
     - DOMAIN-SUFFIX,facebookmarketingpartner.com
@@ -12465,6 +12466,7 @@ payload:
     - DOMAIN-SUFFIX,gotrusted.com
     - DOMAIN-SUFFIX,gotw.ca
     - DOMAIN-SUFFIX,gouri.xyz
+    - DOMAIN-SUFFIX,gov.ir
     - DOMAIN-SUFFIX,gov.taipei
     - DOMAIN-SUFFIX,gov.tw
     - DOMAIN-SUFFIX,governmentengineer.com
@@ -12652,7 +12654,7 @@ payload:
     - DOMAIN-SUFFIX,gvt1.com
     - DOMAIN-SUFFIX,gvt2-cn.com
     - DOMAIN-SUFFIX,gvt2.com
-    - DOMAIN-SUFFIX,gvt3.com
+    - DOMAIN-SUFFIX,jwplatform.com
     - DOMAIN-SUFFIX,gvt5.com
     - DOMAIN-SUFFIX,gvt6.com
     - DOMAIN-SUFFIX,gvt7.com
@@ -12837,7 +12839,7 @@ payload:
     - DOMAIN-SUFFIX,hbfile.net
     - DOMAIN-SUFFIX,hbg.com
     - DOMAIN-SUFFIX,hbo.com
-    - DOMAIN-SUFFIX,trannygem.com
+    - DOMAIN-SUFFIX,jwmusic.org
     - DOMAIN-SUFFIX,hboasia.com
     - DOMAIN-SUFFIX,tranny.one
     - DOMAIN-SUFFIX,hbogo.com
@@ -15176,6 +15178,7 @@ payload:
     - DOMAIN-SUFFIX,iqq2.cc
     - DOMAIN-SUFFIX,iqq3.cc
     - DOMAIN-SUFFIX,iqqtv.net
+    - DOMAIN-SUFFIX,irangov.ir
     - DOMAIN-SUFFIX,iranianboobs.com
     - DOMAIN-SUFFIX,iranlms.ir
     - DOMAIN-SUFFIX,iransextv.com
@@ -15188,6 +15191,7 @@ payload:
     - DOMAIN-SUFFIX,iridiumbrowser.de
     - DOMAIN-SUFFIX,tellmewhygame.com
     - DOMAIN-SUFFIX,tellme.pw
+    - DOMAIN-SUFFIX,irna.ir
     - DOMAIN-SUFFIX,ironna.jp
     - DOMAIN-SUFFIX,ironpython.net
     - DOMAIN-SUFFIX,ironsocket.com
@@ -15856,11 +15860,11 @@ payload:
     - DOMAIN-SUFFIX,tanflix.com
     - DOMAIN-SUFFIX,tandfonline.com
     - DOMAIN-SUFFIX,tandberg.com
-    - DOMAIN-SUFFIX,jwmusic.org
-    - DOMAIN-SUFFIX,jwpcdn.com
-    - DOMAIN-SUFFIX,monsterbeatsbydreshop.com
+    - DOMAIN-SUFFIX,trannygem.com
     - DOMAIN-SUFFIX,12vpn.net
-    - DOMAIN-SUFFIX,facebookmail.tv
+    - DOMAIN-SUFFIX,gvt3.com
+    - DOMAIN-SUFFIX,jwplayer.com
+    - DOMAIN-SUFFIX,jwpltx.com
     - DOMAIN-SUFFIX,jwpsrv.com
     - DOMAIN-SUFFIX,jwt.ms
     - DOMAIN-SUFFIX,jyxf.net
@@ -17146,7 +17150,7 @@ payload:
     - DOMAIN-SUFFIX,macbookair.es
     - DOMAIN-SUFFIX,macbookair.hk
     - DOMAIN-SUFFIX,macbookair.jp
-    - DOMAIN-SUFFIX,macbookair.kr
+    - DOMAIN-SUFFIX,jwpcdn.com
     - DOMAIN-SUFFIX,macbookair.net
     - DOMAIN-SUFFIX,macbookpro.co
     - DOMAIN-SUFFIX,macbookpro.com
@@ -18194,7 +18198,7 @@ payload:
     - DOMAIN-SUFFIX,10beasts.net
     - DOMAIN-SUFFIX,socrec.org
     - DOMAIN-SUFFIX,sockslist.net
-    - DOMAIN-SUFFIX,jwplayer.com
+    - DOMAIN-SUFFIX,sockscap64.com
     - DOMAIN-SUFFIX,socks-proxy.net
     - DOMAIN-SUFFIX,sociolotron.com
     - DOMAIN-SUFFIX,socialmediagirls.com
@@ -18600,7 +18604,7 @@ payload:
     - DOMAIN-SUFFIX,monsterbeatsbydrefactory.com
     - DOMAIN-SUFFIX,monsterbeatsbydrenew.com
     - DOMAIN-SUFFIX,monsterbeatsbydres.com
-    - DOMAIN-SUFFIX,jwplatform.com
+    - DOMAIN-SUFFIX,monsterbeatsbydreshop.com
     - DOMAIN-SUFFIX,monsterbeatscasques.com
     - DOMAIN-SUFFIX,monsterbeatscommunity.com
     - DOMAIN-SUFFIX,monsterbeatsdrdrecheap.com
@@ -22333,6 +22337,7 @@ payload:
     - DOMAIN-SUFFIX,presentation.new
     - DOMAIN-SUFFIX,presentationzen.com
     - DOMAIN-SUFFIX,riseup.net
+    - DOMAIN-SUFFIX,president.ir
     - DOMAIN-SUFFIX,presidentlee.tw
     - DOMAIN-SUFFIX,press.vin
     - DOMAIN-SUFFIX,prestige-av.com

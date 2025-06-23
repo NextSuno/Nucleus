@@ -3,9 +3,9 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash
-# UPDATED: 2025-06-22 21:52:48
-# DOMAIN-SUFFIX: 5860
-# TOTAL: 5860
+# UPDATED: 2025-06-23 11:25:49
+# DOMAIN-SUFFIX: 5865
+# TOTAL: 5865
 
 payload:
     - +.000webhost.com
@@ -362,6 +362,7 @@ payload:
     - +.artofpeacefoundation.org
     - +.artstation.com
     - +.artsy.net
+    - +.arvanstorage.ir
     - +.asacp.org
     - +.asdfg.jp
     - +.asg.to
@@ -2271,6 +2272,7 @@ payload:
     - +.gotquestions.org
     - +.gotrusted.com
     - +.gotw.ca
+    - +.gov.ir
     - +.gov.taipei
     - +.gov.tw
     - +.gr8domain.biz
@@ -2710,7 +2712,9 @@ payload:
     - +.iptv.com.tw
     - +.iptvbin.com
     - +.ipvanish.com
+    - +.irangov.ir
     - +.iredmail.org
+    - +.irna.ir
     - +.ironpython.net
     - +.ironsocket.com
     - +.is-a-hunter.com
@@ -3945,6 +3949,7 @@ payload:
     - +.premproxy.com
     - +.presentation.new
     - +.presentationzen.com
+    - +.president.ir
     - +.presidentlee.tw
     - +.prestige-av.com
     - +.primevideo.com

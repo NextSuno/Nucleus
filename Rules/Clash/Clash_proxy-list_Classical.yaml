@@ -3,11 +3,11 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash
-# UPDATED: 2025-06-22 21:50:02
+# UPDATED: 2025-06-23 11:16:07
 # DOMAIN: 567
-# DOMAIN-SUFFIX: 30564
+# DOMAIN-SUFFIX: 30569
 # DOMAIN-REGEX: 148
-# TOTAL: 31279
+# TOTAL: 31284
 
 payload:
     - DOMAIN-SUFFIX,000webhost.com
@@ -2360,6 +2360,7 @@ payload:
     - DOMAIN-SUFFIX,artsy.net
     - DOMAIN-SUFFIX,aru.ac.uk
     - DOMAIN-SUFFIX,arupoc.ac.uk
+    - DOMAIN-SUFFIX,arvanstorage.ir
     - DOMAIN-SUFFIX,arxiv.org
     - DOMAIN-SUFFIX,arzon.jp
     - DOMAIN-SUFFIX,as-hp.ca
@@ -11932,6 +11933,7 @@ payload:
     - DOMAIN-SUFFIX,gotrusted.com
     - DOMAIN-SUFFIX,gotw.ca
     - DOMAIN-SUFFIX,gouri.xyz
+    - DOMAIN-SUFFIX,gov.ir
     - DOMAIN-SUFFIX,gov.taipei
     - DOMAIN-SUFFIX,gov.tw
     - DOMAIN-SUFFIX,governmentengineer.com
@@ -14647,6 +14649,7 @@ payload:
     - DOMAIN-SUFFIX,iqq2.cc
     - DOMAIN-SUFFIX,iqq3.cc
     - DOMAIN-SUFFIX,iqqtv.net
+    - DOMAIN-SUFFIX,irangov.ir
     - DOMAIN-SUFFIX,iranianboobs.com
     - DOMAIN-SUFFIX,iranlms.ir
     - DOMAIN-SUFFIX,iransextv.com
@@ -14659,6 +14662,7 @@ payload:
     - DOMAIN-SUFFIX,iridiumbrowser.de
     - DOMAIN-SUFFIX,iris.ac.uk
     - DOMAIN-SUFFIX,iriss.ac.uk
+    - DOMAIN-SUFFIX,irna.ir
     - DOMAIN-SUFFIX,ironna.jp
     - DOMAIN-SUFFIX,ironpython.net
     - DOMAIN-SUFFIX,ironsocket.com
@@ -21822,6 +21826,7 @@ payload:
     - DOMAIN-SUFFIX,presentation.new
     - DOMAIN-SUFFIX,presentationzen.com
     - DOMAIN-SUFFIX,presidencylondoncollege.ac.uk
+    - DOMAIN-SUFFIX,president.ir
     - DOMAIN-SUFFIX,presidentlee.tw
     - DOMAIN-SUFFIX,press.vin
     - DOMAIN-SUFFIX,prestige-av.com

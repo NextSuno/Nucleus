@@ -3,11 +3,11 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash
-# UPDATED: 2025-06-22 21:52:55
+# UPDATED: 2025-06-23 11:25:51
 # DOMAIN: 567
-# DOMAIN-SUFFIX: 30564
+# DOMAIN-SUFFIX: 30569
 # DOMAIN-REGEX: 148
-# TOTAL: 31279
+# TOTAL: 31284
 
 payload:
     - +.000webhost.com
@@ -2360,6 +2360,7 @@ payload:
     - +.artsy.net
     - +.aru.ac.uk
     - +.arupoc.ac.uk
+    - +.arvanstorage.ir
     - +.arxiv.org
     - +.arzon.jp
     - +.as-hp.ca
@@ -11932,6 +11933,7 @@ payload:
     - +.gotrusted.com
     - +.gotw.ca
     - +.gouri.xyz
+    - +.gov.ir
     - +.gov.taipei
     - +.gov.tw
     - +.governmentengineer.com
@@ -14647,6 +14649,7 @@ payload:
     - +.iqq2.cc
     - +.iqq3.cc
     - +.iqqtv.net
+    - +.irangov.ir
     - +.iranianboobs.com
     - +.iranlms.ir
     - +.iransextv.com
@@ -14659,6 +14662,7 @@ payload:
     - +.iridiumbrowser.de
     - +.iris.ac.uk
     - +.iriss.ac.uk
+    - +.irna.ir
     - +.ironna.jp
     - +.ironpython.net
     - +.ironsocket.com
@@ -21822,6 +21826,7 @@ payload:
     - +.presentation.new
     - +.presentationzen.com
     - +.presidencylondoncollege.ac.uk
+    - +.president.ir
     - +.presidentlee.tw
     - +.press.vin
     - +.prestige-av.com
