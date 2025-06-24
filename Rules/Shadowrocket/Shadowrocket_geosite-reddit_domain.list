@@ -1,0 +1,21 @@
+# SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/reddit.yaml
+# NAME: geosite-reddit
+# AUTHOR: https://github.com/NextSuno
+# TG_CHANNEL: https://t.me/NextCCB
+# DESC: 适用于 Shadowrocket 中的 DOMAIN-SET 类型
+# UPDATED: 2025-06-24 20:05:11
+# DOMAIN-SUFFIX: 12
+# TOTAL: 12
+
+.redd.it
+.reddit.com
+.redditblog.com
+.reddithelp.com
+.redditinc.com
+.redditmail.com
+.redditmedia.com
+.redditspace.com
+.redditstatic.com
+.redditstatus.com
+.reddit.app.link
+.reddit.map.fastly.net

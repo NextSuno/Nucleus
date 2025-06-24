@@ -1,0 +1,24 @@
+# SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/onedrive.yaml
+# NAME: geosite-onedrive
+# AUTHOR: https://github.com/NextSuno
+# TG_CHANNEL: https://t.me/NextCCB
+# DESC: 适用于 Loon 中的 Domain 类型
+# UPDATED: 2025-06-24 20:16:12
+# DOMAIN-SUFFIX: 15
+# TOTAL: 15
+
+onedrive
+onedriveupdater
+.sharepoint.com
+.onedrive.com
+.1drv.com
+.sharepointonline.com
+.livefilestore.com
+.sharepoint.cn
+.onedrive.live.com
+.photos.live.com
+.spoprod-a.akamaihd.net
+.storage.live.com
+.storage.msn.com
+.oneclient.sfx.ms
+.skydrive.wns.windows.com

@@ -2,74 +2,74 @@
 # NAME: geosite-category-ai-chat-!cn
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
-# DESC: 适用于 Clash
-# UPDATED: 2025-06-23 11:24:47
+# DESC: 适用于 Clash 中的 Domain 类型
+# UPDATED: 2025-06-24 17:19:34
 # DOMAIN: 13
 # DOMAIN-SUFFIX: 52
 # TOTAL: 65
 
 payload:
-    - +.pplx-res.cloudinary.com
     - +.servd-anthropic-website.b-cdn.net
     - +.ai.google.dev
     - +.alkalicore-pa.clients6.google.com
     - +.alkalimakersuite-pa.clients6.google.com
     - +.webchannel-alkalimakersuite-pa.clients6.google.com
+    - +.pplx-res.cloudinary.com
     - +.openaiapi-site.azureedge.net
     - +.openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
     - +.openaicomproductionae4b.blob.core.windows.net
     - +.production-openaicom-storage.azureedge.net
-    - +.deepmind.google
+    - +.oaiusercontent.com
     - +.chutes.ai
-    - +.jasper.ai
-    - +.coderabbit.ai
-    - +.gemini.google
+    - +.clipdrop.co
+    - +.cursorapi.com
+    - +.cursor.sh
+    - +.dify.ai
+    - +.cursor-cdn.com
     - +.meta.ai
     - +.mistral.ai
     - +.openart.ai
     - +.openrouter.ai
-    - +.grok.com
-    - +.x.ai
-    - +.groq.com
-    - +.hf.co
-    - +.huggingface.co
-    - +.poe.com
-    - +.poecdn.net
-    - +.perplexity.ai
-    - +.pplx.ai
-    - +.cursor-cdn.com
-    - +.cursor.com
-    - +.cursor.sh
-    - +.cursorapi.com
     - +.anthropic.com
     - +.claude.ai
     - +.claudeusercontent.com
-    - +.dify.ai
-    - +.clipdrop.co
+    - +.gemini.google
+    - +.deepmind.google
     - +.jules.google
     - +.deepmind.com
     - +.notebooklm.google
     - +.generativeai.google
-    - +.chatgpt.com
-    - +.chat.com
+    - +.x.ai
+    - +.grok.com
     - +.sora.com
     - +.openai.com
-    - +.oaiusercontent.com
+    - +.cursor.com
+    - +.coderabbit.ai
+    - +.jasper.ai
     - +.oaistatic.com
-    - +.aistudio.google.com
-    - +.jules.google.com
-    - +.notebooklm.google.com
-    - +.geller-pa.googleapis.com
-    - +.bard.google.com
-    - +.gemini.google.com
-    - +.proactivebackend-pa.googleapis.com
-    - +.makersuite.google.com
-    - +.generativelanguage.googleapis.com
+    - +.chat.com
+    - +.perplexity.ai
+    - +.pplx.ai
+    - +.poe.com
+    - +.poecdn.net
+    - +.groq.com
+    - +.hf.co
+    - +.huggingface.co
+    - +.chatgpt.com
     - +.chatgpt.livekit.cloud
-    - +.host.livekit.cloud
+    - +.generativelanguage.googleapis.com
+    - +.notebooklm.google.com
     - +.turn.livekit.cloud
-    - +.coderabbit.gallery.vsassets.io
+    - +.bard.google.com
+    - +.jules.google.com
+    - +.geller-pa.googleapis.com
+    - +.proactivebackend-pa.googleapis.com
+    - +.host.livekit.cloud
+    - +.aistudio.google.com
+    - +.makersuite.google.com
+    - +.gemini.google.com
     - +.gateway.ai.cloudflare.com
+    - +.coderabbit.gallery.vsassets.io
     - +.openai.com.cdn.cloudflare.net
     - +.o33249.ingest.sentry.io
     - +.openaicom.imgix.net

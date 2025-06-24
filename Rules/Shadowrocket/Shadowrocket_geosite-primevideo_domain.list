@@ -1,0 +1,21 @@
+# SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/primevideo.yaml
+# NAME: geosite-primevideo
+# AUTHOR: https://github.com/NextSuno
+# TG_CHANNEL: https://t.me/NextCCB
+# DESC: 适用于 Shadowrocket 中的 DOMAIN-SET 类型
+# UPDATED: 2025-06-24 20:04:49
+# DOMAIN-SUFFIX: 12
+# TOTAL: 12
+
+.aiv-cdn.net
+.amazonprimevideos.com
+.amazonvideo.cc
+.amazonvideo.com
+.prime-video.com
+.primevideo.cc
+.primevideo.com
+.primevideo.info
+.primevideo.org
+.primevideo.tv
+.amazonprimevideo.cn
+.amazonprimevideo.com.cn

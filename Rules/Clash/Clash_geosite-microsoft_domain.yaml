@@ -2,8 +2,8 @@
 # NAME: geosite-microsoft
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
-# DESC: 适用于 Clash
-# UPDATED: 2025-06-23 11:25:19
+# DESC: 适用于 Clash 中的 Domain 类型
+# UPDATED: 2025-06-24 17:20:59
 # DOMAIN: 72
 # DOMAIN-SUFFIX: 613
 # TOTAL: 685
@@ -16,10 +16,6 @@ payload:
     - +.statics-marketingsites-eas-ms-com.akamaized.net
     - +.statics-marketingsites-eus-ms-com.akamaized.net
     - +.statics-marketingsites-wcus-ms-com.akamaized.net
-    - +.crl.microsoft.com
-    - +.mscrl.microsoft.com
-    - +.ocsp.microsoft.com
-    - +.oneocsp.microsoft.com
     - +.flightsimulator.azureedge.net
     - +.prodforza.blob.core.windows.net
     - +.azure.microsoft.com
@@ -41,6 +37,10 @@ payload:
     - +.vscode.blob.core.windows.net
     - +.vscode.search.windows.net
     - +.vsmarketplacebadge.apphb.com
+    - +.crl.microsoft.com
+    - +.mscrl.microsoft.com
+    - +.ocsp.microsoft.com
+    - +.oneocsp.microsoft.com
     - microsoft
     - hotmail
     - office
@@ -51,13 +51,13 @@ payload:
     - xbox
     - onedriveupdater
     - onedrive
-    - +.winhec.com
-    - +.msgamestudios.com
+    - +.windowssearch.com
+    - +.msftnet.org
     - +.microsoft.com
     - +.microsoft.cz
     - +.microsoft.de
     - +.microsoft.dk
-    - +.xamarin.com
+    - +.start.com
     - +.microsoft.es
     - +.microsoft.eu
     - +.microsoft.fi
@@ -145,6 +145,7 @@ payload:
     - +.l-msedge.net
     - +.latampartneruniversity.com
     - +.live.com
+    - +.microsoftstart.com
     - +.live.eu
     - +.live.net
     - +.livingyourambition.com
@@ -182,6 +183,7 @@ payload:
     - +.microsoftready.com
     - +.microsoftsiteselection.com
     - +.microsoftstore.com
+    - +.msnkids.com
     - +.microsoftstream.com
     - +.microsoftteams.com
     - +.microsofttradein.com
@@ -204,9 +206,9 @@ payload:
     - +.msftconnecttest.com
     - +.msfteducation.ca
     - +.msftncsi.com
-    - +.msftnet.org
+    - +.microsoft.cat
     - +.msgamesresearch.com
-    - +.microsoftnews.com
+    - +.msgamestudios.com
     - +.mshome.net
     - +.msidentity.com
     - +.msocdn.com
@@ -281,50 +283,30 @@ payload:
     - +.windowsmarketplace.com
     - +.windowsphone-int.com
     - +.windowsphone.com
-    - +.windowssearch.com
-    - +.windowsupdate.com
     - +.microsoft.ch
+    - +.windowsupdate.com
+    - +.winhec.com
     - +.winhec.net
     - +.yammer.com
-    - +.msocsp.com
-    - +.microsoftnews.cc
-    - +.vscode-unpkg.net
+    - +.msnewskids.org
     - +.microsoft.ee
     - +.microsoft.cl
-    - +.microsoftnews.org
-    - +.microsoftnewsforkids.com
-    - +.microsoftnewsforkids.net
-    - +.microsoftnewsforkids.org
-    - +.microsoftnewskids.com
-    - +.microsoftnewskids.net
-    - +.microsoftnewskids.org
-    - +.msn.com
-    - +.msnewskids.com
-    - +.msnewskids.net
-    - +.msnewskids.org
-    - +.msnkids.com
-    - +.microsoftstart.com
-    - +.start.com
-    - +.microsoft.cat
-    - +.microsoft.ca
-    - +.microsoftnews.net
+    - +.renovacionxboxlive.com
     - +.onedrive.com
     - +.1drv.com
     - +.livefilestore.com
     - +.sharepoint.cn
-    - +.vscode-cdn.net
-    - +.vscode.dev
-    - +.vsassets.io
-    - +.vfsforgit.org
-    - +.vfsforgit.com
-    - +.visualstudio.net
-    - +.visualstudio.eu
-    - +.visualstudio.co
-    - +.visualstudio.com
+    - +.msnewskids.net
+    - +.msnewskids.com
+    - +.msn.com
+    - +.microsoftnewskids.org
+    - +.microsoftnewskids.net
+    - +.microsoftnewskids.com
+    - +.microsoftnewsforkids.org
     - +.microsoft.by
     - +.gamepass.com
     - +.orithegame.com
-    - +.renovacionxboxlive.com
+    - +.microsoft.ca
     - +.tellmewhygame.com
     - +.xbox.co
     - +.xbox.com
@@ -345,12 +327,6 @@ payload:
     - +.xboxservices.com
     - +.xboxstudios.com
     - +.xbx.lv
-    - +.callersbane.com
-    - +.minecraft-services.net
-    - +.minecraft.net
-    - +.minecraftservices.com
-    - +.minecraftshop.com
-    - +.mojang.com
     - +.asobostudio.com
     - +.flightsimulator.com
     - +.beth.games
@@ -363,6 +339,12 @@ payload:
     - +.forzamotorsport.net
     - +.forzaracingchampionship.com
     - +.forzarc.com
+    - +.callersbane.com
+    - +.minecraft-services.net
+    - +.minecraft.net
+    - +.minecraftservices.com
+    - +.minecraftshop.com
+    - +.mojang.com
     - +.microsoft.be
     - +.aadrm.com
     - +.azure-devices-int.net
@@ -447,7 +429,7 @@ payload:
     - +.office365love.com
     - +.office365tw.com
     - +.renovacionoffice.com
-    - +.visualstudio-staging.com
+    - +.microsoftnewsforkids.net
     - +.githubhackathon.com
     - +.ghcr.io
     - +.githubnext.com
@@ -473,7 +455,7 @@ payload:
     - +.atom.io
     - +.npm.community
     - +.npmjs.com
-    - +.uwpcommunitytoolkit.com
+    - +.microsoftnewsforkids.com
     - +.adaptivecards.io
     - +.api-extractor.com
     - +.apisof.net
@@ -511,12 +493,30 @@ payload:
     - +.sankie.net
     - +.sqlserveronlinux.com
     - +.timelinestoryteller.com
+    - +.uwpcommunitytoolkit.com
+    - +.visualstudio-staging.com
+    - +.visualstudio.com
+    - +.visualstudio.co
+    - +.visualstudio.eu
+    - +.visualstudio.net
+    - +.vfsforgit.com
+    - +.vfsforgit.org
+    - +.vsassets.io
+    - +.vscode.dev
+    - +.vscode-cdn.net
+    - +.vscode-unpkg.net
+    - +.xamarin.com
+    - +.microsoftnews.org
+    - +.msocsp.com
+    - +.microsoftnews.cc
+    - +.microsoftnews.com
+    - +.microsoftnews.net
     - +.spoprod-a.akamaihd.net
-    - +.visualstudio.co.uk
-    - +.microsoftstore.com.hk
-    - +.skype-edf.akadns.net
     - +.skypedata.akadns.net
+    - +.visualstudio.co.uk
     - +.live.com.au
+    - +.skype-edf.akadns.net
+    - +.microsoftstore.com.hk
     - +.clarity.ms
     - +.dcg.microsoft.com
     - +.dynamics.cn
@@ -593,9 +593,6 @@ payload:
     - +.wscont1.apps.microsoft.com
     - +.wscont2.apps.microsoft.com
     - +.xb.dlservice.microsoft.com
-    - +.www.microsoft.com
-    - +.microsoftnews.cn
-    - +.msn.cn
     - +.xboxlive.cn
     - +.21vbc.com
     - +.21vbluecloud.com
@@ -694,3 +691,6 @@ payload:
     - +.microsoftreactor.cn
     - +.microsoftreactor.com.cn
     - +.reactorms.com.cn
+    - +.www.microsoft.com
+    - +.microsoftnews.cn
+    - +.msn.cn

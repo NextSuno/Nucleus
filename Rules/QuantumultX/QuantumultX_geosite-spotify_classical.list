@@ -1,0 +1,32 @@
+# SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/spotify.yaml
+# NAME: geosite-spotify
+# AUTHOR: https://github.com/NextSuno
+# TG_CHANNEL: https://t.me/NextCCB
+# DESC: 适用于 Quantumult X 中的 Classical 类型
+# UPDATED: 2025-06-24 19:44:26
+# HOST: 8
+# HOST-SUFFIX: 14
+# TOTAL: 22
+
+HOST,audio-ak-spotify-com.akamaized.net,PROXY
+HOST,audio4-ak-spotify-com.akamaized.net,PROXY
+HOST,cdn-spotify-experiments.conductrics.com,PROXY
+HOST,heads-ak-spotify-com.akamaized.net,PROXY
+HOST,heads4-ak-spotify-com.akamaized.net,PROXY
+HOST,spotify.com.edgesuite.net,PROXY
+HOST,spotify.map.fastly.net,PROXY
+HOST,spotify.map.fastlylb.net,PROXY
+HOST-SUFFIX,byspotify.com,PROXY
+HOST-SUFFIX,pscdn.co,PROXY
+HOST-SUFFIX,scdn.co,PROXY
+HOST-SUFFIX,spoti.fi,PROXY
+HOST-SUFFIX,spotify-everywhere.com,PROXY
+HOST-SUFFIX,spotify.com,PROXY
+HOST-SUFFIX,spotify.design,PROXY
+HOST-SUFFIX,spotifycdn.com,PROXY
+HOST-SUFFIX,spotifycdn.net,PROXY
+HOST-SUFFIX,spotifycharts.com,PROXY
+HOST-SUFFIX,spotifycodes.com,PROXY
+HOST-SUFFIX,spotifyforbrands.com,PROXY
+HOST-SUFFIX,spotifyjobs.com,PROXY
+HOST-SUFFIX,spotify.link,PROXY

@@ -1,0 +1,34 @@
+# SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/netflix.yaml
+# NAME: geosite-netflix
+# AUTHOR: https://github.com/NextSuno
+# TG_CHANNEL: https://t.me/NextCCB
+# DESC: 适用于 Quantumult X 中的 Classical 类型
+# UPDATED: 2025-06-24 19:44:10
+# HOST: 1
+# HOST-SUFFIX: 23
+# TOTAL: 24
+
+HOST,netflix.com.edgesuite.net,PROXY
+HOST-SUFFIX,fast.com,PROXY
+HOST-SUFFIX,netflix.ca,PROXY
+HOST-SUFFIX,netflix.com,PROXY
+HOST-SUFFIX,netflix.net,PROXY
+HOST-SUFFIX,netflixinvestor.com,PROXY
+HOST-SUFFIX,netflixtechblog.com,PROXY
+HOST-SUFFIX,nflxext.com,PROXY
+HOST-SUFFIX,nflximg.com,PROXY
+HOST-SUFFIX,nflximg.net,PROXY
+HOST-SUFFIX,nflxsearch.net,PROXY
+HOST-SUFFIX,nflxso.net,PROXY
+HOST-SUFFIX,nflxvideo.net,PROXY
+HOST-SUFFIX,netflixdnstest0.com,PROXY
+HOST-SUFFIX,netflixdnstest1.com,PROXY
+HOST-SUFFIX,netflixdnstest2.com,PROXY
+HOST-SUFFIX,netflixdnstest3.com,PROXY
+HOST-SUFFIX,netflixdnstest4.com,PROXY
+HOST-SUFFIX,netflixdnstest5.com,PROXY
+HOST-SUFFIX,netflixdnstest6.com,PROXY
+HOST-SUFFIX,netflixdnstest7.com,PROXY
+HOST-SUFFIX,netflixdnstest8.com,PROXY
+HOST-SUFFIX,netflixdnstest9.com,PROXY
+HOST-SUFFIX,netflixdnstest10.com,PROXY

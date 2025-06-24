@@ -1,0 +1,34 @@
+# SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/hbo.yaml
+# NAME: geosite-hbo
+# AUTHOR: https://github.com/NextSuno
+# TG_CHANNEL: https://t.me/NextCCB
+# DESC: 适用于 Surge 中的 DOMAIN-SET 类型
+# UPDATED: 2025-06-24 20:10:01
+# DOMAIN-SUFFIX: 25
+# TOTAL: 25
+
+.max.com
+.hbo.com
+.hbogoasia.ph
+.forthethrone.com
+.hbogoasia.sg
+.hboasia.com
+.maxgo.com
+.hbogoasia.tw
+.hbogo.eu
+.hbogoasia.com
+.hbogoasia.hk
+.hbogoasia.id
+.discomax.com
+.cinemax.com
+.hbogo.com
+.hbomax.com
+.hbomaxcdn.com
+.hbonow.com
+.brightline.tv
+.hbogo.co.th
+.hbomax-images.warnermediacdn.com
+.hbo.com.edgesuite.net
+.hbo.map.fastly.net
+.hbomaxdash.s.llnwi.net
+.hbo.com.c.footprint.net
