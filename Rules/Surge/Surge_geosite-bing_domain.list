@@ -3,13 +3,13 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Surge 中的 DOMAIN-SET 类型
-# UPDATED: 2025-06-24 20:10:22
+# UPDATED: 2025-06-25 18:15:48
 # DOMAIN: 3
 # DOMAIN-SUFFIX: 35
 # TOTAL: 38
 
-.location.microsoft.com
-bing
+location.microsoft.com
+.bing
 .dictate.ms
 .sprinklesapp.com
 .bing.com
@@ -44,5 +44,5 @@ bing
 .ditu.live.com
 .r.bing.com
 .th.bing.com
-.bj1.api.bing.com
-.emoi-cncdn.bing.com
+bj1.api.bing.com
+emoi-cncdn.bing.com

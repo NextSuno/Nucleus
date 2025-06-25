@@ -3,7 +3,7 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Surge 中的 DOMAIN-SET 类型
-# UPDATED: 2025-06-24 20:10:05
+# UPDATED: 2025-06-25 18:15:33
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 20
 # TOTAL: 21
@@ -28,4 +28,4 @@
 .ttlivecdn.com
 .ttoverseaus.net
 .ttwstatic.com
-.p16-tiktokcdn-com.akamaized.net
+p16-tiktokcdn-com.akamaized.net

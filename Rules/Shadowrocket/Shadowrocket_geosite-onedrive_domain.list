@@ -3,12 +3,12 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Shadowrocket 中的 DOMAIN-SET 类型
-# UPDATED: 2025-06-24 20:05:13
+# UPDATED: 2025-06-25 18:13:52
 # DOMAIN-SUFFIX: 15
 # TOTAL: 15
 
-onedrive
-onedriveupdater
+.onedrive
+.onedriveupdater
 .sharepoint.com
 .onedrive.com
 .1drv.com

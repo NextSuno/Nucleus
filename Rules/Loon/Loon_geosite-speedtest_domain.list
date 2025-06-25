@@ -3,12 +3,12 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Loon 中的 Domain 类型
-# UPDATED: 2025-06-24 20:15:46
+# UPDATED: 2025-06-25 18:06:40
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 11
 # TOTAL: 12
 
-.www.speedtest.net.cdn.cloudflare.net
+www.speedtest.net.cdn.cloudflare.net
 .cdnst.net
 .cellmaps.com
 .ekahau.cloud

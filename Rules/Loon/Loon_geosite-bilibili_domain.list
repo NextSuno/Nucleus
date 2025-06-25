@@ -3,12 +3,12 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Loon 中的 Domain 类型
-# UPDATED: 2025-06-24 20:15:44
+# UPDATED: 2025-06-25 18:06:38
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 48
 # TOTAL: 50
 
-.manga.bilibili.com
+manga.bilibili.com
 .bilicomic.com
 .bilicomics.com
 .acg.tv
@@ -51,7 +51,7 @@
 .bilibili.tv
 .biliintl.com
 .dreamcast.hk
-.upos-hz-mirrorakam.akamaized.net
+upos-hz-mirrorakam.akamaized.net
 .bilibiligame.cn
 .bilibiligame.co
 .bilibiligame.net

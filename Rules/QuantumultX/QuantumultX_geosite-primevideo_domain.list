@@ -1,0 +1,21 @@
+# SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/primevideo.yaml
+# NAME: geosite-primevideo
+# AUTHOR: https://github.com/NextSuno
+# TG_CHANNEL: https://t.me/NextCCB
+# DESC: 适用于 Quantumult X 中的 Domain 类型
+# UPDATED: 2025-06-25 18:09:50
+# HOST-SUFFIX: 12
+# TOTAL: 12
+
+.aiv-cdn.net,PROXY
+.amazonprimevideos.com,PROXY
+.amazonvideo.cc,PROXY
+.amazonvideo.com,PROXY
+.prime-video.com,PROXY
+.primevideo.cc,PROXY
+.primevideo.com,PROXY
+.primevideo.info,PROXY
+.primevideo.org,PROXY
+.primevideo.tv,PROXY
+.amazonprimevideo.cn,PROXY
+.amazonprimevideo.com.cn,PROXY

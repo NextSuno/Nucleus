@@ -1,0 +1,31 @@
+# SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tiktok.yaml
+# NAME: geosite-tiktok
+# AUTHOR: https://github.com/NextSuno
+# TG_CHANNEL: https://t.me/NextCCB
+# DESC: 适用于 Quantumult X 中的 Domain 类型
+# UPDATED: 2025-06-25 18:10:04
+# HOST: 1
+# HOST-SUFFIX: 20
+# TOTAL: 21
+
+.byteoversea.com,PROXY
+.muscdn.com,PROXY
+.musical.ly,PROXY
+.tik-tokapi.com,PROXY
+.tiktok.com,PROXY
+.tiktokcdn-eu.com,PROXY
+.tiktokcdn-us.com,PROXY
+.tiktokcdn.com,PROXY
+.tiktokd.net,PROXY
+.tiktokd.org,PROXY
+.tiktokeu-cdn.com,PROXY
+.tiktokrow-cdn.com,PROXY
+.tiktokv.com,PROXY
+.tiktokv.eu,PROXY
+.tiktokv.us,PROXY
+.tiktokw.eu,PROXY
+.tiktokw.us,PROXY
+.ttlivecdn.com,PROXY
+.ttoverseaus.net,PROXY
+.ttwstatic.com,PROXY
+p16-tiktokcdn-com.akamaized.net,PROXY

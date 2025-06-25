@@ -3,30 +3,30 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Shadowrocket 中的 DOMAIN-SET 类型
-# UPDATED: 2025-06-24 20:04:17
+# UPDATED: 2025-06-25 18:13:03
 # DOMAIN: 11
 # DOMAIN-SUFFIX: 120
 # TOTAL: 131
 
-.instant.arubanetworks.com
-.setmeup.arubanetworks.com
-.asusrouter.com
-.router.asus.com
-.www.asusrouter.com
-.oasisauth.h3c.com
-.routerlogin.com
-.www.routerlogin.com
-.tplogin.cn
-.miwifi.com
-.www.miwifi.com
-internal
-localdomain
-example
-invalid
-localhost
-test
-local
-lan
+instant.arubanetworks.com
+setmeup.arubanetworks.com
+asusrouter.com
+router.asus.com
+www.asusrouter.com
+oasisauth.h3c.com
+routerlogin.com
+www.routerlogin.com
+tplogin.cn
+miwifi.com
+www.miwifi.com
+.internal
+.localdomain
+.example
+.invalid
+.localhost
+.test
+.local
+.lan
 .zte.home
 .my.router
 .ts.net

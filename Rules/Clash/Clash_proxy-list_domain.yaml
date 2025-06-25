@@ -3,7 +3,7 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 中的 Domain 类型
-# UPDATED: 2025-06-24 17:22:02
+# UPDATED: 2025-06-25 17:58:32
 # DOMAIN: 567
 # DOMAIN-SUFFIX: 30569
 # DOMAIN-REGEX: 148
@@ -940,7 +940,7 @@ payload:
     - +.adtcc.com
     - +.adtidy.net
     - +.adtidy.org
-    - adult
+    - +.adult
     - +.adult-doujin-free-information-bureau.officialblog.jp
     - +.adult-h.com
     - +.adult-home-videos.com
@@ -1537,7 +1537,7 @@ payload:
     - +.amatporn.com
     - +.amatura.com
     - +.amazingcuckold.com
-    - amazon
+    - +.amazon
     - +.amazon-fashions.com
     - +.amazon-jp-recruiting.com
     - +.amazon-lantern.com
@@ -1692,7 +1692,7 @@ payload:
     - +.ancientcyprus.ac.uk
     - +.ancientwisdoms.ac.uk
     - +.ancsconf.org
-    - and
+    - +.and
     - +.andfaraway.net
     - +.andover.ac.uk
     - +.andovercollege.ac.uk
@@ -1920,7 +1920,7 @@ payload:
     - +.appl.com
     - +.appl4e.com
     - +.appla.com
-    - apple
+    - +.apple
     - +.apple-cloudkit.com
     - +.apple-darwin.com
     - +.apple-darwin.net
@@ -2846,7 +2846,7 @@ payload:
     - +.awflapp.top
     - +.awjq.cc
     - +.awlc.ac.uk
-    - aws
+    - +.aws
     - +.aws-iot-hackathon.com
     - +.aws.com
     - +.awsautopilot.com
@@ -2888,7 +2888,7 @@ payload:
     - +.aziani.com
     - +.azirevpn.com
     - +.aznude.com
-    - azure
+    - +.azure
     - +.azure-devices-int.net
     - +.azure-devices.net
     - +.azure-dns.com
@@ -3129,7 +3129,7 @@ payload:
     - +.bb-chat.tv
     - +.bb33.net
     - +.bbbaihu.vip
-    - bbc
+    - +.bbc
     - +.bbc-anal.com
     - +.bbc-reporting-api.app
     - +.bbc.ac.uk
@@ -3862,7 +3862,7 @@ payload:
     - +.binancezh.pro
     - +.binancezh.sh
     - +.binancezh.top
-    - bing
+    - +.bing
     - +.bing.com
     - +.bing.net
     - +.bing123.com
@@ -4128,7 +4128,7 @@ payload:
     - +.blogtd.org
     - +.blogterest.net
     - +.bloodshed.net
-    - bloomberg
+    - +.bloomberg
     - +.bloomberg.cn
     - +.bloomberg.co.jp
     - +.bloomberg.co.kr
@@ -4214,7 +4214,7 @@ payload:
     - +.bmth-poole-cad.ac.uk
     - +.bmth.ac.uk
     - +.bmva.ac.uk
-    - bmw
+    - +.bmw
     - +.bmw-abudhabi.com
     - +.bmw-adventskalender.com
     - +.bmw-albania.com
@@ -4855,7 +4855,7 @@ payload:
     - +.bridgecollege.ac.uk
     - +.bridgend.ac.uk
     - +.bridgendcollege.ac.uk
-    - bridgestone
+    - +.bridgestone
     - +.bridgestone-asiapacific.com
     - +.bridgestone-bandag.com
     - +.bridgestone-brand.com
@@ -5405,7 +5405,7 @@ payload:
     - +.cannock.ac.uk
     - +.canolfansgiliaucadarn.ac.uk
     - +.canolfanyramgylcheddolcymru.ac.uk
-    - canon
+    - +.canon
     - +.canon-cee.com
     - +.canon-cmos-sensors.com
     - +.canon-cna.com
@@ -5628,7 +5628,7 @@ payload:
     - +.cbm.com.mm
     - +.cbpar.ac.uk
     - +.cbrl.ac.uk
-    - cbs
+    - +.cbs
     - +.cbs.ac.uk
     - +.cbs.com
     - +.cbs.ntu.edu.tw
@@ -5844,7 +5844,7 @@ payload:
     - +.ceredigion.ac.uk
     - +.ceri.ac.uk
     - +.cerlim.ac.uk
-    - cern
+    - +.cern
     - +.cern.ch
     - +.certificat2.com
     - +.certificate-transparency.org
@@ -6157,7 +6157,7 @@ payload:
     - +.christusrex.org
     - +.christymarks.com
     - +.chrlawyers.hk
-    - chrome
+    - +.chrome
     - +.chrome.com
     - +.chromebook.com
     - +.chromecast.com
@@ -6224,7 +6224,7 @@ payload:
     - +.cirre.ac.uk
     - +.cirrus.ac.uk
     - +.cisban.ac.uk
-    - cisco
+    - +.cisco
     - +.cisco-returns.com
     - +.cisco-warrantyfinder.com
     - +.cisco.com
@@ -7363,7 +7363,7 @@ payload:
     - +.dcd.ac.uk
     - +.dcdp.ac.uk
     - +.dcg.ac.uk
-    - dclk
+    - +.dclk
     - +.dcmilitary.com
     - +.dct.ac.uk
     - +.dctbeatsbydre.com
@@ -7453,7 +7453,7 @@ payload:
     - +.delcamusa.com
     - +.delicious.com
     - +.delicious.com.au
-    - dell
+    - +.dell
     - +.dell-brand.com
     - +.dell.com
     - +.dellcdn.com
@@ -10310,7 +10310,7 @@ payload:
     - +.flgjustice.org
     - +.fli8.xyz
     - +.flic.kr
-    - flickr
+    - +.flickr
     - +.flickr.com
     - +.flickr.net
     - +.flickrhivemind.net
@@ -10445,7 +10445,7 @@ payload:
     - +.foundationyear.ac.uk
     - +.fountmedia.io
     - +.fourthinternational.org
-    - fox
+    - +.fox
     - +.fox-corporation.com
     - +.fox-news.com
     - +.fox.com
@@ -11108,7 +11108,7 @@ payload:
     - +.gazotube.com
     - +.gazounabi.com
     - +.gbank.com.mm
-    - gbiz
+    - +.gbiz
     - +.gbmc.ac.uk
     - +.gbmolluscatypes.ac.uk
     - +.gbnews.uk
@@ -11432,7 +11432,7 @@ payload:
     - +.glasgowsciencecentre.ac.uk
     - +.glasgowsequencingsolutions.ac.uk
     - +.glass8.eu
-    - gle
+    - +.gle
     - +.gleline.com
     - +.glen-coll.ac.uk
     - +.glenfife.ac.uk
@@ -11499,7 +11499,7 @@ payload:
     - +.glyndwrlondonschoolofmanagementandscience.ac.uk
     - +.glype.com
     - +.glyphsapp.com
-    - gmail
+    - +.gmail
     - +.gmail.com
     - +.gmc.ac.uk
     - +.gmcg.ac.uk
@@ -11542,7 +11542,7 @@ payload:
     - +.gobuildx.net
     - +.gobuyonlinestore.net
     - +.gockhuatviet.com
-    - godaddy
+    - +.godaddy
     - +.godaddy.com
     - +.godalming.ac.uk
     - +.godfootsteps.org
@@ -11605,7 +11605,7 @@ payload:
     - +.gonike.com
     - +.gonzo-movies.com
     - +.gonzo.com
-    - goo
+    - +.goo
     - +.goo.gl
     - +.goo.ne.jp
     - +.good-gay.com
@@ -11625,11 +11625,11 @@ payload:
     - +.goodtv.com.tw
     - +.goodtv.tv
     - +.goofind.com
-    - goog
+    - +.goog
     - +.googel.com
     - +.googil.com
     - +.googl.com
-    - google
+    - +.google
     - +.google-access.net
     - +.google-analytics-cn.com
     - +.google-analytics.com
@@ -12088,11 +12088,11 @@ payload:
     - +.guardianapps.co.uk
     - +.guardianproject.info
     - +.guardster.com
-    - gucci
+    - +.gucci
     - +.gucci.com
     - +.guccimuseo.com
     - +.guccitimeless.com
-    - guge
+    - +.guge
     - +.guifw.xyz
     - +.guildford.ac.uk
     - +.guildhallschool.ac.uk
@@ -12217,7 +12217,7 @@ payload:
     - +.handjobhub.com
     - +.handjobtube4free.com
     - +.handsworth.ac.uk
-    - hangout
+    - +.hangout
     - +.hanime.me
     - +.hanime.tv
     - +.hanime.xxx
@@ -13035,7 +13035,7 @@ payload:
     - +.hotjav.tv
     - +.hotladsworld.com
     - +.hotladyhere.com
-    - hotmail
+    - +.hotmail
     - +.hotmail.co
     - +.hotmail.com
     - +.hotmail.eu
@@ -13249,7 +13249,7 @@ payload:
     - +.hrw.org
     - +.hrweb.org
     - +.hsad.ac.uk
-    - hsbc
+    - +.hsbc
     - +.hsbc-alternatives.de
     - +.hsbc-transactionservices.de
     - +.hsbc-zertifikate.de
@@ -13566,7 +13566,7 @@ payload:
     - +.ibkr.ie
     - +.ibkrguides.com
     - +.ibllc.com
-    - ibm
+    - +.ibm
     - +.ibm.com
     - +.ibm.eu
     - +.ibm.net
@@ -14015,7 +14015,7 @@ payload:
     - +.imago-images.com
     - +.imaypb.com
     - +.imb.org
-    - imdb
+    - +.imdb
     - +.imdb.com
     - +.imdb.to
     - +.imems.ac.uk
@@ -14240,7 +14240,7 @@ payload:
     - +.intc.com
     - +.integral7.com
     - +.integrativebiology.ac.uk
-    - intel
+    - +.intel
     - +.intel-research.net
     - +.intel-university-collaboration.net
     - +.intel.ac
@@ -14901,7 +14901,7 @@ payload:
     - +.jav789.com
     - +.jav889.xyz
     - +.jav9999.com
-    - java
+    - +.java
     - +.java.com
     - +.java.net
     - +.javakiba.org
@@ -15519,7 +15519,7 @@ payload:
     - +.kimosex.com
     - +.kindgirls.com
     - +.kindindianporn.com
-    - kindle
+    - +.kindle
     - +.kindle.co.jp
     - +.kindle.co.uk
     - +.kindle.com
@@ -17114,7 +17114,7 @@ payload:
     - +.mcaf.ee
     - +.mcb.com.mm
     - +.mcc.ac.uk
-    - mcd
+    - +.mcd
     - +.mcd-holdings.co.jp
     - +.mcd.com
     - +.mcdelivery.co.id
@@ -17127,7 +17127,7 @@ payload:
     - +.mcdelivery.com.tw
     - +.mcdindia.com
     - +.mcdindonesia.com
-    - mcdonalds
+    - +.mcdonalds
     - +.mcdonalds-online.com
     - +.mcdonalds.be
     - +.mcdonalds.ca
@@ -17386,7 +17386,7 @@ payload:
     - +.micron.ac.uk
     - +.micronanoflows.ac.uk
     - +.microsimulation.ac.uk
-    - microsoft
+    - +.microsoft
     - +.microsoft-falcon.io
     - +.microsoft-give.com
     - +.microsoft-int.com
@@ -17600,7 +17600,7 @@ payload:
     - +.mingwatch.com
     - +.minhajcollege.ac.uk
     - +.minhhue.net
-    - mini
+    - +.mini
     - +.mini-abudhabi.com
     - +.mini-antilles.fr
     - +.mini-bahrain.com
@@ -17888,7 +17888,7 @@ payload:
     - +.mist.vip
     - +.mistral.ai
     - +.mistresskym.com
-    - mit
+    - +.mit
     - +.mit.edu
     - +.mit.net
     - +.mitao.bar
@@ -19196,7 +19196,7 @@ payload:
     - +.nextwork.com.tw
     - +.nextwork.hk
     - +.nextwork.tw
-    - nexus
+    - +.nexus
     - +.nexusmods.com
     - +.nf.id.au
     - +.nfacstem.ac.uk
@@ -19258,7 +19258,7 @@ payload:
     - +.nicis.ac.uk
     - +.nickscipio.com
     - +.nicky.xxx
-    - nico
+    - +.nico
     - +.nicodic.jp
     - +.nicolepeters.com
     - +.nicomanga.jp
@@ -19285,7 +19285,7 @@ payload:
     - +.nijinchu.com
     - +.nijioma.blog
     - +.nijiyome.jp
-    - nike
+    - +.nike
     - +.nike-air-max.com
     - +.nike-dunksb.com
     - +.nike-fr.com
@@ -20058,7 +20058,7 @@ payload:
     - +.oerwales.ac.uk
     - +.oex.com
     - +.offerairjordanlebron.com
-    - office
+    - +.office
     - +.office.com
     - +.office.net
     - +.office365.com
@@ -20336,7 +20336,7 @@ payload:
     - +.optimumssl.com
     - +.opus-gaming.com
     - +.opwall.ac.uk
-    - oracle
+    - +.oracle
     - +.oracle.com
     - +.oraclecloud.com
     - +.oraclefoundation.org
@@ -20569,7 +20569,7 @@ payload:
     - +.pals.ac.uk
     - +.paltalk.com
     - +.panamapapers.sueddeutsche.de
-    - panasonic
+    - +.panasonic
     - +.panasonic.com
     - +.panasonic.jp
     - +.pancolle-movie.jp
@@ -21253,7 +21253,7 @@ payload:
     - +.playsexygame.com
     - +.playshow.io
     - +.playshowtv.com
-    - playstation
+    - +.playstation
     - +.playstation.com
     - +.playstation.net
     - +.playvalorant.com
@@ -21386,7 +21386,7 @@ payload:
     - +.porkahd.co
     - +.porkbun.com
     - +.porm.club
-    - porn
+    - +.porn
     - +.porn-bokep.com
     - +.porn-comic.com
     - +.porn-discounts.com
@@ -23101,7 +23101,7 @@ payload:
     - +.samc.ac.uk
     - +.samebags.com
     - +.sams.ac.uk
-    - samsung
+    - +.samsung
     - +.samsung.com
     - +.samsungapps.com
     - +.samsungcloud.com
@@ -23964,7 +23964,7 @@ payload:
     - +.shotwithgeforce.com
     - +.showhaotu.com
     - +.shownote.com
-    - showtime
+    - +.showtime
     - +.showtime.com
     - +.showtime.jp
     - +.showtimeanytime.com
@@ -24146,7 +24146,7 @@ payload:
     - +.skokka.com
     - +.sksarab.top
     - +.skunkgirl.cc
-    - sky
+    - +.sky
     - +.sky.com
     - +.skyassets.com
     - +.skybet.com
@@ -24156,7 +24156,7 @@ payload:
     - +.skyoceanrescue.com
     - +.skyoceanrescue.de
     - +.skyoceanrescue.it
-    - skype
+    - +.skype
     - +.skype.com
     - +.skype.net
     - +.skypeassets.com
@@ -24341,7 +24341,7 @@ payload:
     - +.socsciscotland.ac.uk
     - +.sod.co.jp
     - +.soficdt.ac.uk
-    - softbank
+    - +.softbank
     - +.softbank-ipo.com
     - +.softbank-jp.com
     - +.softbank-robotics.com
@@ -24401,7 +24401,7 @@ payload:
     - +.songjianjun.com
     - +.sonidodelaesperanza.org
     - +.sonorousporn.com
-    - sony
+    - +.sony
     - +.sony-africa.com
     - +.sony-asia.com
     - +.sony-europe.com
@@ -25566,7 +25566,7 @@ payload:
     - +.taradinhos.com
     - +.tardigrade.io
     - +.tarf-lcv.ac.uk
-    - target
+    - +.target
     - +.target.com
     - +.targetedgrad.ac.uk
     - +.targetimg1.com
@@ -25907,7 +25907,7 @@ payload:
     - +.thegly.com
     - +.thegooglestore.com
     - +.thegraduationproject.ac.uk
-    - theguardian
+    - +.theguardian
     - +.theguardian.com
     - +.theguardiandns.com
     - +.thehabibshow.com
@@ -28106,7 +28106,7 @@ payload:
     - +.vokevr.com
     - +.vol.moe
     - +.volstudy.ac.uk
-    - volvo
+    - +.volvo
     - +.volvo-truck.nl
     - +.volvo.ca
     - +.volvo.com
@@ -28418,7 +28418,7 @@ payload:
     - +.wallpapercasa.com
     - +.wallproxy.com
     - +.wallsttv.com
-    - walmart
+    - +.walmart
     - +.walmart-content.com
     - +.walmart.com
     - +.walmart.pharmacy
@@ -28531,8 +28531,8 @@ payload:
     - +.wearehairy.com
     - +.wearn.com
     - +.wearside.ac.uk
-    - weather
-    - weatherchannel
+    - +.weather
+    - +.weatherchannel
     - +.weav.xyz
     - +.web-instagram.net
     - +.web.app
@@ -28863,7 +28863,7 @@ payload:
     - +.wimpmusic.com
     - +.winchester.ac.uk
     - +.wincoll.ac.uk
-    - windows
+    - +.windows
     - +.windows-int.net
     - +.windows.com
     - +.windows.net
@@ -29243,7 +29243,7 @@ payload:
     - +.xbookcn.net
     - +.xbooks.work
     - +.xbooru.com
-    - xbox
+    - +.xbox
     - +.xbox.co
     - +.xbox.com
     - +.xbox.eu
@@ -29411,14 +29411,14 @@ payload:
     - +.xn--9trs65b.com
     - +.xn--av-o44ep1d.com
     - +.xn--cck4d8b3009a.com
-    - xn--cckwcxetd
-    - xn--cg4bki
+    - +.xn--cckwcxetd
+    - +.xn--cg4bki
     - +.xn--colegsirgr-c5a.ac.uk
     - +.xn--czq75pvv1aj5c.org
     - +.xn--d1acpjx3f.xn--p1ai
     - +.xn--d4ty0ojsqzfd.com
     - +.xn--fiqs8sxootzz.xn--hxt814e
-    - xn--flw351e
+    - +.xn--flw351e
     - +.xn--flw351e.com
     - +.xn--ggle-55da.com
     - +.xn--gmq348bujlxrb.com
@@ -29433,7 +29433,7 @@ payload:
     - +.xn--hhr917d3fecva.xyz
     - +.xn--hxtr4rozx.xn--czr694b
     - +.xn--i2ru8q2qg.com
-    - xn--jlq480n2rg
+    - +.xn--jlq480n2rg
     - +.xn--kput3imi374g.xn--hxt814e
     - +.xn--mts47c3w9b1qr.net
     - +.xn--mtswd61ejxq.com
@@ -29443,7 +29443,7 @@ payload:
     - +.xn--p8j9a0d9c9a.xn--q9jyb4c
     - +.xn--pearsonenespaol-brb.com
     - +.xn--q41am8x.com
-    - xn--qcka1pmc
+    - +.xn--qcka1pmc
     - +.xn--qoq462m.com
     - +.xn--r8jwklh769h2mc880dk1o431a.com
     - +.xn--r8jwklh769hk43amcfoyl3z3a.com
@@ -29747,7 +29747,7 @@ payload:
     - +.yadori.club
     - +.yaeby.info
     - +.yaeby.pro
-    - yahoo
+    - +.yahoo
     - +.yahoo-news.com.hk
     - +.yahoo.ae
     - +.yahoo.am
@@ -29912,13 +29912,13 @@ payload:
     - +.yamagatabank.co.jp
     - +.yamaguchibank.co.jp
     - +.yamanashibank.co.jp
-    - yamaxun
+    - +.yamaxun
     - +.yamaxun.com
     - +.yamibo.com
     - +.yammer.com
     - +.yamoon.club
     - +.yande.re
-    - yandex
+    - +.yandex
     - +.yandex-bank.net
     - +.yandex-images.clstorage.net
     - +.yandex.aero
@@ -30148,7 +30148,7 @@ payload:
     - +.youtrack.cloud
     - +.youtrannytube.com
     - +.youtu.be
-    - youtube
+    - +.youtube
     - +.youtube-nocookie.com
     - +.youtube.ae
     - +.youtube.al
@@ -30386,7 +30386,7 @@ payload:
     - +.zaobao.com.sg
     - +.zaobao.sg
     - +.zapper.fi
-    - zappos
+    - +.zappos
     - +.zapto.org
     - +.zatrahal.online
     - +.zattoo.com

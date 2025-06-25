@@ -3,12 +3,12 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Shadowrocket 中的 DOMAIN-SET 类型
-# UPDATED: 2025-06-24 20:05:12
+# UPDATED: 2025-06-25 18:13:51
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 26
 # TOTAL: 27
 
-.github-cloud.s3.amazonaws.com
+github-cloud.s3.amazonaws.com
 .githubhackathon.com
 .ghcr.io
 .githubnext.com

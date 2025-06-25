@@ -3,14 +3,14 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 中的 Domain 类型
-# UPDATED: 2025-06-24 17:20:35
+# UPDATED: 2025-06-25 17:58:01
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 26
 # TOTAL: 28
 
 payload:
-    - +.discord-attachments-uploads-prd.storage.googleapis.com
-    - +.hammerandchisel.ssl.zendesk.com
+    - discord-attachments-uploads-prd.storage.googleapis.com
+    - hammerandchisel.ssl.zendesk.com
     - +.dis.gd
     - +.discord.co
     - +.discord.com

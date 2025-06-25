@@ -3,11 +3,11 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Shadowrocket 中的 DOMAIN-SET 类型
-# UPDATED: 2025-06-24 20:04:46
+# UPDATED: 2025-06-25 18:13:33
 # DOMAIN-SUFFIX: 176
 # TOTAL: 176
 
-youtube
+.youtube
 .youtube.ru
 .youtube.az
 .ytimg.com

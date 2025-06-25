@@ -3,19 +3,19 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Shadowrocket 中的 DOMAIN-SET 类型
-# UPDATED: 2025-06-24 20:04:56
+# UPDATED: 2025-06-25 18:13:40
 # DOMAIN: 8
 # DOMAIN-SUFFIX: 14
 # TOTAL: 22
 
-.audio-ak-spotify-com.akamaized.net
-.audio4-ak-spotify-com.akamaized.net
-.cdn-spotify-experiments.conductrics.com
-.heads-ak-spotify-com.akamaized.net
-.heads4-ak-spotify-com.akamaized.net
-.spotify.com.edgesuite.net
-.spotify.map.fastly.net
-.spotify.map.fastlylb.net
+audio-ak-spotify-com.akamaized.net
+audio4-ak-spotify-com.akamaized.net
+cdn-spotify-experiments.conductrics.com
+heads-ak-spotify-com.akamaized.net
+heads4-ak-spotify-com.akamaized.net
+spotify.com.edgesuite.net
+spotify.map.fastly.net
+spotify.map.fastlylb.net
 .byspotify.com
 .pscdn.co
 .scdn.co

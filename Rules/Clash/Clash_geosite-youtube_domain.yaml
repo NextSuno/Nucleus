@@ -3,12 +3,12 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 中的 Domain 类型
-# UPDATED: 2025-06-24 17:19:45
+# UPDATED: 2025-06-25 17:57:43
 # DOMAIN-SUFFIX: 176
 # TOTAL: 176
 
 payload:
-    - youtube
+    - +.youtube
     - +.youtube.ru
     - +.youtube.az
     - +.ytimg.com

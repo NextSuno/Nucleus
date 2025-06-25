@@ -1,0 +1,75 @@
+# SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ai-chat-!cn.yaml
+# NAME: geosite-category-ai-chat-!cn
+# AUTHOR: https://github.com/NextSuno
+# TG_CHANNEL: https://t.me/NextCCB
+# DESC: 适用于 Quantumult X 中的 Domain 类型
+# UPDATED: 2025-06-25 18:09:32
+# HOST: 13
+# HOST-SUFFIX: 52
+# TOTAL: 65
+
+servd-anthropic-website.b-cdn.net,PROXY
+ai.google.dev,PROXY
+alkalicore-pa.clients6.google.com,PROXY
+alkalimakersuite-pa.clients6.google.com,PROXY
+webchannel-alkalimakersuite-pa.clients6.google.com,PROXY
+openaiapi-site.azureedge.net,PROXY
+openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,PROXY
+openaicomproductionae4b.blob.core.windows.net,PROXY
+production-openaicom-storage.azureedge.net,PROXY
+pplx-res.cloudinary.com,PROXY
+.sora.com,PROXY
+.chutes.ai,PROXY
+.clipdrop.co,PROXY
+.cursorapi.com,PROXY
+.cursor.sh,PROXY
+.dify.ai,PROXY
+.cursor-cdn.com,PROXY
+.meta.ai,PROXY
+.mistral.ai,PROXY
+.openart.ai,PROXY
+.openrouter.ai,PROXY
+.grok.com,PROXY
+.x.ai,PROXY
+.anthropic.com,PROXY
+.claude.ai,PROXY
+.claudeusercontent.com,PROXY
+.gemini.google,PROXY
+.deepmind.google,PROXY
+.jules.google,PROXY
+.deepmind.com,PROXY
+.notebooklm.google,PROXY
+.generativeai.google,PROXY
+.poecdn.net,PROXY
+.poe.com,PROXY
+.cursor.com,PROXY
+.pplx.ai,PROXY
+.jasper.ai,PROXY
+.perplexity.ai,PROXY
+.coderabbit.ai,PROXY
+.openai.com,PROXY
+.oaiusercontent.com,PROXY
+.groq.com,PROXY
+.hf.co,PROXY
+.huggingface.co,PROXY
+.chatgpt.com,PROXY
+.chat.com,PROXY
+.oaistatic.com,PROXY
+.turn.livekit.cloud,PROXY
+.generativelanguage.googleapis.com,PROXY
+.notebooklm.google.com,PROXY
+.proactivebackend-pa.googleapis.com,PROXY
+.host.livekit.cloud,PROXY
+.jules.google.com,PROXY
+.geller-pa.googleapis.com,PROXY
+.gemini.google.com,PROXY
+.makersuite.google.com,PROXY
+.aistudio.google.com,PROXY
+.chatgpt.livekit.cloud,PROXY
+.bard.google.com,PROXY
+.gateway.ai.cloudflare.com,PROXY
+.coderabbit.gallery.vsassets.io,PROXY
+.openai.com.cdn.cloudflare.net,PROXY
+o33249.ingest.sentry.io,PROXY
+openaicom.imgix.net,PROXY
+browser-intake-datadoghq.com,PROXY

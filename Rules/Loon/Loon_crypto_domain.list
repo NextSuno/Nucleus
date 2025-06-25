@@ -3,7 +3,7 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Loon 中的 Domain 类型
-# UPDATED: 2025-06-24 20:15:48
+# UPDATED: 2025-06-25 18:06:42
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 250
 # DOMAIN-KEYWORD: 4
@@ -80,7 +80,7 @@
 .bsc.getblock.io
 .bscscan.com
 .binancecnt.com
-binance
+.binance
 .binanceapi.com
 .bnbstatic.com
 .hbabit.com
@@ -102,13 +102,13 @@ binance
 .huobi.ug
 .huobi.co.ma
 .huobi.br.com
-huobi
+.huobi
 .okex.com
 .okx.com
 .okx-dns.com
 .okx-dns1.com
 .okx-dns2.com
-okx
+.okx
 .asproex.com
 .asproexapi.com
 .bitflyer.com
@@ -209,9 +209,9 @@ okx
 .ethermine.org
 .ewapool.net
 .ftx.com
-metamask
-.token-api.metaswap.codefi.network
-.min-api.cryptocompare.com
+.metamask
+token-api.metaswap.codefi.network
+min-api.cryptocompare.com
 .opensea.io
 .nftscan.com
 .makersplace.com

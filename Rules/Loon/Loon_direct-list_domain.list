@@ -3,7 +3,7 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Loon 中的 Domain 类型
-# UPDATED: 2025-06-24 20:16:21
+# UPDATED: 2025-06-25 18:07:13
 # DOMAIN: 473
 # DOMAIN-SUFFIX: 120018
 # URL-REGEX: 25
@@ -11552,7 +11552,7 @@
 .aliapp.com
 .aliapp.org
 .aliappcdn.com
-alibaba
+.alibaba
 .alibaba-inc.com
 .alibaba.com
 .alibaba.net
@@ -11641,7 +11641,7 @@ alibaba
 .alionexpo.com
 .alipan.com
 .alipansou.com
-alipay
+.alipay
 .alipay-corp.com
 .alipay-eco.com
 .alipay-inc.com
@@ -14111,7 +14111,7 @@ alipay
 .baidiapp.com
 .baidinet.com
 .baidouya.com
-baidu
+.baidu
 .baidu-bank.com
 .baidu-cdn.com
 .baidu-cdn.net
@@ -23655,7 +23655,7 @@ baidu
 .citexpo.org
 .citgc.com
 .citiais.com
-citic
+.citic
 .citic-wealth.com
 .citic.com
 .citicbank.com
@@ -24405,7 +24405,7 @@ citic
 .cmzi.com
 .cmzj.net
 .cmzyk.com
-cn
+.cn
 .cn-5.com
 .cn-ab.com
 .cn-aci.com
@@ -52839,7 +52839,7 @@ cn
 .icasiso.com
 .icastlewar.com
 .icax.org
-icbc
+.icbc
 .icbc-at.com
 .icbc-axa.com
 .icbc-cz.com
@@ -89841,7 +89841,7 @@ icbc
 .sohodd.com
 .sohonow.com
 .sohotask.com
-sohu
+.sohu
 .sohu-inc.com
 .sohu.com
 .sohu.net
@@ -93566,7 +93566,7 @@ sohu
 .taoad.com
 .taoart.com
 .taoban.com
-taobao
+.taobao
 .taobao-img.com
 .taobao.com
 .taobao.global
@@ -95621,7 +95621,7 @@ taobao
 .tm51.com
 .tm5ad.com
 .tmaill.com
-tmall
+.tmall
 .tmall.com
 .tmall.hk
 .tmall.ru
@@ -98091,7 +98091,7 @@ tmall
 .unicloudgov.com
 .unicloudsrv.com
 .unicmicro.com
-unicom
+.unicom
 .unicom-cz.com
 .unicomgd.com
 .unicomjnwy.com
@@ -100154,7 +100154,7 @@ unicom
 .wanfudaluye.com
 .wanfukang.cc
 .wanfuqianqiu.com
-wang
+.wang
 .wang-li.com
 .wang-nan.com
 .wang-russell.cc
@@ -107558,7 +107558,7 @@ wang
 .xn--1d3a16a.com
 .xn--1lq86ddzrwkhiicdz5d638a.com
 .xn--1lqq7i4w0acli.com
-xn--1qqw23a
+.xn--1qqw23a
 .xn--2cyr99a.com
 .xn--2quu5hi8e69p.com
 .xn--2qux23cs4e63q.com
@@ -107568,10 +107568,10 @@ xn--1qqw23a
 .xn--3bs70igqdr64f.com
 .xn--3bs781ecijtrt.com
 .xn--3bsp13hurlcwb.com
-xn--3bst00m
+.xn--3bst00m
 .xn--3bsx54la62v.com
 .xn--3bsz0pskmp89skv3a0zd724b1py.net
-xn--3ds443g
+.xn--3ds443g
 .xn--3lqv74e.com
 .xn--48s50dpwnbh95ah07i.com
 .xn--4gq0d69oba129b9wd94ey8bs83ji3c3q7hoka.org
@@ -107585,22 +107585,22 @@ xn--3ds443g
 .xn--55qw7biqf7g3d004h8yuw1ctrt04sep1cjfb.com
 .xn--55qwa79fh6ku8czve.com
 .xn--55qx2ag79c1iq.com
-xn--55qx5d
+.xn--55qx5d
 .xn--55qzsxj5y4ozkz93dswptmau4jc88dg75ctid8raf29c.com
 .xn--5brz4b846h.com
 .xn--5g-t62dq44f.ltd
 .xn--5kv317c.com
 .xn--5kv91jiz2b.com
-xn--5tzm5g
+.xn--5tzm5g
 .xn--6fr35ac1xmmm.com
 .xn--6fr61zj8c92fg34d.com
-xn--6frz82g
+.xn--6frz82g
 .xn--6g3a83ieum.com
 .xn--6kr66fp2ep1ac5edz2hy7s2wq.com
 .xn--6krw3qs7jl59b.com
 .xn--6oq43md5j.com
 .xn--6oq83hzb922dnorwsomx9dzkb.com
-xn--6qq986b3xl
+.xn--6qq986b3xl
 .xn--6qqp94buie2ss.com
 .xn--6rto6ab3qo15c.com
 .xn--6rtq6phwfhva.com
@@ -107614,8 +107614,8 @@ xn--6qq986b3xl
 .xn--8ou124e6ek.net
 .xn--8owq8u.com
 .xn--8stx8olrwkucjq3b.com
-xn--8y0a063a
-xn--9et52u
+.xn--8y0a063a
+.xn--9et52u
 .xn--9kq29i0tjy6b044actm.com
 .xn--9kqx88aa0024cywe.org
 .xn--9kr72kqwe.com
@@ -107644,10 +107644,10 @@ xn--9et52u
 .xn--cks935disa.com
 .xn--cpqr0dg9g4t0fodaq5c.com
 .xn--cssw8z54rj2ds2q.com
-xn--czr694b
+.xn--czr694b
 .xn--czr93rxry.com
-xn--czrs0t
-xn--czru2d
+.xn--czrs0t
+.xn--czru2d
 .xn--czru2dx3eszw3lat53b.com
 .xn--dev407h.com
 .xn--djr48g6sik7q.com
@@ -107669,17 +107669,17 @@ xn--czru2d
 .xn--fhq79jyym9nh74hfm8a.com
 .xn--fiq03fftg7m2c.com
 .xn--fiq06jqoz14s.com
-xn--fiq228c5hs
+.xn--fiq228c5hs
 .xn--fiq446amrnx0i.com
 .xn--fiq4mgq69drxaiym2g5wnynb77huij0bchq7vj5ay61o3cwdq2ah92mlg9c.com
-xn--fiq64b
+.xn--fiq64b
 .xn--fiq6q20pz51d.com
 .xn--fiq73f39fwr0b4wk.net
 .xn--fiq7v55hnsepqz.net
 .xn--fiqp15ft6ya.com
 .xn--fiqr9gg1vdha.com
 .xn--fiqrtn9duw9e.cc
-xn--fiqs8s
+.xn--fiqs8s
 .xn--fiqs8s60s3soq8cx0uohm.com
 .xn--fiqs8sr9ge7eb4b28vo92a.com
 .xn--fiqu59c0hf2sy.net
@@ -107687,11 +107687,11 @@ xn--fiqs8s
 .xn--fiqv94di0c54ipe.net
 .xn--fiqw8jl3h7xc25m753d.link
 .xn--fiqx7ci2whnj.com
-xn--fiqz9s
+.xn--fiqz9s
 .xn--fjq5py34j65v.com
-xn--fjq720a
+.xn--fjq720a
 .xn--g2xt1d91f2xk.com
-xn--g2xx48c
+.xn--g2xx48c
 .xn--glr604k.com
 .xn--gmq00s1xfuvekuas68k.com
 .xn--gmq238c5fy.com
@@ -107701,18 +107701,18 @@ xn--g2xx48c
 .xn--hdc1eb8be0au3c9hfb.xn--gecrj9c
 .xn--husx9zj2eepau0se83d.com
 .xn--hutn94av9amzg.net
-xn--hxt814e
+.xn--hxt814e
 .xn--i6q33br88fkud.com
 .xn--igt225itqf.com
-xn--imr513n
-xn--io0a7i
+.xn--imr513n
+.xn--io0a7i
 .xn--jh1a128b.com
 .xn--jhqx3hjuanvm9zbb084ayucqwxhuqzew60ae3xve1fnwybs8a.com
 .xn--jor0b302fdhgwnccw8g.com
 .xn--jpr47zq87axwjc0d.com
 .xn--jvrr72kgma408a.com
 .xn--kivq8be3whsi.com
-xn--kput3i
+.xn--kput3i
 .xn--l9qya49g86gm9ghpbzy1dwl0fppo.com
 .xn--lt0at3k.com
 .xn--mct72chgrm.net
@@ -107728,13 +107728,13 @@ xn--kput3i
 .xn--ntsp37j.net
 .xn--nyqx17d.com
 .xn--nyqx2gbsm8u0b.com
-xn--nyqy26a
+.xn--nyqy26a
 .xn--nyw355ejle.com
 .xn--od1a98zlyg68g.com
 .xn--ohqn1dw64cf45c8l9a1ba.com
 .xn--omrvgz6er31au6f.com
 .xn--oorz70c56jtwb49x.net
-xn--otu796d
+.xn--otu796d
 .xn--p5t28ylet56a.com
 .xn--pbt1sj69ag8b.com
 .xn--pss89e6xl72g.com
@@ -107746,7 +107746,7 @@ xn--otu796d
 .xn--r8s65df7admf92a.com
 .xn--rhq112dhez17bejdyhl55dypc.com
 .xn--rhqt5j7qj6mj.com
-xn--rhqv96g
+.xn--rhqv96g
 .xn--rht439a44bdyk.com
 .xn--rhtr03fbrm.com
 .xn--riqi041otpd.com
@@ -107756,7 +107756,7 @@ xn--rhqv96g
 .xn--ruqs20ac8b5z7av8ir2u.net
 .xn--ruqz9zcojm5sf19a.com
 .xn--s4t325g.com
-xn--ses554g
+.xn--ses554g
 .xn--sgt856gbjl.cc
 .xn--siq0gv77a3c.com
 .xn--sosw2ge0bs10aoq0a.com
@@ -107771,7 +107771,7 @@ xn--ses554g
 .xn--tlqz3aj77agil76ww4ni2k.com
 .xn--tqq89g2tjj5x8xs.com
 .xn--uisx71c0r1a.com
-xn--unup4y
+.xn--unup4y
 .xn--vcso1ukuz.net
 .xn--vcsu51b3zccpm.com
 .xn--vcsu9p66gy1l9vpnnbk52f.com
@@ -107782,10 +107782,10 @@ xn--unup4y
 .xn--vhqa63bt1h.com
 .xn--vhqqbz2p62hm92e04p.com
 .xn--vhqu1kbz3bnbi.com
-xn--vhquv
+.xn--vhquv
 .xn--viq463a.com
 .xn--vq3a5gj6c9i.com
-xn--vuq861b
+.xn--vuq861b
 .xn--vuqz86auobw20f.com
 .xn--w9q313dfn4a.com
 .xn--w9q675dm1p7em.net
@@ -107796,7 +107796,7 @@ xn--vuq861b
 .xn--wtqs2doz3b.com
 .xn--wxtr44c.live
 .xn--xcry9n251cvcar5xj6r.com
-xn--xhq521b
+.xn--xhq521b
 .xn--xhq60k09cr85at2f494d.com
 .xn--xhq60kzbz07dem6azlu.com
 .xn--xhq8sm16c5ls.com
@@ -107820,7 +107820,7 @@ xn--xhq521b
 .xn--ykr169cm1pskt.com
 .xn--z4q559dueav8q.com
 .xn--z63a11k.com
-xn--zfr164b
+.xn--zfr164b
 .xn-ck.com
 .xn0.cc
 .xn121.com
