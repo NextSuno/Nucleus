@@ -3,7 +3,7 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 中的 Domain 类型
-# UPDATED: 2025-06-25 17:58:12
+# UPDATED: 2025-07-19 19:31:21
 # DOMAIN: 72
 # DOMAIN-SUFFIX: 613
 # TOTAL: 685
@@ -16,11 +16,6 @@ payload:
     - statics-marketingsites-eas-ms-com.akamaized.net
     - statics-marketingsites-eus-ms-com.akamaized.net
     - statics-marketingsites-wcus-ms-com.akamaized.net
-    - flightsimulator.azureedge.net
-    - prodforza.blob.core.windows.net
-    - azure.microsoft.com
-    - azuremarketplace.microsoft.com
-    - location.microsoft.com
     - github-cloud.s3.amazonaws.com
     - az764295.vo.msecnd.net
     - bingsettingssearch.trafficmanager.net
@@ -41,6 +36,11 @@ payload:
     - mscrl.microsoft.com
     - ocsp.microsoft.com
     - oneocsp.microsoft.com
+    - prodforza.blob.core.windows.net
+    - flightsimulator.azureedge.net
+    - azure.microsoft.com
+    - azuremarketplace.microsoft.com
+    - location.microsoft.com
     - +.microsoft
     - +.hotmail
     - +.office
@@ -57,7 +57,7 @@ payload:
     - +.microsoft.cz
     - +.microsoft.de
     - +.microsoft.dk
-    - +.msocsp.com
+    - +.renovacionoffice.com
     - +.microsoft.es
     - +.microsoft.eu
     - +.microsoft.fi
@@ -206,7 +206,7 @@ payload:
     - +.msftncsi.com
     - +.msftnet.org
     - +.msgamesresearch.com
-    - +.microsoftnews.net
+    - +.githubnext.com
     - +.mshome.net
     - +.msidentity.com
     - +.msocdn.com
@@ -286,12 +286,93 @@ payload:
     - +.microsoft.ch
     - +.winhec.net
     - +.yammer.com
-    - +.microsoftnews.cc
-    - +.microsoftnews.com
-    - +.xamarin.com
+    - +.githubhackathon.com
+    - +.ghcr.io
+    - +.office365tw.com
     - +.microsoft.ee
     - +.microsoft.cl
-    - +.onedrive.com
+    - +.repo.new
+    - +.github.blog
+    - +.github.com
+    - +.github.community
+    - +.github.dev
+    - +.github.io
+    - +.githubapp.com
+    - +.githubassets.com
+    - +.githubcopilot.com
+    - +.npmjs.org
+    - +.dependabot.com
+    - +.git.io
+    - +.githubstatus.com
+    - +.githubuniverse.com
+    - +.githubusercontent.com
+    - +.myoctocat.com
+    - +.opensource.guide
+    - +.githubpreview.dev
+    - +.thegithubshop.com
+    - +.atom.io
+    - +.npm.community
+    - +.npmjs.com
+    - +.office365love.com
+    - +.msunlimitedcloudsummit.com
+    - +.flipwithsurface.com
+    - +.adaptivecards.io
+    - +.api-extractor.com
+    - +.apisof.net
+    - +.appcenter.ms
+    - +.blazor.net
+    - +.botframework.com
+    - +.codethemicrobit.com
+    - +.devopsassessment.net
+    - +.dot.net
+    - +.gamesstack.com
+    - +.graphengine.io
+    - +.insiderdevtour.com
+    - +.jwt.ms
+    - +.microbit.org
+    - +.microsoftadc.com
+    - +.microsoftgamestack.com
+    - +.microsoftiotinsiderlabs.com
+    - +.microsoftreactor.info
+    - +.microsoftreactor.net
+    - +.microsoftreactor.org
+    - +.microsoftsilverlight.com
+    - +.microsoftsilverlight.org
+    - +.microsoftsilverlight.net
+    - +.microsoftsqlserver.com
+    - +.mmdnn.com
+    - +.mono-project.com
+    - +.msdn.com
+    - +.msinnovationchallenge.com
+    - +.mspairlift.com
+    - +.msropendata.com
+    - +.nuget.org
+    - +.nugettest.org
+    - +.opentranslatorstothings.org
+    - +.poshtestgallery.com
+    - +.pwabuilder.com
+    - +.sankie.net
+    - +.sqlserveronlinux.com
+    - +.timelinestoryteller.com
+    - +.uwpcommunitytoolkit.com
+    - +.visualstudio-staging.com
+    - +.visualstudio.com
+    - +.visualstudio.co
+    - +.visualstudio.eu
+    - +.visualstudio.net
+    - +.vfsforgit.com
+    - +.vfsforgit.org
+    - +.vsassets.io
+    - +.vscode.dev
+    - +.vscode-cdn.net
+    - +.vscode-unpkg.net
+    - +.xamarin.com
+    - +.microsoftmxfilantropia.com
+    - +.msocsp.com
+    - +.microsoftnews.cc
+    - +.microsoftnews.com
+    - +.microsoftnews.net
+    - +.microsoftnews.org
     - +.microsoftnewsforkids.com
     - +.microsoftnewsforkids.net
     - +.microsoftnewsforkids.org
@@ -307,19 +388,17 @@ payload:
     - +.start.com
     - +.microsoft.cat
     - +.microsoft.ca
-    - +.microsoftnews.org
+    - +.onedrive.com
     - +.1drv.com
     - +.livefilestore.com
     - +.sharepoint.cn
-    - +.vscode-unpkg.net
-    - +.vscode-cdn.net
-    - +.vscode.dev
-    - +.vsassets.io
-    - +.vfsforgit.org
-    - +.vfsforgit.com
-    - +.visualstudio.net
-    - +.visualstudio.eu
-    - +.visualstudio.co
+    - +.microsoftlatamholiday.com
+    - +.microsoftdiplomados.com
+    - +.microsoftcloudsummit.com
+    - +.microsoft-give.com
+    - +.masalladeloslimites.com
+    - +.microsoftpartnersolutions.com
+    - +.bing.net
     - +.microsoft.by
     - +.gamepass.com
     - +.orithegame.com
@@ -344,8 +423,6 @@ payload:
     - +.xboxservices.com
     - +.xboxstudios.com
     - +.xbx.lv
-    - +.asobostudio.com
-    - +.flightsimulator.com
     - +.beth.games
     - +.bethesda.net
     - +.bethesdagamestudios.com
@@ -362,6 +439,8 @@ payload:
     - +.minecraftservices.com
     - +.minecraftshop.com
     - +.mojang.com
+    - +.asobostudio.com
+    - +.flightsimulator.com
     - +.microsoft.be
     - +.aadrm.com
     - +.azure-devices-int.net
@@ -397,7 +476,6 @@ payload:
     - +.azuresmartspaces.net
     - +.azurestackvalidation.com
     - +.azurewebsites.net
-    - +.botframework.com
     - +.cosmosdb.info
     - +.cosmosdb.net
     - +.devopsms.com
@@ -433,89 +511,11 @@ payload:
     - +.bingworld.com
     - +.bluehatnights.com
     - +.bing123.com
-    - +.bing.net
-    - +.microsoftpartnersolutions.com
-    - +.masalladeloslimites.com
-    - +.microsoft-give.com
-    - +.microsoftcloudsummit.com
-    - +.microsoftdiplomados.com
-    - +.microsoftlatamholiday.com
-    - +.microsoftmxfilantropia.com
-    - +.flipwithsurface.com
-    - +.msunlimitedcloudsummit.com
-    - +.office365love.com
-    - +.office365tw.com
-    - +.renovacionoffice.com
-    - +.visualstudio.com
-    - +.githubhackathon.com
-    - +.ghcr.io
-    - +.githubnext.com
-    - +.githubpreview.dev
-    - +.github.blog
-    - +.github.com
-    - +.github.community
-    - +.github.dev
-    - +.github.io
-    - +.githubapp.com
-    - +.githubassets.com
-    - +.githubcopilot.com
-    - +.npmjs.org
-    - +.dependabot.com
-    - +.git.io
-    - +.githubstatus.com
-    - +.githubuniverse.com
-    - +.githubusercontent.com
-    - +.myoctocat.com
-    - +.opensource.guide
-    - +.repo.new
-    - +.thegithubshop.com
-    - +.atom.io
-    - +.npm.community
-    - +.npmjs.com
-    - +.visualstudio-staging.com
-    - +.adaptivecards.io
-    - +.api-extractor.com
-    - +.apisof.net
-    - +.appcenter.ms
-    - +.blazor.net
-    - +.codethemicrobit.com
-    - +.devopsassessment.net
-    - +.dot.net
-    - +.gamesstack.com
-    - +.graphengine.io
-    - +.insiderdevtour.com
-    - +.jwt.ms
-    - +.microbit.org
-    - +.microsoftadc.com
-    - +.microsoftgamestack.com
-    - +.microsoftiotinsiderlabs.com
-    - +.microsoftreactor.info
-    - +.microsoftreactor.net
-    - +.microsoftreactor.org
-    - +.microsoftsilverlight.com
-    - +.microsoftsilverlight.org
-    - +.microsoftsilverlight.net
-    - +.microsoftsqlserver.com
-    - +.mmdnn.com
-    - +.mono-project.com
-    - +.msdn.com
-    - +.msinnovationchallenge.com
-    - +.mspairlift.com
-    - +.msropendata.com
-    - +.nuget.org
-    - +.nugettest.org
-    - +.opentranslatorstothings.org
-    - +.poshtestgallery.com
-    - +.pwabuilder.com
-    - +.sankie.net
-    - +.sqlserveronlinux.com
-    - +.timelinestoryteller.com
-    - +.uwpcommunitytoolkit.com
-    - +.spoprod-a.akamaihd.net
-    - +.microsoftstore.com.hk
     - +.visualstudio.co.uk
+    - +.spoprod-a.akamaihd.net
     - +.skype-edf.akadns.net
     - +.skypedata.akadns.net
+    - +.microsoftstore.com.hk
     - +.live.com.au
     - +.clarity.ms
     - +.dcg.microsoft.com
@@ -593,6 +593,10 @@ payload:
     - wscont1.apps.microsoft.com
     - wscont2.apps.microsoft.com
     - xb.dlservice.microsoft.com
+    - +.microsoftreactor.cn
+    - +.microsoftreactor.com.cn
+    - +.reactorms.com.cn
+    - www.microsoft.com
     - +.microsoftnews.cn
     - +.msn.cn
     - +.xboxlive.cn
@@ -690,7 +694,3 @@ payload:
     - +.th.bing.com
     - bj1.api.bing.com
     - emoi-cncdn.bing.com
-    - +.microsoftreactor.cn
-    - +.microsoftreactor.com.cn
-    - +.reactorms.com.cn
-    - www.microsoft.com

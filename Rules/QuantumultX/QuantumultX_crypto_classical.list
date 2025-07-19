@@ -3,11 +3,10 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 中的 Classical 类型
-# UPDATED: 2025-06-24 19:44:06
+# UPDATED: 2025-07-19 19:55:46
 # HOST: 2
 # HOST-SUFFIX: 250
-# HOST-KEYWORD: 4
-# TOTAL: 256
+# TOTAL: 252
 
 HOST-SUFFIX,bitcointalk.org,PROXY
 HOST-SUFFIX,aex.com,PROXY

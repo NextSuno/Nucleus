@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Shadowrocket 中的 DOMAIN-SET 类型
-# UPDATED: 2025-06-25 18:13:09
-# DOMAIN: 829
-# URL-REGEX: 20
-# TOTAL: 849
+# UPDATED: 2025-07-19 20:01:33
+# DOMAIN: 838
+# URL-REGEX: 19
+# TOTAL: 857
 
 1500020991.vodplayer.wxamedia.com
 1500022744.vodplayer.wxamedia.com
@@ -124,6 +124,7 @@ adsmart.konka.com
 adsmind.gdtimg.com
 adsmind.ugdtimg.com
 adsp.xunlei.com
+adstat.izuiyou.com
 adstats.tencentmusic.com
 adstore-1252524079.file.myqcloud.com
 adstore-index-1252524079.file.myqcloud.com
@@ -197,6 +198,7 @@ api-adservices.apple.com
 api-gd.hiaiabc.com
 api-htp.beizi.biz
 api.ad.xiaomi.com
+api.anythinktech.com
 api.e.kuaishou.com
 api.fu.xcultur.com
 api.htp.hubcloud.com.cn
@@ -291,18 +293,20 @@ config.inmobi.com
 config.unityads.unity3d.com
 cpc-service-square.aiclk.com
 cpro.baidustatic.com
+crash2.zhihu.com
 crashlyticsreports-pa.googleapis.com
 csjplatform.com
 cws-cctv.conviva.com
 d.applovin.com
 d.applvn.com
+da.anythinktech.com
 data-sdk-uuid-log.d.meituan.net
 data.ads.oppomobile.com
 data.chsmarttv.com
 data.mistat.india.xiaomi.com
 data.mistat.rus.xiaomi.com
 data.mistat.xiaomi.com
-datk.anythinktech.com
+datacollection.uve.weibo.com
 dc.sigmob.cn
 de.tynt.com
 diagnosis.ad.xiaomi.com
@@ -385,6 +389,7 @@ hpplay.cdn.cibn.cc
 httpdns.bcelive.com
 httpdns.ocloud.oppomobile.com
 hugelog.fcbox.com
+huichuan-mc.sm.cn
 huichuan.sm.cn
 hw-ot-ad.a.yximgs.com
 hw-p2p-pull.video-voip.com
@@ -396,6 +401,7 @@ hyt.comp.360os.com
 i.l-new.inmobicdn.net
 i.l.inmobicdn.net
 iad.apple.com
+iad.g.163.com
 iadctest.qwapi.com
 iadsdk.apple.com
 iadworkbench.apple.com
@@ -418,6 +424,7 @@ impression-asia.chinaliftoff.io
 impression-asia.liftoff.io
 impression.appsflyer.com
 in.treasuredata.com
+ios.bugly.qq.com
 iot-eu-logser.realme.com
 iot-logser.realme.com
 ipv4.kkmh.com
@@ -540,6 +547,7 @@ mssdk.zijieapi.com
 mtj.baidu.com
 nadvideo2.baidu.com
 newvoice.chiq5.smart-tv.cn
+nex.163.com
 nmetrics.samsung.com
 notes-analytics-events.apple.com
 notify.sec.miui.com
@@ -708,11 +716,11 @@ tdsdk.cpatrk.net
 tdsdk.xdrig.com
 telemetry.sdk.inmobi.com
 tencent-dtv.m.cn.miaozhen.com
-terms-drcn.platform.dbankcloud.cn
 test.ad.xiaomi.com
 test.e.ad.xiaomi.com
 tj.b.qq.com
 tj.video.qq.com
+tk.anythinktech.com
 tmead.y.qq.com
 tmeadcomm.y.qq.com
 tmfmazu-wangka.m.qq.com
@@ -837,7 +845,7 @@ youku-acs.m.taobao.com
 ytx-file.110route.cn
 zeus.ad.xiaomi.com
 zhihu-web-analytics.zhihu.com
-.*.*.shouji.sogou.com
+zxid-m.mobileservice.cn
 .*.1rtb.com
 .*.a.market.xiaomi.com
 .*.ad.gameley.com

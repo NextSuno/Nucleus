@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 中的 Classical 类型
-# UPDATED: 2025-06-24 19:48:20
-# HOST: 567
+# UPDATED: 2025-07-19 19:58:30
+# HOST: 586
 # HOST-SUFFIX: 30569
-# TOTAL: 31136
+# TOTAL: 31155
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -6031,7 +6031,6 @@ HOST-SUFFIX,chianxv.buzz,PROXY
 HOST-SUFFIX,chibabank.co.jp,PROXY
 HOST-SUFFIX,chibakogyo-bank.co.jp,PROXY
 HOST-SUFFIX,chicagolandbmw.com,PROXY
-HOST-SUFFIX,chicagoncmtv.com,PROXY
 HOST-SUFFIX,chichester.ac.uk,PROXY
 HOST-SUFFIX,chichestercollegegroup.ac.uk,PROXY
 HOST-SUFFIX,chickstagram.com,PROXY
@@ -10693,8 +10692,6 @@ HOST-SUFFIX,freefacebookads.net,PROXY
 HOST-SUFFIX,freefblikes.com,PROXY
 HOST-SUFFIX,freefbx.com,PROXY
 HOST-SUFFIX,freeforums.org,PROXY
-HOST-SUFFIX,freefq.com,PROXY
-HOST-SUFFIX,freefuckvids.com,PROXY
 HOST-SUFFIX,freegao.com,PROXY
 HOST-SUFFIX,freegaypornhdtube.com,PROXY
 HOST-SUFFIX,freegaysexgames.com,PROXY
@@ -14020,6 +14017,7 @@ HOST-SUFFIX,imems.ac.uk,PROXY
 HOST-SUFFIX,imessage.tv,PROXY
 HOST-SUFFIX,imet.ac.uk,PROXY
 HOST-SUFFIX,img.ly,PROXY
+HOST-SUFFIX,img.picgo.net,PROXY
 HOST-SUFFIX,imgasd.com,PROXY
 HOST-SUFFIX,imgbb.com,PROXY
 HOST-SUFFIX,imgchili.net,PROXY
@@ -22287,6 +22285,7 @@ HOST-SUFFIX,radiotavisupleba.ge,PROXY
 HOST-SUFFIX,radiovaticana.org,PROXY
 HOST-SUFFIX,radiovncr.com,PROXY
 HOST-SUFFIX,radiyoyacuvoa.com,PROXY
+HOST-SUFFIX,radmin-vpn.com,PROXY
 HOST-SUFFIX,rae.ac.uk,PROXY
 HOST-SUFFIX,rael.org,PROXY
 HOST-SUFFIX,raft.ac.uk,PROXY
@@ -29157,6 +29156,7 @@ HOST-SUFFIX,www.taiwanonline.cc,PROXY
 HOST-SUFFIX,www.thechinastory.org,PROXY
 HOST-SUFFIX,www.wan-press.org,PROXY
 HOST-SUFFIX,www.websnapr.com,PROXY
+HOST-SUFFIX,www.xicons.org,PROXY
 HOST-SUFFIX,www.zensur.freerk.com,PROXY
 HOST-SUFFIX,www1.american.edu,PROXY
 HOST-SUFFIX,www1.biz,PROXY
@@ -30768,9 +30768,11 @@ HOST,hl2rcv.adobe.com,PROXY
 HOST,hlrcv.stage.adobe.com,PROXY
 HOST,hls-amt.itunes.apple.com,PROXY
 HOST,hls.itunes.apple.com,PROXY
+HOST,holoxx.f5.si,PROXY
 HOST,homebrew.bintray.com,PROXY
 HOST,hpefonts.s3.amazonaws.com,PROXY
 HOST,hpstore.corpmerchandise.com,PROXY
+HOST,hub.slarker.me,PROXY
 HOST,hulu.playback.edge.bamgrid.com,PROXY
 HOST,i.jeded.com,PROXY
 HOST,img-prod-cms-rt-microsoft-com.akamaized.net,PROXY
@@ -30862,6 +30864,22 @@ HOST,push-apple.com.akadns.net,PROXY
 HOST,pvr-hamivideo.cdn.hinet.net,PROXY
 HOST,qualcomm.sc.omtrdc.net,PROXY
 HOST,rink.hockeyapp.net,PROXY
+HOST,rss.4040940.xyz,PROXY
+HOST,rss.datuan.dev,PROXY
+HOST,rss.littlebaby.life,PROXY
+HOST,rss.owo.nz,PROXY
+HOST,rss.wudifeixue.com,PROXY
+HOST,rsshub.asailor.org,PROXY
+HOST,rsshub.email-once.com,PROXY
+HOST,rsshub.henry.wang,PROXY
+HOST,rsshub.isrss.com,PROXY
+HOST,rsshub.ktachibana.party,PROXY
+HOST,rsshub.pseudoyu.com,PROXY
+HOST,rsshub.rss.tips,PROXY
+HOST,rsshub.rssforever.com,PROXY
+HOST,rsshub.umzzz.com,PROXY
+HOST,rsshub.woodland.cafe,PROXY
+HOST,rsshub2.asailor.org,PROXY
 HOST,rtm.tnt-ea.com,PROXY
 HOST,sa78gs.wpc.edgecastcdn.net,PROXY
 HOST,scc.ott.hinet.net,PROXY
@@ -31142,5 +31160,6 @@ HOST,wwis-dubc1-vip97.adobe.com,PROXY
 HOST,wwis-dubc1-vip98.adobe.com,PROXY
 HOST,wwis-dubc1-vip99.adobe.com,PROXY
 HOST,www-cdn.icloud.com.akadns.net,PROXY
+HOST,yangzhi.app,PROXY
 HOST,zeenews-fonts.s3.amazonaws.com,PROXY
 HOST,ztedevices.com,PROXY

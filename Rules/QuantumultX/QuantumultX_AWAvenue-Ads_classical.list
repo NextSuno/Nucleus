@@ -3,9 +3,9 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 中的 Classical 类型
-# UPDATED: 2025-06-24 19:43:36
-# HOST: 829
-# TOTAL: 829
+# UPDATED: 2025-07-19 19:55:09
+# HOST: 838
+# TOTAL: 838
 
 HOST,1500020991.vodplayer.wxamedia.com,REJECT
 HOST,1500022744.vodplayer.wxamedia.com,REJECT
@@ -123,6 +123,7 @@ HOST,adsmart.konka.com,REJECT
 HOST,adsmind.gdtimg.com,REJECT
 HOST,adsmind.ugdtimg.com,REJECT
 HOST,adsp.xunlei.com,REJECT
+HOST,adstat.izuiyou.com,REJECT
 HOST,adstats.tencentmusic.com,REJECT
 HOST,adstore-1252524079.file.myqcloud.com,REJECT
 HOST,adstore-index-1252524079.file.myqcloud.com,REJECT
@@ -196,6 +197,7 @@ HOST,api-adservices.apple.com,REJECT
 HOST,api-gd.hiaiabc.com,REJECT
 HOST,api-htp.beizi.biz,REJECT
 HOST,api.ad.xiaomi.com,REJECT
+HOST,api.anythinktech.com,REJECT
 HOST,api.e.kuaishou.com,REJECT
 HOST,api.fu.xcultur.com,REJECT
 HOST,api.htp.hubcloud.com.cn,REJECT
@@ -290,18 +292,20 @@ HOST,config.inmobi.com,REJECT
 HOST,config.unityads.unity3d.com,REJECT
 HOST,cpc-service-square.aiclk.com,REJECT
 HOST,cpro.baidustatic.com,REJECT
+HOST,crash2.zhihu.com,REJECT
 HOST,crashlyticsreports-pa.googleapis.com,REJECT
 HOST,csjplatform.com,REJECT
 HOST,cws-cctv.conviva.com,REJECT
 HOST,d.applovin.com,REJECT
 HOST,d.applvn.com,REJECT
+HOST,da.anythinktech.com,REJECT
 HOST,data-sdk-uuid-log.d.meituan.net,REJECT
 HOST,data.ads.oppomobile.com,REJECT
 HOST,data.chsmarttv.com,REJECT
 HOST,data.mistat.india.xiaomi.com,REJECT
 HOST,data.mistat.rus.xiaomi.com,REJECT
 HOST,data.mistat.xiaomi.com,REJECT
-HOST,datk.anythinktech.com,REJECT
+HOST,datacollection.uve.weibo.com,REJECT
 HOST,dc.sigmob.cn,REJECT
 HOST,de.tynt.com,REJECT
 HOST,diagnosis.ad.xiaomi.com,REJECT
@@ -384,6 +388,7 @@ HOST,hpplay.cdn.cibn.cc,REJECT
 HOST,httpdns.bcelive.com,REJECT
 HOST,httpdns.ocloud.oppomobile.com,REJECT
 HOST,hugelog.fcbox.com,REJECT
+HOST,huichuan-mc.sm.cn,REJECT
 HOST,huichuan.sm.cn,REJECT
 HOST,hw-ot-ad.a.yximgs.com,REJECT
 HOST,hw-p2p-pull.video-voip.com,REJECT
@@ -395,6 +400,7 @@ HOST,hyt.comp.360os.com,REJECT
 HOST,i.l-new.inmobicdn.net,REJECT
 HOST,i.l.inmobicdn.net,REJECT
 HOST,iad.apple.com,REJECT
+HOST,iad.g.163.com,REJECT
 HOST,iadctest.qwapi.com,REJECT
 HOST,iadsdk.apple.com,REJECT
 HOST,iadworkbench.apple.com,REJECT
@@ -417,6 +423,7 @@ HOST,impression-asia.chinaliftoff.io,REJECT
 HOST,impression-asia.liftoff.io,REJECT
 HOST,impression.appsflyer.com,REJECT
 HOST,in.treasuredata.com,REJECT
+HOST,ios.bugly.qq.com,REJECT
 HOST,iot-eu-logser.realme.com,REJECT
 HOST,iot-logser.realme.com,REJECT
 HOST,ipv4.kkmh.com,REJECT
@@ -539,6 +546,7 @@ HOST,mssdk.zijieapi.com,REJECT
 HOST,mtj.baidu.com,REJECT
 HOST,nadvideo2.baidu.com,REJECT
 HOST,newvoice.chiq5.smart-tv.cn,REJECT
+HOST,nex.163.com,REJECT
 HOST,nmetrics.samsung.com,REJECT
 HOST,notes-analytics-events.apple.com,REJECT
 HOST,notify.sec.miui.com,REJECT
@@ -707,11 +715,11 @@ HOST,tdsdk.cpatrk.net,REJECT
 HOST,tdsdk.xdrig.com,REJECT
 HOST,telemetry.sdk.inmobi.com,REJECT
 HOST,tencent-dtv.m.cn.miaozhen.com,REJECT
-HOST,terms-drcn.platform.dbankcloud.cn,REJECT
 HOST,test.ad.xiaomi.com,REJECT
 HOST,test.e.ad.xiaomi.com,REJECT
 HOST,tj.b.qq.com,REJECT
 HOST,tj.video.qq.com,REJECT
+HOST,tk.anythinktech.com,REJECT
 HOST,tmead.y.qq.com,REJECT
 HOST,tmeadcomm.y.qq.com,REJECT
 HOST,tmfmazu-wangka.m.qq.com,REJECT
@@ -836,3 +844,4 @@ HOST,youku-acs.m.taobao.com,REJECT
 HOST,ytx-file.110route.cn,REJECT
 HOST,zeus.ad.xiaomi.com,REJECT
 HOST,zhihu-web-analytics.zhihu.com,REJECT
+HOST,zxid-m.mobileservice.cn,REJECT

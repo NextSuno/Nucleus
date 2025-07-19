@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Loon 中的 Classical 类型
-# UPDATED: 2025-06-24 20:13:18
-# DOMAIN: 829
-# URL-REGEX: 20
-# TOTAL: 849
+# UPDATED: 2025-07-19 19:46:49
+# DOMAIN: 838
+# URL-REGEX: 19
+# TOTAL: 857
 
 DOMAIN,1500020991.vodplayer.wxamedia.com
 DOMAIN,1500022744.vodplayer.wxamedia.com
@@ -124,6 +124,7 @@ DOMAIN,adsmart.konka.com
 DOMAIN,adsmind.gdtimg.com
 DOMAIN,adsmind.ugdtimg.com
 DOMAIN,adsp.xunlei.com
+DOMAIN,adstat.izuiyou.com
 DOMAIN,adstats.tencentmusic.com
 DOMAIN,adstore-1252524079.file.myqcloud.com
 DOMAIN,adstore-index-1252524079.file.myqcloud.com
@@ -197,6 +198,7 @@ DOMAIN,api-adservices.apple.com
 DOMAIN,api-gd.hiaiabc.com
 DOMAIN,api-htp.beizi.biz
 DOMAIN,api.ad.xiaomi.com
+DOMAIN,api.anythinktech.com
 DOMAIN,api.e.kuaishou.com
 DOMAIN,api.fu.xcultur.com
 DOMAIN,api.htp.hubcloud.com.cn
@@ -291,18 +293,20 @@ DOMAIN,config.inmobi.com
 DOMAIN,config.unityads.unity3d.com
 DOMAIN,cpc-service-square.aiclk.com
 DOMAIN,cpro.baidustatic.com
+DOMAIN,crash2.zhihu.com
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,csjplatform.com
 DOMAIN,cws-cctv.conviva.com
 DOMAIN,d.applovin.com
 DOMAIN,d.applvn.com
+DOMAIN,da.anythinktech.com
 DOMAIN,data-sdk-uuid-log.d.meituan.net
 DOMAIN,data.ads.oppomobile.com
 DOMAIN,data.chsmarttv.com
 DOMAIN,data.mistat.india.xiaomi.com
 DOMAIN,data.mistat.rus.xiaomi.com
 DOMAIN,data.mistat.xiaomi.com
-DOMAIN,datk.anythinktech.com
+DOMAIN,datacollection.uve.weibo.com
 DOMAIN,dc.sigmob.cn
 DOMAIN,de.tynt.com
 DOMAIN,diagnosis.ad.xiaomi.com
@@ -385,6 +389,7 @@ DOMAIN,hpplay.cdn.cibn.cc
 DOMAIN,httpdns.bcelive.com
 DOMAIN,httpdns.ocloud.oppomobile.com
 DOMAIN,hugelog.fcbox.com
+DOMAIN,huichuan-mc.sm.cn
 DOMAIN,huichuan.sm.cn
 DOMAIN,hw-ot-ad.a.yximgs.com
 DOMAIN,hw-p2p-pull.video-voip.com
@@ -396,6 +401,7 @@ DOMAIN,hyt.comp.360os.com
 DOMAIN,i.l-new.inmobicdn.net
 DOMAIN,i.l.inmobicdn.net
 DOMAIN,iad.apple.com
+DOMAIN,iad.g.163.com
 DOMAIN,iadctest.qwapi.com
 DOMAIN,iadsdk.apple.com
 DOMAIN,iadworkbench.apple.com
@@ -418,6 +424,7 @@ DOMAIN,impression-asia.chinaliftoff.io
 DOMAIN,impression-asia.liftoff.io
 DOMAIN,impression.appsflyer.com
 DOMAIN,in.treasuredata.com
+DOMAIN,ios.bugly.qq.com
 DOMAIN,iot-eu-logser.realme.com
 DOMAIN,iot-logser.realme.com
 DOMAIN,ipv4.kkmh.com
@@ -540,6 +547,7 @@ DOMAIN,mssdk.zijieapi.com
 DOMAIN,mtj.baidu.com
 DOMAIN,nadvideo2.baidu.com
 DOMAIN,newvoice.chiq5.smart-tv.cn
+DOMAIN,nex.163.com
 DOMAIN,nmetrics.samsung.com
 DOMAIN,notes-analytics-events.apple.com
 DOMAIN,notify.sec.miui.com
@@ -708,11 +716,11 @@ DOMAIN,tdsdk.cpatrk.net
 DOMAIN,tdsdk.xdrig.com
 DOMAIN,telemetry.sdk.inmobi.com
 DOMAIN,tencent-dtv.m.cn.miaozhen.com
-DOMAIN,terms-drcn.platform.dbankcloud.cn
 DOMAIN,test.ad.xiaomi.com
 DOMAIN,test.e.ad.xiaomi.com
 DOMAIN,tj.b.qq.com
 DOMAIN,tj.video.qq.com
+DOMAIN,tk.anythinktech.com
 DOMAIN,tmead.y.qq.com
 DOMAIN,tmeadcomm.y.qq.com
 DOMAIN,tmfmazu-wangka.m.qq.com
@@ -837,7 +845,7 @@ DOMAIN,youku-acs.m.taobao.com
 DOMAIN,ytx-file.110route.cn
 DOMAIN,zeus.ad.xiaomi.com
 DOMAIN,zhihu-web-analytics.zhihu.com
-URL-REGEX,.*.*.shouji.sogou.com
+DOMAIN,zxid-m.mobileservice.cn
 URL-REGEX,.*.1rtb.com
 URL-REGEX,.*.a.market.xiaomi.com
 URL-REGEX,.*.ad.gameley.com

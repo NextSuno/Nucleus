@@ -3,10 +3,9 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 中的 Classical 类型，添加 no-resolve 参数
-# UPDATED: 2025-06-24 19:43:30
-# IP-CIDR: 9
+# UPDATED: 2025-07-19 19:55:03
 # HOST-SUFFIX: 39522
-# TOTAL: 39531
+# TOTAL: 39522
 
 HOST-SUFFIX,0.myikas.com,REJECT
 HOST-SUFFIX,0.net.easyjet.com,REJECT

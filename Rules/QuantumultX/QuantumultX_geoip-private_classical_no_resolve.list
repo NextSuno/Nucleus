@@ -3,9 +3,8 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 中的 Classical 类型，添加 no-resolve 参数
-# UPDATED: 2025-06-24 19:43:22
-# IP-CIDR: 14
-# TOTAL: 14
+# UPDATED: 2025-07-19 19:54:56
+# TOTAL: 0
 
 IP-CIDR,0.0.0.0/8,DIRECT,no-resolve
 IP-CIDR,10.0.0.0/8,DIRECT,no-resolve

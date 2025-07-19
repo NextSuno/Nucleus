@@ -3,9 +3,9 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 中的 Classical 类型
-# UPDATED: 2025-06-24 19:48:14
-# HOST-SUFFIX: 5865
-# TOTAL: 5865
+# UPDATED: 2025-07-19 19:58:22
+# HOST-SUFFIX: 5867
+# TOTAL: 5867
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,030buy.com,PROXY
@@ -930,7 +930,6 @@ HOST-SUFFIX,chenpokongvip.com,PROXY
 HOST-SUFFIX,chenshan20042005.wordpress.com,PROXY
 HOST-SUFFIX,cherrysave.com,PROXY
 HOST-SUFFIX,chhongbi.org,PROXY
-HOST-SUFFIX,chicagoncmtv.com,PROXY
 HOST-SUFFIX,china-mmm.jp.net,PROXY
 HOST-SUFFIX,china-mmm.net,PROXY
 HOST-SUFFIX,china-review.com.ua,PROXY
@@ -1357,6 +1356,7 @@ HOST-SUFFIX,dongtaiwang.com,PROXY
 HOST-SUFFIX,dongtaiwang.net,PROXY
 HOST-SUFFIX,dongyangjing.com,PROXY
 HOST-SUFFIX,dontfilter.us,PROXY
+HOST-SUFFIX,doom9.org,PROXY
 HOST-SUFFIX,doosho.com,PROXY
 HOST-SUFFIX,doourbest.org,PROXY
 HOST-SUFFIX,dorjeshugden.com,PROXY
@@ -1438,6 +1438,7 @@ HOST-SUFFIX,e-hentaidb.com,PROXY
 HOST-SUFFIX,e-info.org.tw,PROXY
 HOST-SUFFIX,e-zone.com.hk,PROXY
 HOST-SUFFIX,e123.hk,PROXY
+HOST-SUFFIX,e621.net,PROXY
 HOST-SUFFIX,earlytibet.com,PROXY
 HOST-SUFFIX,earthcam.com,PROXY
 HOST-SUFFIX,earthvpn.com,PROXY
@@ -1796,8 +1797,6 @@ HOST-SUFFIX,freedomhouse.org,PROXY
 HOST-SUFFIX,freedominfonetweb.wordpress.com,PROXY
 HOST-SUFFIX,freedomsherald.org,PROXY
 HOST-SUFFIX,freeforums.org,PROXY
-HOST-SUFFIX,freefq.com,PROXY
-HOST-SUFFIX,freefuckvids.com,PROXY
 HOST-SUFFIX,freegao.com,PROXY
 HOST-SUFFIX,freehongkong.org,PROXY
 HOST-SUFFIX,freeilhamtohti.org,PROXY
@@ -2646,6 +2645,7 @@ HOST-SUFFIX,imb.org,PROXY
 HOST-SUFFIX,imdb.com,PROXY
 HOST-SUFFIX,img.dlsite.jp,PROXY
 HOST-SUFFIX,img.ly,PROXY
+HOST-SUFFIX,img.picgo.net,PROXY
 HOST-SUFFIX,imgasd.com,PROXY
 HOST-SUFFIX,imgchili.net,PROXY
 HOST-SUFFIX,imgmega.com,PROXY
@@ -4059,6 +4059,7 @@ HOST-SUFFIX,radiohilight.net,PROXY
 HOST-SUFFIX,radioline.co,PROXY
 HOST-SUFFIX,radiovaticana.org,PROXY
 HOST-SUFFIX,radiovncr.com,PROXY
+HOST-SUFFIX,radmin-vpn.com,PROXY
 HOST-SUFFIX,rael.org,PROXY
 HOST-SUFFIX,raggedbanner.com,PROXY
 HOST-SUFFIX,raidcall.com.tw,PROXY
@@ -5610,6 +5611,7 @@ HOST-SUFFIX,www.taiwanonline.cc,PROXY
 HOST-SUFFIX,www.thechinastory.org,PROXY
 HOST-SUFFIX,www.wan-press.org,PROXY
 HOST-SUFFIX,www.websnapr.com,PROXY
+HOST-SUFFIX,www.xicons.org,PROXY
 HOST-SUFFIX,www.zensur.freerk.com,PROXY
 HOST-SUFFIX,www1.american.edu,PROXY
 HOST-SUFFIX,www1.biz,PROXY
