@@ -3,72 +3,77 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Surge 中的 RULE-SET 类型
-# UPDATED: 2025-07-19 20:03:54
+# UPDATED: 2025-09-19 11:23:02
 # DOMAIN: 13
-# DOMAIN-SUFFIX: 52
-# TOTAL: 65
+# DOMAIN-SUFFIX: 57
+# TOTAL: 70
 
 DOMAIN,servd-anthropic-website.b-cdn.net
-DOMAIN,openaiapi-site.azureedge.net
-DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-DOMAIN,openaicomproductionae4b.blob.core.windows.net
-DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN,ai.google.dev
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN,openaicomproductionae4b.blob.core.windows.net
+DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN,pplx-res.cloudinary.com
-DOMAIN-SUFFIX,chat.com
-DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,labs.google
+DOMAIN-SUFFIX,clipdrop.co
 DOMAIN-SUFFIX,jasper.ai
-DOMAIN-SUFFIX,hf.co
-DOMAIN-SUFFIX,dify.ai
+DOMAIN-SUFFIX,chutes.ai
+DOMAIN-SUFFIX,poecdn.net
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,pplx.ai
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,mistral.ai
 DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,openrouter.ai
-DOMAIN-SUFFIX,cursor-cdn.com
-DOMAIN-SUFFIX,cursor.com
-DOMAIN-SUFFIX,cursor.sh
-DOMAIN-SUFFIX,cursorapi.com
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claudeusercontent.com
-DOMAIN-SUFFIX,groq.com
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,chutes.ai
-DOMAIN-SUFFIX,clipdrop.co
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,sora.com
-DOMAIN-SUFFIX,poe.com
-DOMAIN-SUFFIX,poecdn.net
-DOMAIN-SUFFIX,x.ai
-DOMAIN-SUFFIX,coderabbit.ai
-DOMAIN-SUFFIX,grok.com
-DOMAIN-SUFFIX,pplx.ai
 DOMAIN-SUFFIX,gemini.google
 DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,perplexity.com
 DOMAIN-SUFFIX,jules.google
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,cursorapi.com
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,dify.ai
+DOMAIN-SUFFIX,cursor-cdn.com
+DOMAIN-SUFFIX,coderabbit.ai
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,hf.co
 DOMAIN-SUFFIX,huggingface.co
-DOMAIN-SUFFIX,host.livekit.cloud
-DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-DOMAIN-SUFFIX,notebooklm.google.com
-DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,jules.google.com
 DOMAIN-SUFFIX,makersuite.google.com
-DOMAIN-SUFFIX,aistudio.google.com
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN-SUFFIX,host.livekit.cloud
 DOMAIN-SUFFIX,turn.livekit.cloud
-DOMAIN-SUFFIX,coderabbit.gallery.vsassets.io
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
+DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,gateway.ai.cloudflare.com
+DOMAIN-SUFFIX,coderabbit.gallery.vsassets.io
 DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,openaicom.imgix.net

@@ -3,35 +3,37 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Shadowrocket 中的 DOMAIN-SET 类型
-# UPDATED: 2025-07-19 20:02:14
+# UPDATED: 2025-09-19 11:20:27
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 26
-# TOTAL: 27
+# DOMAIN-SUFFIX: 28
+# TOTAL: 29
 
 github-cloud.s3.amazonaws.com
 .githubhackathon.com
+.npm.community
+.gh.io
 .ghcr.io
-.githubnext.com
-.githubpreview.dev
+.git.io
+.github.ai
 .github.blog
 .github.com
 .github.community
 .github.dev
 .github.io
 .githubapp.com
-.githubassets.com
-.githubcopilot.com
 .npmjs.org
 .dependabot.com
-.git.io
-.githubstatus.com
 .githubuniverse.com
+.githubnext.com
+.githubpreview.dev
+.githubstatus.com
+.atom.io
 .githubusercontent.com
 .myoctocat.com
 .opensource.guide
 .repo.new
 .thegithubshop.com
-.atom.io
-.npm.community
+.githubassets.com
+.githubcopilot.com
 .npmjs.com
 .blob.core.windows.net

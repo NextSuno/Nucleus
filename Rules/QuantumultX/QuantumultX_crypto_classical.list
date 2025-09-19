@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 中的 Classical 类型
-# UPDATED: 2025-07-19 19:55:46
+# UPDATED: 2025-09-19 11:13:07
 # HOST: 2
-# HOST-SUFFIX: 250
-# TOTAL: 252
+# HOST-SUFFIX: 251
+# TOTAL: 253
 
 HOST-SUFFIX,bitcointalk.org,PROXY
 HOST-SUFFIX,aex.com,PROXY
@@ -211,6 +211,7 @@ HOST-SUFFIX,ftx.com,PROXY
 HOST-KEYWORD,metamask,PROXY
 HOST,token-api.metaswap.codefi.network,PROXY
 HOST,min-api.cryptocompare.com,PROXY
+HOST-SUFFIX,infura.io,PROXY
 HOST-SUFFIX,opensea.io,PROXY
 HOST-SUFFIX,nftscan.com,PROXY
 HOST-SUFFIX,makersplace.com,PROXY

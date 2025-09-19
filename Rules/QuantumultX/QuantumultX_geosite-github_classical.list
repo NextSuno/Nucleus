@@ -3,35 +3,37 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 中的 Classical 类型
-# UPDATED: 2025-07-19 19:56:53
+# UPDATED: 2025-09-19 11:14:23
 # HOST: 1
-# HOST-SUFFIX: 26
-# TOTAL: 27
+# HOST-SUFFIX: 28
+# TOTAL: 29
 
 HOST,github-cloud.s3.amazonaws.com,PROXY
 HOST-SUFFIX,githubhackathon.com,PROXY
+HOST-SUFFIX,npm.community,PROXY
+HOST-SUFFIX,gh.io,PROXY
 HOST-SUFFIX,ghcr.io,PROXY
-HOST-SUFFIX,githubnext.com,PROXY
-HOST-SUFFIX,githubpreview.dev,PROXY
+HOST-SUFFIX,git.io,PROXY
+HOST-SUFFIX,github.ai,PROXY
 HOST-SUFFIX,github.blog,PROXY
 HOST-SUFFIX,github.com,PROXY
 HOST-SUFFIX,github.community,PROXY
 HOST-SUFFIX,github.dev,PROXY
 HOST-SUFFIX,github.io,PROXY
 HOST-SUFFIX,githubapp.com,PROXY
-HOST-SUFFIX,githubassets.com,PROXY
-HOST-SUFFIX,githubcopilot.com,PROXY
 HOST-SUFFIX,npmjs.org,PROXY
 HOST-SUFFIX,dependabot.com,PROXY
-HOST-SUFFIX,git.io,PROXY
-HOST-SUFFIX,githubstatus.com,PROXY
 HOST-SUFFIX,githubuniverse.com,PROXY
+HOST-SUFFIX,githubnext.com,PROXY
+HOST-SUFFIX,githubpreview.dev,PROXY
+HOST-SUFFIX,githubstatus.com,PROXY
+HOST-SUFFIX,atom.io,PROXY
 HOST-SUFFIX,githubusercontent.com,PROXY
 HOST-SUFFIX,myoctocat.com,PROXY
 HOST-SUFFIX,opensource.guide,PROXY
 HOST-SUFFIX,repo.new,PROXY
 HOST-SUFFIX,thegithubshop.com,PROXY
-HOST-SUFFIX,atom.io,PROXY
-HOST-SUFFIX,npm.community,PROXY
+HOST-SUFFIX,githubassets.com,PROXY
+HOST-SUFFIX,githubcopilot.com,PROXY
 HOST-SUFFIX,npmjs.com,PROXY
 HOST-SUFFIX,blob.core.windows.net,PROXY

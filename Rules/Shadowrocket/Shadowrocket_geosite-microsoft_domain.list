@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Shadowrocket 中的 DOMAIN-SET 类型
-# UPDATED: 2025-07-19 20:02:22
+# UPDATED: 2025-09-19 11:20:37
 # DOMAIN: 72
-# DOMAIN-SUFFIX: 613
-# TOTAL: 685
+# DOMAIN-SUFFIX: 614
+# TOTAL: 686
 
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
@@ -15,7 +15,6 @@ officecdn-microsoft-com.akamaized.net
 statics-marketingsites-eas-ms-com.akamaized.net
 statics-marketingsites-eus-ms-com.akamaized.net
 statics-marketingsites-wcus-ms-com.akamaized.net
-github-cloud.s3.amazonaws.com
 az764295.vo.msecnd.net
 bingsettingssearch.trafficmanager.net
 default.exp-tas.com
@@ -40,6 +39,7 @@ flightsimulator.azureedge.net
 azure.microsoft.com
 azuremarketplace.microsoft.com
 location.microsoft.com
+github-cloud.s3.amazonaws.com
 .microsoft
 .hotmail
 .office
@@ -50,13 +50,13 @@ location.microsoft.com
 .xbox
 .onedriveupdater
 .onedrive
-.winhec.com
-.msgamestudios.com
+.adaptivecards.io
+.git.io
 .microsoft.com
 .microsoft.cz
 .microsoft.de
 .microsoft.dk
-.renovacionoffice.com
+.microsoft.ee
 .microsoft.es
 .microsoft.eu
 .microsoft.fi
@@ -111,7 +111,6 @@ location.microsoft.com
 .crossborderexpansion.com
 .docs.com
 .dynamics.com
-.edgesuite.net
 .efproject.net
 .fasttrackreadysupport.com
 .fluidpreview.com
@@ -205,9 +204,9 @@ location.microsoft.com
 .msftncsi.com
 .msftnet.org
 .msgamesresearch.com
-.githubnext.com
+.msgamestudios.com
 .mshome.net
-.msidentity.com
+.appcenter.ms
 .msocdn.com
 .msturing.org
 .msudalosti.com
@@ -282,44 +281,16 @@ location.microsoft.com
 .windowsphone.com
 .windowssearch.com
 .windowsupdate.com
-.microsoft.ch
+.winhec.com
 .winhec.net
 .yammer.com
-.githubhackathon.com
-.ghcr.io
-.office365tw.com
-.microsoft.ee
-.microsoft.cl
-.repo.new
-.github.blog
-.github.com
-.github.community
-.github.dev
-.github.io
-.githubapp.com
-.githubassets.com
-.githubcopilot.com
-.npmjs.org
-.dependabot.com
-.git.io
-.githubstatus.com
-.githubuniverse.com
-.githubusercontent.com
-.myoctocat.com
-.opensource.guide
-.githubpreview.dev
-.thegithubshop.com
-.atom.io
-.npm.community
-.npmjs.com
-.office365love.com
-.msunlimitedcloudsummit.com
-.flipwithsurface.com
-.adaptivecards.io
+.microsoft.ch
 .api-extractor.com
-.apisof.net
-.appcenter.ms
-.blazor.net
+.npmjs.com
+.githubcopilot.com
+.githubassets.com
+.msidentity.com
+.microsoft.cl
 .botframework.com
 .codethemicrobit.com
 .devopsassessment.net
@@ -366,7 +337,9 @@ location.microsoft.com
 .vscode-cdn.net
 .vscode-unpkg.net
 .xamarin.com
-.microsoftmxfilantropia.com
+.thegithubshop.com
+.repo.new
+.opensource.guide
 .msocsp.com
 .microsoftnews.cc
 .microsoftnews.com
@@ -391,13 +364,13 @@ location.microsoft.com
 .1drv.com
 .livefilestore.com
 .sharepoint.cn
-.microsoftlatamholiday.com
-.microsoftdiplomados.com
-.microsoftcloudsummit.com
-.microsoft-give.com
-.masalladeloslimites.com
-.microsoftpartnersolutions.com
-.bing.net
+.myoctocat.com
+.githubusercontent.com
+.atom.io
+.githubstatus.com
+.githubpreview.dev
+.githubnext.com
+.githubuniverse.com
 .microsoft.by
 .gamepass.com
 .orithegame.com
@@ -422,12 +395,6 @@ location.microsoft.com
 .xboxservices.com
 .xboxstudios.com
 .xbx.lv
-.beth.games
-.bethesda.net
-.bethesdagamestudios.com
-.bethsoft.com
-.doom.com
-.elderscrolls.com
 .forza.net
 .forzamotorsport.net
 .forzaracingchampionship.com
@@ -440,6 +407,12 @@ location.microsoft.com
 .mojang.com
 .asobostudio.com
 .flightsimulator.com
+.beth.games
+.bethesda.net
+.bethesdagamestudios.com
+.bethsoft.com
+.doom.com
+.elderscrolls.com
 .microsoft.be
 .aadrm.com
 .azure-devices-int.net
@@ -510,12 +483,40 @@ location.microsoft.com
 .bingworld.com
 .bluehatnights.com
 .bing123.com
+.bing.net
+.microsoftpartnersolutions.com
+.masalladeloslimites.com
+.microsoft-give.com
+.microsoftcloudsummit.com
+.microsoftdiplomados.com
+.microsoftlatamholiday.com
+.microsoftmxfilantropia.com
+.flipwithsurface.com
+.msunlimitedcloudsummit.com
+.office365love.com
+.office365tw.com
+.renovacionoffice.com
+.apisof.net
+.githubhackathon.com
+.npm.community
+.gh.io
+.ghcr.io
+.blazor.net
+.github.ai
+.github.blog
+.github.com
+.github.community
+.github.dev
+.github.io
+.githubapp.com
+.npmjs.org
+.dependabot.com
 .visualstudio.co.uk
 .spoprod-a.akamaihd.net
+.live.com.au
 .skype-edf.akadns.net
 .skypedata.akadns.net
 .microsoftstore.com.hk
-.live.com.au
 .clarity.ms
 .dcg.microsoft.com
 .dynamics.cn
