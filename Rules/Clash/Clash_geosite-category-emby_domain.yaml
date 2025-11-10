@@ -2,11 +2,11 @@
 # NAME: geosite-category-emby
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
-# DESC: 适用于 Clash 中的 Domain 类型
-# UPDATED: 2025-09-19 10:49:37
+# DESC: 适用于 Clash 规则中的 Domain 类型
+# UPDATED: 2025-11-10 16:15:04
 # DOMAIN: 59
-# DOMAIN-SUFFIX: 27
-# TOTAL: 86
+# DOMAIN-SUFFIX: 29
+# TOTAL: 88
 
 payload:
     - plex.llon.net
@@ -69,29 +69,31 @@ payload:
     - emby.aiyowei.ml
     - cc.ccemby.tk
     - +.mius.uk
-    - +.loseremby.org
     - +.sfcj.org
-    - +.ju.dog
+    - +.poloemby.xyz
+    - +.hongxingyunmovie.vip
     - +.embyplus.club
     - +.404.sb
     - +.4545.cf
     - +.blueseacdn.com
     - +.emby.ml
+    - +.loseremby.org
     - +.plex.direct
     - +.texon.fans
-    - +.hongxingyunmovie.vip
+    - +.ju.dog
     - +.123456.al
-    - +.gfwemby.org
-    - +.poloemby.xyz
+    - +.yunti.online
+    - +.nvidia.rip
     - +.pololine.ml
     - +.misakaf.org
-    - +.nvidia.rip
-    - +.feverss.cloud
+    - +.gfwemby.org
     - +.nebula-emby.com
+    - +.feverss.cloud
     - +.stream.synn.cc
-    - +.stream.ntrrr.top
     - +.media-1.co.uk
     - +.sptv.ii00.cc
     - +.sgtv.ii00.cc
     - +.cn-music.mefun.vip
     - +.singularity.deja-vu.beauty
+    - +.emby1.69yun69.com
+    - +.stream.ntrrr.top

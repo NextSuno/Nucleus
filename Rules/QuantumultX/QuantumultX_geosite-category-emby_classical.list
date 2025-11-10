@@ -2,11 +2,11 @@
 # NAME: geosite-category-emby
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
-# DESC: 适用于 Quantumult X 中的 Classical 类型
-# UPDATED: 2025-09-19 11:13:38
+# DESC: 适用于 Quantumult X 规则中的 Classical 类型
+# UPDATED: 2025-11-10 17:30:29
 # HOST: 59
-# HOST-SUFFIX: 27
-# TOTAL: 86
+# HOST-SUFFIX: 29
+# TOTAL: 88
 
 HOST,plex.llon.net,PROXY
 HOST,emby.nexitally.com,PROXY
@@ -68,29 +68,31 @@ HOST,emby.p-p.men,PROXY
 HOST,emby.aiyowei.ml,PROXY
 HOST,cc.ccemby.tk,PROXY
 HOST-SUFFIX,mius.uk,PROXY
-HOST-SUFFIX,loseremby.org,PROXY
 HOST-SUFFIX,sfcj.org,PROXY
-HOST-SUFFIX,ju.dog,PROXY
+HOST-SUFFIX,poloemby.xyz,PROXY
+HOST-SUFFIX,hongxingyunmovie.vip,PROXY
 HOST-SUFFIX,embyplus.club,PROXY
 HOST-SUFFIX,404.sb,PROXY
 HOST-SUFFIX,4545.cf,PROXY
 HOST-SUFFIX,blueseacdn.com,PROXY
 HOST-SUFFIX,emby.ml,PROXY
+HOST-SUFFIX,loseremby.org,PROXY
 HOST-SUFFIX,plex.direct,PROXY
 HOST-SUFFIX,texon.fans,PROXY
-HOST-SUFFIX,hongxingyunmovie.vip,PROXY
+HOST-SUFFIX,ju.dog,PROXY
 HOST-SUFFIX,123456.al,PROXY
-HOST-SUFFIX,gfwemby.org,PROXY
-HOST-SUFFIX,poloemby.xyz,PROXY
+HOST-SUFFIX,yunti.online,PROXY
+HOST-SUFFIX,nvidia.rip,PROXY
 HOST-SUFFIX,pololine.ml,PROXY
 HOST-SUFFIX,misakaf.org,PROXY
-HOST-SUFFIX,nvidia.rip,PROXY
-HOST-SUFFIX,feverss.cloud,PROXY
+HOST-SUFFIX,gfwemby.org,PROXY
 HOST-SUFFIX,nebula-emby.com,PROXY
+HOST-SUFFIX,feverss.cloud,PROXY
 HOST-SUFFIX,stream.synn.cc,PROXY
-HOST-SUFFIX,stream.ntrrr.top,PROXY
 HOST-SUFFIX,media-1.co.uk,PROXY
 HOST-SUFFIX,sptv.ii00.cc,PROXY
 HOST-SUFFIX,sgtv.ii00.cc,PROXY
 HOST-SUFFIX,cn-music.mefun.vip,PROXY
 HOST-SUFFIX,singularity.deja-vu.beauty,PROXY
+HOST-SUFFIX,emby1.69yun69.com,PROXY
+HOST-SUFFIX,stream.ntrrr.top,PROXY

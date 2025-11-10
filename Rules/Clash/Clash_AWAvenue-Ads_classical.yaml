@@ -2,11 +2,11 @@
 # NAME: AWAvenue-Ads
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
-# DESC: 适用于 Clash 中的 Classical 类型
-# UPDATED: 2025-09-19 10:46:45
-# DOMAIN: 843
+# DESC: 适用于 Clash 规则中的 Classical 类型
+# UPDATED: 2025-11-10 16:03:22
+# DOMAIN: 844
 # DOMAIN-SUFFIX: 11
-# TOTAL: 854
+# TOTAL: 855
 
 payload:
     - DOMAIN,1500020991.vodplayer.wxamedia.com
@@ -45,6 +45,7 @@ payload:
     - DOMAIN,adapi.izuiyou.com
     - DOMAIN,adapi.yynetwk.com
     - DOMAIN,adashbc.ut.taobao.com
+    - DOMAIN,adashx.m.taobao.com
     - DOMAIN,adc.hpplay.cn
     - DOMAIN,adcdn.hpplay.cn
     - DOMAIN,adcdn.tencentmusic.com
@@ -244,6 +245,8 @@ payload:
     - DOMAIN,bj.ad.track.66mobi.com
     - DOMAIN,books-analytics-events.apple.com
     - DOMAIN,bootpreload.uve.weibo.com
+    - DOMAIN,browser.events.data.msn.cn
+    - DOMAIN,browser.events.data.msn.com
     - DOMAIN,browsercfg-drcn.cloud.dbankcloud.cn
     - DOMAIN,bsrv.qq.com
     - DOMAIN,bugly.qq.com
@@ -499,7 +502,6 @@ payload:
     - DOMAIN,m-adnet.hiaiabc.com
     - DOMAIN,m.ad.zhangyue.com
     - DOMAIN,m.atm.youku.com
-    - DOMAIN,m.iqiyipic.com
     - DOMAIN,m1.ad.10010.com
     - DOMAIN,mapi.m.jd.com
     - DOMAIN,masdkv6.3g.qq.com
@@ -518,7 +520,6 @@ payload:
     - DOMAIN,mission-pub.smart-tv.cn
     - DOMAIN,miui-fxcse.avlyun.com
     - DOMAIN,mlog.bigda.com
-    - DOMAIN,mmgame.qpic.cn
     - DOMAIN,mnqlog.ldmnq.com
     - DOMAIN,moatads.com
     - DOMAIN,mobads-logs.baidu.com

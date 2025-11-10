@@ -2,22 +2,22 @@
 # NAME: geosite-amazon
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
-# DESC: 适用于 Quantumult X 中的 Classical 类型
-# UPDATED: 2025-09-19 11:14:46
+# DESC: 适用于 Quantumult X 规则中的 Classical 类型
+# UPDATED: 2025-11-10 17:30:54
 # HOST: 2
 # HOST-SUFFIX: 217
 # TOTAL: 219
 
-HOST-SUFFIX,amazon,DIRECT
+HOST-SUFFIX,aws,DIRECT
 HOST-SUFFIX,xn--cckwcxetd,DIRECT
 HOST-SUFFIX,xn--jlq480n2rg,DIRECT
 HOST-SUFFIX,yamaxun,DIRECT
 HOST-SUFFIX,zappos,DIRECT
 HOST-SUFFIX,kindle,DIRECT
 HOST-SUFFIX,imdb,DIRECT
-HOST-SUFFIX,aws,DIRECT
-HOST-SUFFIX,amazonstudiosguilds.com,DIRECT
-HOST-SUFFIX,amazon-jp-recruiting.com,DIRECT
+HOST-SUFFIX,amazon,DIRECT
+HOST-SUFFIX,aesworkshops.com,DIRECT
+HOST-SUFFIX,amazonimages.com,DIRECT
 HOST-SUFFIX,aboutamazon.fr,DIRECT
 HOST-SUFFIX,aboutamazon.in,DIRECT
 HOST-SUFFIX,aboutamazon.it,DIRECT
@@ -25,20 +25,20 @@ HOST-SUFFIX,aboutamazon.jp,DIRECT
 HOST-SUFFIX,aboutamazon.pl,DIRECT
 HOST-SUFFIX,amaaozn.com,DIRECT
 HOST-SUFFIX,amazon-fashions.com,DIRECT
-HOST-SUFFIX,wholeplanetfoundation.org,DIRECT
+HOST-SUFFIX,amazon-jp-recruiting.com,DIRECT
 HOST-SUFFIX,amazon-lantern.com,DIRECT
 HOST-SUFFIX,amazon-launchpad.com,DIRECT
 HOST-SUFFIX,amazon.ae,DIRECT
 HOST-SUFFIX,amazon.ca,DIRECT
 HOST-SUFFIX,amazon.com,DIRECT
 HOST-SUFFIX,amazon.de,DIRECT
+HOST-SUFFIX,wholeplanetfoundation.org,DIRECT
+HOST-SUFFIX,wholekidsfoundation.org,DIRECT
+HOST-SUFFIX,wholefoodsmarket.com,DIRECT
+HOST-SUFFIX,wholefoods.com,DIRECT
+HOST-SUFFIX,wholecitiesfoundation.org,DIRECT
+HOST-SUFFIX,wfm.com,DIRECT
 HOST-SUFFIX,primevideo.tv,DIRECT
-HOST-SUFFIX,primevideo.org,DIRECT
-HOST-SUFFIX,primevideo.info,DIRECT
-HOST-SUFFIX,primevideo.com,DIRECT
-HOST-SUFFIX,primevideo.cc,DIRECT
-HOST-SUFFIX,prime-video.com,DIRECT
-HOST-SUFFIX,amazonvideo.com,DIRECT
 HOST-SUFFIX,amazon.dev,DIRECT
 HOST-SUFFIX,amazon.es,DIRECT
 HOST-SUFFIX,amazon.fr,DIRECT
@@ -54,16 +54,16 @@ HOST-SUFFIX,amazonauthorinsights.com,DIRECT
 HOST-SUFFIX,amazonbusiness.org,DIRECT
 HOST-SUFFIX,amazonbusinessblog.com,DIRECT
 HOST-SUFFIX,amazondevicesupport.com,DIRECT
-HOST-SUFFIX,wholekidsfoundation.org,DIRECT
+HOST-SUFFIX,amazonfctours.com,DIRECT
 HOST-SUFFIX,amazonianblog.com,DIRECT
-HOST-SUFFIX,amazonimages.com,DIRECT
+HOST-SUFFIX,amazonaws.info,DIRECT
 HOST-SUFFIX,amazonlaunchpad.com,DIRECT
 HOST-SUFFIX,amazonliterarypartnership.com,DIRECT
-HOST-SUFFIX,amazonlumberyard.wang,DIRECT
+HOST-SUFFIX,amazonaws.net,DIRECT
 HOST-SUFFIX,amazonpay.com,DIRECT
 HOST-SUFFIX,amazonpay.in,DIRECT
 HOST-SUFFIX,amazonsdi.com,DIRECT
-HOST-SUFFIX,wfm.com,DIRECT
+HOST-SUFFIX,amazonstudiosguilds.com,DIRECT
 HOST-SUFFIX,amazonvideodirect.com,DIRECT
 HOST-SUFFIX,amzn.asia,DIRECT
 HOST-SUFFIX,amzn.com,DIRECT
@@ -81,32 +81,24 @@ HOST-SUFFIX,ueberamazon.de,DIRECT
 HOST-SUFFIX,yamaxun.com,DIRECT
 HOST-SUFFIX,alexa.com,DIRECT
 HOST-SUFFIX,audible.com,DIRECT
-HOST-SUFFIX,awscommandlineinterface.com,DIRECT
-HOST-SUFFIX,kindleoasis.us,DIRECT
-HOST-SUFFIX,amazonses.com,DIRECT
-HOST-SUFFIX,wholefoods.com,DIRECT
-HOST-SUFFIX,wholefoodsmarket.com,DIRECT
-HOST-SUFFIX,amazonfctours.com,DIRECT
-HOST-SUFFIX,aboutamazon.eu,DIRECT
+HOST-SUFFIX,createspace.com,DIRECT
 HOST-SUFFIX,amazontrust.com,DIRECT
-HOST-SUFFIX,amazonvideo.cc,DIRECT
-HOST-SUFFIX,aboutamazon.es,DIRECT
 HOST-SUFFIX,awstrust.com,DIRECT
 HOST-SUFFIX,ss2.us,DIRECT
-HOST-SUFFIX,aboutamazon.de,DIRECT
+HOST-SUFFIX,aboutamazon.es,DIRECT
 HOST-SUFFIX,awsautoscaling.com,DIRECT
 HOST-SUFFIX,amzndns.net,DIRECT
-HOST-SUFFIX,aesworkshops.com,DIRECT
+HOST-SUFFIX,aboutamazon.de,DIRECT
 HOST-SUFFIX,awsbraket.com,DIRECT
 HOST-SUFFIX,amazonaws.biz,DIRECT
 HOST-SUFFIX,amzndns.org,DIRECT
-HOST-SUFFIX,amazonaws.com,DIRECT
-HOST-SUFFIX,amazonaws.info,DIRECT
-HOST-SUFFIX,amazonaws.net,DIRECT
+HOST-SUFFIX,awsautopilot.com,DIRECT
+HOST-SUFFIX,aboutamazon.eu,DIRECT
+HOST-SUFFIX,amazonlumberyard.wang,DIRECT
 HOST-SUFFIX,amazonaws.org,DIRECT
 HOST-SUFFIX,amazonaws.tv,DIRECT
 HOST-SUFFIX,amazoncognito.com,DIRECT
-HOST-SUFFIX,wholecitiesfoundation.org,DIRECT
+HOST-SUFFIX,amazonses.com,DIRECT
 HOST-SUFFIX,amazonworkdocs.com,DIRECT
 HOST-SUFFIX,amplifyapp.com,DIRECT
 HOST-SUFFIX,amplifyframework.com,DIRECT
@@ -114,7 +106,7 @@ HOST-SUFFIX,aws-iot-hackathon.com,DIRECT
 HOST-SUFFIX,awsedstart.com,DIRECT
 HOST-SUFFIX,awsapprunner.com,DIRECT
 HOST-SUFFIX,awsapps.com,DIRECT
-HOST-SUFFIX,awsautopilot.com,DIRECT
+HOST-SUFFIX,amazonaws.com,DIRECT
 HOST-SUFFIX,acmvalidations.com,DIRECT
 HOST-SUFFIX,amazonaws-china.com,DIRECT
 HOST-SUFFIX,acmvalidationsaws.com,DIRECT
@@ -135,10 +127,11 @@ HOST-SUFFIX,cloudfront.net,DIRECT
 HOST-SUFFIX,containersonaws.com,DIRECT
 HOST-SUFFIX,elasticbeanstalk.com,DIRECT
 HOST-SUFFIX,thinkboxsoftware.com,DIRECT
-HOST-SUFFIX,createspace.com,DIRECT
+HOST-SUFFIX,awscommandlineinterface.com,DIRECT
 HOST-SUFFIX,amzndns.com,DIRECT
-HOST-SUFFIX,amazonprimevideos.com,DIRECT
-HOST-SUFFIX,aiv-cdn.net,DIRECT
+HOST-SUFFIX,primevideo.org,DIRECT
+HOST-SUFFIX,primevideo.info,DIRECT
+HOST-SUFFIX,primevideo.com,DIRECT
 HOST-SUFFIX,aboutamazon.com,DIRECT
 HOST-SUFFIX,boxofficemojo.com,DIRECT
 HOST-SUFFIX,imdb.com,DIRECT
@@ -158,19 +151,26 @@ HOST-SUFFIX,kindleoasis.com,DIRECT
 HOST-SUFFIX,kindleoasis.info,DIRECT
 HOST-SUFFIX,kindleoasis.jp,DIRECT
 HOST-SUFFIX,kindleoasis.org,DIRECT
-HOST-SUFFIX,amazon.com.tr,DIRECT
+HOST-SUFFIX,kindleoasis.us,DIRECT
+HOST-SUFFIX,primevideo.cc,DIRECT
+HOST-SUFFIX,prime-video.com,DIRECT
+HOST-SUFFIX,aiv-cdn.net,DIRECT
+HOST-SUFFIX,amazonprimevideos.com,DIRECT
+HOST-SUFFIX,amazonvideo.cc,DIRECT
+HOST-SUFFIX,amazonvideo.com,DIRECT
+HOST-SUFFIX,amazon.com.mx,DIRECT
 HOST-SUFFIX,kindle.co.jp,DIRECT
-HOST-SUFFIX,kindle.co.uk,DIRECT
 HOST-SUFFIX,amazonaws.co.uk,DIRECT
 HOST-SUFFIX,amzndns.co.uk,DIRECT
-HOST-SUFFIX,wholefoodsmarket.co.uk,DIRECT
-HOST-SUFFIX,amazon.com.mx,DIRECT
+HOST-SUFFIX,amazon.com.tr,DIRECT
+HOST-SUFFIX,kindle.co.uk,DIRECT
 HOST-SUFFIX,amazon.com.br,DIRECT
-HOST-SUFFIX,amazon.com.au,DIRECT
-HOST-SUFFIX,amazon.co.uk,DIRECT
 HOST-SUFFIX,amazon.co.jp,DIRECT
+HOST-SUFFIX,amazon.co.uk,DIRECT
+HOST-SUFFIX,amazon.com.au,DIRECT
 HOST-SUFFIX,aboutamazon.com.au,DIRECT
 HOST-SUFFIX,aboutamazon.co.uk,DIRECT
+HOST-SUFFIX,wholefoodsmarket.co.uk,DIRECT
 HOST-SUFFIX,aboutamazon.cn,DIRECT
 HOST-SUFFIX,alexafund.cn,DIRECT
 HOST-SUFFIX,alexafund.com.cn,DIRECT

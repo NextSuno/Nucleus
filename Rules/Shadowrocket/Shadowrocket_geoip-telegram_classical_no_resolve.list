@@ -2,8 +2,8 @@
 # NAME: geoip-telegram
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
-# DESC: 适用于 Shadowrocket 中的 RULE-SET 类型，添加 no-resolve 参数
-# UPDATED: 2025-09-19 11:17:45
+# DESC: 适用于 Shadowrocket 规则中的 RULE-SET 类型，添加 no-resolve 参数
+# UPDATED: 2025-11-10 17:33:10
 # IP-CIDR: 8
 # IP-CIDR6: 4
 # TOTAL: 12

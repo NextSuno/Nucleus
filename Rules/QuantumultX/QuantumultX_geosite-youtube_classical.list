@@ -2,11 +2,13 @@
 # NAME: geosite-youtube
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
-# DESC: 适用于 Quantumult X 中的 Classical 类型
-# UPDATED: 2025-09-19 11:13:17
+# DESC: 适用于 Quantumult X 规则中的 Classical 类型
+# UPDATED: 2025-11-10 17:30:19
+# HOST: 1
 # HOST-SUFFIX: 176
-# TOTAL: 176
+# TOTAL: 177
 
+HOST,yt3.googleusercontent.com,PROXY
 HOST-SUFFIX,youtube,PROXY
 HOST-SUFFIX,youtube.ru,PROXY
 HOST-SUFFIX,youtube.az,PROXY

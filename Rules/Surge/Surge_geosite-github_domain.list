@@ -2,38 +2,40 @@
 # NAME: geosite-github
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
-# DESC: 适用于 Surge 中的 DOMAIN-SET 类型
-# UPDATED: 2025-09-19 11:26:12
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 28
-# TOTAL: 29
+# DESC: 适用于 Surge 规则中的 DOMAIN-SET 类型
+# UPDATED: 2025-11-10 17:40:22
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 29
+# TOTAL: 31
 
+github-api.arkoselabs.com
 github-cloud.s3.amazonaws.com
 .githubhackathon.com
-.npm.community
-.gh.io
-.ghcr.io
 .git.io
+.atom.io
+.ghcr.io
+.githubnext.com
 .github.ai
 .github.blog
 .github.com
 .github.community
 .github.dev
 .github.io
-.githubapp.com
-.npmjs.org
-.dependabot.com
-.githubuniverse.com
-.githubnext.com
 .githubpreview.dev
+.githubassets.com
+.githubcopilot.com
+.gh.io
+.dependabot.com
+.githubapp.com
 .githubstatus.com
-.atom.io
+.githubuniverse.com
 .githubusercontent.com
 .myoctocat.com
+.octocaptcha.com
 .opensource.guide
 .repo.new
 .thegithubshop.com
-.githubassets.com
-.githubcopilot.com
+.npmjs.org
+.npm.community
 .npmjs.com
 .blob.core.windows.net

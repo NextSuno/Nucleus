@@ -2,8 +2,8 @@
 # NAME: geosite-bilibili
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
-# DESC: 适用于 Quantumult X 中的 Classical 类型
-# UPDATED: 2025-09-19 11:12:51
+# DESC: 适用于 Quantumult X 规则中的 Classical 类型
+# UPDATED: 2025-11-10 17:30:09
 # HOST: 2
 # HOST-SUFFIX: 48
 # TOTAL: 50
@@ -32,22 +32,22 @@ HOST-SUFFIX,bilibili.com,DIRECT
 HOST-SUFFIX,bilibili.net,DIRECT
 HOST-SUFFIX,bilibilipay.cn,DIRECT
 HOST-SUFFIX,bilibilipay.com,DIRECT
+HOST-SUFFIX,biligo.com,DIRECT
+HOST-SUFFIX,im9.com,DIRECT
+HOST-SUFFIX,yo9.com,DIRECT
 HOST-SUFFIX,bilicdn1.com,DIRECT
 HOST-SUFFIX,bilicdn2.com,DIRECT
 HOST-SUFFIX,bilicdn3.com,DIRECT
 HOST-SUFFIX,bilicdn4.com,DIRECT
 HOST-SUFFIX,bilicdn5.com,DIRECT
-HOST-SUFFIX,biligo.com,DIRECT
 HOST-SUFFIX,biliimg.com,DIRECT
 HOST-SUFFIX,bilivideo.cn,DIRECT
 HOST-SUFFIX,bilivideo.com,DIRECT
 HOST-SUFFIX,bilivideo.net,DIRECT
 HOST-SUFFIX,hdslb.com,DIRECT
 HOST-SUFFIX,hdslb.org,DIRECT
-HOST-SUFFIX,im9.com,DIRECT
 HOST-SUFFIX,maoercdn.com,DIRECT
 HOST-SUFFIX,mincdn.com,DIRECT
-HOST-SUFFIX,yo9.com,DIRECT
 HOST-SUFFIX,bilibili.tv,DIRECT
 HOST-SUFFIX,biliintl.com,DIRECT
 HOST-SUFFIX,dreamcast.hk,DIRECT

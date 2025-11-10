@@ -2,11 +2,11 @@
 # NAME: geosite-spotify
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
-# DESC: 适用于 Quantumult X 中的 Classical 类型
-# UPDATED: 2025-09-19 11:13:41
+# DESC: 适用于 Quantumult X 规则中的 Classical 类型
+# UPDATED: 2025-11-10 17:30:30
 # HOST: 8
-# HOST-SUFFIX: 14
-# TOTAL: 22
+# HOST-SUFFIX: 15
+# TOTAL: 23
 
 HOST,audio-ak-spotify-com.akamaized.net,PROXY
 HOST,audio4-ak-spotify-com.akamaized.net,PROXY
@@ -30,3 +30,4 @@ HOST-SUFFIX,spotifycodes.com,PROXY
 HOST-SUFFIX,spotifyforbrands.com,PROXY
 HOST-SUFFIX,spotifyjobs.com,PROXY
 HOST-SUFFIX,spotify.link,PROXY
+HOST-SUFFIX,tospotify.com,PROXY

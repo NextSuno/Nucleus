@@ -2,8 +2,8 @@
 # NAME: geosite-bilibili
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
-# DESC: 适用于 Clash 中的 Domain 类型
-# UPDATED: 2025-09-19 10:49:18
+# DESC: 适用于 Clash 规则中的 Domain 类型
+# UPDATED: 2025-11-10 16:14:44
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 48
 # TOTAL: 50
@@ -33,22 +33,22 @@ payload:
     - +.bilibili.net
     - +.bilibilipay.cn
     - +.bilibilipay.com
+    - +.biligo.com
+    - +.im9.com
+    - +.yo9.com
     - +.bilicdn1.com
     - +.bilicdn2.com
     - +.bilicdn3.com
     - +.bilicdn4.com
     - +.bilicdn5.com
-    - +.biligo.com
     - +.biliimg.com
     - +.bilivideo.cn
     - +.bilivideo.com
     - +.bilivideo.net
     - +.hdslb.com
     - +.hdslb.org
-    - +.im9.com
     - +.maoercdn.com
     - +.mincdn.com
-    - +.yo9.com
     - +.bilibili.tv
     - +.biliintl.com
     - +.dreamcast.hk

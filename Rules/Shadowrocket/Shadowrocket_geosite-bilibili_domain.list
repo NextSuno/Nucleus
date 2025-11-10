@@ -2,8 +2,8 @@
 # NAME: geosite-bilibili
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
-# DESC: 适用于 Shadowrocket 中的 DOMAIN-SET 类型
-# UPDATED: 2025-09-19 11:19:45
+# DESC: 适用于 Shadowrocket 规则中的 DOMAIN-SET 类型
+# UPDATED: 2025-11-10 17:35:09
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 48
 # TOTAL: 50
@@ -32,22 +32,22 @@ manga.bilibili.com
 .bilibili.net
 .bilibilipay.cn
 .bilibilipay.com
+.biligo.com
+.im9.com
+.yo9.com
 .bilicdn1.com
 .bilicdn2.com
 .bilicdn3.com
 .bilicdn4.com
 .bilicdn5.com
-.biligo.com
 .biliimg.com
 .bilivideo.cn
 .bilivideo.com
 .bilivideo.net
 .hdslb.com
 .hdslb.org
-.im9.com
 .maoercdn.com
 .mincdn.com
-.yo9.com
 .bilibili.tv
 .biliintl.com
 .dreamcast.hk

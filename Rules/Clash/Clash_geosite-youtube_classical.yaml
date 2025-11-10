@@ -2,12 +2,14 @@
 # NAME: geosite-youtube
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
-# DESC: 适用于 Clash 中的 Classical 类型
-# UPDATED: 2025-09-19 10:47:11
+# DESC: 适用于 Clash 规则中的 Classical 类型
+# UPDATED: 2025-11-10 16:03:51
+# DOMAIN: 1
 # DOMAIN-SUFFIX: 176
-# TOTAL: 176
+# TOTAL: 177
 
 payload:
+    - DOMAIN,yt3.googleusercontent.com
     - DOMAIN-SUFFIX,youtube
     - DOMAIN-SUFFIX,youtube.ru
     - DOMAIN-SUFFIX,youtube.az

@@ -2,11 +2,11 @@
 # NAME: AWAvenue-Ads
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
-# DESC: 适用于 Shadowrocket 中的 RULE-SET 类型
-# UPDATED: 2025-09-19 11:16:56
-# DOMAIN: 843
+# DESC: 适用于 Shadowrocket 规则中的 RULE-SET 类型
+# UPDATED: 2025-11-10 17:32:24
+# DOMAIN: 844
 # DOMAIN-SUFFIX: 11
-# TOTAL: 854
+# TOTAL: 855
 
 DOMAIN,1500020991.vodplayer.wxamedia.com
 DOMAIN,1500022744.vodplayer.wxamedia.com
@@ -44,6 +44,7 @@ DOMAIN,ad.zijieapi.com
 DOMAIN,adapi.izuiyou.com
 DOMAIN,adapi.yynetwk.com
 DOMAIN,adashbc.ut.taobao.com
+DOMAIN,adashx.m.taobao.com
 DOMAIN,adc.hpplay.cn
 DOMAIN,adcdn.hpplay.cn
 DOMAIN,adcdn.tencentmusic.com
@@ -243,6 +244,8 @@ DOMAIN,biz.weibo.com
 DOMAIN,bj.ad.track.66mobi.com
 DOMAIN,books-analytics-events.apple.com
 DOMAIN,bootpreload.uve.weibo.com
+DOMAIN,browser.events.data.msn.cn
+DOMAIN,browser.events.data.msn.com
 DOMAIN,browsercfg-drcn.cloud.dbankcloud.cn
 DOMAIN,bsrv.qq.com
 DOMAIN,bugly.qq.com
@@ -498,7 +501,6 @@ DOMAIN,luimg.baidu.com
 DOMAIN,m-adnet.hiaiabc.com
 DOMAIN,m.ad.zhangyue.com
 DOMAIN,m.atm.youku.com
-DOMAIN,m.iqiyipic.com
 DOMAIN,m1.ad.10010.com
 DOMAIN,mapi.m.jd.com
 DOMAIN,masdkv6.3g.qq.com
@@ -517,7 +519,6 @@ DOMAIN,mini-prog-drm.vodplayvideo.net
 DOMAIN,mission-pub.smart-tv.cn
 DOMAIN,miui-fxcse.avlyun.com
 DOMAIN,mlog.bigda.com
-DOMAIN,mmgame.qpic.cn
 DOMAIN,mnqlog.ldmnq.com
 DOMAIN,moatads.com
 DOMAIN,mobads-logs.baidu.com

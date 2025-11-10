@@ -2,10 +2,10 @@
 # NAME: gfw-list
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
-# DESC: 适用于 Quantumult X 中的 Classical 类型
-# UPDATED: 2025-09-19 11:15:42
-# HOST-SUFFIX: 5904
-# TOTAL: 5904
+# DESC: 适用于 Quantumult X 规则中的 Classical 类型
+# UPDATED: 2025-11-10 17:31:20
+# HOST-SUFFIX: 5925
+# TOTAL: 5925
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,030buy.com,PROXY
@@ -127,6 +127,7 @@ HOST-SUFFIX,91porny.com,PROXY
 HOST-SUFFIX,91vps.club,PROXY
 HOST-SUFFIX,92ccav.com,PROXY
 HOST-SUFFIX,991.com,PROXY
+HOST-SUFFIX,996.icu,PROXY
 HOST-SUFFIX,99btgc01.com,PROXY
 HOST-SUFFIX,99cn.info,PROXY
 HOST-SUFFIX,9bis.com,PROXY
@@ -148,6 +149,7 @@ HOST-SUFFIX,abematv.akamaized.net,PROXY
 HOST-SUFFIX,abitno.linpie.com,PROXY
 HOST-SUFFIX,ablwang.com,PROXY
 HOST-SUFFIX,aboluowang.com,PROXY
+HOST-SUFFIX,about.gitlab.com,PROXY
 HOST-SUFFIX,about.me,PROXY
 HOST-SUFFIX,abplive.com,PROXY
 HOST-SUFFIX,abs.edu,PROXY
@@ -312,6 +314,7 @@ HOST-SUFFIX,apetube.com,PROXY
 HOST-SUFFIX,api-secure.recaptcha.net,PROXY
 HOST-SUFFIX,api-verify.recaptcha.net,PROXY
 HOST-SUFFIX,api.ai,PROXY
+HOST-SUFFIX,api.palworldgame.com,PROXY
 HOST-SUFFIX,api.pureapk.com,PROXY
 HOST-SUFFIX,api.recaptcha.net,PROXY
 HOST-SUFFIX,api.steampowered.com,PROXY
@@ -369,6 +372,7 @@ HOST-SUFFIX,asia-gaming.com,PROXY
 HOST-SUFFIX,asiaharvest.org,PROXY
 HOST-SUFFIX,asianage.com,PROXY
 HOST-SUFFIX,asianews.it,PROXY
+HOST-SUFFIX,asianfanfics.com,PROXY
 HOST-SUFFIX,asiansexdiary.com,PROXY
 HOST-SUFFIX,asiaone.com,PROXY
 HOST-SUFFIX,asiatgp.com,PROXY
@@ -757,7 +761,6 @@ HOST-SUFFIX,btc98.com,PROXY
 HOST-SUFFIX,btcbank.bank,PROXY
 HOST-SUFFIX,btctrade.im,PROXY
 HOST-SUFFIX,btdig.com,PROXY
-HOST-SUFFIX,btdigg.org,PROXY
 HOST-SUFFIX,btguard.com,PROXY
 HOST-SUFFIX,btku.me,PROXY
 HOST-SUFFIX,btku.org,PROXY
@@ -1175,6 +1178,7 @@ HOST-SUFFIX,csuchen.de,PROXY
 HOST-SUFFIX,csw.org.uk,PROXY
 HOST-SUFFIX,ct.org.tw,PROXY
 HOST-SUFFIX,ctao.org,PROXY
+HOST-SUFFIX,ctinets.com,PROXY
 HOST-SUFFIX,ctinews.com,PROXY
 HOST-SUFFIX,ctitv.com.tw,PROXY
 HOST-SUFFIX,ctowc.org,PROXY
@@ -1278,9 +1282,7 @@ HOST-SUFFIX,deezer.com,PROXY
 HOST-SUFFIX,definebabe.com,PROXY
 HOST-SUFFIX,deja.com,PROXY
 HOST-SUFFIX,delcamp.net,PROXY
-HOST-SUFFIX,delicious.com,PROXY
 HOST-SUFFIX,demo.unlock-music.dev,PROXY
-HOST-SUFFIX,democrats.org,PROXY
 HOST-SUFFIX,demosisto.hk,PROXY
 HOST-SUFFIX,deno.dev,PROXY
 HOST-SUFFIX,depositphotos.com,PROXY
@@ -1351,6 +1353,7 @@ HOST-SUFFIX,dnvod.tv,PROXY
 HOST-SUFFIX,doc.new,PROXY
 HOST-SUFFIX,docker.com,PROXY
 HOST-SUFFIX,docker.io,PROXY
+HOST-SUFFIX,dockerstatus.com,PROXY
 HOST-SUFFIX,docs.deno.com,PROXY
 HOST-SUFFIX,docs.new,PROXY
 HOST-SUFFIX,doctorvoice.org,PROXY
@@ -1737,6 +1740,7 @@ HOST-SUFFIX,flagsonline.it,PROXY
 HOST-SUFFIX,flecheinthepeche.fr,PROXY
 HOST-SUFFIX,fleshbot.com,PROXY
 HOST-SUFFIX,fleursdeslettres.com,PROXY
+HOST-SUFFIX,flexclip.com,PROXY
 HOST-SUFFIX,flexpool.io,PROXY
 HOST-SUFFIX,flgjustice.org,PROXY
 HOST-SUFFIX,flickr.com,PROXY
@@ -1808,6 +1812,8 @@ HOST-SUFFIX,freedominfonetweb.wordpress.com,PROXY
 HOST-SUFFIX,freedomsherald.org,PROXY
 HOST-SUFFIX,freeforums.org,PROXY
 HOST-SUFFIX,freegao.com,PROXY
+HOST-SUFFIX,freegpt.es,PROXY
+HOST-SUFFIX,freegpt.tech,PROXY
 HOST-SUFFIX,freehongkong.org,PROXY
 HOST-SUFFIX,freeilhamtohti.org,PROXY
 HOST-SUFFIX,freekazakhs.org,PROXY
@@ -1913,6 +1919,7 @@ HOST-SUFFIX,gaopi.net,PROXY
 HOST-SUFFIX,gardennetworks.com,PROXY
 HOST-SUFFIX,gardennetworks.org,PROXY
 HOST-SUFFIX,gartlive.com,PROXY
+HOST-SUFFIX,garudalinux.org,PROXY
 HOST-SUFFIX,gate.io,PROXY
 HOST-SUFFIX,gatecoin.com,PROXY
 HOST-SUFFIX,gather.com,PROXY
@@ -2651,6 +2658,7 @@ HOST-SUFFIX,imagefap.com,PROXY
 HOST-SUFFIX,imageflea.com,PROXY
 HOST-SUFFIX,imageglass.org,PROXY
 HOST-SUFFIX,images-gaytube.com,PROXY
+HOST-SUFFIX,images.prismic.io,PROXY
 HOST-SUFFIX,imageshack.us,PROXY
 HOST-SUFFIX,imagevenue.com,PROXY
 HOST-SUFFIX,imagezilla.net,PROXY
@@ -2704,6 +2712,7 @@ HOST-SUFFIX,internet.org,PROXY
 HOST-SUFFIX,internetdefenseleague.org,PROXY
 HOST-SUFFIX,internetfreedom.org,PROXY
 HOST-SUFFIX,internetpopculture.com,PROXY
+HOST-SUFFIX,interseclab.org,PROXY
 HOST-SUFFIX,inthenameofconfuciusmovie.com,PROXY
 HOST-SUFFIX,investigating.wordpress.com,PROXY
 HOST-SUFFIX,invidio.us,PROXY
@@ -3569,6 +3578,7 @@ HOST-SUFFIX,ninecommentaries.com,PROXY
 HOST-SUFFIX,ninjacloak.com,PROXY
 HOST-SUFFIX,ninjaproxy.ninja,PROXY
 HOST-SUFFIX,nintendium.com,PROXY
+HOST-SUFFIX,nirsoft.net,PROXY
 HOST-SUFFIX,nitter.cc,PROXY
 HOST-SUFFIX,nitter.net,PROXY
 HOST-SUFFIX,niu.moe,PROXY
@@ -3668,6 +3678,7 @@ HOST-SUFFIX,occupytiananmen.com,PROXY
 HOST-SUFFIX,ocreampies.com,PROXY
 HOST-SUFFIX,ocry.com,PROXY
 HOST-SUFFIX,october-review.org,PROXY
+HOST-SUFFIX,octocaptcha.com,PROXY
 HOST-SUFFIX,oculus.com,PROXY
 HOST-SUFFIX,oculuscdn.com,PROXY
 HOST-SUFFIX,odysee.com,PROXY
@@ -4477,6 +4488,7 @@ HOST-SUFFIX,solana.com,PROXY
 HOST-SUFFIX,solarsystem.nasa.gov,PROXY
 HOST-SUFFIX,solidaritetibet.org,PROXY
 HOST-SUFFIX,solidfiles.com,PROXY
+HOST-SUFFIX,solscan.io,PROXY
 HOST-SUFFIX,solv.finance,PROXY
 HOST-SUFFIX,somee.com,PROXY
 HOST-SUFFIX,songjianjun.com,PROXY
@@ -4698,8 +4710,10 @@ HOST-SUFFIX,tanc.org,PROXY
 HOST-SUFFIX,tangren.us,PROXY
 HOST-SUFFIX,tanks.gg,PROXY
 HOST-SUFFIX,taoism.net,PROXY
+HOST-SUFFIX,tap.io,PROXY
 HOST-SUFFIX,tapanwap.com,PROXY
 HOST-SUFFIX,tapatalk.com,PROXY
+HOST-SUFFIX,taptap.io,PROXY
 HOST-SUFFIX,tardigrade.io,PROXY
 HOST-SUFFIX,tarr.uspto.gov,PROXY
 HOST-SUFFIX,taup.net,PROXY
@@ -4748,6 +4762,7 @@ HOST-SUFFIX,telegraph.co.uk,PROXY
 HOST-SUFFIX,telesco.pe,PROXY
 HOST-SUFFIX,tellapart.com,PROXY
 HOST-SUFFIX,tellme.pw,PROXY
+HOST-SUFFIX,temu.com,PROXY
 HOST-SUFFIX,tenacy.com,PROXY
 HOST-SUFFIX,tenor.com,PROXY
 HOST-SUFFIX,tensorflow.org,PROXY
@@ -5009,6 +5024,7 @@ HOST-SUFFIX,trt.net.tr,PROXY
 HOST-SUFFIX,trtc.com.tw,PROXY
 HOST-SUFFIX,truebuddha-md.org,PROXY
 HOST-SUFFIX,trulyergonomic.com,PROXY
+HOST-SUFFIX,trustwallet.com,PROXY
 HOST-SUFFIX,truthsocial.com,PROXY
 HOST-SUFFIX,truveo.com,PROXY
 HOST-SUFFIX,tryheart.jp,PROXY
@@ -5166,7 +5182,6 @@ HOST-SUFFIX,ubddns.org,PROXY
 HOST-SUFFIX,uberproxy.net,PROXY
 HOST-SUFFIX,uc-japan.org,PROXY
 HOST-SUFFIX,uchicago.edu,PROXY
-HOST-SUFFIX,uderzo.it,PROXY
 HOST-SUFFIX,udn.com,PROXY
 HOST-SUFFIX,udn.com.tw,PROXY
 HOST-SUFFIX,udnbkk.com,PROXY
@@ -5318,6 +5333,7 @@ HOST-SUFFIX,vijayatemple.org,PROXY
 HOST-SUFFIX,vilanet.me,PROXY
 HOST-SUFFIX,vilavpn.com,PROXY
 HOST-SUFFIX,vimeo.com,PROXY
+HOST-SUFFIX,vimeocdn.com,PROXY
 HOST-SUFFIX,vimperator.org,PROXY
 HOST-SUFFIX,vincnd.com,PROXY
 HOST-SUFFIX,vine.co,PROXY
@@ -5404,6 +5420,7 @@ HOST-SUFFIX,vpnvip.com,PROXY
 HOST-SUFFIX,vpnworldwide.com,PROXY
 HOST-SUFFIX,vporn.com,PROXY
 HOST-SUFFIX,vpser.net,PROXY
+HOST-SUFFIX,vpsxb.net,PROXY
 HOST-SUFFIX,vraiesagesse.net,PROXY
 HOST-SUFFIX,vrchat.com,PROXY
 HOST-SUFFIX,vrmtr.com,PROXY
@@ -5465,6 +5482,7 @@ HOST-SUFFIX,webpkgcache.com,PROXY
 HOST-SUFFIX,webrtc.org,PROXY
 HOST-SUFFIX,webrush.net,PROXY
 HOST-SUFFIX,webs-tv.net,PROXY
+HOST-SUFFIX,websdr.org,PROXY
 HOST-SUFFIX,website.informer.com,PROXY
 HOST-SUFFIX,website.new,PROXY
 HOST-SUFFIX,websitepulse.com,PROXY
@@ -5536,6 +5554,7 @@ HOST-SUFFIX,wikilivres.info,PROXY
 HOST-SUFFIX,wikimapia.org,PROXY
 HOST-SUFFIX,wikimedia.org,PROXY
 HOST-SUFFIX,wikinews.org,PROXY
+HOST-SUFFIX,wikipedia.com,PROXY
 HOST-SUFFIX,wikipedia.org,PROXY
 HOST-SUFFIX,wikisource.org,PROXY
 HOST-SUFFIX,wikiversity.org,PROXY
@@ -5711,6 +5730,7 @@ HOST-SUFFIX,xn--ngstr-lra8j.com,PROXY
 HOST-SUFFIX,xn--noss43i.com,PROXY
 HOST-SUFFIX,xn--oiq.cc,PROXY
 HOST-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c,PROXY
+HOST-SUFFIX,xn--u2u927b.com,PROXY
 HOST-SUFFIX,xnpool.com,PROXY
 HOST-SUFFIX,xnxx.com,PROXY
 HOST-SUFFIX,xpdo.net,PROXY
@@ -5836,6 +5856,7 @@ HOST-SUFFIX,z-lib.gd,PROXY
 HOST-SUFFIX,z-lib.gl,PROXY
 HOST-SUFFIX,z-lib.io,PROXY
 HOST-SUFFIX,z-lib.org,PROXY
+HOST-SUFFIX,z-library.ec,PROXY
 HOST-SUFFIX,z-library.sk,PROXY
 HOST-SUFFIX,zacebook.com,PROXY
 HOST-SUFFIX,zalmos.com,PROXY

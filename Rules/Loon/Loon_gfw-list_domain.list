@@ -2,10 +2,10 @@
 # NAME: gfw-list
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
-# DESC: 适用于 Loon 中的 Domain 类型
-# UPDATED: 2025-09-19 11:08:44
-# DOMAIN-SUFFIX: 5904
-# TOTAL: 5904
+# DESC: 适用于 Loon 规则中的 Domain 类型
+# UPDATED: 2025-11-10 17:28:53
+# DOMAIN-SUFFIX: 5925
+# TOTAL: 5925
 
 .000webhost.com
 .030buy.com
@@ -127,6 +127,7 @@
 .91vps.club
 .92ccav.com
 .991.com
+.996.icu
 .99btgc01.com
 .99cn.info
 .9bis.com
@@ -148,6 +149,7 @@
 .abitno.linpie.com
 .ablwang.com
 .aboluowang.com
+.about.gitlab.com
 .about.me
 .abplive.com
 .abs.edu
@@ -312,6 +314,7 @@
 .api-secure.recaptcha.net
 .api-verify.recaptcha.net
 .api.ai
+.api.palworldgame.com
 .api.pureapk.com
 .api.recaptcha.net
 .api.steampowered.com
@@ -369,6 +372,7 @@
 .asiaharvest.org
 .asianage.com
 .asianews.it
+.asianfanfics.com
 .asiansexdiary.com
 .asiaone.com
 .asiatgp.com
@@ -757,7 +761,6 @@
 .btcbank.bank
 .btctrade.im
 .btdig.com
-.btdigg.org
 .btguard.com
 .btku.me
 .btku.org
@@ -1175,6 +1178,7 @@
 .csw.org.uk
 .ct.org.tw
 .ctao.org
+.ctinets.com
 .ctinews.com
 .ctitv.com.tw
 .ctowc.org
@@ -1278,9 +1282,7 @@
 .definebabe.com
 .deja.com
 .delcamp.net
-.delicious.com
 .demo.unlock-music.dev
-.democrats.org
 .demosisto.hk
 .deno.dev
 .depositphotos.com
@@ -1351,6 +1353,7 @@
 .doc.new
 .docker.com
 .docker.io
+.dockerstatus.com
 .docs.deno.com
 .docs.new
 .doctorvoice.org
@@ -1737,6 +1740,7 @@
 .flecheinthepeche.fr
 .fleshbot.com
 .fleursdeslettres.com
+.flexclip.com
 .flexpool.io
 .flgjustice.org
 .flickr.com
@@ -1808,6 +1812,8 @@
 .freedomsherald.org
 .freeforums.org
 .freegao.com
+.freegpt.es
+.freegpt.tech
 .freehongkong.org
 .freeilhamtohti.org
 .freekazakhs.org
@@ -1913,6 +1919,7 @@
 .gardennetworks.com
 .gardennetworks.org
 .gartlive.com
+.garudalinux.org
 .gate.io
 .gatecoin.com
 .gather.com
@@ -2651,6 +2658,7 @@
 .imageflea.com
 .imageglass.org
 .images-gaytube.com
+.images.prismic.io
 .imageshack.us
 .imagevenue.com
 .imagezilla.net
@@ -2704,6 +2712,7 @@
 .internetdefenseleague.org
 .internetfreedom.org
 .internetpopculture.com
+.interseclab.org
 .inthenameofconfuciusmovie.com
 .investigating.wordpress.com
 .invidio.us
@@ -3569,6 +3578,7 @@
 .ninjacloak.com
 .ninjaproxy.ninja
 .nintendium.com
+.nirsoft.net
 .nitter.cc
 .nitter.net
 .niu.moe
@@ -3668,6 +3678,7 @@
 .ocreampies.com
 .ocry.com
 .october-review.org
+.octocaptcha.com
 .oculus.com
 .oculuscdn.com
 .odysee.com
@@ -4477,6 +4488,7 @@
 .solarsystem.nasa.gov
 .solidaritetibet.org
 .solidfiles.com
+.solscan.io
 .solv.finance
 .somee.com
 .songjianjun.com
@@ -4698,8 +4710,10 @@
 .tangren.us
 .tanks.gg
 .taoism.net
+.tap.io
 .tapanwap.com
 .tapatalk.com
+.taptap.io
 .tardigrade.io
 .tarr.uspto.gov
 .taup.net
@@ -4748,6 +4762,7 @@
 .telesco.pe
 .tellapart.com
 .tellme.pw
+.temu.com
 .tenacy.com
 .tenor.com
 .tensorflow.org
@@ -5009,6 +5024,7 @@
 .trtc.com.tw
 .truebuddha-md.org
 .trulyergonomic.com
+.trustwallet.com
 .truthsocial.com
 .truveo.com
 .tryheart.jp
@@ -5166,7 +5182,6 @@
 .uberproxy.net
 .uc-japan.org
 .uchicago.edu
-.uderzo.it
 .udn.com
 .udn.com.tw
 .udnbkk.com
@@ -5318,6 +5333,7 @@
 .vilanet.me
 .vilavpn.com
 .vimeo.com
+.vimeocdn.com
 .vimperator.org
 .vincnd.com
 .vine.co
@@ -5404,6 +5420,7 @@
 .vpnworldwide.com
 .vporn.com
 .vpser.net
+.vpsxb.net
 .vraiesagesse.net
 .vrchat.com
 .vrmtr.com
@@ -5465,6 +5482,7 @@
 .webrtc.org
 .webrush.net
 .webs-tv.net
+.websdr.org
 .website.informer.com
 .website.new
 .websitepulse.com
@@ -5536,6 +5554,7 @@
 .wikimapia.org
 .wikimedia.org
 .wikinews.org
+.wikipedia.com
 .wikipedia.org
 .wikisource.org
 .wikiversity.org
@@ -5711,6 +5730,7 @@
 .xn--noss43i.com
 .xn--oiq.cc
 .xn--p8j9a0d9c9a.xn--q9jyb4c
+.xn--u2u927b.com
 .xnpool.com
 .xnxx.com
 .xpdo.net
@@ -5836,6 +5856,7 @@
 .z-lib.gl
 .z-lib.io
 .z-lib.org
+.z-library.ec
 .z-library.sk
 .zacebook.com
 .zalmos.com

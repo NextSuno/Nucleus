@@ -2,8 +2,8 @@
 # NAME: geoip-private
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
-# DESC: 适用于 Quantumult X 中的 Classical 类型，添加 no-resolve 参数
-# UPDATED: 2025-09-19 11:11:49
+# DESC: 适用于 Quantumult X 规则中的 Classical 类型，添加 no-resolve 参数
+# UPDATED: 2025-11-10 17:29:45
 # TOTAL: 0
 
 IP-CIDR,0.0.0.0/8,DIRECT,no-resolve

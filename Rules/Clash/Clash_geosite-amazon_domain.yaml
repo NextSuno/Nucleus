@@ -2,23 +2,23 @@
 # NAME: geosite-amazon
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
-# DESC: 适用于 Clash 中的 Domain 类型
-# UPDATED: 2025-09-19 10:50:06
+# DESC: 适用于 Clash 规则中的 Domain 类型
+# UPDATED: 2025-11-10 16:15:33
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 217
 # TOTAL: 219
 
 payload:
-    - +.amazon
+    - +.aws
     - +.xn--cckwcxetd
     - +.xn--jlq480n2rg
     - +.yamaxun
     - +.zappos
     - +.kindle
     - +.imdb
-    - +.aws
-    - +.amazonstudiosguilds.com
-    - +.amazon-jp-recruiting.com
+    - +.amazon
+    - +.aesworkshops.com
+    - +.amazonimages.com
     - +.aboutamazon.fr
     - +.aboutamazon.in
     - +.aboutamazon.it
@@ -26,20 +26,20 @@ payload:
     - +.aboutamazon.pl
     - +.amaaozn.com
     - +.amazon-fashions.com
-    - +.wholeplanetfoundation.org
+    - +.amazon-jp-recruiting.com
     - +.amazon-lantern.com
     - +.amazon-launchpad.com
     - +.amazon.ae
     - +.amazon.ca
     - +.amazon.com
     - +.amazon.de
+    - +.wholeplanetfoundation.org
+    - +.wholekidsfoundation.org
+    - +.wholefoodsmarket.com
+    - +.wholefoods.com
+    - +.wholecitiesfoundation.org
+    - +.wfm.com
     - +.primevideo.tv
-    - +.primevideo.org
-    - +.primevideo.info
-    - +.primevideo.com
-    - +.primevideo.cc
-    - +.prime-video.com
-    - +.amazonvideo.com
     - +.amazon.dev
     - +.amazon.es
     - +.amazon.fr
@@ -55,16 +55,16 @@ payload:
     - +.amazonbusiness.org
     - +.amazonbusinessblog.com
     - +.amazondevicesupport.com
-    - +.wholekidsfoundation.org
+    - +.amazonfctours.com
     - +.amazonianblog.com
-    - +.amazonimages.com
+    - +.amazonaws.info
     - +.amazonlaunchpad.com
     - +.amazonliterarypartnership.com
-    - +.amazonlumberyard.wang
+    - +.amazonaws.net
     - +.amazonpay.com
     - +.amazonpay.in
     - +.amazonsdi.com
-    - +.wfm.com
+    - +.amazonstudiosguilds.com
     - +.amazonvideodirect.com
     - +.amzn.asia
     - +.amzn.com
@@ -82,32 +82,24 @@ payload:
     - +.yamaxun.com
     - +.alexa.com
     - +.audible.com
-    - +.awscommandlineinterface.com
-    - +.kindleoasis.us
-    - +.amazonses.com
-    - +.wholefoods.com
-    - +.wholefoodsmarket.com
-    - +.amazonfctours.com
-    - +.aboutamazon.eu
+    - +.createspace.com
     - +.amazontrust.com
-    - +.amazonvideo.cc
-    - +.aboutamazon.es
     - +.awstrust.com
     - +.ss2.us
-    - +.aboutamazon.de
+    - +.aboutamazon.es
     - +.awsautoscaling.com
     - +.amzndns.net
-    - +.aesworkshops.com
+    - +.aboutamazon.de
     - +.awsbraket.com
     - +.amazonaws.biz
     - +.amzndns.org
-    - +.amazonaws.com
-    - +.amazonaws.info
-    - +.amazonaws.net
+    - +.awsautopilot.com
+    - +.aboutamazon.eu
+    - +.amazonlumberyard.wang
     - +.amazonaws.org
     - +.amazonaws.tv
     - +.amazoncognito.com
-    - +.wholecitiesfoundation.org
+    - +.amazonses.com
     - +.amazonworkdocs.com
     - +.amplifyapp.com
     - +.amplifyframework.com
@@ -115,7 +107,7 @@ payload:
     - +.awsedstart.com
     - +.awsapprunner.com
     - +.awsapps.com
-    - +.awsautopilot.com
+    - +.amazonaws.com
     - +.acmvalidations.com
     - +.amazonaws-china.com
     - +.acmvalidationsaws.com
@@ -136,10 +128,11 @@ payload:
     - +.containersonaws.com
     - +.elasticbeanstalk.com
     - +.thinkboxsoftware.com
-    - +.createspace.com
+    - +.awscommandlineinterface.com
     - +.amzndns.com
-    - +.amazonprimevideos.com
-    - +.aiv-cdn.net
+    - +.primevideo.org
+    - +.primevideo.info
+    - +.primevideo.com
     - +.aboutamazon.com
     - +.boxofficemojo.com
     - +.imdb.com
@@ -159,19 +152,26 @@ payload:
     - +.kindleoasis.info
     - +.kindleoasis.jp
     - +.kindleoasis.org
-    - +.amazon.com.tr
+    - +.kindleoasis.us
+    - +.primevideo.cc
+    - +.prime-video.com
+    - +.aiv-cdn.net
+    - +.amazonprimevideos.com
+    - +.amazonvideo.cc
+    - +.amazonvideo.com
+    - +.amazon.com.mx
     - +.kindle.co.jp
-    - +.kindle.co.uk
     - +.amazonaws.co.uk
     - +.amzndns.co.uk
-    - +.wholefoodsmarket.co.uk
-    - +.amazon.com.mx
+    - +.amazon.com.tr
+    - +.kindle.co.uk
     - +.amazon.com.br
-    - +.amazon.com.au
-    - +.amazon.co.uk
     - +.amazon.co.jp
+    - +.amazon.co.uk
+    - +.amazon.com.au
     - +.aboutamazon.com.au
     - +.aboutamazon.co.uk
+    - +.wholefoodsmarket.co.uk
     - +.aboutamazon.cn
     - +.alexafund.cn
     - +.alexafund.com.cn

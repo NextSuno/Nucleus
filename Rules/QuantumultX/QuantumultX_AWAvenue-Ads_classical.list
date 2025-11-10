@@ -2,11 +2,11 @@
 # NAME: AWAvenue-Ads
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
-# DESC: 适用于 Quantumult X 中的 Classical 类型
-# UPDATED: 2025-09-19 11:12:26
-# HOST: 843
+# DESC: 适用于 Quantumult X 规则中的 Classical 类型
+# UPDATED: 2025-11-10 17:29:54
+# HOST: 844
 # HOST-SUFFIX: 11
-# TOTAL: 854
+# TOTAL: 855
 
 HOST,1500020991.vodplayer.wxamedia.com,REJECT
 HOST,1500022744.vodplayer.wxamedia.com,REJECT
@@ -44,6 +44,7 @@ HOST,ad.zijieapi.com,REJECT
 HOST,adapi.izuiyou.com,REJECT
 HOST,adapi.yynetwk.com,REJECT
 HOST,adashbc.ut.taobao.com,REJECT
+HOST,adashx.m.taobao.com,REJECT
 HOST,adc.hpplay.cn,REJECT
 HOST,adcdn.hpplay.cn,REJECT
 HOST,adcdn.tencentmusic.com,REJECT
@@ -243,6 +244,8 @@ HOST,biz.weibo.com,REJECT
 HOST,bj.ad.track.66mobi.com,REJECT
 HOST,books-analytics-events.apple.com,REJECT
 HOST,bootpreload.uve.weibo.com,REJECT
+HOST,browser.events.data.msn.cn,REJECT
+HOST,browser.events.data.msn.com,REJECT
 HOST,browsercfg-drcn.cloud.dbankcloud.cn,REJECT
 HOST,bsrv.qq.com,REJECT
 HOST,bugly.qq.com,REJECT
@@ -498,7 +501,6 @@ HOST,luimg.baidu.com,REJECT
 HOST,m-adnet.hiaiabc.com,REJECT
 HOST,m.ad.zhangyue.com,REJECT
 HOST,m.atm.youku.com,REJECT
-HOST,m.iqiyipic.com,REJECT
 HOST,m1.ad.10010.com,REJECT
 HOST,mapi.m.jd.com,REJECT
 HOST,masdkv6.3g.qq.com,REJECT
@@ -517,7 +519,6 @@ HOST,mini-prog-drm.vodplayvideo.net,REJECT
 HOST,mission-pub.smart-tv.cn,REJECT
 HOST,miui-fxcse.avlyun.com,REJECT
 HOST,mlog.bigda.com,REJECT
-HOST,mmgame.qpic.cn,REJECT
 HOST,mnqlog.ldmnq.com,REJECT
 HOST,moatads.com,REJECT
 HOST,mobads-logs.baidu.com,REJECT

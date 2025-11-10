@@ -2,8 +2,8 @@
 # NAME: geosite-bilibili
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
-# DESC: 适用于 Clash 中的 Classical 类型
-# UPDATED: 2025-09-19 10:47:01
+# DESC: 适用于 Clash 规则中的 Classical 类型
+# UPDATED: 2025-11-10 16:03:41
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 48
 # TOTAL: 50
@@ -33,22 +33,22 @@ payload:
     - DOMAIN-SUFFIX,bilibili.net
     - DOMAIN-SUFFIX,bilibilipay.cn
     - DOMAIN-SUFFIX,bilibilipay.com
+    - DOMAIN-SUFFIX,biligo.com
+    - DOMAIN-SUFFIX,im9.com
+    - DOMAIN-SUFFIX,yo9.com
     - DOMAIN-SUFFIX,bilicdn1.com
     - DOMAIN-SUFFIX,bilicdn2.com
     - DOMAIN-SUFFIX,bilicdn3.com
     - DOMAIN-SUFFIX,bilicdn4.com
     - DOMAIN-SUFFIX,bilicdn5.com
-    - DOMAIN-SUFFIX,biligo.com
     - DOMAIN-SUFFIX,biliimg.com
     - DOMAIN-SUFFIX,bilivideo.cn
     - DOMAIN-SUFFIX,bilivideo.com
     - DOMAIN-SUFFIX,bilivideo.net
     - DOMAIN-SUFFIX,hdslb.com
     - DOMAIN-SUFFIX,hdslb.org
-    - DOMAIN-SUFFIX,im9.com
     - DOMAIN-SUFFIX,maoercdn.com
     - DOMAIN-SUFFIX,mincdn.com
-    - DOMAIN-SUFFIX,yo9.com
     - DOMAIN-SUFFIX,bilibili.tv
     - DOMAIN-SUFFIX,biliintl.com
     - DOMAIN-SUFFIX,dreamcast.hk

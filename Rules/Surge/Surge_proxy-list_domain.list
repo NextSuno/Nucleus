@@ -2,12 +2,12 @@
 # NAME: proxy-list
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
-# DESC: 适用于 Surge 中的 DOMAIN-SET 类型
-# UPDATED: 2025-09-19 11:26:49
-# DOMAIN: 590
-# DOMAIN-SUFFIX: 30844
-# URL-REGEX: 148
-# TOTAL: 31582
+# DESC: 适用于 Surge 规则中的 DOMAIN-SET 类型
+# UPDATED: 2025-11-10 17:40:56
+# DOMAIN: 599
+# DOMAIN-SUFFIX: 31017
+# URL-REGEX: 149
+# TOTAL: 31765
 
 .000webhost.com
 .01.org
@@ -581,6 +581,7 @@
 .978.life
 .97dounai.top
 .991.com
+.996.icu
 .99btgc01.com
 .99cn.info
 .99quse.cc
@@ -704,6 +705,7 @@
 .aboutfacebook.com
 .aboutmcdonalds.com
 .aboutporno.net
+.aboutschwab.com
 .aboutyourmini.com
 .abow.jp
 .abplive.com
@@ -1463,6 +1465,7 @@
 .alphabet.us
 .alphabetfinance.net
 .alphaporno.com
+.alphaxiv.org
 .alphera-finance.co.in
 .alphera-finance.com.hk
 .alphera-finance.in
@@ -1496,14 +1499,9 @@
 .alsod.ac.uk
 .alt.ac.uk
 .alt.com
+.altera.co.jp
 .altera.com
 .alteraforum.com
-.alteraforums.com
-.alteraforums.net
-.alterauserforum.com
-.alterauserforum.net
-.alterauserforums.com
-.alterauserforums.net
 .altereco.ac.uk
 .alternate-tools.com
 .alternativeto.net
@@ -1746,6 +1744,10 @@
 .androidtv.com
 .andygod.com
 .andysparis.com
+.anexia-engine.com
+.anexia-it.com
+.anexia.at
+.anexia.com
 .anfutong.com
 .angel-gto.com
 .angel.ac.uk
@@ -1909,6 +1911,7 @@
 .api-extractor.com
 .api.ai
 .api.news
+.api.palworldgame.com
 .apiary.io
 .apibay.org
 .apigee.com
@@ -2453,6 +2456,7 @@
 .asiancamgirllive.com
 .asiancamly.com
 .asianews.it
+.asianfanfics.com
 .asianfreeporn.net
 .asiangfvideos.com
 .asiangirlsnextdoor.com
@@ -2795,6 +2799,7 @@
 .avaaz.org
 .avail.googleflights.net
 .avant.ac.uk
+.avast.com
 .avatara.com
 .avbebe.com
 .avcar.vip
@@ -2825,6 +2830,7 @@
 .avidemux.org
 .avinetworks.com
 .avinin.com
+.avira.com
 .avizoon.site
 .avizoone.com
 .avjb.com
@@ -3987,6 +3993,7 @@
 .bitcoin.org
 .bitcointalk.org
 .bitcoinworld.com
+.bitdefender.com
 .bite.ac.uk
 .bitfinex.com
 .bitflyer.com
@@ -4668,6 +4675,7 @@
 .bnext.com.tw
 .bnn.co
 .bnrmetal.com
+.bntrace.com
 .bnu.ac.uk
 .boa.ac.uk
 .boardreader.com
@@ -4753,6 +4761,7 @@
 .boombeach.com
 .boomerang.com
 .booru.org
+.boosty.to
 .booth.pm
 .bootstrapcdn.com
 .bootyliciousmag.com
@@ -5091,7 +5100,6 @@
 .btcbox.co.jp
 .btctrade.im
 .btdig.com
-.btdigg.org
 .btec.co.uk
 .btguard.com
 .btku.me
@@ -5799,6 +5807,7 @@
 .cdn-images.mailchimp.com
 .cdn-telegram.org
 .cdn-terapeak.com
+.cdn-vk.ru
 .cdn.ac.uk
 .cdn.arstechnica.net
 .cdn.assets.lfpcontent.com
@@ -5898,6 +5907,7 @@
 .ceramics-cadcam.com
 .cercia.ac.uk
 .cerdas.com
+.cerebras.ai
 .ceredigion.ac.uk
 .ceri.ac.uk
 .cerlim.ac.uk
@@ -6255,6 +6265,7 @@
 .cib.ac.uk
 .cici.com
 .ciciai.com
+.ciciaicdn.com
 .cicl.ac.uk
 .cied.ac.uk
 .ciemap.ac.uk
@@ -6381,6 +6392,7 @@
 .clacks.ac.uk
 .clacton.ac.uk
 .clad.ac.uk
+.clamwin.com
 .clannad-movie.jp
 .claravenger.com
 .clarendon.ac.uk
@@ -6398,6 +6410,8 @@
 .classics.ac.uk
 .classymomsex.com
 .claude.ai
+.claude.com
+.claudemcpclient.com
 .claudeusercontent.com
 .clb.org.hk
 .clc-london.ac.uk
@@ -6478,6 +6492,7 @@
 .cloudflarepartners.com
 .cloudflareportal.com
 .cloudflarepreview.com
+.cloudflareregistrar.com
 .cloudflareresolve.com
 .cloudflaressl.com
 .cloudflarestatus.com
@@ -6632,6 +6647,8 @@
 .cofacts.tw
 .coffeemanga.to
 .cogc.ac.uk
+.cohere.ai
+.cohere.com
 .coinalyze.net
 .coinbase.com
 .coinbene.com
@@ -6720,6 +6737,7 @@
 .comicuniverse.org
 .comixzilla.com
 .comm-coll-hackney.ac.uk
+.comm-verse.com
 .commandandconquer.com
 .commandarms.com
 .comments.app
@@ -7092,6 +7110,7 @@
 .ctexcel.us
 .ctfassets.net
 .ctg.ac.uk
+.ctinets.com
 .ctinews.com
 .ctitv.com.tw
 .ctk.ac.uk
@@ -7483,12 +7502,15 @@
 .deeper.com
 .deepfake-porn.com
 .deepfakeporn.net
+.deepflood.com
 .deepfreeze.co.uk
 .deepfreeze.com
 .deepfreeze.com.br
 .deepfreeze.eu
 .deepfreeze.net
 .deepfreeze.tech
+.deepin.io
+.deepin.org
 .deeping.ac.uk
 .deepl.com
 .deepmind.com
@@ -7515,7 +7537,6 @@
 .delcamtv.com
 .delcamuniversity.com
 .delcamusa.com
-.delicious.com
 .delicious.com.au
 .dell
 .dell.ac
@@ -7683,7 +7704,6 @@
 .dementiaresearchinstitute.ac.uk
 .demo.unlock-music.dev
 .democracy.earth
-.democrats.org
 .demonoid.is
 .demoprint.com
 .demos.ac.uk
@@ -7793,6 +7813,7 @@
 .deviantclip.com
 .device-manager.us
 .devilsfilm.com
+.devin.ai
 .devio.us
 .devm2m.com
 .devolution.ac.uk
@@ -7820,6 +7841,7 @@
 .diabetes-healthnet.ac.uk
 .diablo3.com
 .diabloimmortal.com
+.diabrowser.com
 .dialga.com
 .dialogflow.com
 .diamantewebcam.com
@@ -8127,6 +8149,7 @@
 .dlhe.ac.uk
 .dlib.eastview.com
 .dlive.tv
+.dln1.ncdn.ec
 .dls.ac.uk
 .dlsite.com
 .dlsite.com.tw
@@ -8141,6 +8164,7 @@
 .dmed.technology
 .dmgmediaprivacy.co.uk
 .dmhy.org
+.dml-lang.org
 .dml.ac.uk
 .dmm-extension.com
 .dmm.co.jp
@@ -8182,6 +8206,7 @@
 .docker.io
 .dockerizer.com
 .dockerstatic.com
+.dockerstatus.com
 .docleradn.com
 .doclercdn.com
 .docs.com
@@ -8215,6 +8240,7 @@
 .dojinmanga.net
 .dojinwatch.com
 .dokusho-ojikan.jp
+.dola.com
 .dolc.de
 .dolf.org.hk
 .dollarfotoclub.com
@@ -8228,6 +8254,7 @@
 .domywife.com
 .don.ac.uk
 .donatecarsoh.org
+.donationalerts.com
 .doncaster.ac.uk
 .dongtaiwang.com
 .dongtaiwang.net
@@ -8662,6 +8689,7 @@
 .e-zone.com.hk
 .e123.hk
 .e3an.ac.uk
+.e5.sk
 .e53w.com
 .e621.net
 .ea-anz-press.com
@@ -8947,6 +8975,7 @@
 .ebsl.ac.uk
 .ebslondon.ac.uk
 .ebtcbank.com
+.ebuyer.com
 .ebuyheadphones.com
 .eca.ac.uk
 .ecampus-leeds.ac.uk
@@ -9118,6 +9147,8 @@
 .elephantsdream.org
 .elephanttube.com
 .elephanttubenew.com
+.elevenlabs.com
+.elevenlabs.io
 .elgaronline.com
 .elgoog.im
 .elib.ac.uk
@@ -9495,6 +9526,11 @@
 .esds.ac.uk
 .ese.ac.uk
 .eselondon.ac.uk
+.eset.com
+.eset.eu
+.eset.sk
+.eset.systems
+.esetsoftware.com
 .esg.ac.uk
 .esg.t91y.com
 .eshcru.ac.uk
@@ -9704,6 +9740,7 @@
 .f-dro1d.org
 .f-droid.com
 .f-droid.org
+.f-secure.com
 .f2pool.com
 .f5pf.com
 .f6988.com
@@ -10342,6 +10379,7 @@
 .fi11tv1.com
 .fibank.bg
 .fibre-diffraction.ac.uk
+.ficbook.net
 .ficeboock.com
 .ficm.ac.uk
 .fictionmania.tv
@@ -10350,6 +10388,7 @@
 .fifastreet3.com
 .fife.ac.uk
 .fifeglen.ac.uk
+.fifthns.com
 .fightforux.com
 .figma.com
 .figprayer.com
@@ -10493,6 +10532,7 @@
 .firstanalvideos.com
 .firstchancesfife.ac.uk
 .firstgynexam.com
+.firstns.cc
 .firstpelvicexam.com
 .firstpost.com
 .firstprivatebank.com.mm
@@ -10525,6 +10565,7 @@
 .fleshbot.com
 .fleshlyx.com
 .fleursdeslettres.com
+.flexclip.com
 .flexpool.io
 .flexsig.com
 .flgjustice.org
@@ -10665,6 +10706,7 @@
 .foundationyear.ac.uk
 .fountmedia.io
 .fourthinternational.org
+.fourthns.systems
 .fox
 .fox-corporation.com
 .fox-news.com
@@ -10853,6 +10895,11 @@
 .fracebook.com
 .fragment.com
 .fragrancebay.com
+.framer.com
+.framer.website
+.framercanvas.com
+.framerstatic.com
+.framerusercontent.com
 .francecasquebeatssolde.com
 .francemail.com
 .francistowne.ac.uk
@@ -10918,6 +10965,8 @@
 .freegao.com
 .freegaypornhdtube.com
 .freegaysexgames.com
+.freegpt.es
+.freegpt.tech
 .freehdinterracialporn.in
 .freehdvideos.xxx
 .freehentaipic.com
@@ -11145,7 +11194,14 @@
 .futanarihq.com
 .futhead.com
 .futpromos.com
+.futuesop.com
+.futufin.com
+.futuhk.com
+.futuhn.com
+.futuholdings.com
 .futunited.com
+.futuniuniu.com
+.futunn.com
 .future-media.ac.uk
 .future-reserves-research.ac.uk
 .futurearmedforces.ac.uk
@@ -11161,6 +11217,7 @@
 .futuretrack.ac.uk
 .futurevehicles.ac.uk
 .futureworks.ac.uk
+.futustatic.com
 .fux.com
 .fuxporn.com
 .fuyindiantai.org
@@ -11261,6 +11318,7 @@
 .garenanow.com
 .garotaporno.com
 .gartlive.com
+.garudalinux.org
 .gashe.ac.uk
 .gastrointestinalexam.com
 .gate.ac.uk
@@ -11539,6 +11597,8 @@
 .ggoogle.com
 .ggpds.com
 .ggpht.com
+.ggsel.com
+.ggsel.net
 .ggsrv.com
 .ggssl.com
 .gh.io
@@ -12210,6 +12270,7 @@
 .grannytube.net
 .grantham.ac.uk
 .grantleyhall.ac.uk
+.granulate.io
 .graph.org
 .graphenecentre.ac.uk
 .graphengine.io
@@ -12307,6 +12368,7 @@
 .guangming.com.my
 .guangming.org
 .guaranitermal.com
+.guardarian.com
 .guardianapis.com
 .guardianapps.co.uk
 .guardianproject.info
@@ -12368,6 +12430,7 @@
 .gyutto.com
 .gzm.tv
 .gzone-anime.info
+.h-chan.me
 .h-china.org
 .h-doujinshi.xyz
 .h-flash.com
@@ -12389,6 +12452,7 @@
 .hackerguardian.com
 .hackfacebook.com
 .hackfacebookid.com
+.hackharassment.com
 .hacklang.org
 .hackmd.io
 .hackney.ac.uk
@@ -12707,6 +12771,8 @@
 .hentai-ani.me
 .hentai-archive.com
 .hentai-books.com
+.hentai-chan.com
+.hentai-chan.live
 .hentai-cosplays.com
 .hentai-covers.site
 .hentai-eroanime.net
@@ -12752,6 +12818,8 @@
 .hentaibar.com
 .hentaiblue.com
 .hentaibros.com
+.hentaichan.live
+.hentaichan.me
 .hentaicity.com
 .hentaicloud.com
 .hentaiclub.net
@@ -13241,6 +13309,7 @@
 .hotbed.ac.uk
 .hotcandyland.com
 .hotcoin.com
+.hotcrp.com
 .hotcuckoldwife.com
 .hotcumporn.com
 .hotels.cn
@@ -14227,6 +14296,7 @@
 .imagepost.com
 .images-amazon.com
 .images-gaytube.com
+.images.prismic.io
 .imageshack.com
 .imageshack.us
 .imagetwist.com
@@ -14255,6 +14325,7 @@
 .imgix.com
 .imgix.net
 .imgmega.com
+.imgschan.xyz
 .imgsmail.ru
 .imgur.com
 .imgur.io
@@ -14265,6 +14336,7 @@
 .imlab.ac.uk
 .imlive.co
 .imlive.com
+.immersivetranslate.com
 .immidio.com
 .immoral.jp
 .immxd.com
@@ -14395,6 +14467,7 @@
 .insiderdevtour.com
 .insiderintelligence.com
 .insidevoa.com
+.insight.tech
 .inspire-dtp.ac.uk
 .inspiretrust.ac.uk
 .inst-of-oceanographic-sci.ac.uk
@@ -14490,6 +14563,7 @@
 .intel.ch
 .intel.cl
 .intel.cm
+.intel.co
 .intel.co.ae
 .intel.co.cr
 .intel.co.id
@@ -14503,6 +14577,7 @@
 .intel.com.au
 .intel.com.bo
 .intel.com.br
+.intel.com.cn
 .intel.com.co
 .intel.com.ec
 .intel.com.hk
@@ -14521,6 +14596,7 @@
 .intel.cu
 .intel.cz
 .intel.de
+.intel.dev
 .intel.dk
 .intel.dz
 .intel.ec
@@ -14533,6 +14609,7 @@
 .intel.ga
 .intel.gd
 .intel.ge
+.intel.gg
 .intel.gl
 .intel.gm
 .intel.gr
@@ -14543,6 +14620,7 @@
 .intel.hn
 .intel.ht
 .intel.hu
+.intel.id
 .intel.ie
 .intel.in
 .intel.io
@@ -14636,10 +14714,12 @@
 .intellinuxgraphics.net
 .intellinuxwireless.net
 .intelnervana.com
-.intelnet.component
 .intelplay.com
 .intelquark.com
+.intelrealsense.cn
 .intelrealsense.com
+.intelrealsense.net
+.intelreimbursement.com
 .intelrxt.com
 .intelsalestraining.com
 .intelsecurity.com
@@ -14684,6 +14764,7 @@
 .internetofeverything.com
 .internetpopculture.com
 .interracial-sites.com
+.interseclab.org
 .intescort.com
 .intgram.com
 .intheknow.com.au
@@ -14971,6 +15052,9 @@
 .itfromtheinside.com
 .ithelp.ithome.com.tw
 .itiger.com
+.itigergrowth.com
+.itigergrowtha.com
+.itigerup.com
 .itlearningspace-scot.ac.uk
 .itnel.com
 .itnow.ac.uk
@@ -15106,6 +15190,7 @@
 .jav-angel.net
 .jav-subtitles.com
 .jav-vr.net
+.jav.app
 .jav.com
 .jav.dog
 .jav.gallery
@@ -15436,6 +15521,7 @@
 .joinmaidez.com
 .joinmastodon.org
 .joinside.org
+.joinsquad.com
 .joinup.ac.uk
 .jokerlu-go.buzz
 .jokerlu.asia
@@ -15638,6 +15724,8 @@
 .karmapa.org
 .karupsha.com
 .karupspc.com
+.kaspersky-labs.com
+.kaspersky.com
 .kastatic.org
 .katestube.com
 .kavkazr.com
@@ -15808,6 +15896,7 @@
 .kinmen.org.tw
 .kinmen.travel
 .kinokuniya.com
+.kinopoisk.ru
 .kir.jp
 .kir2kos.net
 .kirbysepicyarn.com
@@ -16952,6 +17041,7 @@
 .mahsc.ac.uk
 .maiio.net
 .mail-archive.com
+.mail.com
 .mail.ru
 .maileoch.com
 .mailhealth.com
@@ -17118,6 +17208,7 @@
 .marlin.ac.uk
 .marplecollege.ac.uk
 .marranazas.com
+.marscode.com
 .martau.com
 .martsangkagyuofficial.org
 .maruta.be
@@ -17350,6 +17441,7 @@
 .mca.ac.uk
 .mcadforums.com
 .mcaf.ee
+.mcafee.com
 .mcb.com.mm
 .mcc.ac.uk
 .mcd
@@ -17435,6 +17527,7 @@
 .meawallet.app
 .meb.gov.mm
 .mebank.ir
+.meccontroller.com
 .meddyliwchamgymru.ac.uk
 .mede-innovation.ac.uk
 .medev.ac.uk
@@ -17503,6 +17596,7 @@
 .melonstube.com
 .meltoday.com
 .meme111.com
+.memealerts.com
 .memehk.com
 .memes.tw
 .memri.org
@@ -18369,6 +18463,9 @@
 .moodleshare-hw.ac.uk
 .moodstocks.com
 .moodyz.com
+.moomoo.com
+.moomooequity.com
+.moomootrustee.com
 .moon.fm
 .moonbbs.com
 .moonbingo.com
@@ -18427,6 +18524,7 @@
 .movetv.com
 .movidius.com
 .movidius.net
+.movidius.org
 .movie-erog.com
 .movie1000.xyz
 .moviefap.com
@@ -19458,6 +19556,7 @@
 .nfscdict.com
 .nfscofficial.com
 .nfsworld.com
+.nftstatic.com
 .nftstorage.link
 .nga.mil
 .ngc.ac.uk
@@ -19733,6 +19832,7 @@
 .niosii.com
 .niosii.net
 .niran.ac.uk
+.nirsoft.net
 .nishinipponbank.co.jp
 .nismod.ac.uk
 .nist.gov
@@ -19851,6 +19951,7 @@
 .northumberland-acl.ac.uk
 .northumberland.ac.uk
 .northumbria.ac.uk
+.norton.com
 .norwichresearchpark.ac.uk
 .nos.nl
 .notepad-plus-plus.org
@@ -20278,6 +20379,7 @@
 .ocsp-certum.com
 .ocsp-responder.com
 .october-review.org
+.octocaptcha.com
 .ocul.us
 .oculus-china.com
 .oculus.com
@@ -20317,6 +20419,8 @@
 .offresspecialesbmw.ca
 .offrezdesipods.com
 .offshorerenewables.ac.uk
+.offworldindustries.com
+.offworldindustries.net
 .ofile.org
 .ofs.ac.uk
 .ogakikyoritsu.co.jp
@@ -20346,6 +20450,7 @@
 .okaapps.com
 .okayfreedom.com
 .okazudouga.tokyo
+.okcdn.ru
 .okex.com
 .okinawabank.co.jp
 .okk.tw
@@ -20419,6 +20524,7 @@
 .one.one.one
 .one889.app
 .oneapi.com
+.oneapi.io
 .onedinesfree.com
 .onedrive.co
 .onedrive.co.uk
@@ -20515,6 +20621,7 @@
 .openapiplatform.com
 .openapiservice.com
 .openart.ai
+.opencas.io
 .opencollective.com
 .opencreate.org
 .opendemocracy.net
@@ -20534,6 +20641,7 @@
 .openmaps.org
 .openreality.com
 .openresty.org
+.openreview.net
 .openrouter.ai
 .opensciencelab.ac.uk
 .opensciencelaboratory.ac.uk
@@ -20556,6 +20664,7 @@
 .opentranslatorstothings.org
 .openuniversity.ac.uk
 .openurl.ac.uk
+.openvino.ai
 .openvinotoolkit.org
 .openvpn.net
 .openvpn.org
@@ -20825,6 +20934,7 @@
 .pandanet-igs.com
 .pandapow.co
 .pandapow.net
+.pandasecurity.com
 .pandavpn-jp.com
 .pandavpnpro.com
 .pandora.com
@@ -20882,6 +20992,7 @@
 .passion.com
 .passiontimes.hk
 .passport.net
+.passwordday.org
 .pastahealth.com
 .paste.ee
 .pastebin.com
@@ -21311,6 +21422,7 @@
 .pickering.ac.uk
 .pickinguppussy.com
 .picknicekicks.net
+.pickpackapp.com
 .pickshoesclothes.com
 .picnik.com
 .picpost.com
@@ -21329,6 +21441,7 @@
 .pigav.com
 .piirus.ac.uk
 .pikabu.monster
+.pikpak.io
 .pikpak.me
 .pikpakdrive.com
 .pilgrimageandcathedrals.ac.uk
@@ -21541,6 +21654,8 @@
 .pm.me
 .pmatehunter.com
 .pmates.com
+.pmem.org
+.pmem.us
 .pml.ac.uk
 .pms.ac.uk
 .pnas.org
@@ -22059,6 +22174,7 @@
 .prayforchina.net
 .prcleader.org
 .pre-bmwgroup.jobs
+.predb.me
 .predictivetechnologies.com
 .premia.ac.uk
 .premium-beauty.com
@@ -22164,6 +22280,7 @@
 .projectapex.com
 .projectara.com
 .projectbaseline.com
+.projectcircuitbreaker.com
 .projecteuclid.org
 .projectjav.com
 .projectmurphy.net
@@ -22880,6 +22997,7 @@
 .rems-cdt.ac.uk
 .renaissanceskin.ac.uk
 .renchead.com
+.renderingtoolkit.org
 .renderos.com
 .reneerossvideos.com
 .renminbao.com
@@ -23359,10 +23477,15 @@
 .samsung.com
 .samsungapps.com
 .samsungcloud.com
+.samsungconsent.com
 .samsungdm.com
 .samsunggalaxyfriends.com
+.samsunghealth.com
+.samsungiotcloud.com
 .samsungknox.com
+.samsungosp.com
 .samsungqbe.com
+.samsungrs.com
 .sandisk.ae
 .sandisk.co.jp
 .sandisk.co.kr
@@ -23525,6 +23648,12 @@
 .schome.ac.uk
 .schoms.ac.uk
 .school-economic-science.ac.uk
+.schwab.co.uk
+.schwab.com
+.schwab.com.hk
+.schwab.com.sg
+.schwabassetmanagement.com
+.schwabplan.com
 .sci-hub.ee
 .sci-hub.it.nf
 .sci-hub.mksa.top
@@ -23676,6 +23805,7 @@
 .secomtrust.net
 .second-ns.com
 .second-ns.de
+.secondns.at
 .secret-flirt-hub.com
 .secretbabes.co.uk
 .secretchina.com
@@ -23755,6 +23885,7 @@
 .sensualgirls.org
 .sensualmothers.com
 .sensueel.net
+.sentry.io
 .senzuritv.net
 .sepnet.ac.uk
 .seqing.one
@@ -24254,6 +24385,7 @@
 .sierrafriendsoftibet.org
 .sifa.ac.uk
 .sifangclub.com
+.sigcomm.org
 .sigma-cetl.ac.uk
 .sigma-network.ac.uk
 .sigmoidoscopeexam.com
@@ -24269,11 +24401,15 @@
 .signalprocessingsociety.org
 .signalr.net
 .signalusers.org
+.sigops.org
+.sigopt.com
 .sihe.ac.uk
 .sijihuisuo.club
 .sijihuisuo.com
 .sikh-uni.ac.uk
 .sikiswap.com
+.silicon-mobility.com
+.siliconmobility.com
 .silkbook.com
 .silkengirl.com
 .silverchair-cdn.com
@@ -24484,10 +24620,16 @@
 .small-angle.ac.uk
 .smallteenpussy.com
 .smart-edge.com
+.smart-edge.info
+.smart-edge.io
+.smart-edge.net
+.smart-edge.org
+.smart-edge.systems
 .smart.ac.uk
 .smartcommunitiescoalition.com
 .smartcommunitiescoalition.org
 .smartdnsproxy.com
+.smartedge.info
 .smartexpos.com
 .smartfea.com
 .smarthide.com
@@ -24648,6 +24790,7 @@
 .solihull.ac.uk
 .solihullsfc.ac.uk
 .solostudioksale.com
+.solscan.io
 .solsfc.ac.uk
 .solutions-worcestershire.ac.uk
 .solutionstation.com
@@ -24929,6 +25072,7 @@
 .spizoo.com
 .splatoon2tournament.com
 .splint-cetl.ac.uk
+.splunk.com
 .spo-msedge.net
 .spokenword.ac.uk
 .sponichi.co.jp
@@ -25212,6 +25356,7 @@
 .stdavidscollege.ac.uk
 .stdavidsdaygroup.ac.uk
 .stdoms.ac.uk
+.stealthex.io
 .steam-api.com
 .steam-chat.com
 .steam.apac.qtlglb.com
@@ -25307,6 +25452,8 @@
 .stonyhurst.ac.uk
 .stoporganharvesting.org
 .stoptibetcrisis.net
+.storageclassmemory.io
+.storageclassmemory.org
 .storagenewsletter.com
 .storcuram.ac.uk
 .store-bridgestonesports.com
@@ -25325,6 +25472,7 @@
 .straightouttasomewhere.com
 .straightpornstuds.com
 .straitstimes.com
+.straitsx.com
 .stran.ac.uk
 .stranabg.com
 .straplessdildo.com
@@ -25820,10 +25968,12 @@
 .taoil-cn.sbs
 .taoism.net
 .taose.in
+.tap.io
 .tapanwap.com
 .tapatalk.com
 .tapb.ac.uk
 .tapestry.ac.uk
+.taptap.io
 .taptotokyo.com
 .taqunuhai.vip
 .taradinhos.com
@@ -25992,6 +26142,7 @@
 .temenos.ac.uk
 .temetube.xyz
 .tempusuk.ac.uk
+.temu.com
 .tenacy.com
 .tenbyfotolia.com
 .tencent.co.id
@@ -26001,6 +26152,7 @@
 .tentowns.ac.uk
 .tenzinpalmo.com
 .terabox.com
+.teraboxcdn.com
 .terapeack.com
 .terapeak.ca
 .terapeak.com
@@ -26219,6 +26371,7 @@
 .thepaypalshop.com
 .thepervs.com
 .thepiratebay.org
+.thepoizon.ru
 .theporn.cc
 .thepornarea.com
 .thepornbest.com
@@ -26299,6 +26452,7 @@
 .thinkwales.ac.uk
 .thinkwithgoogle.com
 .thirdmill.org
+.thirdns.de
 .thisav.com
 .thisismoney.co.uk
 .thisispolaris.com
@@ -26337,6 +26491,7 @@
 .thothub.to
 .thottok.com
 .thotvids.com
+.threadingbuildingblocks.org
 .threadreaderapp.com
 .threads.com
 .threads.net
@@ -26656,6 +26811,7 @@
 .torvpn.com
 .tosh.comedycentral.com
 .tospo-keiba.jp
+.tospotify.com
 .totalmateria.com
 .totalvpn.com
 .totoleak.com
@@ -26704,6 +26860,7 @@
 .tracking-location.com
 .tradevip1.com
 .tradingview.com
+.trae.ai
 .traffcoll.ac.uk
 .trafficmanager.net
 .trafford.ac.uk
@@ -27260,7 +27417,6 @@
 .udel.ac.uk
 .udemy.com
 .udemycdn.com
-.uderzo.it
 .udfs.com
 .udn.com
 .udn.com.tw
@@ -27293,10 +27449,13 @@
 .uhrp.org
 .uhsl.ac.uk
 .uhub.com
+.ui-portal.de
 .ui.com
+.uicdn.com
 .uighur.narod.ru
 .uighur.nl
 .uighurbiz.net
+.uimserv.net
 .uiporn.com
 .uisp.com
 .ujapanesesex.com
@@ -27453,6 +27612,7 @@
 .universalorlando.com
 .universalpictures.com
 .universalpicturesinternational.com
+.universalscalablefirmware.org
 .universalstudioshollywood.com
 .universities-scotland.ac.uk
 .universitiesengland.ac.uk
@@ -27576,6 +27736,7 @@
 .uscnpm.org
 .use-of-mans.ac.uk
 .uselessjunk.com
+.usenix.org
 .useplannr.com
 .userapi.com
 .usercontent.dev
@@ -27840,6 +28001,7 @@
 .vercel.app
 .vercel.blog
 .vercel.com
+.vercel.dev
 .vercel.events
 .vercel.live
 .vercel.pub
@@ -28269,6 +28431,7 @@
 .vk.ru
 .vk.team
 .vkcache.com
+.vkcloud-static.ru
 .vkgo.app
 .vklive.app
 .vkmessenger.app
@@ -28604,6 +28767,7 @@
 .vpro.com
 .vpro.net
 .vpser.net
+.vpsxb.net
 .vraiesagesse.net
 .vrbgay.com
 .vrcams.io
@@ -28728,6 +28892,7 @@
 .wariolandshakeit.com
 .wariowarediy.com
 .warkscol.ac.uk
+.warnerbrosgames.com
 .warp.plus
 .warr.ac.uk
 .warrington.ac.uk
@@ -28774,9 +28939,12 @@
 .waybig.com
 .waymo.com
 .waze.com
+.wbagora.com
 .wballiance.com
 .wbd.ms
 .wbdnbo.net
+.wbgames.com
+.wbinsights.com
 .wbrks.com
 .wbs.ac.uk
 .wbvm4s.com
@@ -28855,6 +29023,7 @@
 .webrtc.org
 .webrush.net
 .webs-tv.net
+.websdr.org
 .website.informer.com
 .website.new
 .websitepulse.com
@@ -29103,6 +29272,7 @@
 .wikimediacloud.org
 .wikimediafoundation.org
 .wikinews.org
+.wikipedia.com
 .wikipedia.org
 .wikiporn.tv
 .wikiquote.org
@@ -29722,6 +29892,7 @@
 .xn--sgt856gbjl.cc
 .xn--sjqr38j.com
 .xn--tkry91n.com
+.xn--u2u927b.com
 .xn--ubt498knmf.com
 .xn--uis17aj9kmuf.com
 .xn--urs05q.jp
@@ -29803,6 +29974,7 @@
 .xshaker.net
 .xshr.online
 .xsijishe.com
+.xsijishe.net
 .xskywalker.com
 .xslist.org
 .xstas.biz
@@ -30642,6 +30814,7 @@
 .z-lib.gl
 .z-lib.io
 .z-lib.org
+.z-library.ec
 .z-library.se
 .z-library.sk
 .z00.world
@@ -30943,7 +31116,7 @@ client-teamviewer-com.trafficmanager.net
 clients1.google.com
 cloudsync-prod.s3.amazonaws.com
 community.oneplus.com
-courier-push-apple.com.akadns.net
+configuration-lb.ls-apple.com.akadns.net
 crl.microsoft.com
 crl.versign.net
 csis-prod.s3.amazonaws.com
@@ -30968,11 +31141,13 @@ d33wubrfki0l68.cloudfront.net
 d36nr0u3xmc4mm.cloudfront.net
 d3aqoihi2n8ty8.cloudfront.net
 d3c27h4odz752x.cloudfront.net
+d3r7nsslvs6aaf.cloudfront.net
 d3vd9lfkzbru3h.cloudfront.net
 d6d4ismr40iw.cloudfront.net
 d6tizftlrpuof.cloudfront.net
 databank.worldbank.org
 database.asahi.com
+datarouter.apps.netherrealm.com
 ddacn6pr5v0tl.cloudfront.net
 default.exp-tas.com
 dell.my.site.com
@@ -31001,12 +31176,14 @@ eaassets-a.akamaihd.net
 ebay-25-assets.s3-us-west-1.amazonaws.com
 ecapi-pchome.cdn.hinet.net
 elib.maruzen.co.jp
+epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
 ereg.adobe.com
 ereg.wip.adobe.com
 ereg.wip1.adobe.com
 ereg.wip2.adobe.com
 ereg.wip3.adobe.com
 ereg.wip4.adobe.com
+eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com
 espn.api.edge.bamgrid.com
 espn.hb.omtrdc.net
 espndotcom.tt.omtrdc.net
@@ -31034,6 +31211,7 @@ gamedownloads-rockstargames-com.akamaized.net
 gamer-cds.cdn.hinet.net
 gamer2-cds.cdn.hinet.net
 gigabyte2.azureedge.net
+github-api.arkoselabs.com
 github-cloud.s3.amazonaws.com
 gitlab-assets.oss-cn-hongkong.aliyuncs.com
 google-ohttp-relay-safebrowsing.fastly-edge.com
@@ -31251,6 +31429,7 @@ statics-marketingsites-eus-ms-com.akamaized.net
 statics-marketingsites-wcus-ms-com.akamaized.net
 steambroadcast.akamaized.net
 steamcdn-a.akamaihd.net
+steamcloudsweden.blob.core.windows.net
 steamcommunity-a.akamaihd.net
 steamcommunity-a.akamaihd.net.edgesuite.net
 steammobile.akamaized.net
@@ -31261,6 +31440,7 @@ steamstore-a.akamaihd.net
 steamusercontent-a.akamaihd.net
 steamuserimages-a.akamaihd.net
 steamvideo-a.akamaihd.net
+straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 t21.nikkei.co.jp
 t21ipau.nikkei.co.jp
 teamviewer.com.cdn.cloudflare.net
@@ -31333,6 +31513,7 @@ vscode-sync.trafficmanager.net
 vscode.blob.core.windows.net
 vscode.search.windows.net
 vsmarketplacebadge.apphb.com
+wb-agora-hydra-file-storage-k1.s3.amazonaws.com
 webchannel-alkalimakersuite-pa.clients6.google.com
 weblive-hamivideo.cdn.hinet.net
 wetv.qq.com
@@ -31441,6 +31622,7 @@ wwis-dubc1-vip98.adobe.com
 wwis-dubc1-vip99.adobe.com
 www-cdn.icloud.com.akadns.net
 yangzhi.app
+yt3.googleusercontent.com
 zeenews-fonts.s3.amazonaws.com
 ztedevices.com
 (^|\.)13mei[5-7]\.buzz$
@@ -31585,6 +31767,7 @@ ztedevices.com
 (^|\.)[a-z][1-9][0-9][a-z]\.com$
 .+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 .+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
+javdb\d+\.com$
 ^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 ^epicgames-download\d\.akamaized\.net$
 ^ewcdn[0-9]+\.nowe\.com$

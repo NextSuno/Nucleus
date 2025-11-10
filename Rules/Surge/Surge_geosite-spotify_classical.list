@@ -2,11 +2,11 @@
 # NAME: geosite-spotify
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
-# DESC: 适用于 Surge 中的 RULE-SET 类型
-# UPDATED: 2025-09-19 11:23:19
+# DESC: 适用于 Surge 规则中的 RULE-SET 类型
+# UPDATED: 2025-11-10 17:37:55
 # DOMAIN: 8
-# DOMAIN-SUFFIX: 14
-# TOTAL: 22
+# DOMAIN-SUFFIX: 15
+# TOTAL: 23
 
 DOMAIN,audio-ak-spotify-com.akamaized.net
 DOMAIN,audio4-ak-spotify-com.akamaized.net
@@ -30,3 +30,4 @@ DOMAIN-SUFFIX,spotifycodes.com
 DOMAIN-SUFFIX,spotifyforbrands.com
 DOMAIN-SUFFIX,spotifyjobs.com
 DOMAIN-SUFFIX,spotify.link
+DOMAIN-SUFFIX,tospotify.com

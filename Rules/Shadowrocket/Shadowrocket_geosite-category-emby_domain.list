@@ -2,11 +2,11 @@
 # NAME: geosite-category-emby
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
-# DESC: 适用于 Shadowrocket 中的 DOMAIN-SET 类型
-# UPDATED: 2025-09-19 11:20:06
+# DESC: 适用于 Shadowrocket 规则中的 DOMAIN-SET 类型
+# UPDATED: 2025-11-10 17:35:29
 # DOMAIN: 59
-# DOMAIN-SUFFIX: 27
-# TOTAL: 86
+# DOMAIN-SUFFIX: 29
+# TOTAL: 88
 
 plex.llon.net
 emby.nexitally.com
@@ -68,29 +68,31 @@ emby.p-p.men
 emby.aiyowei.ml
 cc.ccemby.tk
 .mius.uk
-.loseremby.org
 .sfcj.org
-.ju.dog
+.poloemby.xyz
+.hongxingyunmovie.vip
 .embyplus.club
 .404.sb
 .4545.cf
 .blueseacdn.com
 .emby.ml
+.loseremby.org
 .plex.direct
 .texon.fans
-.hongxingyunmovie.vip
+.ju.dog
 .123456.al
-.gfwemby.org
-.poloemby.xyz
+.yunti.online
+.nvidia.rip
 .pololine.ml
 .misakaf.org
-.nvidia.rip
-.feverss.cloud
+.gfwemby.org
 .nebula-emby.com
+.feverss.cloud
 .stream.synn.cc
-.stream.ntrrr.top
 .media-1.co.uk
 .sptv.ii00.cc
 .sgtv.ii00.cc
 .cn-music.mefun.vip
 .singularity.deja-vu.beauty
+.emby1.69yun69.com
+.stream.ntrrr.top

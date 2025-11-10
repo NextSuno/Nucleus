@@ -2,11 +2,11 @@
 # NAME: geosite-category-emby
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
-# DESC: 适用于 Clash 中的 Classical 类型
-# UPDATED: 2025-09-19 10:47:22
+# DESC: 适用于 Clash 规则中的 Classical 类型
+# UPDATED: 2025-11-10 16:04:01
 # DOMAIN: 59
-# DOMAIN-SUFFIX: 27
-# TOTAL: 86
+# DOMAIN-SUFFIX: 29
+# TOTAL: 88
 
 payload:
     - DOMAIN,plex.llon.net
@@ -69,29 +69,31 @@ payload:
     - DOMAIN,emby.aiyowei.ml
     - DOMAIN,cc.ccemby.tk
     - DOMAIN-SUFFIX,mius.uk
-    - DOMAIN-SUFFIX,loseremby.org
     - DOMAIN-SUFFIX,sfcj.org
-    - DOMAIN-SUFFIX,ju.dog
+    - DOMAIN-SUFFIX,poloemby.xyz
+    - DOMAIN-SUFFIX,hongxingyunmovie.vip
     - DOMAIN-SUFFIX,embyplus.club
     - DOMAIN-SUFFIX,404.sb
     - DOMAIN-SUFFIX,4545.cf
     - DOMAIN-SUFFIX,blueseacdn.com
     - DOMAIN-SUFFIX,emby.ml
+    - DOMAIN-SUFFIX,loseremby.org
     - DOMAIN-SUFFIX,plex.direct
     - DOMAIN-SUFFIX,texon.fans
-    - DOMAIN-SUFFIX,hongxingyunmovie.vip
+    - DOMAIN-SUFFIX,ju.dog
     - DOMAIN-SUFFIX,123456.al
-    - DOMAIN-SUFFIX,gfwemby.org
-    - DOMAIN-SUFFIX,poloemby.xyz
+    - DOMAIN-SUFFIX,yunti.online
+    - DOMAIN-SUFFIX,nvidia.rip
     - DOMAIN-SUFFIX,pololine.ml
     - DOMAIN-SUFFIX,misakaf.org
-    - DOMAIN-SUFFIX,nvidia.rip
-    - DOMAIN-SUFFIX,feverss.cloud
+    - DOMAIN-SUFFIX,gfwemby.org
     - DOMAIN-SUFFIX,nebula-emby.com
+    - DOMAIN-SUFFIX,feverss.cloud
     - DOMAIN-SUFFIX,stream.synn.cc
-    - DOMAIN-SUFFIX,stream.ntrrr.top
     - DOMAIN-SUFFIX,media-1.co.uk
     - DOMAIN-SUFFIX,sptv.ii00.cc
     - DOMAIN-SUFFIX,sgtv.ii00.cc
     - DOMAIN-SUFFIX,cn-music.mefun.vip
     - DOMAIN-SUFFIX,singularity.deja-vu.beauty
+    - DOMAIN-SUFFIX,emby1.69yun69.com
+    - DOMAIN-SUFFIX,stream.ntrrr.top

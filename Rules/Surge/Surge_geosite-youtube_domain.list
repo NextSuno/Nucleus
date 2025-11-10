@@ -2,11 +2,13 @@
 # NAME: geosite-youtube
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
-# DESC: 适用于 Surge 中的 DOMAIN-SET 类型
-# UPDATED: 2025-09-19 11:25:40
+# DESC: 适用于 Surge 规则中的 DOMAIN-SET 类型
+# UPDATED: 2025-11-10 17:39:51
+# DOMAIN: 1
 # DOMAIN-SUFFIX: 176
-# TOTAL: 176
+# TOTAL: 177
 
+yt3.googleusercontent.com
 .youtube
 .youtube.ru
 .youtube.az

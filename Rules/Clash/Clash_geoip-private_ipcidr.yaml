@@ -2,8 +2,8 @@
 # NAME: geoip-private
 # AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
-# DESC: 适用于 Clash 中的 Ipcidr 类型
-# UPDATED: 2025-09-19 10:52:05
+# DESC: 适用于 Clash 规则中的 Ipcidr 类型
+# UPDATED: 2025-11-10 17:20:54
 # IP-CIDR: 14
 # IP-CIDR6: 4
 # TOTAL: 18
