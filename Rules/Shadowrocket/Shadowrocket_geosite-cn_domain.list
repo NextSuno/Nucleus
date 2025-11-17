@@ -1,11 +1,11 @@
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.yaml
 # NAME: geosite-cn
-# AUTHOR: https://github.com/NextSuno
+# AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Shadowrocket 规则中的 DOMAIN-SET 类型
-# UPDATED: 2025-11-10 17:36:14
-# DOMAIN-SUFFIX: 117155
-# TOTAL: 117155
+# UPDATED: 2025-11-17 21:13:27
+# DOMAIN-SUFFIX: 117156
+# TOTAL: 117156
 
 .alibaba
 .xn--zfr164b
@@ -52,22 +52,8 @@
 .citic
 .baidu
 .alipay
-.juzikong.com
-.trustmta.com
-.02hm.com
-.02lb.com
-.02lu.com
-.02pew65z89.com
-.02shu.com
-.02wan.com
-.02wq.com
-.02yc.com
-.030303.com
-.030mall.com
-.0310it.com
-.0311.cc
-.031130.xyz
-.03118888.com
+.juzhiliang.com
+.viecoo.com
 .0311hd.com
 .0311led.com
 .0311wifi.com
@@ -98,7 +84,7 @@
 .037398.com
 .0377auto.com
 .0378zz.com
-.jxkp.com
+.0379home.com
 .0379wan.com
 .0391fc.com
 .03964.com
@@ -10565,7 +10551,7 @@
 .aliapp-inc.com
 .aliapp.com
 .aliappcdn.com
-.02a5ji7vso.com
+.031130.xyz
 .alibaba-inc.com
 .alibaba.com
 .alibaba.net
@@ -10676,7 +10662,7 @@
 .alionexpo.com
 .alipan.com
 .alipansou.com
-.029zp.com
+.0311.cc
 .alipay-corp.com
 .alipay-eco.com
 .alipay-inc.com
@@ -13120,7 +13106,7 @@
 .baideye.com
 .baidiapp.com
 .baidinet.com
-.029yjy.com
+.0310it.com
 .baidu-bank.com
 .baidu-cdn.com
 .baidu-cdn.net
@@ -22376,7 +22362,7 @@
 .citexpo.org
 .citgc.com
 .citiais.com
-.029xxw.com
+.030mall.com
 .citic-wealth.com
 .citic.com
 .citicbank.com
@@ -23128,7 +23114,7 @@
 .cmzi.com
 .cmzj.net
 .cmzyk.com
-.029wsw.com
+.030303.com
 .cn-5.com
 .cn-ab.com
 .cn-aci.com
@@ -26736,6 +26722,7 @@
 .cztv.cc
 .cztv.com
 .cztv.tv
+.cztvcdn.com
 .cztvcloud.com
 .cztzkg.com
 .czur.com
@@ -35980,6 +35967,20 @@
 .fuliti.com
 .fuliw.net
 .full-way.com
+.02yc.com
+.02wq.com
+.02wan.com
+.02shu.com
+.02pew65z89.com
+.02lu.com
+.02lb.com
+.02hm.com
+.02d.com
+.02a5ji7vso.com
+.029zp.com
+.029yjy.com
+.029xxw.com
+.029wsw.com
 .029taihe.com
 .029shw.com
 .029lvwo.com
@@ -43970,7 +43971,7 @@
 .haihub.co
 .haihuishou.com
 .haiintelligent.com
-.haijia.org
+.jxksw.net
 .haijianchuxing.com
 .haijianstock.com
 .haijiaonet.com
@@ -54006,7 +54007,7 @@
 .iyoujia.com
 .iyoujiao.net
 .iyoule.com
-.jxlgjd.com
+.iyouman.com
 .iyouqian.com
 .iyouxia.com
 .iyouxin.com
@@ -58439,14 +58440,14 @@
 .juzhentech.com
 .juzhenyun.org
 .juzhi720.com
-.juzhiliang.com
+.0.zone
 .juzhiyuan.com
 .juzhongjoy.com
 .juzicon.com
 .juzicy.com
 .juzifenqi.com
 .juzijiudian.com
-.0.zone
+.juzikong.com
 .juzilicai.com
 .juzimi.cc
 .juzioo.com
@@ -58605,10 +58606,10 @@
 .jxjx6.com
 .jxjywater.com
 .jxkeda.com
-.jxkjzb.com
-.0379home.com
-.02d.com
-.iyouman.com
+.yl1988.com
+.03118888.com
+.haijia.org
+.jxlgjd.com
 .jxln.com
 .zzfly.net
 .jxlong.com
@@ -94349,7 +94350,7 @@
 .trustlife.com
 .trustmo.com
 .trustmover.com
-.jxksw.net
+.trustmta.com
 .trustwe.com
 .trutes.com
 .truthsinfo.com
@@ -96911,7 +96912,7 @@
 .vidmate.mobi
 .vidmate.net
 .vidmatefilm.org
-.viecoo.com
+.jxkp.com
 .vieg.net
 .vientao.com
 .viewstock.com
@@ -109045,7 +109046,7 @@
 .yl01.com
 .yl0551.com
 .yl1001.com
-.yl1988.com
+.jxkjzb.com
 .yl2272.com
 .yl344.com
 .yl9820.com

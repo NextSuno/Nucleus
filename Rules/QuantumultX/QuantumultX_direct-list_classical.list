@@ -1,12 +1,12 @@
 # SOURCE: https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt
 # NAME: direct-list
-# AUTHOR: https://github.com/NextSuno
+# AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型
-# UPDATED: 2025-11-10 17:31:04
-# HOST: 558
-# HOST-SUFFIX: 116262
-# TOTAL: 116820
+# UPDATED: 2025-11-17 21:08:03
+# HOST: 588
+# HOST-SUFFIX: 116263
+# TOTAL: 116851
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -11986,6 +11986,7 @@ HOST-SUFFIX,anyv.net,DIRECT
 HOST-SUFFIX,anyview.net,DIRECT
 HOST-SUFFIX,anyway.fm,DIRECT
 HOST-SUFFIX,anyway.red,DIRECT
+HOST-SUFFIX,anywlan.com,DIRECT
 HOST-SUFFIX,anywood.com,DIRECT
 HOST-SUFFIX,anyxz.com,DIRECT
 HOST-SUFFIX,anzerclub.com,DIRECT
@@ -27121,6 +27122,7 @@ HOST-SUFFIX,cztrjs.com,DIRECT
 HOST-SUFFIX,cztv.cc,DIRECT
 HOST-SUFFIX,cztv.com,DIRECT
 HOST-SUFFIX,cztv.tv,DIRECT
+HOST-SUFFIX,cztvcdn.com,DIRECT
 HOST-SUFFIX,cztvcloud.com,DIRECT
 HOST-SUFFIX,cztzkg.com,DIRECT
 HOST-SUFFIX,czur.com,DIRECT
@@ -37927,6 +37929,7 @@ HOST-SUFFIX,geekluo.com,DIRECT
 HOST-SUFFIX,geekmaker.com,DIRECT
 HOST-SUFFIX,geekman.vip,DIRECT
 HOST-SUFFIX,geeknev.com,DIRECT
+HOST-SUFFIX,geekpark,DIRECT
 HOST-SUFFIX,geekpark.net,DIRECT
 HOST-SUFFIX,geekpwn.org,DIRECT
 HOST-SUFFIX,geeksblog.cc,DIRECT
@@ -90793,7 +90796,6 @@ HOST-SUFFIX,tapque.com,DIRECT
 HOST-SUFFIX,tapsvc.com,DIRECT
 HOST-SUFFIX,taptap-api.com,DIRECT
 HOST-SUFFIX,taptap.com,DIRECT
-HOST-SUFFIX,taptap.io,DIRECT
 HOST-SUFFIX,taptapcode.com,DIRECT
 HOST-SUFFIX,taptapdada.com,DIRECT
 HOST-SUFFIX,tapulsads.ru,DIRECT
@@ -92314,7 +92316,6 @@ HOST-SUFFIX,tinywan.com,DIRECT
 HOST-SUFFIX,tinyyuan.com,DIRECT
 HOST-SUFFIX,tipaipai.com,DIRECT
 HOST-SUFFIX,tipask.com,DIRECT
-HOST-SUFFIX,tipdim.org,DIRECT
 HOST-SUFFIX,tipdm.com,DIRECT
 HOST-SUFFIX,tipdm.org,DIRECT
 HOST-SUFFIX,tipray.com,DIRECT
@@ -116278,6 +116279,8 @@ HOST,a2.mzstatic.com,DIRECT
 HOST,a3.mzstatic.com,DIRECT
 HOST,a4.mzstatic.com,DIRECT
 HOST,a5.mzstatic.com,DIRECT
+HOST,activate.activation-v2.kaspersky.com,DIRECT
+HOST,activation-v2.geo.kaspersky.com,DIRECT
 HOST,activation-v2.kaspersky.com,DIRECT
 HOST,adcdownload.apple.com,DIRECT
 HOST,adcdownload.apple.com.akadns.net,DIRECT
@@ -116391,6 +116394,11 @@ HOST,ctldl.windowsupdate.com,DIRECT
 HOST,cueme-api.quark.cn,DIRECT
 HOST,customization-cdn.dell.com,DIRECT
 HOST,dartsearch-cn.net,DIRECT
+HOST,dc1-cert.ksn.kaspersky-labs.com,DIRECT
+HOST,dc1-file.ksn.kaspersky-labs.com,DIRECT
+HOST,dc1-pp.ksn.kaspersky-labs.com,DIRECT
+HOST,dc1-st.ksn.kaspersky-labs.com,DIRECT
+HOST,dc1.ksn.kaspersky-labs.com,DIRECT
 HOST,dd-cdn.origin-apple.com.akadns.net,DIRECT
 HOST,dds.dell.com,DIRECT
 HOST,dejavu.apple.com,DIRECT
@@ -116436,6 +116444,7 @@ HOST,downloaddispatch.itunes.apple.com,DIRECT
 HOST,ea2cn-dev-outlet.dell.com,DIRECT
 HOST,ea2cn-prod-outlet.dell.com,DIRECT
 HOST,ea2cn-staging-outlet.dell.com,DIRECT
+HOST,edge.geo.kaspersky.com,DIRECT
 HOST,emmapplecodevice.googleapis.com,DIRECT
 HOST,emoi-cncdn.bing.com,DIRECT
 HOST,experiments.apple.com,DIRECT
@@ -116558,9 +116567,29 @@ HOST,js-cdn.music.apple.com,DIRECT
 HOST,kc.kexinshe.com,DIRECT
 HOST,km.support.apple.com,DIRECT
 HOST,ksn-cinfo-geo.kaspersky-labs.com,DIRECT
+HOST,ksn-cinfo.geoksn.kaspersky.com,DIRECT
+HOST,ksn-crypto-info-geo.kaspersky-labs.com,DIRECT
+HOST,ksn-crypto-kas-geo.kaspersky-labs.com,DIRECT
+HOST,ksn-crypto-tcert-geo.kaspersky-labs.com,DIRECT
+HOST,ksn-crypto-url-geo.kaspersky-labs.com,DIRECT
+HOST,ksn-crypto-verdict-geo.kaspersky-labs.com,DIRECT
+HOST,ksn-crypto-wifiplus-geo.kaspersky-labs.com,DIRECT
+HOST,ksn-crypto-wifiplus.geoksn.kaspersky.com,DIRECT
+HOST,ksn-dc1-cert.geoksn.kaspersky.com,DIRECT
+HOST,ksn-dc1-file.geoksn.kaspersky.com,DIRECT
+HOST,ksn-dc1.geoksn.kaspersky.com,DIRECT
 HOST,ksn-file-geo.kaspersky-labs.com,DIRECT
+HOST,ksn-file.geoksn.kaspersky.com,DIRECT
+HOST,ksn-info-geo.kaspersky-labs.com,DIRECT
+HOST,ksn-info.geoksn.kaspersky.com,DIRECT
+HOST,ksn-kas.geoksn.kaspersky.com,DIRECT
+HOST,ksn-mdr.geoksn.kaspersky.com,DIRECT
+HOST,ksn-tcert-geo.kaspersky-labs.com,DIRECT
+HOST,ksn-tcert.geoksn.kaspersky.com,DIRECT
 HOST,ksn-url-geo.kaspersky-labs.com,DIRECT
+HOST,ksn-url.geoksn.kaspersky.com,DIRECT
 HOST,ksn-verdict-geo.kaspersky-labs.com,DIRECT
+HOST,ksn-verdict.geoksn.kaspersky.com,DIRECT
 HOST,l2-uberproxy.corp.google.com,DIRECT
 HOST,learn.microsoft.com,DIRECT
 HOST,logger-dev.corp.google.com,DIRECT
@@ -116569,6 +116598,7 @@ HOST,login.corp.google.com,DIRECT
 HOST,lv.queniujq.cn,DIRECT
 HOST,manga.bilibili.com,DIRECT
 HOST,maps.apple.com,DIRECT
+HOST,mdr.ksn.kaspersky-labs.com,DIRECT
 HOST,menu-static.gog-statics.com,DIRECT
 HOST,mesu-cdn.apple.com.akadns.net,DIRECT
 HOST,mesu-china.apple.com.akadns.net,DIRECT
@@ -116680,6 +116710,7 @@ HOST,redirector.gvt1.com,DIRECT
 HOST,redirector.offline-maps.gvt1.com,DIRECT
 HOST,redirector.snap.gvt1.com,DIRECT
 HOST,redirector.xn--ngstr-lra8j.com,DIRECT
+HOST,refresh-bkg.activation-v2.kaspersky.com,DIRECT
 HOST,res-1.cdn.office.net,DIRECT
 HOST,res.cdn.office.net,DIRECT
 HOST,reserve-prime.apple.com,DIRECT

@@ -1,9 +1,9 @@
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/bilibili.yaml
 # NAME: geosite-bilibili
-# AUTHOR: https://github.com/NextSuno
+# AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Shadowrocket 规则中的 DOMAIN-SET 类型
-# UPDATED: 2025-11-10 17:35:09
+# UPDATED: 2025-11-17 21:12:08
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 48
 # TOTAL: 50
@@ -48,13 +48,13 @@ manga.bilibili.com
 .hdslb.org
 .maoercdn.com
 .mincdn.com
-.bilibili.tv
-.biliintl.com
-.dreamcast.hk
-upos-hz-mirrorakam.akamaized.net
 .bilibiligame.cn
 .bilibiligame.co
 .bilibiligame.net
 .biligame.co
 .biligame.com
 .biligame.net
+.bilibili.tv
+.biliintl.com
+.dreamcast.hk
+upos-hz-mirrorakam.akamaized.net

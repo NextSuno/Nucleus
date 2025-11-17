@@ -1,13 +1,13 @@
 # SOURCE: https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt
 # NAME: direct-list
-# AUTHOR: https://github.com/NextSuno
+# AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Surge 规则中的 RULE-SET 类型
-# UPDATED: 2025-11-10 17:38:29
-# DOMAIN: 558
-# DOMAIN-SUFFIX: 116262
+# UPDATED: 2025-11-17 21:17:58
+# DOMAIN: 588
+# DOMAIN-SUFFIX: 116263
 # URL-REGEX: 25
-# TOTAL: 116845
+# TOTAL: 116876
 
 DOMAIN-SUFFIX,0.zone
 DOMAIN-SUFFIX,00.net
@@ -11987,6 +11987,7 @@ DOMAIN-SUFFIX,anyv.net
 DOMAIN-SUFFIX,anyview.net
 DOMAIN-SUFFIX,anyway.fm
 DOMAIN-SUFFIX,anyway.red
+DOMAIN-SUFFIX,anywlan.com
 DOMAIN-SUFFIX,anywood.com
 DOMAIN-SUFFIX,anyxz.com
 DOMAIN-SUFFIX,anzerclub.com
@@ -27122,6 +27123,7 @@ DOMAIN-SUFFIX,cztrjs.com
 DOMAIN-SUFFIX,cztv.cc
 DOMAIN-SUFFIX,cztv.com
 DOMAIN-SUFFIX,cztv.tv
+DOMAIN-SUFFIX,cztvcdn.com
 DOMAIN-SUFFIX,cztvcloud.com
 DOMAIN-SUFFIX,cztzkg.com
 DOMAIN-SUFFIX,czur.com
@@ -37928,6 +37930,7 @@ DOMAIN-SUFFIX,geekluo.com
 DOMAIN-SUFFIX,geekmaker.com
 DOMAIN-SUFFIX,geekman.vip
 DOMAIN-SUFFIX,geeknev.com
+DOMAIN-SUFFIX,geekpark
 DOMAIN-SUFFIX,geekpark.net
 DOMAIN-SUFFIX,geekpwn.org
 DOMAIN-SUFFIX,geeksblog.cc
@@ -90794,7 +90797,6 @@ DOMAIN-SUFFIX,tapque.com
 DOMAIN-SUFFIX,tapsvc.com
 DOMAIN-SUFFIX,taptap-api.com
 DOMAIN-SUFFIX,taptap.com
-DOMAIN-SUFFIX,taptap.io
 DOMAIN-SUFFIX,taptapcode.com
 DOMAIN-SUFFIX,taptapdada.com
 DOMAIN-SUFFIX,tapulsads.ru
@@ -92315,7 +92317,6 @@ DOMAIN-SUFFIX,tinywan.com
 DOMAIN-SUFFIX,tinyyuan.com
 DOMAIN-SUFFIX,tipaipai.com
 DOMAIN-SUFFIX,tipask.com
-DOMAIN-SUFFIX,tipdim.org
 DOMAIN-SUFFIX,tipdm.com
 DOMAIN-SUFFIX,tipdm.org
 DOMAIN-SUFFIX,tipray.com
@@ -116279,6 +116280,8 @@ DOMAIN,a2.mzstatic.com
 DOMAIN,a3.mzstatic.com
 DOMAIN,a4.mzstatic.com
 DOMAIN,a5.mzstatic.com
+DOMAIN,activate.activation-v2.kaspersky.com
+DOMAIN,activation-v2.geo.kaspersky.com
 DOMAIN,activation-v2.kaspersky.com
 DOMAIN,adcdownload.apple.com
 DOMAIN,adcdownload.apple.com.akadns.net
@@ -116392,6 +116395,11 @@ DOMAIN,ctldl.windowsupdate.com
 DOMAIN,cueme-api.quark.cn
 DOMAIN,customization-cdn.dell.com
 DOMAIN,dartsearch-cn.net
+DOMAIN,dc1-cert.ksn.kaspersky-labs.com
+DOMAIN,dc1-file.ksn.kaspersky-labs.com
+DOMAIN,dc1-pp.ksn.kaspersky-labs.com
+DOMAIN,dc1-st.ksn.kaspersky-labs.com
+DOMAIN,dc1.ksn.kaspersky-labs.com
 DOMAIN,dd-cdn.origin-apple.com.akadns.net
 DOMAIN,dds.dell.com
 DOMAIN,dejavu.apple.com
@@ -116437,6 +116445,7 @@ DOMAIN,downloaddispatch.itunes.apple.com
 DOMAIN,ea2cn-dev-outlet.dell.com
 DOMAIN,ea2cn-prod-outlet.dell.com
 DOMAIN,ea2cn-staging-outlet.dell.com
+DOMAIN,edge.geo.kaspersky.com
 DOMAIN,emmapplecodevice.googleapis.com
 DOMAIN,emoi-cncdn.bing.com
 DOMAIN,experiments.apple.com
@@ -116559,9 +116568,29 @@ DOMAIN,js-cdn.music.apple.com
 DOMAIN,kc.kexinshe.com
 DOMAIN,km.support.apple.com
 DOMAIN,ksn-cinfo-geo.kaspersky-labs.com
+DOMAIN,ksn-cinfo.geoksn.kaspersky.com
+DOMAIN,ksn-crypto-info-geo.kaspersky-labs.com
+DOMAIN,ksn-crypto-kas-geo.kaspersky-labs.com
+DOMAIN,ksn-crypto-tcert-geo.kaspersky-labs.com
+DOMAIN,ksn-crypto-url-geo.kaspersky-labs.com
+DOMAIN,ksn-crypto-verdict-geo.kaspersky-labs.com
+DOMAIN,ksn-crypto-wifiplus-geo.kaspersky-labs.com
+DOMAIN,ksn-crypto-wifiplus.geoksn.kaspersky.com
+DOMAIN,ksn-dc1-cert.geoksn.kaspersky.com
+DOMAIN,ksn-dc1-file.geoksn.kaspersky.com
+DOMAIN,ksn-dc1.geoksn.kaspersky.com
 DOMAIN,ksn-file-geo.kaspersky-labs.com
+DOMAIN,ksn-file.geoksn.kaspersky.com
+DOMAIN,ksn-info-geo.kaspersky-labs.com
+DOMAIN,ksn-info.geoksn.kaspersky.com
+DOMAIN,ksn-kas.geoksn.kaspersky.com
+DOMAIN,ksn-mdr.geoksn.kaspersky.com
+DOMAIN,ksn-tcert-geo.kaspersky-labs.com
+DOMAIN,ksn-tcert.geoksn.kaspersky.com
 DOMAIN,ksn-url-geo.kaspersky-labs.com
+DOMAIN,ksn-url.geoksn.kaspersky.com
 DOMAIN,ksn-verdict-geo.kaspersky-labs.com
+DOMAIN,ksn-verdict.geoksn.kaspersky.com
 DOMAIN,l2-uberproxy.corp.google.com
 DOMAIN,learn.microsoft.com
 DOMAIN,logger-dev.corp.google.com
@@ -116570,6 +116599,7 @@ DOMAIN,login.corp.google.com
 DOMAIN,lv.queniujq.cn
 DOMAIN,manga.bilibili.com
 DOMAIN,maps.apple.com
+DOMAIN,mdr.ksn.kaspersky-labs.com
 DOMAIN,menu-static.gog-statics.com
 DOMAIN,mesu-cdn.apple.com.akadns.net
 DOMAIN,mesu-china.apple.com.akadns.net
@@ -116681,6 +116711,7 @@ DOMAIN,redirector.gvt1.com
 DOMAIN,redirector.offline-maps.gvt1.com
 DOMAIN,redirector.snap.gvt1.com
 DOMAIN,redirector.xn--ngstr-lra8j.com
+DOMAIN,refresh-bkg.activation-v2.kaspersky.com
 DOMAIN,res-1.cdn.office.net
 DOMAIN,res.cdn.office.net
 DOMAIN,reserve-prime.apple.com

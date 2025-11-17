@@ -1,9 +1,9 @@
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/microsoft.yaml
 # NAME: geosite-microsoft
-# AUTHOR: https://github.com/NextSuno
+# AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Loon 规则中的 Domain 类型
-# UPDATED: 2025-11-10 17:28:31
+# UPDATED: 2025-11-17 21:05:14
 # DOMAIN: 66
 # DOMAIN-SUFFIX: 615
 # TOTAL: 681
@@ -15,8 +15,8 @@ officecdn-microsoft-com.akamaized.net
 statics-marketingsites-eas-ms-com.akamaized.net
 statics-marketingsites-eus-ms-com.akamaized.net
 statics-marketingsites-wcus-ms-com.akamaized.net
-flightsimulator.azureedge.net
 prodforza.blob.core.windows.net
+flightsimulator.azureedge.net
 azure.microsoft.com
 azuremarketplace.microsoft.com
 location.microsoft.com
@@ -46,13 +46,14 @@ oneocsp.microsoft.com
 .office
 .skype
 .windows
-.bing
-.azure
 .xbox
 .onedriveupdater
 .onedrive
-.microsoftnews.cc
-.msgamesresearch.com
+.bing
+.azure
+.yammer.com
+.msftnet.org
+.microsoft.cl
 .microsoft.com
 .microsoft.cz
 .microsoft.de
@@ -189,8 +190,8 @@ oneocsp.microsoft.com
 .momentumms.com
 .morphcharts.com
 .mpnevolution.com
-.ms-studiosmedia.com
-.microsoftnewsforkids.com
+.tellmewhygame.com
+.ms365surfaceoffer.com
 .msads.net
 .msauth.net
 .mschallenge2018.com
@@ -203,8 +204,8 @@ oneocsp.microsoft.com
 .msftconnecttest.com
 .msfteducation.ca
 .msftncsi.com
-.msftnet.org
-.microsoftnews.org
+.renovacionxboxlive.com
+.msgamesresearch.com
 .msgamestudios.com
 .mshome.net
 .msidentity.com
@@ -284,46 +285,13 @@ oneocsp.microsoft.com
 .windowsupdate.com
 .winhec.com
 .winhec.net
-.yammer.com
-.microsoft.ch
-.microsoftnews.com
-.msocsp.com
-.xamarin.com
-.repo.new
-.microsoft.cl
-.ms365surfaceoffer.com
-.microsoftnewsforkids.net
-.microsoftnewsforkids.org
-.microsoftnewskids.com
-.microsoftnewskids.net
-.microsoftnewskids.org
-.msn.com
-.msnewskids.com
-.msnewskids.net
-.msnewskids.org
-.msnkids.com
-.microsoftstart.com
-.start.com
 .microsoft.cat
-.microsoft.ca
-.onedrive.com
-.1drv.com
-.livefilestore.com
-.sharepoint.cn
-.vscode-unpkg.net
-.vscode-cdn.net
-.vscode.dev
-.vsassets.io
-.vfsforgit.org
-.vfsforgit.com
-.visualstudio.net
-.visualstudio.eu
-.visualstudio.co
-.microsoft.by
 .gamepass.com
-.orithegame.com
-.renovacionxboxlive.com
-.tellmewhygame.com
+.sharepoint.cn
+.livefilestore.com
+.msdn.com
+.microsoft.ch
+.ms-studiosmedia.com
 .xbox.co
 .xbox.com
 .xbox.eu
@@ -343,8 +311,6 @@ oneocsp.microsoft.com
 .xboxservices.com
 .xboxstudios.com
 .xbx.lv
-.asobostudio.com
-.flightsimulator.com
 .beth.games
 .bethesda.net
 .bethesdagamestudios.com
@@ -361,7 +327,9 @@ oneocsp.microsoft.com
 .minecraftservices.com
 .minecraftshop.com
 .mojang.com
-.microsoft.be
+.asobostudio.com
+.flightsimulator.com
+.microsoft.ca
 .aadrm.com
 .azure-devices-int.net
 .azure-devices.net
@@ -418,7 +386,7 @@ oneocsp.microsoft.com
 .azure-dns.info
 .azure-dns.net
 .azure-dns.org
-.microsoft.az
+.microsoft.by
 .dictate.ms
 .sprinklesapp.com
 .bing.com
@@ -445,7 +413,8 @@ oneocsp.microsoft.com
 .office365love.com
 .office365tw.com
 .renovacionoffice.com
-.visualstudio.com
+.1drv.com
+.onedrive.com
 .githubhackathon.com
 .git.io
 .atom.io
@@ -469,12 +438,11 @@ oneocsp.microsoft.com
 .myoctocat.com
 .octocaptcha.com
 .opensource.guide
-.microsoftnews.net
+.repo.new
 .thegithubshop.com
 .npmjs.org
 .npm.community
 .npmjs.com
-.visualstudio-staging.com
 .adaptivecards.io
 .api-extractor.com
 .apisof.net
@@ -500,7 +468,7 @@ oneocsp.microsoft.com
 .microsoftsqlserver.com
 .mmdnn.com
 .mono-project.com
-.msdn.com
+.orithegame.com
 .msinnovationchallenge.com
 .mspairlift.com
 .msropendata.com
@@ -513,12 +481,44 @@ oneocsp.microsoft.com
 .sqlserveronlinux.com
 .timelinestoryteller.com
 .uwpcommunitytoolkit.com
-.spoprod-a.akamaihd.net
+.visualstudio-staging.com
+.visualstudio.com
+.visualstudio.co
+.visualstudio.eu
+.visualstudio.net
+.vfsforgit.com
+.vfsforgit.org
+.vsassets.io
+.vscode.dev
+.vscode-cdn.net
+.vscode-unpkg.net
+.xamarin.com
+.microsoft.az
+.msocsp.com
+.microsoftnews.cc
+.microsoftnews.com
+.microsoftnews.net
+.microsoftnews.org
+.microsoftnewsforkids.com
+.microsoftnewsforkids.net
+.microsoftnewsforkids.org
+.microsoftnewskids.com
+.microsoftnewskids.net
+.microsoftnewskids.org
+.msn.com
+.msnewskids.com
+.msnewskids.net
+.msnewskids.org
+.msnkids.com
+.microsoftstart.com
+.start.com
+.microsoft.be
 .live.com.au
-.visualstudio.co.uk
-.skype-edf.akadns.net
 .skypedata.akadns.net
+.skype-edf.akadns.net
+.visualstudio.co.uk
 .microsoftstore.com.hk
+.spoprod-a.akamaihd.net
 .clarity.ms
 .dcg.microsoft.com
 .dynamics.cn
@@ -588,8 +588,6 @@ vscode.download.prss.microsoft.com
 vz.download.prss.microsoft.com
 wscont1.apps.microsoft.com
 wscont2.apps.microsoft.com
-.microsoftnews.cn
-.msn.cn
 .xboxlive.cn
 .21vbc.com
 .21vbluecloud.com
@@ -689,3 +687,5 @@ emoi-cncdn.bing.com
 .microsoftreactor.com.cn
 .reactorms.com.cn
 www.microsoft.com
+.microsoftnews.cn
+.msn.cn

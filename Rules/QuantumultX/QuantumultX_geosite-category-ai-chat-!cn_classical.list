@@ -1,12 +1,12 @@
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ai-chat-!cn.yaml
 # NAME: geosite-category-ai-chat-!cn
-# AUTHOR: https://github.com/NextSuno
+# AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型
-# UPDATED: 2025-11-10 17:30:13
+# UPDATED: 2025-11-17 21:07:06
 # HOST: 13
-# HOST-SUFFIX: 71
-# TOTAL: 84
+# HOST-SUFFIX: 74
+# TOTAL: 87
 
 HOST,ai.google.dev,PROXY
 HOST,alkalicore-pa.clients6.google.com,PROXY
@@ -18,49 +18,35 @@ HOST,openaicomproductionae4b.blob.core.windows.net,PROXY
 HOST,production-openaicom-storage.azureedge.net,PROXY
 HOST,pplx-res.cloudinary.com,PROXY
 HOST,servd-anthropic-website.b-cdn.net,PROXY
-HOST-SUFFIX,jules.google,PROXY
-HOST-SUFFIX,chutes.ai,PROXY
+HOST-SUFFIX,poecdn.net,PROXY
+HOST-SUFFIX,claude.ai,PROXY
+HOST-SUFFIX,cohere.ai,PROXY
 HOST-SUFFIX,cohere.com,PROXY
-HOST-SUFFIX,coderabbit.ai,PROXY
+HOST-SUFFIX,clipdrop.co,PROXY
 HOST-SUFFIX,jasper.ai,PROXY
-HOST-SUFFIX,deepmind.com,PROXY
+HOST-SUFFIX,chutes.ai,PROXY
+HOST-SUFFIX,claudemcpclient.com,PROXY
 HOST-SUFFIX,devin.ai,PROXY
 HOST-SUFFIX,diabrowser.com,PROXY
 HOST-SUFFIX,dify.ai,PROXY
+HOST-SUFFIX,claudeusercontent.com,PROXY
 HOST-SUFFIX,meta.ai,PROXY
 HOST-SUFFIX,mistral.ai,PROXY
 HOST-SUFFIX,openart.ai,PROXY
 HOST-SUFFIX,openrouter.ai,PROXY
-HOST-SUFFIX,cici.com,PROXY
-HOST-SUFFIX,ciciai.com,PROXY
-HOST-SUFFIX,ciciaicdn.com,PROXY
-HOST-SUFFIX,dola.com,PROXY
-HOST-SUFFIX,groq.com,PROXY
-HOST-SUFFIX,hf.co,PROXY
-HOST-SUFFIX,huggingface.co,PROXY
-HOST-SUFFIX,poe.com,PROXY
-HOST-SUFFIX,poecdn.net,PROXY
-HOST-SUFFIX,grok.com,PROXY
-HOST-SUFFIX,x.ai,PROXY
 HOST-SUFFIX,cerebras.ai,PROXY
-HOST-SUFFIX,cursor-cdn.com,PROXY
-HOST-SUFFIX,cursor.com,PROXY
-HOST-SUFFIX,cursor.sh,PROXY
-HOST-SUFFIX,cursorapi.com,PROXY
-HOST-SUFFIX,elevenlabs.com,PROXY
-HOST-SUFFIX,elevenlabs.io,PROXY
 HOST-SUFFIX,gemini.google,PROXY
 HOST-SUFFIX,deepmind.google,PROXY
 HOST-SUFFIX,labs.google,PROXY
-HOST-SUFFIX,clipdrop.co,PROXY
+HOST-SUFFIX,jules.google,PROXY
+HOST-SUFFIX,deepmind.com,PROXY
 HOST-SUFFIX,notebooklm.google,PROXY
-HOST-SUFFIX,cohere.ai,PROXY
 HOST-SUFFIX,generativeai.google,PROXY
-HOST-SUFFIX,claudemcpclient.com,PROXY
-HOST-SUFFIX,claudeusercontent.com,PROXY
 HOST-SUFFIX,claude.com,PROXY
-HOST-SUFFIX,claude.ai,PROXY
+HOST-SUFFIX,poe.com,PROXY
 HOST-SUFFIX,anthropic.com,PROXY
+HOST-SUFFIX,x.ai,PROXY
+HOST-SUFFIX,grok.com,PROXY
 HOST-SUFFIX,pplx.ai,PROXY
 HOST-SUFFIX,perplexity.com,PROXY
 HOST-SUFFIX,perplexity.ai,PROXY
@@ -68,26 +54,43 @@ HOST-SUFFIX,sora.com,PROXY
 HOST-SUFFIX,openai.com,PROXY
 HOST-SUFFIX,oaiusercontent.com,PROXY
 HOST-SUFFIX,oaistatic.com,PROXY
+HOST-SUFFIX,coderabbit.ai,PROXY
 HOST-SUFFIX,chat.com,PROXY
 HOST-SUFFIX,chatgpt.com,PROXY
-HOST-SUFFIX,aistudio.google.com,PROXY
-HOST-SUFFIX,turn.livekit.cloud,PROXY
-HOST-SUFFIX,aida.googleapis.com,PROXY
-HOST-SUFFIX,jules.google.com,PROXY
-HOST-SUFFIX,generativelanguage.googleapis.com,PROXY
-HOST-SUFFIX,chatgpt.livekit.cloud,PROXY
-HOST-SUFFIX,host.livekit.cloud,PROXY
-HOST-SUFFIX,copilot.microsoft.com,PROXY
-HOST-SUFFIX,geller-pa.googleapis.com,PROXY
-HOST-SUFFIX,aisandbox-pa.googleapis.com,PROXY
-HOST-SUFFIX,notebooklm.google.com,PROXY
+HOST-SUFFIX,marscode.com,PROXY
+HOST-SUFFIX,trae.ai,PROXY
+HOST-SUFFIX,cici.com,PROXY
+HOST-SUFFIX,ciciai.com,PROXY
+HOST-SUFFIX,ciciaicdn.com,PROXY
+HOST-SUFFIX,dola.com,PROXY
+HOST-SUFFIX,cursor-cdn.com,PROXY
+HOST-SUFFIX,cursor.com,PROXY
+HOST-SUFFIX,cursor.sh,PROXY
+HOST-SUFFIX,cursorapi.com,PROXY
+HOST-SUFFIX,elevenlabs.com,PROXY
+HOST-SUFFIX,elevenlabs.io,PROXY
+HOST-SUFFIX,groq.com,PROXY
+HOST-SUFFIX,hf.co,PROXY
+HOST-SUFFIX,huggingface.co,PROXY
+HOST-SUFFIX,coze.com,PROXY
 HOST-SUFFIX,proactivebackend-pa.googleapis.com,PROXY
+HOST-SUFFIX,turn.livekit.cloud,PROXY
+HOST-SUFFIX,host.livekit.cloud,PROXY
+HOST-SUFFIX,geller-pa.googleapis.com,PROXY
+HOST-SUFFIX,jules.google.com,PROXY
+HOST-SUFFIX,chatgpt.livekit.cloud,PROXY
+HOST-SUFFIX,generativelanguage.googleapis.com,PROXY
+HOST-SUFFIX,copilot.microsoft.com,PROXY
+HOST-SUFFIX,aisandbox-pa.googleapis.com,PROXY
+HOST-SUFFIX,aida.googleapis.com,PROXY
 HOST-SUFFIX,robinfrontend-pa.googleapis.com,PROXY
+HOST-SUFFIX,notebooklm.google.com,PROXY
 HOST-SUFFIX,gemini.google.com,PROXY
 HOST-SUFFIX,makersuite.google.com,PROXY
 HOST-SUFFIX,bard.google.com,PROXY
-HOST-SUFFIX,coderabbit.gallery.vsassets.io,PROXY
+HOST-SUFFIX,aistudio.google.com,PROXY
 HOST-SUFFIX,gateway.ai.cloudflare.com,PROXY
+HOST-SUFFIX,coderabbit.gallery.vsassets.io,PROXY
 HOST-SUFFIX,openai.com.cdn.cloudflare.net,PROXY
 HOST,o33249.ingest.sentry.io,PROXY
 HOST,openaicom.imgix.net,PROXY

@@ -1,9 +1,9 @@
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/github.yaml
 # NAME: geosite-github
-# AUTHOR: https://github.com/NextSuno
+# AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Surge 规则中的 DOMAIN-SET 类型
-# UPDATED: 2025-11-10 17:40:22
+# UPDATED: 2025-11-17 21:21:05
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 29
 # TOTAL: 31

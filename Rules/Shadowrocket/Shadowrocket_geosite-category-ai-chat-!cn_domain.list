@@ -1,12 +1,12 @@
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ai-chat-!cn.yaml
 # NAME: geosite-category-ai-chat-!cn
-# AUTHOR: https://github.com/NextSuno
+# AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Shadowrocket 规则中的 DOMAIN-SET 类型
-# UPDATED: 2025-11-10 17:35:14
+# UPDATED: 2025-11-17 21:12:13
 # DOMAIN: 13
-# DOMAIN-SUFFIX: 71
-# TOTAL: 84
+# DOMAIN-SUFFIX: 74
+# TOTAL: 87
 
 ai.google.dev
 alkalicore-pa.clients6.google.com
@@ -18,49 +18,35 @@ openaicomproductionae4b.blob.core.windows.net
 production-openaicom-storage.azureedge.net
 pplx-res.cloudinary.com
 servd-anthropic-website.b-cdn.net
-.jules.google
-.chutes.ai
+.poecdn.net
+.claude.ai
+.cohere.ai
 .cohere.com
-.coderabbit.ai
+.clipdrop.co
 .jasper.ai
-.deepmind.com
+.chutes.ai
+.claudemcpclient.com
 .devin.ai
 .diabrowser.com
 .dify.ai
+.claudeusercontent.com
 .meta.ai
 .mistral.ai
 .openart.ai
 .openrouter.ai
-.cici.com
-.ciciai.com
-.ciciaicdn.com
-.dola.com
-.groq.com
-.hf.co
-.huggingface.co
-.poe.com
-.poecdn.net
-.grok.com
-.x.ai
 .cerebras.ai
-.cursor-cdn.com
-.cursor.com
-.cursor.sh
-.cursorapi.com
-.elevenlabs.com
-.elevenlabs.io
 .gemini.google
 .deepmind.google
 .labs.google
-.clipdrop.co
+.jules.google
+.deepmind.com
 .notebooklm.google
-.cohere.ai
 .generativeai.google
-.claudemcpclient.com
-.claudeusercontent.com
 .claude.com
-.claude.ai
+.poe.com
 .anthropic.com
+.x.ai
+.grok.com
 .pplx.ai
 .perplexity.com
 .perplexity.ai
@@ -68,26 +54,43 @@ servd-anthropic-website.b-cdn.net
 .openai.com
 .oaiusercontent.com
 .oaistatic.com
+.coderabbit.ai
 .chat.com
 .chatgpt.com
-.aistudio.google.com
-.turn.livekit.cloud
-.aida.googleapis.com
-.jules.google.com
-.generativelanguage.googleapis.com
-.chatgpt.livekit.cloud
-.host.livekit.cloud
-.copilot.microsoft.com
-.geller-pa.googleapis.com
-.aisandbox-pa.googleapis.com
-.notebooklm.google.com
+.marscode.com
+.trae.ai
+.cici.com
+.ciciai.com
+.ciciaicdn.com
+.dola.com
+.cursor-cdn.com
+.cursor.com
+.cursor.sh
+.cursorapi.com
+.elevenlabs.com
+.elevenlabs.io
+.groq.com
+.hf.co
+.huggingface.co
+.coze.com
 .proactivebackend-pa.googleapis.com
+.turn.livekit.cloud
+.host.livekit.cloud
+.geller-pa.googleapis.com
+.jules.google.com
+.chatgpt.livekit.cloud
+.generativelanguage.googleapis.com
+.copilot.microsoft.com
+.aisandbox-pa.googleapis.com
+.aida.googleapis.com
 .robinfrontend-pa.googleapis.com
+.notebooklm.google.com
 .gemini.google.com
 .makersuite.google.com
 .bard.google.com
-.coderabbit.gallery.vsassets.io
+.aistudio.google.com
 .gateway.ai.cloudflare.com
+.coderabbit.gallery.vsassets.io
 .openai.com.cdn.cloudflare.net
 o33249.ingest.sentry.io
 openaicom.imgix.net

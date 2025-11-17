@@ -1,12 +1,12 @@
 # SOURCE: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Clash.yaml
 # NAME: AWAvenue-Ads
-# AUTHOR: https://github.com/NextSuno
+# AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Domain 类型
-# UPDATED: 2025-11-10 16:14:28
-# DOMAIN: 844
+# UPDATED: 2025-11-17 20:46:19
+# DOMAIN: 852
 # DOMAIN-SUFFIX: 11
-# TOTAL: 855
+# TOTAL: 863
 
 payload:
     - 1500020991.vodplayer.wxamedia.com
@@ -36,6 +36,7 @@ payload:
     - ad.qingting.fm
     - ad.qq.com
     - ad.richmob.cn
+    - ad.shunchangzhixing.com
     - ad.tencentmusic.com
     - ad.toutiao.com
     - ad.v3mh.com
@@ -106,7 +107,6 @@ payload:
     - adsebs.ximalaya.com
     - adsense.google.cn
     - adserver.unityads.unity3d.com
-    - adservice.google.cn
     - adservice.google.com
     - adservice.sigmob.cn
     - adserviceretry.kugou.com
@@ -199,6 +199,7 @@ payload:
     - api-htp.beizi.biz
     - api.ad.xiaomi.com
     - api.anythinktech.com
+    - api.aqyad.com
     - api.e.kuaishou.com
     - api.fu.xcultur.com
     - api.htp.hubcloud.com.cn
@@ -206,6 +207,7 @@ payload:
     - api.installer.xiaomi.com
     - api.jietuhb.com
     - api.kingdata.ksyun.com
+    - api.shanghailingye.cn
     - api.ssp.xcultur.com
     - api.statsig.com
     - api.touch-moblie.com
@@ -219,6 +221,7 @@ payload:
     - applog.zijieapi.com
     - applovin.com
     - appversion.115.com
+    - aqyad.com
     - aspect-upush.umeng.com
     - auction.unityads.unity3d.com
     - audid-api.taobao.com
@@ -262,7 +265,6 @@ payload:
     - cbjs.baidu.com
     - ccc-x.jd.com
     - ccs.umeng.com
-    - cctv.adsunion.com
     - cdn-ad.wtzw.com
     - cdn-ads.oss-cn-shanghai.aliyuncs.com
     - cdn-f.adsmoloco.com
@@ -276,7 +278,6 @@ payload:
     - cfg.imtt.qq.com
     - chat1.jd.com
     - chiq-cloud.com
-    - cj.qidian.com
     - ck.ads.oppomobile.com
     - click.chinaliftoff.io
     - click.googleanalytics.com
@@ -284,6 +285,7 @@ payload:
     - click.oneplus.cn
     - click4.chinaliftoff.io
     - clog.miguvideo.com
+    - cloooud.com
     - cn-api.anythinktech.com
     - cnlogs.umeng.com
     - cnlogs.umengcloud.com
@@ -299,7 +301,6 @@ payload:
     - crash2.zhihu.com
     - crashlyticsreports-pa.googleapis.com
     - csjplatform.com
-    - cws-cctv.conviva.com
     - d.applovin.com
     - d.applvn.com
     - da.anythinktech.com
@@ -340,6 +341,7 @@ payload:
     - events-drcn.op.dbankcloud.cn
     - events.reddit.com
     - events.redditmedia.com
+    - fancyapi.com
     - fclog.baidu.com
     - feed-image.baidu.com
     - file.daihuo.qq.com
@@ -351,6 +353,7 @@ payload:
     - g-adnet.hiaiabc.com
     - g-staic.ganjingworld.com
     - g.dtv.cn.miaozhen.com
+    - g.fancyapi.com
     - g2.ganjing.world
     - game.loveota.com
     - gdfp.gifshow.com
@@ -364,7 +367,6 @@ payload:
     - globalapi.ad.xiaomi.com
     - google-analytics.com
     - googleads.g.doubleclick-cn.net
-    - googleads.g.doubleclick.com
     - googleads.g.doubleclick.net
     - googleadservices-cn.com
     - googleadservices.com
@@ -430,7 +432,6 @@ payload:
     - iot-logser.realme.com
     - ipv4.kkmh.com
     - irc.qubiankeji.com
-    - itv2-up.openspeech.cn
     - ixav-cse.avlyun.com
     - iyfbodn.com
     - janapi.jd.com
@@ -448,10 +449,12 @@ payload:
     - ks-p2p.pull.yximgs.com
     - ks.ferlytc.com
     - ks.pull.yximgs.com
+    - l6.fancyapi.com
     - launcher.smart-tv.cn
     - launcherimg.smart-tv.cn
     - lf3-ad-union-sdk.pglstatp-toutiao.com
     - lf6-ad-union-sdk.pglstatp-toutiao.com
+    - lftxali.fancyapi.com
     - lh3.googleadsserving.cn
     - litchiads.com
     - live-api.hktvmall.com
@@ -559,6 +562,7 @@ payload:
     - open.kuaishouzt.com
     - open.kwaizt.com
     - open.snssdk.com
+    - openadapi.fancydsp.com
     - optimus-ads.amap.com
     - orbit.jd.com
     - oss.cdn.aiclk.com
@@ -617,7 +621,6 @@ payload:
     - res2.hubcloud.com.cn
     - res3.hubcloud.com.cn
     - resolve.umeng.com
-    - rev.aiclk.com
     - review.gdtimg.com
     - rlog.popin.cc
     - rms-drcn.platform.dbankcloud.cn
@@ -634,7 +637,6 @@ payload:
     - saas.hpplay.cn
     - samsung-com.112.2o7.net
     - samsungads.com
-    - sanme2.taisantech.com
     - saxysec.com
     - scs.openspeech.cn
     - sdk-ab-config.qquanquan.com
@@ -642,12 +644,14 @@ payload:
     - sdk.1rtb.net
     - sdk.ad.smaato.net
     - sdk.adx.adwangmai.com
+    - sdk.aqyad.com
     - sdk.beizi.biz
     - sdk.cferw.com
     - sdk.e.qq.com
     - sdk.hzsanjiaomao.com
     - sdk.markmedia.com.cn
     - sdk.mobads.adwangmai.com
+    - sdkapi.cloooud.com
     - sdkauth.hpplay.cn
     - sdkconf.avlyun.com
     - sdkconfig.ad.intl.xiaomi.com
@@ -670,23 +674,23 @@ payload:
     - sf16-static.i18n-pglstatp.com
     - sf3-fe-tos.pglstatp-toutiao.com
     - shouji.sogou.com
-    - sigmob.cn
     - sigmob.com
     - skdisplay.jd.com
     - sl.hpplay.cn
     - slb-p2p.vcloud.ks-live.com
     - smad.ms.zhangyue.net
-    - smart-tv.cn
     - smartad.10010.com
     - smetrics.samsung.com
     - sms.ads.oppomobile.com
     - sngmta.qq.com
     - snowflake.qq.com
+    - ssp.cloooud.com
     - staging-notify.sec.miui.com
     - stat.dongqiudi.com
     - stat.y.qq.com
     - static-s.iqiyi.com
     - static.ads-twitter.com
+    - statichf.shihuocdn.cn
     - statics.woozooo.com
     - stats.wp.com
     - statsigapi.net
@@ -706,6 +710,7 @@ payload:
     - t1.a.market.xiaomi.com
     - t1.teads.tv
     - t2.a.market.xiaomi.com
+    - t2.fancyapi.com
     - t3.a.market.xiaomi.com
     - t7z.cupid.iqiyi.com
     - t7z.cupid.ptqy.gitv.tv
@@ -734,6 +739,7 @@ payload:
     - tnc3-aliec2.bytedance.com
     - tnc3-aliec2.snssdk.com
     - tnc3-aliec2.toutiaoapi.com
+    - tnc3-aliec2.zijieapi.com
     - tnc3-alisc1.bytedance.com
     - tnc3-alisc1.snssdk.com
     - tnc3-alisc1.toutiaoapi.com
@@ -748,6 +754,7 @@ payload:
     - tpc.googlesyndication-cn.com
     - tpc.googlesyndication.com
     - tr-asia.adsmoloco.com
+    - trace.aqyad.com
     - trace.qq.com
     - tracelog-debug.aiclk.com
     - tracelog-debug.qquanquan.com
@@ -787,6 +794,7 @@ payload:
     - uranus.jd.com
     - us.l.qq.com
     - usr-api.aiclk.com
+    - utoken.umeng.com
     - v.110route.cn
     - v.adintl.cn
     - v.adx.hubcloud.com.cn

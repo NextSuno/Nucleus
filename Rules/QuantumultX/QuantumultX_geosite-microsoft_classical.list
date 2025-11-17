@@ -1,9 +1,9 @@
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/microsoft.yaml
 # NAME: geosite-microsoft
-# AUTHOR: https://github.com/NextSuno
+# AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型
-# UPDATED: 2025-11-10 17:30:59
+# UPDATED: 2025-11-17 21:07:56
 # HOST: 66
 # HOST-SUFFIX: 615
 # TOTAL: 681
@@ -15,8 +15,8 @@ HOST,officecdn-microsoft-com.akamaized.net,DIRECT
 HOST,statics-marketingsites-eas-ms-com.akamaized.net,DIRECT
 HOST,statics-marketingsites-eus-ms-com.akamaized.net,DIRECT
 HOST,statics-marketingsites-wcus-ms-com.akamaized.net,DIRECT
-HOST,flightsimulator.azureedge.net,DIRECT
 HOST,prodforza.blob.core.windows.net,DIRECT
+HOST,flightsimulator.azureedge.net,DIRECT
 HOST,azure.microsoft.com,DIRECT
 HOST,azuremarketplace.microsoft.com,DIRECT
 HOST,location.microsoft.com,DIRECT
@@ -46,13 +46,14 @@ HOST-SUFFIX,hotmail,DIRECT
 HOST-SUFFIX,office,DIRECT
 HOST-SUFFIX,skype,DIRECT
 HOST-SUFFIX,windows,DIRECT
-HOST-SUFFIX,bing,DIRECT
-HOST-SUFFIX,azure,DIRECT
 HOST-SUFFIX,xbox,DIRECT
 HOST-SUFFIX,onedriveupdater,DIRECT
 HOST-SUFFIX,onedrive,DIRECT
-HOST-SUFFIX,microsoftnews.cc,DIRECT
-HOST-SUFFIX,msgamesresearch.com,DIRECT
+HOST-SUFFIX,bing,DIRECT
+HOST-SUFFIX,azure,DIRECT
+HOST-SUFFIX,yammer.com,DIRECT
+HOST-SUFFIX,msftnet.org,DIRECT
+HOST-SUFFIX,microsoft.cl,DIRECT
 HOST-SUFFIX,microsoft.com,DIRECT
 HOST-SUFFIX,microsoft.cz,DIRECT
 HOST-SUFFIX,microsoft.de,DIRECT
@@ -189,8 +190,8 @@ HOST-SUFFIX,microsoftuwp.com,DIRECT
 HOST-SUFFIX,momentumms.com,DIRECT
 HOST-SUFFIX,morphcharts.com,DIRECT
 HOST-SUFFIX,mpnevolution.com,DIRECT
-HOST-SUFFIX,ms-studiosmedia.com,DIRECT
-HOST-SUFFIX,microsoftnewsforkids.com,DIRECT
+HOST-SUFFIX,tellmewhygame.com,DIRECT
+HOST-SUFFIX,ms365surfaceoffer.com,DIRECT
 HOST-SUFFIX,msads.net,DIRECT
 HOST-SUFFIX,msauth.net,DIRECT
 HOST-SUFFIX,mschallenge2018.com,DIRECT
@@ -203,8 +204,8 @@ HOST-SUFFIX,msftauthimages.net,DIRECT
 HOST-SUFFIX,msftconnecttest.com,DIRECT
 HOST-SUFFIX,msfteducation.ca,DIRECT
 HOST-SUFFIX,msftncsi.com,DIRECT
-HOST-SUFFIX,msftnet.org,DIRECT
-HOST-SUFFIX,microsoftnews.org,DIRECT
+HOST-SUFFIX,renovacionxboxlive.com,DIRECT
+HOST-SUFFIX,msgamesresearch.com,DIRECT
 HOST-SUFFIX,msgamestudios.com,DIRECT
 HOST-SUFFIX,mshome.net,DIRECT
 HOST-SUFFIX,msidentity.com,DIRECT
@@ -284,46 +285,13 @@ HOST-SUFFIX,windowssearch.com,DIRECT
 HOST-SUFFIX,windowsupdate.com,DIRECT
 HOST-SUFFIX,winhec.com,DIRECT
 HOST-SUFFIX,winhec.net,DIRECT
-HOST-SUFFIX,yammer.com,DIRECT
-HOST-SUFFIX,microsoft.ch,DIRECT
-HOST-SUFFIX,microsoftnews.com,DIRECT
-HOST-SUFFIX,msocsp.com,DIRECT
-HOST-SUFFIX,xamarin.com,DIRECT
-HOST-SUFFIX,repo.new,DIRECT
-HOST-SUFFIX,microsoft.cl,DIRECT
-HOST-SUFFIX,ms365surfaceoffer.com,DIRECT
-HOST-SUFFIX,microsoftnewsforkids.net,DIRECT
-HOST-SUFFIX,microsoftnewsforkids.org,DIRECT
-HOST-SUFFIX,microsoftnewskids.com,DIRECT
-HOST-SUFFIX,microsoftnewskids.net,DIRECT
-HOST-SUFFIX,microsoftnewskids.org,DIRECT
-HOST-SUFFIX,msn.com,DIRECT
-HOST-SUFFIX,msnewskids.com,DIRECT
-HOST-SUFFIX,msnewskids.net,DIRECT
-HOST-SUFFIX,msnewskids.org,DIRECT
-HOST-SUFFIX,msnkids.com,DIRECT
-HOST-SUFFIX,microsoftstart.com,DIRECT
-HOST-SUFFIX,start.com,DIRECT
 HOST-SUFFIX,microsoft.cat,DIRECT
-HOST-SUFFIX,microsoft.ca,DIRECT
-HOST-SUFFIX,onedrive.com,DIRECT
-HOST-SUFFIX,1drv.com,DIRECT
-HOST-SUFFIX,livefilestore.com,DIRECT
-HOST-SUFFIX,sharepoint.cn,DIRECT
-HOST-SUFFIX,vscode-unpkg.net,DIRECT
-HOST-SUFFIX,vscode-cdn.net,DIRECT
-HOST-SUFFIX,vscode.dev,DIRECT
-HOST-SUFFIX,vsassets.io,DIRECT
-HOST-SUFFIX,vfsforgit.org,DIRECT
-HOST-SUFFIX,vfsforgit.com,DIRECT
-HOST-SUFFIX,visualstudio.net,DIRECT
-HOST-SUFFIX,visualstudio.eu,DIRECT
-HOST-SUFFIX,visualstudio.co,DIRECT
-HOST-SUFFIX,microsoft.by,DIRECT
 HOST-SUFFIX,gamepass.com,DIRECT
-HOST-SUFFIX,orithegame.com,DIRECT
-HOST-SUFFIX,renovacionxboxlive.com,DIRECT
-HOST-SUFFIX,tellmewhygame.com,DIRECT
+HOST-SUFFIX,sharepoint.cn,DIRECT
+HOST-SUFFIX,livefilestore.com,DIRECT
+HOST-SUFFIX,msdn.com,DIRECT
+HOST-SUFFIX,microsoft.ch,DIRECT
+HOST-SUFFIX,ms-studiosmedia.com,DIRECT
 HOST-SUFFIX,xbox.co,DIRECT
 HOST-SUFFIX,xbox.com,DIRECT
 HOST-SUFFIX,xbox.eu,DIRECT
@@ -343,8 +311,6 @@ HOST-SUFFIX,xboxplayanywhere.com,DIRECT
 HOST-SUFFIX,xboxservices.com,DIRECT
 HOST-SUFFIX,xboxstudios.com,DIRECT
 HOST-SUFFIX,xbx.lv,DIRECT
-HOST-SUFFIX,asobostudio.com,DIRECT
-HOST-SUFFIX,flightsimulator.com,DIRECT
 HOST-SUFFIX,beth.games,DIRECT
 HOST-SUFFIX,bethesda.net,DIRECT
 HOST-SUFFIX,bethesdagamestudios.com,DIRECT
@@ -361,7 +327,9 @@ HOST-SUFFIX,minecraft.net,DIRECT
 HOST-SUFFIX,minecraftservices.com,DIRECT
 HOST-SUFFIX,minecraftshop.com,DIRECT
 HOST-SUFFIX,mojang.com,DIRECT
-HOST-SUFFIX,microsoft.be,DIRECT
+HOST-SUFFIX,asobostudio.com,DIRECT
+HOST-SUFFIX,flightsimulator.com,DIRECT
+HOST-SUFFIX,microsoft.ca,DIRECT
 HOST-SUFFIX,aadrm.com,DIRECT
 HOST-SUFFIX,azure-devices-int.net,DIRECT
 HOST-SUFFIX,azure-devices.net,DIRECT
@@ -418,7 +386,7 @@ HOST-SUFFIX,azure-dns.com,DIRECT
 HOST-SUFFIX,azure-dns.info,DIRECT
 HOST-SUFFIX,azure-dns.net,DIRECT
 HOST-SUFFIX,azure-dns.org,DIRECT
-HOST-SUFFIX,microsoft.az,DIRECT
+HOST-SUFFIX,microsoft.by,DIRECT
 HOST-SUFFIX,dictate.ms,DIRECT
 HOST-SUFFIX,sprinklesapp.com,DIRECT
 HOST-SUFFIX,bing.com,DIRECT
@@ -445,7 +413,8 @@ HOST-SUFFIX,msunlimitedcloudsummit.com,DIRECT
 HOST-SUFFIX,office365love.com,DIRECT
 HOST-SUFFIX,office365tw.com,DIRECT
 HOST-SUFFIX,renovacionoffice.com,DIRECT
-HOST-SUFFIX,visualstudio.com,DIRECT
+HOST-SUFFIX,1drv.com,DIRECT
+HOST-SUFFIX,onedrive.com,DIRECT
 HOST-SUFFIX,githubhackathon.com,DIRECT
 HOST-SUFFIX,git.io,DIRECT
 HOST-SUFFIX,atom.io,DIRECT
@@ -469,12 +438,11 @@ HOST-SUFFIX,githubusercontent.com,DIRECT
 HOST-SUFFIX,myoctocat.com,DIRECT
 HOST-SUFFIX,octocaptcha.com,DIRECT
 HOST-SUFFIX,opensource.guide,DIRECT
-HOST-SUFFIX,microsoftnews.net,DIRECT
+HOST-SUFFIX,repo.new,DIRECT
 HOST-SUFFIX,thegithubshop.com,DIRECT
 HOST-SUFFIX,npmjs.org,DIRECT
 HOST-SUFFIX,npm.community,DIRECT
 HOST-SUFFIX,npmjs.com,DIRECT
-HOST-SUFFIX,visualstudio-staging.com,DIRECT
 HOST-SUFFIX,adaptivecards.io,DIRECT
 HOST-SUFFIX,api-extractor.com,DIRECT
 HOST-SUFFIX,apisof.net,DIRECT
@@ -500,7 +468,7 @@ HOST-SUFFIX,microsoftsilverlight.net,DIRECT
 HOST-SUFFIX,microsoftsqlserver.com,DIRECT
 HOST-SUFFIX,mmdnn.com,DIRECT
 HOST-SUFFIX,mono-project.com,DIRECT
-HOST-SUFFIX,msdn.com,DIRECT
+HOST-SUFFIX,orithegame.com,DIRECT
 HOST-SUFFIX,msinnovationchallenge.com,DIRECT
 HOST-SUFFIX,mspairlift.com,DIRECT
 HOST-SUFFIX,msropendata.com,DIRECT
@@ -513,12 +481,44 @@ HOST-SUFFIX,sankie.net,DIRECT
 HOST-SUFFIX,sqlserveronlinux.com,DIRECT
 HOST-SUFFIX,timelinestoryteller.com,DIRECT
 HOST-SUFFIX,uwpcommunitytoolkit.com,DIRECT
-HOST-SUFFIX,spoprod-a.akamaihd.net,DIRECT
+HOST-SUFFIX,visualstudio-staging.com,DIRECT
+HOST-SUFFIX,visualstudio.com,DIRECT
+HOST-SUFFIX,visualstudio.co,DIRECT
+HOST-SUFFIX,visualstudio.eu,DIRECT
+HOST-SUFFIX,visualstudio.net,DIRECT
+HOST-SUFFIX,vfsforgit.com,DIRECT
+HOST-SUFFIX,vfsforgit.org,DIRECT
+HOST-SUFFIX,vsassets.io,DIRECT
+HOST-SUFFIX,vscode.dev,DIRECT
+HOST-SUFFIX,vscode-cdn.net,DIRECT
+HOST-SUFFIX,vscode-unpkg.net,DIRECT
+HOST-SUFFIX,xamarin.com,DIRECT
+HOST-SUFFIX,microsoft.az,DIRECT
+HOST-SUFFIX,msocsp.com,DIRECT
+HOST-SUFFIX,microsoftnews.cc,DIRECT
+HOST-SUFFIX,microsoftnews.com,DIRECT
+HOST-SUFFIX,microsoftnews.net,DIRECT
+HOST-SUFFIX,microsoftnews.org,DIRECT
+HOST-SUFFIX,microsoftnewsforkids.com,DIRECT
+HOST-SUFFIX,microsoftnewsforkids.net,DIRECT
+HOST-SUFFIX,microsoftnewsforkids.org,DIRECT
+HOST-SUFFIX,microsoftnewskids.com,DIRECT
+HOST-SUFFIX,microsoftnewskids.net,DIRECT
+HOST-SUFFIX,microsoftnewskids.org,DIRECT
+HOST-SUFFIX,msn.com,DIRECT
+HOST-SUFFIX,msnewskids.com,DIRECT
+HOST-SUFFIX,msnewskids.net,DIRECT
+HOST-SUFFIX,msnewskids.org,DIRECT
+HOST-SUFFIX,msnkids.com,DIRECT
+HOST-SUFFIX,microsoftstart.com,DIRECT
+HOST-SUFFIX,start.com,DIRECT
+HOST-SUFFIX,microsoft.be,DIRECT
 HOST-SUFFIX,live.com.au,DIRECT
-HOST-SUFFIX,visualstudio.co.uk,DIRECT
-HOST-SUFFIX,skype-edf.akadns.net,DIRECT
 HOST-SUFFIX,skypedata.akadns.net,DIRECT
+HOST-SUFFIX,skype-edf.akadns.net,DIRECT
+HOST-SUFFIX,visualstudio.co.uk,DIRECT
 HOST-SUFFIX,microsoftstore.com.hk,DIRECT
+HOST-SUFFIX,spoprod-a.akamaihd.net,DIRECT
 HOST-SUFFIX,clarity.ms,DIRECT
 HOST-SUFFIX,dcg.microsoft.com,DIRECT
 HOST-SUFFIX,dynamics.cn,DIRECT
@@ -588,8 +588,6 @@ HOST,vscode.download.prss.microsoft.com,DIRECT
 HOST,vz.download.prss.microsoft.com,DIRECT
 HOST,wscont1.apps.microsoft.com,DIRECT
 HOST,wscont2.apps.microsoft.com,DIRECT
-HOST-SUFFIX,microsoftnews.cn,DIRECT
-HOST-SUFFIX,msn.cn,DIRECT
 HOST-SUFFIX,xboxlive.cn,DIRECT
 HOST-SUFFIX,21vbc.com,DIRECT
 HOST-SUFFIX,21vbluecloud.com,DIRECT
@@ -689,3 +687,5 @@ HOST-SUFFIX,microsoftreactor.cn,DIRECT
 HOST-SUFFIX,microsoftreactor.com.cn,DIRECT
 HOST-SUFFIX,reactorms.com.cn,DIRECT
 HOST,www.microsoft.com,DIRECT
+HOST-SUFFIX,microsoftnews.cn,DIRECT
+HOST-SUFFIX,msn.cn,DIRECT

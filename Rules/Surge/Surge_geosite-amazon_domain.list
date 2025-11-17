@@ -1,13 +1,23 @@
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/amazon.yaml
 # NAME: geosite-amazon
-# AUTHOR: https://github.com/NextSuno
+# AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Surge 规则中的 DOMAIN-SET 类型
-# UPDATED: 2025-11-10 17:40:27
-# DOMAIN: 2
+# UPDATED: 2025-11-17 21:21:12
+# DOMAIN: 12
 # DOMAIN-SUFFIX: 217
-# TOTAL: 219
+# TOTAL: 229
 
+d1v5ir2lpwr8os.cloudfront.net
+d22qjgkvxw22r6.cloudfront.net
+d25xi40x97liuc.cloudfront.net
+d27xxe7juh1us6.cloudfront.net
+dmqdd6hw24ucf.cloudfront.net
+images-eu.ssl-images-amazon.com
+images-na.ssl-images-amazon.com
+images-fe.ssl-images-amazon.com
+msh.amazon.co.uk
+static.siege-amazon.com
 .aws
 .xn--cckwcxetd
 .xn--jlq480n2rg
@@ -16,8 +26,10 @@
 .kindle
 .imdb
 .amazon
-.aesworkshops.com
-.amazonimages.com
+.awsbraket.com
+.amazondevicesupport.com
+.amazonaws.info
+.aboutamazon.eu
 .aboutamazon.fr
 .aboutamazon.in
 .aboutamazon.it
@@ -30,15 +42,14 @@
 .amazon-launchpad.com
 .amazon.ae
 .amazon.ca
-.amazon.com
-.amazon.de
 .wholeplanetfoundation.org
 .wholekidsfoundation.org
+.amazon.com
 .wholefoodsmarket.com
 .wholefoods.com
 .wholecitiesfoundation.org
 .wfm.com
-.primevideo.tv
+.amazon.de
 .amazon.dev
 .amazon.es
 .amazon.fr
@@ -53,13 +64,13 @@
 .amazonauthorinsights.com
 .amazonbusiness.org
 .amazonbusinessblog.com
-.amazondevicesupport.com
+.amazonaws.com
 .amazonfctours.com
 .amazonianblog.com
-.amazonaws.info
+.amazonimages.com
 .amazonlaunchpad.com
 .amazonliterarypartnership.com
-.amazonaws.net
+.amazonlumberyard.wang
 .amazonpay.com
 .amazonpay.in
 .amazonsdi.com
@@ -71,7 +82,7 @@
 .amznl.com
 .associates-amazon.com
 .gameon-masters.com
-.gdansk-amazon.com
+.amzndns.org
 .images-amazon.com
 .media-amazon.com
 .primeday.info
@@ -85,16 +96,16 @@
 .amazontrust.com
 .awstrust.com
 .ss2.us
-.aboutamazon.es
+.primevideo.tv
 .awsautoscaling.com
 .amzndns.net
-.aboutamazon.de
-.awsbraket.com
+.aesworkshops.com
+.aboutamazon.com
 .amazonaws.biz
-.amzndns.org
-.awsautopilot.com
-.aboutamazon.eu
-.amazonlumberyard.wang
+.gdansk-amazon.com
+.aboutamazon.de
+.aboutamazon.es
+.amazonaws.net
 .amazonaws.org
 .amazonaws.tv
 .amazoncognito.com
@@ -106,7 +117,7 @@
 .awsedstart.com
 .awsapprunner.com
 .awsapps.com
-.amazonaws.com
+.awsautopilot.com
 .acmvalidations.com
 .amazonaws-china.com
 .acmvalidationsaws.com
@@ -132,7 +143,6 @@
 .primevideo.org
 .primevideo.info
 .primevideo.com
-.aboutamazon.com
 .boxofficemojo.com
 .imdb.com
 .imdb.to
@@ -158,19 +168,19 @@
 .amazonprimevideos.com
 .amazonvideo.cc
 .amazonvideo.com
+.amazon.com.tr
 .amazon.com.mx
-.kindle.co.jp
+.aboutamazon.co.uk
 .amazonaws.co.uk
 .amzndns.co.uk
-.amazon.com.tr
 .kindle.co.uk
-.amazon.com.br
-.amazon.co.jp
-.amazon.co.uk
-.amazon.com.au
-.aboutamazon.com.au
-.aboutamazon.co.uk
+.kindle.co.jp
 .wholefoodsmarket.co.uk
+.amazon.com.au
+.amazon.com.br
+.aboutamazon.com.au
+.amazon.co.uk
+.amazon.co.jp
 .aboutamazon.cn
 .alexafund.cn
 .alexafund.com.cn
