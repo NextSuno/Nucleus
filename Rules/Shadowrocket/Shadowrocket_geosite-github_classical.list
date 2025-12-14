@@ -1,12 +1,12 @@
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/github.yaml
 # NAME: geosite-github
-# AUTHOR: https://github.com/Lunnin
+# AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Shadowrocket 规则中的 RULE-SET 类型
-# UPDATED: 2025-11-17 21:10:32
+# UPDATED: 2025-12-14 21:32:01
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 29
-# TOTAL: 31
+# DOMAIN-SUFFIX: 31
+# TOTAL: 33
 
 DOMAIN,github-api.arkoselabs.com
 DOMAIN,github-cloud.s3.amazonaws.com
@@ -39,3 +39,5 @@ DOMAIN-SUFFIX,npmjs.org
 DOMAIN-SUFFIX,npm.community
 DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,blob.core.windows.net
+DOMAIN-SUFFIX,collector.github.com
+DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com

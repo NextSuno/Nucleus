@@ -1,17 +1,20 @@
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tiktok.yaml
 # NAME: geosite-tiktok
-# AUTHOR: https://github.com/Lunnin
+# AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Shadowrocket 规则中的 DOMAIN-SET 类型
-# UPDATED: 2025-11-17 21:12:39
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 20
-# TOTAL: 21
+# UPDATED: 2025-12-14 23:07:52
+# DOMAIN: 5
+# DOMAIN-SUFFIX: 25
+# TOTAL: 30
 
+.bytedapm.com
 .byteoversea.com
 .muscdn.com
 .musical.ly
 .tik-tokapi.com
+.tiktok-minis.com
+.tiktok-row.net
 .tiktok.com
 .tiktokcdn-eu.com
 .tiktokcdn-us.com
@@ -19,6 +22,8 @@
 .tiktokd.net
 .tiktokd.org
 .tiktokeu-cdn.com
+.tiktokglobalshopv.com
+.tiktokminis.us
 .tiktokrow-cdn.com
 .tiktokv.com
 .tiktokv.eu
@@ -29,3 +34,7 @@
 .ttoverseaus.net
 .ttwstatic.com
 p16-tiktokcdn-com.akamaized.net
+roovza-launches.appsflyersdk.com
+roovza.inapps.appsflyersdk.com
+roovza.launches.appsflyersdk.com
+roovza.skadsdk.appsflyersdk.com

@@ -1,11 +1,11 @@
 # SOURCE: https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
 # NAME: gfw-list
-# AUTHOR: https://github.com/Lunnin
+# AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Domain 类型
-# UPDATED: 2025-11-17 20:47:58
-# DOMAIN-SUFFIX: 5943
-# TOTAL: 5943
+# UPDATED: 2025-12-14 19:27:19
+# DOMAIN-SUFFIX: 5962
+# TOTAL: 5962
 
 payload:
     - +.000webhost.com
@@ -176,6 +176,7 @@ payload:
     - +.addons.mozilla.org
     - +.addyoutube.com
     - +.adelaidebbs.com
+    - +.adguard-vpn.com
     - +.admin.recaptcha.net
     - +.admob.com
     - +.adpl.org.hk
@@ -200,6 +201,7 @@ payload:
     - +.agoogleaday.com
     - +.agro.hk
     - +.ai.binwang.me
+    - +.ai.dev
     - +.aiosearch.com
     - +.aiph.net
     - +.airasia.com
@@ -300,6 +302,7 @@ payload:
     - +.antichristendom.com
     - +.antiwave.net
     - +.antpool.com
+    - +.anuneko.com
     - +.anyporn.com
     - +.anysex.com
     - +.ao3.org
@@ -1069,6 +1072,7 @@ payload:
     - +.cloud.mail.ru
     - +.cloudflare-dns.com
     - +.cloudflare-ipfs.com
+    - +.cloudflarestatus.com
     - +.cloudfunctions.net
     - +.club1069.com
     - +.clubhouseapi.com
@@ -2315,6 +2319,7 @@ payload:
     - +.greasyfork.org
     - +.greatfire.org
     - +.greatfire.us7.list-manage.com
+    - +.greatfirevpn.com
     - +.greatfirewall.biz
     - +.greatfirewallofchina.org
     - +.greatroc.org
@@ -2383,6 +2388,7 @@ payload:
     - +.have8.com
     - +.hbg.com
     - +.hbo.com
+    - +.hbomax.com
     - +.hclips.com
     - +.hd.stheadline.com
     - +.hdtvb.net
@@ -2843,6 +2849,7 @@ payload:
     - +.jetos.com
     - +.jex.com
     - +.jgoodies.com
+    - +.jhelab.org
     - +.jiangweiping.com
     - +.jiaoyou8.com
     - +.jiehua.cz
@@ -3055,6 +3062,7 @@ payload:
     - +.liberal.org.hk
     - +.libertysculpturepark.com
     - +.libertytimes.com.tw
+    - +.library-access.sk
     - +.library.usc.cuhk.edu.hk
     - +.libredd.it
     - +.lifemiles.com
@@ -3151,7 +3159,6 @@ payload:
     - +.lyfhk.net
     - +.lzjscript.com
     - +.lzmtnews.org
-    - +.m-team.cc
     - +.m.hkgalden.com
     - +.m.me
     - +.m.moegirl.org
@@ -3280,6 +3287,7 @@ payload:
     - +.middle-way.net
     - +.mihr.com
     - +.mihua.org
+    - +.mij.rip
     - +.mikanani.me
     - +.mike.cz.cc
     - +.mikesoltys.com
@@ -3324,7 +3332,9 @@ payload:
     - +.mixpod.com
     - +.mixx.com
     - +.mizzmona.com
+    - +.mji.rip
     - +.mjib.gov.tw
+    - +.mjj.rip
     - +.mjlsh.usc.cuhk.edu.hk
     - +.mlc.ai
     - +.mlcool.com
@@ -3471,6 +3481,7 @@ payload:
     - +.nalandawest.org
     - +.namgyal.org
     - +.namgyalmonastery.org
+    - +.namu.wiki
     - +.nanopool.org
     - +.nanyang.com
     - +.nanyangpost.com
@@ -3895,6 +3906,7 @@ payload:
     - +.picacomiccn.com
     - +.picasaweb.com
     - +.picidae.net
+    - +.picsart.com
     - +.picturedip.com
     - +.picturesocial.com
     - +.picuki.com
@@ -3942,6 +3954,7 @@ payload:
     - +.podbean.com
     - +.podcast.co
     - +.podictionary.com
+    - +.podwise.ai
     - +.poe.com
     - +.points-media.com
     - +.pokerstars.com
@@ -4108,9 +4121,11 @@ payload:
     - +.radiko.jp
     - +.radio-canada.ca
     - +.radio-en-ligne.fr
+    - +.radio.co
     - +.radio.garden
     - +.radioaustralia.net.au
     - +.radiohilight.net
+    - +.radiojar.com
     - +.radioline.co
     - +.radiovaticana.org
     - +.radiovncr.com
@@ -4237,6 +4252,7 @@ payload:
     - +.rumble.com
     - +.runbtx.com
     - +.rushbee.com
+    - +.rustdesk.com
     - +.rusvpn.com
     - +.ruten.com.tw
     - +.rutracker.net
@@ -5576,6 +5592,7 @@ payload:
     - +.wikipedia.com
     - +.wikipedia.org
     - +.wikisource.org
+    - +.wikiunblocked.org
     - +.wikiversity.org
     - +.wikivoyage.org
     - +.wikiwand.com
@@ -5742,6 +5759,7 @@ payload:
     - +.xmovies.com
     - +.xn--11xs86f.icu
     - +.xn--4gq171p.com
+    - +.xn--9iqy04a7fi01l.com
     - +.xn--9pr62r24a.com
     - +.xn--czq75pvv1aj5c.org
     - +.xn--i2ru8q2qg.com
@@ -5881,6 +5899,7 @@ payload:
     - +.zalmos.com
     - +.zamimg.com
     - +.zaobao.com.sg
+    - +.zaochenbao.com
     - +.zapto.org
     - +.zattoo.com
     - +.zb.com

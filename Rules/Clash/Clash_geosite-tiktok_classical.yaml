@@ -1,18 +1,21 @@
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tiktok.yaml
 # NAME: geosite-tiktok
-# AUTHOR: https://github.com/Lunnin
+# AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Classical 类型
-# UPDATED: 2025-11-17 20:44:02
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 20
-# TOTAL: 21
+# UPDATED: 2025-12-14 18:54:43
+# DOMAIN: 5
+# DOMAIN-SUFFIX: 25
+# TOTAL: 30
 
 payload:
+    - DOMAIN-SUFFIX,bytedapm.com
     - DOMAIN-SUFFIX,byteoversea.com
     - DOMAIN-SUFFIX,muscdn.com
     - DOMAIN-SUFFIX,musical.ly
     - DOMAIN-SUFFIX,tik-tokapi.com
+    - DOMAIN-SUFFIX,tiktok-minis.com
+    - DOMAIN-SUFFIX,tiktok-row.net
     - DOMAIN-SUFFIX,tiktok.com
     - DOMAIN-SUFFIX,tiktokcdn-eu.com
     - DOMAIN-SUFFIX,tiktokcdn-us.com
@@ -20,6 +23,8 @@ payload:
     - DOMAIN-SUFFIX,tiktokd.net
     - DOMAIN-SUFFIX,tiktokd.org
     - DOMAIN-SUFFIX,tiktokeu-cdn.com
+    - DOMAIN-SUFFIX,tiktokglobalshopv.com
+    - DOMAIN-SUFFIX,tiktokminis.us
     - DOMAIN-SUFFIX,tiktokrow-cdn.com
     - DOMAIN-SUFFIX,tiktokv.com
     - DOMAIN-SUFFIX,tiktokv.eu
@@ -30,3 +35,7 @@ payload:
     - DOMAIN-SUFFIX,ttoverseaus.net
     - DOMAIN-SUFFIX,ttwstatic.com
     - DOMAIN,p16-tiktokcdn-com.akamaized.net
+    - DOMAIN,roovza-launches.appsflyersdk.com
+    - DOMAIN,roovza.inapps.appsflyersdk.com
+    - DOMAIN,roovza.launches.appsflyersdk.com
+    - DOMAIN,roovza.skadsdk.appsflyersdk.com

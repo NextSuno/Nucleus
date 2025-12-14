@@ -1,12 +1,12 @@
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/github.yaml
 # NAME: geosite-github
-# AUTHOR: https://github.com/Lunnin
+# AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型
-# UPDATED: 2025-11-17 21:07:45
+# UPDATED: 2025-12-14 21:18:28
 # HOST: 2
-# HOST-SUFFIX: 29
-# TOTAL: 31
+# HOST-SUFFIX: 31
+# TOTAL: 33
 
 HOST,github-api.arkoselabs.com,PROXY
 HOST,github-cloud.s3.amazonaws.com,PROXY
@@ -39,3 +39,5 @@ HOST-SUFFIX,npmjs.org,PROXY
 HOST-SUFFIX,npm.community,PROXY
 HOST-SUFFIX,npmjs.com,PROXY
 HOST-SUFFIX,blob.core.windows.net,PROXY
+HOST-SUFFIX,collector.github.com,PROXY
+HOST-SUFFIX,copilot-telemetry.githubusercontent.com,PROXY

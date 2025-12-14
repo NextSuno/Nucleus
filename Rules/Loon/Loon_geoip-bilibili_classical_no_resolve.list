@@ -1,9 +1,9 @@
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo-lite/geoip/bilibili.yaml
 # NAME: geoip-bilibili
-# AUTHOR: https://github.com/Lunnin
+# AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Loon 规则中的 Classical 类型，添加 no-resolve 参数
-# UPDATED: 2025-11-17 21:01:54
+# UPDATED: 2025-12-14 20:21:56
 # IP-CIDR: 8
 # TOTAL: 8
 

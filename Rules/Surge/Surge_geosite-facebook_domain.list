@@ -1,12 +1,12 @@
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/facebook.yaml
 # NAME: geosite-facebook
-# AUTHOR: https://github.com/Lunnin
+# AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Surge 规则中的 DOMAIN-SET 类型
-# UPDATED: 2025-11-17 21:20:53
+# UPDATED: 2025-12-14 23:33:32
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 394
-# TOTAL: 395
+# DOMAIN-SUFFIX: 393
+# TOTAL: 394
 
 fbcdn-a.akamaihd.net
 .aboutfacebook.com
@@ -121,7 +121,6 @@ fbcdn-a.akamaihd.net
 .facebook30.net
 .facebook30.org
 .facebook4business.com
-.facebookads.com
 .facebookadvertisingsecrets.com
 .facebookatschool.com
 .facebookawards.com

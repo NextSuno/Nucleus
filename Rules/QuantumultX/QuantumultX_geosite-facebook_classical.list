@@ -1,12 +1,12 @@
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/facebook.yaml
 # NAME: geosite-facebook
-# AUTHOR: https://github.com/Lunnin
+# AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型
-# UPDATED: 2025-11-17 21:07:33
+# UPDATED: 2025-12-14 21:18:14
 # HOST: 1
-# HOST-SUFFIX: 394
-# TOTAL: 395
+# HOST-SUFFIX: 393
+# TOTAL: 394
 
 HOST,fbcdn-a.akamaihd.net,PROXY
 HOST-SUFFIX,aboutfacebook.com,PROXY
@@ -121,7 +121,6 @@ HOST-SUFFIX,facebook30.com,PROXY
 HOST-SUFFIX,facebook30.net,PROXY
 HOST-SUFFIX,facebook30.org,PROXY
 HOST-SUFFIX,facebook4business.com,PROXY
-HOST-SUFFIX,facebookads.com,PROXY
 HOST-SUFFIX,facebookadvertisingsecrets.com,PROXY
 HOST-SUFFIX,facebookatschool.com,PROXY
 HOST-SUFFIX,facebookawards.com,PROXY

@@ -1,13 +1,13 @@
 # SOURCE: https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt
 # NAME: proxy-list
-# AUTHOR: https://github.com/Lunnin
+# AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Shadowrocket 规则中的 DOMAIN-SET 类型
-# UPDATED: 2025-11-17 21:13:40
-# DOMAIN: 609
-# DOMAIN-SUFFIX: 25578
+# UPDATED: 2025-12-14 23:08:54
+# DOMAIN: 618
+# DOMAIN-SUFFIX: 25733
 # URL-REGEX: 151
-# TOTAL: 26338
+# TOTAL: 26502
 
 .000webhost.com
 .01.org
@@ -237,6 +237,7 @@
 .21naturals.com
 .21sextury.com
 .21vv.cc
+.22112211.xyz
 .228.net.tw
 .233abc.com
 .2371tom.com
@@ -359,6 +360,8 @@
 .4ertik.one
 .4everland.io
 .4everproxy.com
+.4gamer.net
+.4gamers.com.tw
 .4greedy.com
 .4gtv.tv
 .4hu.one
@@ -503,6 +506,8 @@
 .7mmtv.sx
 .7mmtv.tv
 .7tb.cc
+.7tv.app
+.7tv.io
 .8-d.com
 .8008206616.com
 .8111y.top
@@ -776,6 +781,7 @@
 .addyoutube.com
 .adelaidebbs.com
 .adelaidenow.com.au
+.adfox.ru
 .adgoogle.net
 .adguard-dns.com
 .adguard-dns.io
@@ -810,6 +816,7 @@
 .adidas.se
 .adinst.com
 .admeld.com
+.admetrica.ru
 .admob-cn.com
 .admob.com
 .adobe-aemassets-value.com
@@ -937,6 +944,7 @@
 .advertisercommunity.com
 .adx.promo
 .ae-ad-1.myhuaweicloud.com
+.ae-rus.net
 .ae.hao123.com
 .ae.org
 .aeasyshop.com
@@ -948,6 +956,7 @@
 .aerogardcn.com
 .aerospace-cadcam.com
 .aerospace-design.com
+.aestatic.net
 .aesworkshops.com
 .aex.com
 .af-east-201.myhuaweicloud.com
@@ -1006,7 +1015,9 @@
 .ahtranny.com
 .ahvideosexe.com
 .ahxxx.club
+.ai-sdk.dev
 .ai.binwang.me
+.ai.dev
 .ai7995.site
 .ai91porn.cc
 .aiaa.org
@@ -1165,10 +1176,12 @@
 .akatest.tripcdn.com
 .akatns.net
 .akiba-online.com
+.akiba-souken.com
 .akiba-web.com
 .akinator.com
 .akita-bank.co.jp
 .akow.org
+.akstat.io
 .akthelp.com
 .al-islam.com
 .alabout.com
@@ -1569,8 +1582,8 @@
 .anchor.fm
 .anchorfree.com
 .ancsconf.org
-.and
 .andfaraway.net
+.android
 .android-x86.org
 .android.com
 .androidapksfree.com
@@ -1653,6 +1666,7 @@
 .antiwave.net
 .antpool.com
 .anudetube.com
+.anuneko.com
 .anxiangxing.com
 .anybunny.org
 .anybunny.tv
@@ -1776,6 +1790,7 @@
 .appdynamics.org
 .appe-store.com
 .appexchange.com
+.appget.com
 .appl-e.com
 .appl.com
 .appl4e.com
@@ -2090,6 +2105,7 @@
 .applicationinsights.net
 .applle.com
 .applw.com
+.appmedia.jp
 .appmediagroup.com
 .approvedusedbmw.com
 .apps.evozi.com
@@ -2142,6 +2158,7 @@
 .archivx.to
 .archlinux.org
 .archlinuxarm.org
+.arcraiders.com
 .arctosia.com
 .area120.com
 .area51.to
@@ -2490,6 +2507,7 @@
 .autodeskworkshop.com
 .autodeskworkshop.net
 .autodraw.com
+.automaton-media.com
 .automobile.fr
 .automotive-cadcam.com
 .autosketch.com
@@ -3478,7 +3496,6 @@
 .bing.com
 .bing.net
 .bing123.com
-.bingads.com
 .bingagencyawards.com
 .bingapis.com
 .bingapistatistics.com
@@ -3746,6 +3763,7 @@
 .bloomsburydesignlibrary.com
 .blowjobit.com
 .blowjobqueens.net
+.blox.com
 .blpcareers.com
 .blpevents.com
 .blpprofessional.com
@@ -4490,6 +4508,7 @@
 .bumptop.org
 .bumptunes.com
 .bunbunhk.com
+.bunka.go.jp
 .bunnylust.com
 .burningcamel.com
 .burstly.net
@@ -4603,6 +4622,7 @@
 .bypasscensorship.org
 .byrut.org
 .byspotify.com
+.bytedapm.com
 .byteglb.com
 .byteoversea.com
 .byteoversea.net
@@ -4802,6 +4822,7 @@
 .canonical.com
 .canonproprinters.com
 .canva.com
+.canvastatus.com
 .canyu.org
 .caobian.info
 .caochangqing.com
@@ -4901,7 +4922,6 @@
 .cbc.ca
 .cbi.ir
 .cbm.com.mm
-.cbs
 .cbs.com
 .cbs.ntu.edu.tw
 .cbsaavideo.com
@@ -5237,7 +5257,6 @@
 .chinese-memorial.org
 .chinese-porn-videos.com
 .chinese-xnxx.com
-.chinese.donga.com
 .chinese.irib.ir
 .chinese.soifind.com
 .chinesedaily.com
@@ -5641,6 +5660,9 @@
 .come29.xyz
 .comefromchina.com
 .cometotheduckside.com
+.comfy.org
+.comfyci.org
+.comfyregistry.org
 .comic-mega.me
 .comicbox.xyz
 .comicscartoonporn.com
@@ -5711,6 +5733,7 @@
 .cookiepro.com
 .cool-comics.com
 .cool18.com
+.cool3c.com
 .coolaler.com
 .coolder.com
 .coolinet.net
@@ -6384,7 +6407,9 @@
 .demonoid.is
 .demoprint.com
 .demosisto.hk
+.denfaminicogamer.jp
 .dengeamerika.com
+.dengekionline.com
 .dengiamerika.com
 .deno.com
 .deno.dev
@@ -6868,6 +6893,7 @@
 .domywife.com
 .donatecarsoh.org
 .donationalerts.com
+.donga.com
 .dongtaiwang.com
 .dongtaiwang.net
 .dongyangjing.com
@@ -7071,6 +7097,7 @@
 .dualeotruyen1s.com
 .dubai-escort-list.com
 .dubox.com
+.duck.ai
 .duck.co
 .duck.com
 .duckduckco.com
@@ -7227,6 +7254,7 @@
 .dynupdate.no-ip.com
 .dysfz.cc
 .dzen.ru
+.dzeninfra.ru
 .dzze.com
 .e-bay.com
 .e-bay.it
@@ -7602,6 +7630,8 @@
 .emaga.com
 .emagic.de
 .emanna.com
+.embark-studios.com
+.embark.games
 .embase.com
 .embed-cdn.com
 .embed.ly
@@ -7799,6 +7829,7 @@
 .erogazopple.com
 .erogazou-pinkline.com
 .erogazoufactory.com
+.eroge-road.com
 .erohentai.net
 .erolabs.cloud
 .erolabs.com
@@ -8116,7 +8147,6 @@
 .facebook30.net
 .facebook30.org
 .facebook4business.com
-.facebookads.com
 .facebookadvertisingsecrets.com
 .facebookappcenter.info
 .facebookappcenter.net
@@ -8246,6 +8276,8 @@
 .faceid99.com
 .faceid99.net
 .faceidglobal.com
+.faceit-cdn.net
+.faceit.com
 .faceless.me
 .faceobk.com
 .faceobok.com
@@ -8340,6 +8372,7 @@
 .familystrokes.com
 .familyswap.xxx
 .famima.vn
+.famitsu.com
 .famosascalvas.com
 .famous-nudes.com
 .famousinternetgirls.com
@@ -9422,17 +9455,23 @@
 .game735.com
 .gamebase.com.tw
 .gamebeforethegame.com
+.gamebiz.jp
+.gamebusiness.jp
 .gamejolt.com
+.gamemeca.com
 .gameon-masters.com
+.gameover.com.hk
 .gamepass.com
 .gamepedia.com
 .gamer.com.tw
+.gamer.ne.jp
 .gameroom.com
 .gamerotic.com
 .gamesathletes.com
 .gamesfirsthelsinki.com
 .gamesfuckgirls.com
 .gamesofdesire.com
+.gamespark.jp
 .gamesstack.com
 .gameuxmasterguide.com
 .gamez.com.tw
@@ -9639,6 +9678,7 @@
 .getlantern.org
 .getmalus.com
 .getmdl.io
+.getnews.jp
 .getoutline.org
 .getpocket.com
 .getporn.tv
@@ -9868,6 +9908,8 @@
 .goagent.biz
 .gobeatsye.com
 .gobianywhere.com
+.goblocks.com
+.goblox.com
 .gobuildx.net
 .gobuyonlinestore.net
 .gockhuatviet.com
@@ -9929,6 +9971,7 @@
 .goo
 .goo.gl
 .goo.ne.jp
+.gooblox.com
 .good-gay.com
 .good.news
 .gooday.xyz
@@ -10298,6 +10341,7 @@
 .greatfirevpn.com
 .greatfirewall.biz
 .greatfirewallofchina.org
+.greatgame.asia
 .greatretroporn.com
 .greatroc.org
 .greatzhonghua.org
@@ -10412,6 +10456,8 @@
 .h528.com
 .h5dm.com
 .h5galgame.me
+.habr.com
+.habrastorage.org
 .hackday.com.au
 .hacken.cc
 .hacker.org
@@ -10815,6 +10861,7 @@
 .heyzo.com
 .hf-iphone.com
 .hf.co
+.hf.space
 .hg.cool
 .hgamer.pro
 .hgseav.com
@@ -10973,6 +11020,7 @@
 .hnext.jp
 .hnjhj.com
 .hnntube.com
+.hobbigame.com
 .hobonichielog.com
 .hochi.news
 .hochu.tv
@@ -11469,6 +11517,7 @@
 .huluteam.com
 .hulutv.com
 .huluusa.com
+.humancoexperience.com
 .humanparty.me
 .humanrightspressawards.org
 .humblebundle.com
@@ -11781,7 +11830,9 @@
 .igi-global.com
 .igkbroker.com
 .igmg.de
+.ign.com
 .ign.jp
+.ignimg.com
 .ignites.com
 .ignitesasia.com
 .igniteseurope.com
@@ -11946,6 +11997,7 @@
 .imagebam.com
 .imagecurl.com
 .imagecurl.org
+.imagedelivery.net
 .imagefap.com
 .imageflea.com
 .imageglass.org
@@ -12092,6 +12144,7 @@
 .inshot.cc
 .inshot.com
 .inshotapp.com
+.inside-games.jp
 .inside.com.tw
 .insidefilms.com
 .insidemacintosh.com
@@ -12646,6 +12699,7 @@
 .itigergrowth.com
 .itigergrowtha.com
 .itigerup.com
+.itmedia.co.jp
 .itnel.com
 .itools.info
 .itripto.com
@@ -12969,6 +13023,7 @@
 .jfrog.org
 .jgg18.xyz
 .jgoodies.com
+.jhelab.org
 .jhxl.org
 .jhzyw.xyz
 .jiangweiping.com
@@ -13400,11 +13455,13 @@
 .kinmen.org.tw
 .kinmen.travel
 .kinokuniya.com
+.kinopoisk-ru.clstorage.net
 .kinopoisk.ru
 .kir.jp
 .kir2kos.net
 .kirbysepicyarn.com
 .kirbysuperstarultra.com
+.kiro.dev
 .kismia.com
 .kissbbao.cn
 .kisscos.net
@@ -13461,6 +13518,7 @@
 .kotlinlang.org
 .koubaibu.jp
 .kouwobb.com
+.kpacg.com
 .kphimsex.net
 .kpht85.com
 .kpinsurances.com
@@ -13720,6 +13778,7 @@
 .libgen.rs
 .libgen.st
 .liboggirls.net
+.library-access.sk
 .library.lol
 .library.usc.cuhk.edu.hk
 .librarylovefest.com
@@ -13863,6 +13922,7 @@
 .lizol.co.in
 .lkcn.net
 .ll82y2ifdd.top
+.llama.com
 .llbd10.shop
 .llcaoxm-avi.sbs
 .lldns.net
@@ -14067,7 +14127,6 @@
 .lzjscript.com
 .lzmtnews.org
 .m-power.com
-.m-team.cc
 .m.me
 .m.moegirl.org
 .m12.vc
@@ -14082,6 +14141,7 @@
 .mac.eu
 .mac.rs
 .mac.wang
+.macaodaily.com
 .macappsto.re
 .macbook.co
 .macbook.hk
@@ -14145,6 +14205,7 @@
 .madewithcode.com
 .madewithmaya.com
 .madewithstudiotools.com
+.madewithunity.jp
 .madhomemadeporn.com
 .madonna-av.com
 .madou.club
@@ -14159,6 +14220,7 @@
 .madvr.com
 .madvr.net
 .madvrlabs.llc
+.maedahiroyuki.com
 .mafia-linkz.to
 .mageconf.com
 .mageconf.com.ua
@@ -14259,6 +14321,7 @@
 .mansionpoker.com
 .mansurfer.com
 .manta.com
+.mantan-web.jp
 .mantochichi.com
 .manurefetish.com
 .manytoon.com
@@ -14498,7 +14561,6 @@
 .mcaf.ee
 .mcafee.com
 .mcb.com.mm
-.mcd
 .mcd-holdings.co.jp
 .mcd.com
 .mcdelivery.co.id
@@ -14511,7 +14573,6 @@
 .mcdelivery.com.tw
 .mcdindia.com
 .mcdindonesia.com
-.mcdonalds
 .mcdonalds-online.com
 .mcdonalds.be
 .mcdonalds.ca
@@ -14583,6 +14644,7 @@
 .media.nu.nl
 .media.org.hk
 .mediachinese.com
+.mediaclip.jp
 .mediafiles-cisco.com
 .mediafire.com
 .mediafreakcity.com
@@ -14672,6 +14734,7 @@
 .metabrainz.org
 .metacloud.com
 .metacpan.org
+.metacritic.com
 .metacubex.one
 .metafilter.com
 .metalpha.finance
@@ -14767,7 +14830,6 @@
 .microsoft365.com
 .microsoftaccountguard.com
 .microsoftadc.com
-.microsoftads.com
 .microsoftadvertising.com
 .microsoftadvertisingregionalawards.com
 .microsoftaffiliates.com
@@ -14837,6 +14899,7 @@
 .mihua.org
 .miitomo.com
 .miiverse.com
+.mij.rip
 .mikanani.me
 .mike.cz.cc
 .mikesoltys.com
@@ -15214,6 +15277,8 @@
 .miyazakibank.co.jp
 .mizuhobank.co.jp
 .mizzmona.com
+.mji.rip
+.mjj.rip
 .mjlsh.usc.cuhk.edu.hk
 .mjv-art.org
 .mk.shrimpia.network
@@ -15276,6 +15341,7 @@
 .moeerolibrary.com
 .moefuns.co
 .moeimg.net
+.moepedia.net
 .moeshare.cc
 .moez-m.com
 .mof.kemomi.me
@@ -15514,7 +15580,6 @@
 .ms365surfaceoffer.com
 .ms4dre.com
 .msa-it.org
-.msads.net
 .msauth.net
 .mschallenge2018.com
 .msdn.com
@@ -15906,6 +15971,7 @@
 .namethatpornad.com
 .namgyal.org
 .namgyalmonastery.org
+.namu.wiki
 .nan-net.com
 .nanopool.org
 .nantobank.co.jp
@@ -16223,6 +16289,7 @@
 .nextwork.hk
 .nextwork.tw
 .nexus
+.nexus-cdn.com
 .nexusmods.com
 .nf.id.au
 .nfjtyd.com
@@ -16517,7 +16584,9 @@
 .nobel.se
 .nobelprize.org
 .nochubank.or.jp
+.nodeimage.com
 .nodejs.org
+.nodequality.com
 .nodeseek.com
 .nodesource.com
 .noisullifb.com
@@ -16883,6 +16952,7 @@
 .offrezdesipods.com
 .offworldindustries.com
 .offworldindustries.net
+.ofiii.com
 .ofile.org
 .ogakikyoritsu.co.jp
 .ogameblog.com
@@ -16912,6 +16982,8 @@
 .okinawabank.co.jp
 .okk.tw
 .okkisokuho.com
+.okko.sport
+.okko.tv
 .okpool.me
 .okx-dns.com
 .okx-dns1.com
@@ -17003,6 +17075,7 @@
 .onlineapplestore.com
 .onlinecha.com
 .onlinefucktube.com
+.onlinegamer.jp
 .onlinegeeksquad.com
 .onlineinstagram.com
 .onlinemonsterbeatsonsale.com
@@ -17142,6 +17215,7 @@
 .origin.tv
 .originalhulu.com
 .originalindianporn.com
+.originlab.com
 .orithegame.com
 .orl.ly
 .orlandohurricane.com
@@ -17235,6 +17309,7 @@
 .oyax.com
 .oyeloca.com
 .oyghan.com
+.oystermercury.top
 .ozchinese.com
 .ozeex.com
 .ozodi.org
@@ -17720,6 +17795,7 @@
 .picpost.com
 .pics.ee
 .pics.vc
+.picsart.com
 .picsee.co
 .picsee.pro
 .pictoa.com
@@ -17879,6 +17955,7 @@
 .playerjs.io
 .playfab.com
 .playfabapi.com
+.playfamily.ru
 .playforceone.com
 .playhearthstone.com
 .playmation.com
@@ -17937,11 +18014,15 @@
 .podbean.com
 .podcast.co
 .podictionary.com
+.podwise.ai
 .poe.com
 .poecdn.net
 .pogo.com
 .pogobeta.com
+.poi.icu
 .poi.moe
+.poi6.net
+.poihub.com
 .points-media.com
 .poisontube.com
 .pojapp.cfd
@@ -18495,6 +18576,7 @@
 .product.co.jp
 .profilemaster.com
 .profreeporno.com
+.project-poi.com
 .project-syndicate.org
 .projectapex.com
 .projectara.com
@@ -18695,7 +18777,9 @@
 .qmp4.com
 .qmttqg3k.me
 .qnap.com
+.qobuz.com
 .qombol.com
+.qoo-app.com
 .qoo10.jp
 .qooqlevideo.com
 .qoos.com
@@ -18802,6 +18886,7 @@
 .r18av.com
 .r18lu-avi.shop
 .r18lu.com
+.r2.dev
 .r34porn.net
 .rabbitscams.com
 .rabbitscams.sex
@@ -18814,10 +18899,12 @@
 .radiko.jp
 .radio-canada.ca
 .radio-en-ligne.fr
+.radio.co
 .radio.garden
 .radioaustralia.net.au
 .radiofarda.com
 .radiohilight.net
+.radiojar.com
 .radioline.co
 .radiomango.fm
 .radiomarsho.com
@@ -18899,12 +18986,20 @@
 .rbeuroinfo.com
 .rbgrads.com
 .rbgraduates.com
+.rblx.co
+.rblx.com
+.rblx.org
 .rbmavericks.com
 .rbnainternational.com
 .rbplc.com
 .rbrandlibrary.com
 .rbsgr.com
 .rbspeakup.com
+.rbx.com
+.rbxcdn.com
+.rbxinfra.net
+.rbxlabs.com
+.rbxtrk.com
 .rcinet.ca
 .rcl07.xyz
 .rclon.com
@@ -18921,6 +19016,7 @@
 .rea.tech
 .reabble.com
 .reachporn.com
+.reachthefinals.com
 .reachtheworldonfacebook.com
 .react.com
 .reactjs.com
@@ -18980,6 +19076,7 @@
 .realraptalk.com
 .realsexdoll.com
 .realsexpass.com
+.realsound.jp
 .realteengirls.com
 .realtor.com
 .realtype.co.jp
@@ -19173,9 +19270,38 @@
 .rm2029.com
 .rmbl.ws
 .rmjdw.com
+.ro-blox.com
 .ro89.com
 .road-crew.com
+.roadblocks.com
 .roadshow.hk
+.roblocks.com
+.roblox-api.arkoselabs.com
+.roblox.ca
+.roblox.cc
+.roblox.cl
+.roblox.co.jp
+.roblox.co.uk
+.roblox.com
+.roblox.de
+.roblox.dk
+.roblox.eu
+.roblox.fr
+.roblox.hu
+.roblox.it
+.roblox.jp
+.roblox.kr
+.roblox.mx
+.roblox.net
+.roblox.org
+.roblox.ph
+.roblox.pt
+.roblox.sk
+.roblox.tv
+.roblox.uk
+.roblox.us
+.roblox.vn
+.robloxlabs.com
 .robobat.com
 .roboforex.com
 .roboform.com
@@ -19218,6 +19344,8 @@
 .roughman.net
 .routerboard.com
 .routledgehandbooks.com
+.rowblocks.com
+.rowblox.com
 .royalcams.com
 .royalsocietypublishing.org
 .rpglogs.com
@@ -19242,6 +19370,7 @@
 .rstatic.net
 .rt.com
 .rtalabel.org
+.rtbcdn.ru
 .rthk.hk
 .rthk.org.hk
 .rti.org.tw
@@ -19292,6 +19421,7 @@
 .rutrecker.net
 .rutrk.org
 .rutube.ru
+.rutubelist.ru
 .ruvideos.net
 .rxhj.net
 .ryokoyomiuri.co.jp
@@ -19344,6 +19474,7 @@
 .sagepub.com
 .sagernet.org
 .sahabatsetiasmartone.com
+.saiganak.com
 .saintyculture.com
 .saitama-resona.co.jp
 .sakuralive.com
@@ -19625,6 +19756,7 @@
 .sensualgirls.org
 .sensualmothers.com
 .sensueel.net
+.sentry-cdn.com
 .sentry.io
 .senzuritv.net
 .seqing.one
@@ -20033,7 +20165,6 @@
 .shotwithgeforce.com
 .showhaotu.com
 .shownote.com
-.showtime
 .showtime.com
 .showtime.jp
 .showtimeanytime.com
@@ -21370,6 +21501,7 @@
 .tellme.pw
 .tellmewhygame.com
 .temetube.xyz
+.temp-mail.org
 .temu.com
 .tenacy.com
 .tenbyfotolia.com
@@ -21439,6 +21571,7 @@
 .tfsallin.net
 .tg-me.com
 .tg.dev
+.tgdaily.co.kr
 .tgirlcentral.com
 .tgirlpostop.com
 .tgp6.com
@@ -21524,7 +21657,6 @@
 .thegithubshop.com
 .thegly.com
 .thegooglestore.com
-.theguardian
 .theguardian.com
 .theguardiandns.com
 .thehabibshow.com
@@ -21636,6 +21768,7 @@
 .thirdmill.org
 .thirdns.de
 .thisav.com
+.thisisgame.com
 .thisismoney.co.uk
 .thisispolaris.com
 .thismon.ee
@@ -21790,6 +21923,8 @@
 .tig-ol-bitties.live
 .tigervpn.com
 .tik-tokapi.com
+.tiktok-minis.com
+.tiktok-row.net
 .tiktok.com
 .tiktokcdn-eu.com
 .tiktokcdn-us.com
@@ -21797,6 +21932,8 @@
 .tiktokd.net
 .tiktokd.org
 .tiktokeu-cdn.com
+.tiktokglobalshopv.com
+.tiktokminis.us
 .tiktokrow-cdn.com
 .tiktokv.com
 .tiktokv.eu
@@ -22232,6 +22369,7 @@
 .turbobit.net
 .turbogvideos.com
 .turbohide.com
+.turbopages.org
 .turborepo.org
 .turbotax.com
 .turkeyblocks.org
@@ -22747,6 +22885,8 @@
 .vaultify.info
 .vaultify.net
 .vaultproject.io
+.vbcdn.com
+.vbcdn.net
 .vbejeyv.shop
 .vcanedge.com
 .vce.com
@@ -22950,7 +23090,9 @@
 .viacom.com
 .viacomcbs.com
 .viacomcbspressexpress.com
+.viber.co
 .viber.com
+.viber.me
 .vica.info
 .victimsofcommunism.org
 .vid.me
@@ -23662,6 +23804,7 @@
 .want520.com
 .wantblogger.com
 .wantmywife.com
+.wanuxi.com
 .wanz-factory.com
 .wapedia.mobi
 .waplog.com
@@ -23683,6 +23826,7 @@
 .watch-ebay.org
 .watch-my-gf.com
 .watch-porn.net
+.watch.impress.co.jp
 .watch8x.com
 .watchanimeattheoffice.com
 .watchdisneyfe.com
@@ -23787,6 +23931,8 @@
 .webtoons.com
 .webtoonscorp.com
 .webtype.com
+.webvisor.com
+.webvisor.org
 .webwarper.net
 .webworkerdaily.com
 .wechatlawsuit.com
@@ -24437,6 +24583,7 @@
 .xn--7hv594h.com
 .xn--8uq428d76d.tokyo
 .xn--90wwvt03e.com
+.xn--9iqy04a7fi01l.com
 .xn--9kr7l.com
 .xn--9pr62r24a.com
 .xn--9trs65b.com
@@ -24780,6 +24927,7 @@
 .yaddal.tv
 .yadi.sk
 .yadori.club
+.yads.tech
 .yaeby.info
 .yaeby.pro
 .yahoo
@@ -24953,6 +25101,7 @@
 .yandex
 .yandex-bank.net
 .yandex-images.clstorage.net
+.yandex-team.ru
 .yandex.aero
 .yandex.az
 .yandex.by
@@ -24983,11 +25132,13 @@
 .yandex.sx
 .yandex.tj
 .yandex.tm
+.yandex.tr
 .yandex.ua
 .yandex.uz
 .yandexadexchange.net
 .yandexcloud.net
 .yandexcom.net
+.yandexmetrica.com
 .yandexwebcache.org
 .yanghengjun.com
 .yangzhi.org
@@ -25003,6 +25154,7 @@
 .yarnpkg.com
 .yasarang.net
 .yasni.co.uk
+.yastat.net
 .yastatic.net
 .yasukuni.or.jp
 .yavtube.com
@@ -25084,6 +25236,7 @@
 .yong.hu
 .yopornshop.com
 .yorkbbs.ca
+.yorozoonews.jp
 .yoshisnewisland.com
 .you-get.org
 .you.com
@@ -25395,6 +25548,7 @@
 .zaobao.com
 .zaobao.com.sg
 .zaobao.sg
+.zaochenbao.com
 .zapper.fi
 .zappos
 .zapto.org
@@ -25553,6 +25707,7 @@
 .zopim.com
 .zorglist.com
 .zorrovpn.com
+.zotero.org
 .zozotown.com
 .zpn.im
 .zqqpwz.com
@@ -25686,6 +25841,7 @@ d1k2us671qcoau.cloudfront.net
 d1m7jfoe9zdc1j.cloudfront.net
 d1mhjrowxxagfy.cloudfront.net
 d1oca24q5dwo6d.cloudfront.net
+d1unuk07s6td74.cloudfront.net
 d1v5ir2lpwr8os.cloudfront.net
 d1w2poirtb3as9.cloudfront.net
 d1xhnb4ptk05mw.cloudfront.net
@@ -25839,6 +25995,8 @@ notary-submissions-prod.s3-accelerate.amazonaws.com
 notary-submissions-prod.s3.us-west-2.amazonaws.com
 notify.ppy.sh
 np-edge.itunes.apple.com
+ntdofifreepc-tgc.cdn.hinet.net
+ntdofifreevcpc-tgc.cdn.hinet.net
 ntp-b.nist.gov
 ntp-c.colorado.edu
 ntp-d.nist.gov
@@ -25890,6 +26048,13 @@ push-apple.com.akadns.net
 pvr-hamivideo.cdn.hinet.net
 qualcomm.sc.omtrdc.net
 rink.hockeyapp.net
+roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
+roblox-poc.global.ssl.fastly.net
+robloxcorp.s.llnwi.net
+roovza-launches.appsflyersdk.com
+roovza.inapps.appsflyersdk.com
+roovza.launches.appsflyersdk.com
+roovza.skadsdk.appsflyersdk.com
 rss.4040940.xyz
 rss.datuan.dev
 rss.littlebaby.life
@@ -26195,7 +26360,6 @@ www-cdn.icloud.com.akadns.net
 yangzhi.app
 yt3.googleusercontent.com
 zeenews-fonts.s3.amazonaws.com
-ztedevices.com
 (^|\.)13mei[5-7]\.buzz$
 (^|\.)18jmttios[0-9]{2}\.com$
 (^|\.)18j[efg]\.life$

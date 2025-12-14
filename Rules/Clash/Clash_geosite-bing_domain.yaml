@@ -1,9 +1,9 @@
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/bing.yaml
 # NAME: geosite-bing
-# AUTHOR: https://github.com/Lunnin
+# AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Domain 类型
-# UPDATED: 2025-11-17 20:47:21
+# UPDATED: 2025-12-14 19:26:46
 # DOMAIN: 3
 # DOMAIN-SUFFIX: 35
 # TOTAL: 38
@@ -11,11 +11,10 @@
 payload:
     - location.microsoft.com
     - +.bing
-    - +.dictate.ms
-    - +.sprinklesapp.com
-    - +.bing.com
-    - +.bingads.com
-    - +.bingagencyawards.com
+    - +.microsoftdiplomados.com
+    - +.bing123.com
+    - +.flipwithsurface.com
+    - +.masalladeloslimites.com
     - +.bingapis.com
     - +.bingapistatistics.com
     - +.bingparachute.com
@@ -23,22 +22,23 @@ payload:
     - +.bingvisualsearch.com
     - +.bingworld.com
     - +.bluehatnights.com
-    - +.bing123.com
+    - +.dictate.ms
+    - +.sprinklesapp.com
     - +.bing.net
-    - +.microsoftpartnersolutions.com
-    - +.masalladeloslimites.com
+    - +.bingagencyawards.com
     - +.microsoft-give.com
     - +.microsoftcloudsummit.com
-    - +.microsoftdiplomados.com
+    - +.bing.com
     - +.microsoftlatamholiday.com
     - +.microsoftmxfilantropia.com
-    - +.flipwithsurface.com
+    - +.microsoftpartnersolutions.com
     - +.msunlimitedcloudsummit.com
     - +.office365love.com
     - +.office365tw.com
     - +.renovacionoffice.com
     - +.copilot.microsoft.com
     - +.bing.com.cn
+    - +.bingads.com
     - +.cn.bing.com
     - +.cn.bing.net
     - +.cn.mm.bing.net

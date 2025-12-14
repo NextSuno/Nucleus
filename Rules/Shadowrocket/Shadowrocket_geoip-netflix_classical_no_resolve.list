@@ -1,12 +1,12 @@
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/netflix.yaml
 # NAME: geoip-netflix
-# AUTHOR: https://github.com/Lunnin
+# AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Shadowrocket 规则中的 RULE-SET 类型，添加 no-resolve 参数
-# UPDATED: 2025-11-17 21:10:07
+# UPDATED: 2025-12-14 21:31:32
 # IP-CIDR: 23
-# IP-CIDR6: 56
-# TOTAL: 79
+# IP-CIDR6: 58
+# TOTAL: 81
 
 IP-CIDR,23.246.0.0/18,no-resolve
 IP-CIDR,37.77.184.0/21,no-resolve
@@ -35,7 +35,9 @@ IP-CIDR6,2607:fb10::/32,no-resolve
 IP-CIDR6,2620:0:ef0::/48,no-resolve
 IP-CIDR6,2620:10c:7000::/44,no-resolve
 IP-CIDR6,2a00:86c0::/32,no-resolve
-IP-CIDR6,2a03:5640::/33,no-resolve
+IP-CIDR6,2a03:5640:1000::/36,no-resolve
+IP-CIDR6,2a03:5640:2000::/35,no-resolve
+IP-CIDR6,2a03:5640:4000::/34,no-resolve
 IP-CIDR6,2a03:5640:8000::/34,no-resolve
 IP-CIDR6,2a03:5640:c000::/35,no-resolve
 IP-CIDR6,2a03:5640:e000::/36,no-resolve

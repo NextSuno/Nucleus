@@ -1,12 +1,12 @@
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/netflix.yaml
 # NAME: geoip-netflix
-# AUTHOR: https://github.com/Lunnin
+# AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Ipcidr 类型
-# UPDATED: 2025-11-17 20:52:29
+# UPDATED: 2025-12-14 20:06:27
 # IP-CIDR: 23
-# IP-CIDR6: 56
-# TOTAL: 79
+# IP-CIDR6: 58
+# TOTAL: 81
 
 payload:
     - 23.246.0.0/18
@@ -36,7 +36,9 @@ payload:
     - 2620:0:ef0::/48
     - 2620:10c:7000::/44
     - 2a00:86c0::/32
-    - 2a03:5640::/33
+    - 2a03:5640:1000::/36
+    - 2a03:5640:2000::/35
+    - 2a03:5640:4000::/34
     - 2a03:5640:8000::/34
     - 2a03:5640:c000::/35
     - 2a03:5640:e000::/36

@@ -1,34 +1,34 @@
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/twitter.yaml
 # NAME: geosite-twitter
-# AUTHOR: https://github.com/Lunnin
+# AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Domain 类型
-# UPDATED: 2025-11-17 20:47:01
+# UPDATED: 2025-12-14 19:26:26
 # DOMAIN-SUFFIX: 24
 # TOTAL: 24
 
 payload:
-    - +.twtrdns.net
-    - +.twvid.com
-    - +.periscope.tv
-    - +.pscp.tv
+    - +.twitter.jp
+    - +.x.com
+    - +.cms-twdigitalassets.com
     - +.t.co
     - +.tellapart.com
     - +.tweetdeck.com
     - +.twimg.com
     - +.twitpic.com
     - +.twitter.biz
-    - +.x.com
-    - +.cms-twdigitalassets.com
-    - +.twitterflightschool.com
     - +.twittercommunity.com
+    - +.pscp.tv
+    - +.periscope.tv
     - +.twitter.com
+    - +.twitterflightschool.com
     - +.twitterinc.com
     - +.twitteroauth.com
     - +.twitterstat.us
-    - +.ads-twitter.com
+    - +.twtrdns.net
     - +.twttr.com
     - +.twttr.net
-    - +.twitter.jp
+    - +.twvid.com
     - +.vine.co
     - +.twitter.map.fastly.net
+    - +.ads-twitter.com

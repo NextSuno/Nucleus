@@ -1,9 +1,9 @@
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/netflix.yaml
 # NAME: geoip-netflix
-# AUTHOR: https://github.com/Lunnin
+# AUTHOR: https://github.com/NextSuno
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型，添加 no-resolve 参数
-# UPDATED: 2025-11-17 21:07:17
+# UPDATED: 2025-12-14 21:17:40
 # TOTAL: 0
 
 IP-CIDR,23.246.0.0/18,PROXY,no-resolve
@@ -33,7 +33,9 @@ IP6-CIDR,2607:fb10::/32,PROXY,no-resolve
 IP6-CIDR,2620:0:ef0::/48,PROXY,no-resolve
 IP6-CIDR,2620:10c:7000::/44,PROXY,no-resolve
 IP6-CIDR,2a00:86c0::/32,PROXY,no-resolve
-IP6-CIDR,2a03:5640::/33,PROXY,no-resolve
+IP6-CIDR,2a03:5640:1000::/36,PROXY,no-resolve
+IP6-CIDR,2a03:5640:2000::/35,PROXY,no-resolve
+IP6-CIDR,2a03:5640:4000::/34,PROXY,no-resolve
 IP6-CIDR,2a03:5640:8000::/34,PROXY,no-resolve
 IP6-CIDR,2a03:5640:c000::/35,PROXY,no-resolve
 IP6-CIDR,2a03:5640:e000::/36,PROXY,no-resolve
