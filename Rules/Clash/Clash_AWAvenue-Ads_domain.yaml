@@ -1,12 +1,12 @@
 # SOURCE: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Clash.yaml
 # NAME: AWAvenue-Ads
-# AUTHOR: https://github.com/NextSuno
+# AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Domain 类型
-# UPDATED: 2025-12-14 19:25:46
-# DOMAIN: 886
+# UPDATED: 2025-12-21 20:33:16
+# DOMAIN: 882
 # DOMAIN-SUFFIX: 11
-# TOTAL: 897
+# TOTAL: 893
 
 payload:
     - 1500020991.vodplayer.wxamedia.com
@@ -331,7 +331,6 @@ payload:
     - de.tynt.com
     - diagnosis.ad.xiaomi.com
     - dig.bdurl.net
-    - dl.zuimeitianqi.com
     - dlogs.bwton.com
     - dm.toutiao.com
     - domain.aishengji.com
@@ -351,8 +350,6 @@ payload:
     - ef-dongfeng.tanx.com
     - engine.dcad01.com
     - entry.baidu.com
-    - errlog.umeng.com
-    - errnewlog.umeng.com
     - et-eus.w.inmobi.com
     - event.tradplusad.com
     - events-drcn.op.dbankcloud.cn
@@ -662,7 +659,6 @@ payload:
     - s8t.teads.tv
     - saad.ms.zhangyue.net
     - saas.hpplay.cn
-    - safebrowsing.googleapis.com
     - safebrowsing.urlsec.gg.com
     - samsung-com.112.2o7.net
     - samsungads.com
@@ -730,6 +726,7 @@ payload:
     - supply.inmobicdn.net
     - sv-video.play.aiseet.atianqi.com
     - syh-imp.cdnjtzy.com
+    - syh.zybang.com
     - szbdyd.com
     - t-dsp.pinduoduo.com
     - t.applovin.com
@@ -742,7 +739,6 @@ payload:
     - t2.a.market.xiaomi.com
     - t2.fancyapi.com
     - t3.a.market.xiaomi.com
-    - t7z.cupid.iqiyi.com
     - t7z.cupid.ptqy.gitv.tv
     - tangram.e.qq.com
     - target.ads.jihuoniao.com

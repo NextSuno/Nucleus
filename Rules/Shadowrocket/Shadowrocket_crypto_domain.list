@@ -1,9 +1,9 @@
 # SOURCE: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Crypto.list
 # NAME: crypto
-# AUTHOR: https://github.com/NextSuno
+# AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Shadowrocket 规则中的 DOMAIN-SET 类型
-# UPDATED: 2025-12-14 23:07:34
+# UPDATED: 2025-12-21 21:05:46
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 251
 # DOMAIN-KEYWORD: 4

@@ -1,12 +1,12 @@
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 # NAME: geosite-geolocation-!cn
-# AUTHOR: https://github.com/NextSuno
+# AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Surge 规则中的 DOMAIN-SET 类型
-# UPDATED: 2025-12-14 23:34:27
-# DOMAIN: 618
-# DOMAIN-SUFFIX: 25658
-# TOTAL: 26276
+# UPDATED: 2025-12-21 21:11:46
+# DOMAIN: 624
+# DOMAIN-SUFFIX: 25721
+# TOTAL: 26345
 
 1password.drift.click
 3dns-1.adobe.com
@@ -261,7 +261,13 @@ notary-submissions-prod.s3-accelerate.amazonaws.com
 notary-submissions-prod.s3.us-west-2.amazonaws.com
 notify.ppy.sh
 np-edge.itunes.apple.com
+ntdfreemobile-tgc.cdn.hinet.net
+ntdfreepc-tgc.cdn.hinet.net
+ntdfreetv-tgc.cdn.hinet.net
+ntdfreevcpc-tgc.cdn.hinet.net
+ntdofifreemobile-tgc.cdn.hinet.net
 ntdofifreepc-tgc.cdn.hinet.net
+ntdofifreetv-tgc.cdn.hinet.net
 ntdofifreevcpc-tgc.cdn.hinet.net
 ntp-b.nist.gov
 ntp-c.colorado.edu
@@ -696,8 +702,8 @@ zeenews-fonts.s3.amazonaws.com
 .apple
 .android
 .amazon
-.javfull.net
-.nudelive.com
+.javhard.org
+.javmodel.com
 .12diasderegalosdeitunes.pe
 .12joursdecadeauxdeitunes.com
 .12vpn.com
@@ -2776,7 +2782,7 @@ zeenews-fonts.s3.amazonaws.com
 .arnoldrenderer.com
 .arphic.com
 .ysav184.xyz
-.art1lib.com
+.javmoo.xyz
 .art4tibet1998.org
 .artcam.com
 .artcamexpress.com
@@ -2825,6 +2831,7 @@ zeenews-fonts.s3.amazonaws.com
 .asianboygay.com
 .asiancamgirllive.com
 .asiancamly.com
+.asiancoochies.com
 .asianews.it
 .asianfanfics.com
 .asianfreeporn.net
@@ -2848,6 +2855,7 @@ zeenews-fonts.s3.amazonaws.com
 .asianxxxvideos.cc
 .asiaone.com
 .asiatgp.com
+.asjmapihost.cc
 .ask.com
 .askfacebook.net
 .askfacebook.org
@@ -3233,6 +3241,7 @@ zeenews-fonts.s3.amazonaws.com
 .youtubeeducation.com
 .aws-iot-hackathon.com
 .aws.com
+.aws.dev
 .awsapprunner.com
 .awsapps.com
 .awsautopilot.com
@@ -3990,12 +3999,15 @@ zeenews-fonts.s3.amazonaws.com
 .youtube.ma
 .bigbigshop.com
 .bigblackdicklover.com
+.bigboobalexya.com
 .bigboobbundle.com
+.bigboobdaria.com
 .bigboobsalert.com
 .bigboobsandhotsex.com
 .bigboobsonline.org
 .bigboobspov.com
 .bigboobswives.com
+.bigboobvanessay.com
 .bigboss.video
 .bigbuckbunny.org
 .bigcharts.com
@@ -4016,6 +4028,7 @@ zeenews-fonts.s3.amazonaws.com
 .bigtitangelawhite.com
 .bigtithitomi.com
 .bigtithooker.com
+.bigtitkatiethornton.com
 .bigtitsextapes.com
 .bigtitsgallery.net
 .bigtitsmodelsdirectory.com
@@ -4123,6 +4136,7 @@ zeenews-fonts.s3.amazonaws.com
 .bit-z.com
 .bit.do
 .bit.ly
+.bitbaby.com
 .bitballoon.com
 .bitbank.cc
 .bitbay.net
@@ -5143,6 +5157,7 @@ zeenews-fonts.s3.amazonaws.com
 .bustyinescudna.com
 .bustykellykay.com
 .bustykerrymarie.com
+.bustylezzies.com
 .bustylornamorgan.com
 .bustymerilyn.com
 .bustymomsvideo.com
@@ -5591,11 +5606,17 @@ zeenews-fonts.s3.amazonaws.com
 .yandex.uz
 .cdn77.com
 .cdn77.org
+.cdnblackmyth.club
 .yandex.ua
 .cdninstagram.com
 .cdnjs.com
 .cdnlab.live
+.cdnmhws.cc
+.cdnmhwscc.vip
 .cdnpure.com
+.cdnuc.vip
+.cdnxxx-proxy.co
+.cdnxxx-proxy.xyz
 .cdp1989.org
 .cdp1998.org
 .cdp2006.org
@@ -5783,6 +5804,7 @@ zeenews-fonts.s3.amazonaws.com
 .yandex.org
 .yandex.net
 .chicagolandbmw.com
+.chicksonblackdicks.com
 .chickstagram.com
 .chickteases.com
 .yandex.md
@@ -7369,6 +7391,7 @@ zeenews-fonts.s3.amazonaws.com
 .disqusservice.com
 .dit-inc.us
 .xxxhentaipics.pro
+.diwodiwo.xyz
 .diyarbakirescort.com
 .diyin.org
 .diyuser.buzz
@@ -7410,6 +7433,8 @@ zeenews-fonts.s3.amazonaws.com
 .dmed.technology
 .xxxgratisfilms.com
 .dmhy.org
+.dmit.io
+.dmit.sh
 .dml-lang.org
 .dmm-extension.com
 .xxxgirls88.com
@@ -7846,6 +7871,7 @@ zeenews-fonts.s3.amazonaws.com
 .dynu.net
 .xxx-fap.com
 .dysfz.cc
+.dzcdn.net
 .dzen.ru
 .dzeninfra.ru
 .dzze.com
@@ -8093,6 +8119,7 @@ zeenews-fonts.s3.amazonaws.com
 .ebenporno.com
 .ebony-beauty.com
 .ebonyinlove.com
+.ebonythots.com
 .ebonywebcamhub.com
 .eboobstore.com
 .xxbbx.com
@@ -8323,6 +8350,7 @@ zeenews-fonts.s3.amazonaws.com
 .entrust.com
 .entrust.net
 .entrustdatacard.com
+.eotarchive.org
 .epac.to
 .epicbrowser.com
 .epicgames.com
@@ -10337,6 +10365,7 @@ zeenews-fonts.s3.amazonaws.com
 .ghcr.io
 .ghettotube.com
 .ghidra-sre.org
+.ghostarchive.org
 .ghostgames.com
 .ghostpath.com
 .ghut.org
@@ -11065,6 +11094,7 @@ zeenews-fonts.s3.amazonaws.com
 .hairy-beauty.com
 .hairy-women-pussy.net
 .hairyclassic.com
+.hairycoochies.com
 .hairydivas.com
 .hairynature.com
 .hairyolder.com
@@ -11683,6 +11713,7 @@ zeenews-fonts.s3.amazonaws.com
 .horizontal-systems.com
 .horizontalglue.com
 .horizontalsystems.com
+.hornyasianmilfs.com
 .hornybitches.org
 .hornybutt.com
 .hornychat.net
@@ -12317,6 +12348,7 @@ zeenews-fonts.s3.amazonaws.com
 .icuminside.com
 .wyqqdz.com
 .idarkdoll.com
+.idcflare.com
 .idea-server.com
 .ideal-teens.com
 .ideapocket.com
@@ -13454,13 +13486,13 @@ zeenews-fonts.s3.amazonaws.com
 .javfree.me
 .javfree.sh
 .javfuck.net
-.000webhost.com
+.javfull.net
 .javfun.me
 .javfv.com
 .javgg.net
 .javgrown.com
 .javhard.net
-.javhard.org
+.000webhost.com
 .javhaven.com
 .javhay.net
 .javhd.com
@@ -13488,15 +13520,15 @@ zeenews-fonts.s3.amazonaws.com
 .javlibrary.com
 .javlibrary.tv
 .javmenu.com
-.mrdeepfakes.com
-.wogx.com
-.12diasderegalosdeitunes.hn
+.javmix.me
+.javmix.tv
+.javmobile.mobi
 .javmobile.net
-.javmodel.com
-.javmoo.com
-.javmoo.xyz
 .javmost.com
-.javmost.cx
+.javmoo.com
+.art1lib.com
+.12diasderegalosdeitunes.hn
+.ro89.com
 .javmost.xyz
 .javmuch.com
 .javmulu.net
@@ -13558,7 +13590,7 @@ zeenews-fonts.s3.amazonaws.com
 .jburl.top
 .jc11.tw
 .jcpenney.com
-.woflthenewsstation.com
+.wogx.com
 .jd.hk
 .jd.id
 .jd.ru
@@ -13585,6 +13617,7 @@ zeenews-fonts.s3.amazonaws.com
 .jerkmate.tv
 .jerkmatelive.org
 .jerkofftocelebs.com
+.woflthenewsstation.com
 .jessicaturner.com
 .jetbrains.ai
 .jetbrains.com
@@ -13658,15 +13691,44 @@ zeenews-fonts.s3.amazonaws.com
 .jkzvz.shop
 .jkzw.shop
 .jlb0011.site
+.jm-comic2.cc
+.jm18c-bbm.cc
+.jm18c-bbm.net
+.jm18c-uoi.net
+.jm365.work
+.jm365.xyz
 .jm98.cc
 .wnacg.link
+.jmapibranch1.cc
+.jmapibranch2.cc
+.jmapibranch3.cc
+.jmapinode.biz
+.jmapinode.vip
+.jmapinode.xyz
+.jmapinode1.top
+.jmapinode2.top
+.jmapinode3.top
+.jmapinodeudzn.net
+.jmapinodeudzn.xyz
+.jmapiproxy1.cc
+.jmapiproxy1.monster
+.jmapiproxy2.cc
+.jmapiproxy3.cc
+.jmapiproxy4.cc
+.jmapiproxyxxx.vip
+.jmcomic-fb.vip
+.jmcomic-zzz.one
+.jmcomic-zzz.org
+.jmcomic.group
 .jmcomic.ltd
 .jmcomic.me
 .jmcomic.mobi
 .jmcomic.moe
+.jmcomic.rocks
 .jmcomic1.city
 .jmcomic1.me
 .jmcomic1.mobi
+.jmcomic1.rocks
 .jmcomic2.moe
 .jmlr.org
 .wnacg.com
@@ -14217,6 +14279,8 @@ zeenews-fonts.s3.amazonaws.com
 .latencytop.com
 .latex-project.org
 .latinaabuse.com
+.latinacoochies.com
+.latinmommas.com
 .latintubeporn.com
 .latticedata.com
 .launchpad.net
@@ -15264,6 +15328,7 @@ zeenews-fonts.s3.amazonaws.com
 .meme111.com
 .memealerts.com
 .memehk.com
+.mementoweb.org
 .memes.tw
 .memri.org
 .memrijttm.org
@@ -16133,7 +16198,7 @@ zeenews-fonts.s3.amazonaws.com
 .mrbonus.com
 .mrchewsasianbeaver.com
 .mrcong.com
-.javmix.me
+.mrdeepfakes.com
 .mresalat.ir
 .mrface.com
 .mrlivecam.com
@@ -16495,9 +16560,9 @@ zeenews-fonts.s3.amazonaws.com
 .webex.de
 .webex.com
 .na-att-idns.net
-.javmix.tv
 .webex.ca
 .webevader.org
+.webcitation.org
 .webcamtubexxx.com
 .webcams.tv
 .webcammedellin.co
@@ -17300,7 +17365,7 @@ zeenews-fonts.s3.amazonaws.com
 .nudefiles.net
 .nudegfporn.com
 .nudekenya.com
-.javmobile.mobi
+.nudelive.com
 .nudematurewomenpics.com
 .nudemilfporn.com
 .nudes7.com
@@ -17973,6 +18038,7 @@ zeenews-fonts.s3.amazonaws.com
 .parstream.net
 .parstream.org
 .partmaker.com
+.partnerstack.xyz
 .partycasino.com
 .partylikeits1986.org
 .partypoker.com
@@ -18284,6 +18350,7 @@ zeenews-fonts.s3.amazonaws.com
 .perfecttitspics.com
 .periscope.tv
 .perl.org
+.perma.cc
 .perplexity.ai
 .perplexity.com
 .persagg.com
@@ -19828,7 +19895,7 @@ zeenews-fonts.s3.amazonaws.com
 .rmbl.ws
 .rmjdw.com
 .ro-blox.com
-.ro89.com
+.javmost.cx
 .road-crew.com
 .roadblocks.com
 .roadshow.hk
@@ -19903,6 +19970,7 @@ zeenews-fonts.s3.amazonaws.com
 .routledgehandbooks.com
 .rowblocks.com
 .rowblox.com
+.roxired.com
 .royalcams.com
 .royalsocietypublishing.org
 .rpglogs.com
@@ -23633,8 +23701,8 @@ zeenews-fonts.s3.amazonaws.com
 .via0.com
 .viacbs.com
 .viacom.com
+.hkhrc.org.hk
 .miniso.com.pl
-.sony.com.hn
 .vfsco.com.br
 .vfsco.com.au
 .vfsco.co.za
@@ -23991,7 +24059,7 @@ zeenews-fonts.s3.amazonaws.com
 .sony.com.my
 .sony.com.mx
 .sony.com.mk
-.oricon.co.jp
+.sony.com.hn
 .sony.com.hk
 .sony.com.gt
 .sony.com.ec
@@ -24274,8 +24342,8 @@ zeenews-fonts.s3.amazonaws.com
 .oss-ap-northeast-2.aliyuncs.com
 .oss-ap-northeast-1.aliyuncs.com
 .orientaldaily.com.my
-.huffingtonpost.co.za
-.organcare.org.tw
+.oricon.co.jp
+.vft.com.tw
 .opml.radiotime.com
 .openweather.co.uk
 .open.firstory.me
@@ -24433,6 +24501,7 @@ zeenews-fonts.s3.amazonaws.com
 .na-siliconvalley.myqcloud.com
 .na-mexico-1.myhuaweicloud.com
 .na-east-0.myhuaweicloud.com
+.webex.co.in
 .webex.co.it
 .webex.co.jp
 .webex.co.kr
@@ -24500,7 +24569,7 @@ zeenews-fonts.s3.amazonaws.com
 .minisolife.co.za
 .miniso.com.tr
 .miniso.com.py
-.huffingtonpost.com.au
+.google.co.ug
 .miniso.com.mx
 .miniso.com.gr
 .miniso.com.es
@@ -24683,7 +24752,7 @@ zeenews-fonts.s3.amazonaws.com
 .lama.com.tw
 .labo.wovs.tk
 .lab.skk.moe
-.huffingtonpost.co.uk
+.la-south-2.myhuaweicloud.com
 .la-north-205.myhuaweicloud.com
 .la-north-2.myhuaweicloud.com
 .l-0005.dc-msedge.net
@@ -24747,8 +24816,8 @@ zeenews-fonts.s3.amazonaws.com
 .jihadintel.meforum.org
 .jibunbank.co.jp
 .jfc.go.jp
+.jessicaturner.co.uk
 .jd.co.th
-.webex.co.in
 .japantimes.co.jp
 .iza.ne.jp
 .iyobank.co.jp
@@ -24945,7 +25014,7 @@ zeenews-fonts.s3.amazonaws.com
 .icashpassport.com.mx
 .ibook.co.nz
 .ibkr.com.sg
-.vft.com.tw
+.ibkr.com.hk
 .ibkr.com.au
 .ibkr.co.uk
 .ibkr.co.in
@@ -24957,9 +25026,9 @@ zeenews-fonts.s3.amazonaws.com
 .hwayue.org.tw
 .hurriyet.com.tr
 .hsbc.com.eg
-.ibkr.com.hk
 .vfsco.com.tr
-.la-south-2.myhuaweicloud.com
+.organcare.org.tw
+.enfabebe.com.pe
 .hudatoriq.web.id
 .htanime.epizy.com
 .hst.net.tw
@@ -25005,7 +25074,7 @@ zeenews-fonts.s3.amazonaws.com
 .hmv.co.jp
 .hkreporter.loved.hk
 .hklts.org.hk
-.hkhrc.org.hk
+.huffingtonpost.co.za
 .hkdailynews.com.hk
 .airwick.co.za
 .hkci.org.hk
@@ -25129,7 +25198,7 @@ zeenews-fonts.s3.amazonaws.com
 .google.co.ve
 .google.co.uz
 .google.co.uk
-.google.co.ug
+.huffingtonpost.com.au
 .google.co.tz
 .google.co.th
 .google.co.nz
@@ -25303,7 +25372,7 @@ zeenews-fonts.s3.amazonaws.com
 .enfagrow.co.in
 .enfabebe3.com.ar
 .enfabebe.com.ve
-.enfabebe.com.pe
+.huffingtonpost.co.uk
 .enfabebe.com.mx
 .enfabebe.com.ec
 .enfabebe.com.do

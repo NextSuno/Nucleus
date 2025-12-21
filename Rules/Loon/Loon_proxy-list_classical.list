@@ -1,13 +1,13 @@
 # SOURCE: https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt
 # NAME: proxy-list
-# AUTHOR: https://github.com/NextSuno
+# AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Loon 规则中的 Classical 类型
-# UPDATED: 2025-12-14 20:23:14
-# DOMAIN: 618
-# DOMAIN-SUFFIX: 25733
+# UPDATED: 2025-12-21 20:53:34
+# DOMAIN: 624
+# DOMAIN-SUFFIX: 25796
 # URL-REGEX: 151
-# TOTAL: 26502
+# TOTAL: 26571
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,01.org
@@ -2225,6 +2225,7 @@ DOMAIN-SUFFIX,asianage.com
 DOMAIN-SUFFIX,asianboygay.com
 DOMAIN-SUFFIX,asiancamgirllive.com
 DOMAIN-SUFFIX,asiancamly.com
+DOMAIN-SUFFIX,asiancoochies.com
 DOMAIN-SUFFIX,asianews.it
 DOMAIN-SUFFIX,asianfanfics.com
 DOMAIN-SUFFIX,asianfreeporn.net
@@ -2248,6 +2249,7 @@ DOMAIN-SUFFIX,asianwifeporn.com
 DOMAIN-SUFFIX,asianxxxvideos.cc
 DOMAIN-SUFFIX,asiaone.com
 DOMAIN-SUFFIX,asiatgp.com
+DOMAIN-SUFFIX,asjmapihost.cc
 DOMAIN-SUFFIX,ask.com
 DOMAIN-SUFFIX,askfacebook.net
 DOMAIN-SUFFIX,askfacebook.org
@@ -2633,6 +2635,7 @@ DOMAIN-SUFFIX,awjq.cc
 DOMAIN-SUFFIX,aws
 DOMAIN-SUFFIX,aws-iot-hackathon.com
 DOMAIN-SUFFIX,aws.com
+DOMAIN-SUFFIX,aws.dev
 DOMAIN-SUFFIX,awsapprunner.com
 DOMAIN-SUFFIX,awsapps.com
 DOMAIN-SUFFIX,awsautopilot.com
@@ -3390,12 +3393,15 @@ DOMAIN-SUFFIX,bigbeans.solutions
 DOMAIN-SUFFIX,bigbigchannel.com.hk
 DOMAIN-SUFFIX,bigbigshop.com
 DOMAIN-SUFFIX,bigblackdicklover.com
+DOMAIN-SUFFIX,bigboobalexya.com
 DOMAIN-SUFFIX,bigboobbundle.com
+DOMAIN-SUFFIX,bigboobdaria.com
 DOMAIN-SUFFIX,bigboobsalert.com
 DOMAIN-SUFFIX,bigboobsandhotsex.com
 DOMAIN-SUFFIX,bigboobsonline.org
 DOMAIN-SUFFIX,bigboobspov.com
 DOMAIN-SUFFIX,bigboobswives.com
+DOMAIN-SUFFIX,bigboobvanessay.com
 DOMAIN-SUFFIX,bigboss.video
 DOMAIN-SUFFIX,bigbuckbunny.org
 DOMAIN-SUFFIX,bigcharts.com
@@ -3416,6 +3422,7 @@ DOMAIN-SUFFIX,bigsound.org
 DOMAIN-SUFFIX,bigtitangelawhite.com
 DOMAIN-SUFFIX,bigtithitomi.com
 DOMAIN-SUFFIX,bigtithooker.com
+DOMAIN-SUFFIX,bigtitkatiethornton.com
 DOMAIN-SUFFIX,bigtitsextapes.com
 DOMAIN-SUFFIX,bigtitsgallery.net
 DOMAIN-SUFFIX,bigtitsmodelsdirectory.com
@@ -3523,6 +3530,7 @@ DOMAIN-SUFFIX,bisyoujyogyaruge.topaz.ne.jp
 DOMAIN-SUFFIX,bit-z.com
 DOMAIN-SUFFIX,bit.do
 DOMAIN-SUFFIX,bit.ly
+DOMAIN-SUFFIX,bitbaby.com
 DOMAIN-SUFFIX,bitballoon.com
 DOMAIN-SUFFIX,bitbank.cc
 DOMAIN-SUFFIX,bitbay.net
@@ -4544,6 +4552,7 @@ DOMAIN-SUFFIX,bustydustystash.com
 DOMAIN-SUFFIX,bustyinescudna.com
 DOMAIN-SUFFIX,bustykellykay.com
 DOMAIN-SUFFIX,bustykerrymarie.com
+DOMAIN-SUFFIX,bustylezzies.com
 DOMAIN-SUFFIX,bustylornamorgan.com
 DOMAIN-SUFFIX,bustymerilyn.com
 DOMAIN-SUFFIX,bustymomsvideo.com
@@ -4992,11 +5001,17 @@ DOMAIN-SUFFIX,cdn.statically.io
 DOMAIN-SUFFIX,cdn1.lp.saboom.com
 DOMAIN-SUFFIX,cdn77.com
 DOMAIN-SUFFIX,cdn77.org
+DOMAIN-SUFFIX,cdnblackmyth.club
 DOMAIN-SUFFIX,cdnews.com.tw
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,cdnjs.com
 DOMAIN-SUFFIX,cdnlab.live
+DOMAIN-SUFFIX,cdnmhws.cc
+DOMAIN-SUFFIX,cdnmhwscc.vip
 DOMAIN-SUFFIX,cdnpure.com
+DOMAIN-SUFFIX,cdnuc.vip
+DOMAIN-SUFFIX,cdnxxx-proxy.co
+DOMAIN-SUFFIX,cdnxxx-proxy.xyz
 DOMAIN-SUFFIX,cdp1989.org
 DOMAIN-SUFFIX,cdp1998.org
 DOMAIN-SUFFIX,cdp2006.org
@@ -5184,6 +5199,7 @@ DOMAIN-SUFFIX,chianxv.buzz
 DOMAIN-SUFFIX,chibabank.co.jp
 DOMAIN-SUFFIX,chibakogyo-bank.co.jp
 DOMAIN-SUFFIX,chicagolandbmw.com
+DOMAIN-SUFFIX,chicksonblackdicks.com
 DOMAIN-SUFFIX,chickstagram.com
 DOMAIN-SUFFIX,chickteases.com
 DOMAIN-SUFFIX,chid.com.mm
@@ -6772,6 +6788,7 @@ DOMAIN-SUFFIX,disquscdn.com
 DOMAIN-SUFFIX,disqusservice.com
 DOMAIN-SUFFIX,dit-inc.us
 DOMAIN-SUFFIX,divas.com.uy
+DOMAIN-SUFFIX,diwodiwo.xyz
 DOMAIN-SUFFIX,diyarbakirescort.com
 DOMAIN-SUFFIX,diyin.org
 DOMAIN-SUFFIX,diyuser.buzz
@@ -6813,6 +6830,8 @@ DOMAIN-SUFFIX,dmcdn.net
 DOMAIN-SUFFIX,dmed.technology
 DOMAIN-SUFFIX,dmgmediaprivacy.co.uk
 DOMAIN-SUFFIX,dmhy.org
+DOMAIN-SUFFIX,dmit.io
+DOMAIN-SUFFIX,dmit.sh
 DOMAIN-SUFFIX,dml-lang.org
 DOMAIN-SUFFIX,dmm-extension.com
 DOMAIN-SUFFIX,dmm.co.jp
@@ -7253,6 +7272,7 @@ DOMAIN-SUFFIX,dynu.com
 DOMAIN-SUFFIX,dynu.net
 DOMAIN-SUFFIX,dynupdate.no-ip.com
 DOMAIN-SUFFIX,dysfz.cc
+DOMAIN-SUFFIX,dzcdn.net
 DOMAIN-SUFFIX,dzen.ru
 DOMAIN-SUFFIX,dzeninfra.ru
 DOMAIN-SUFFIX,dzze.com
@@ -7501,6 +7521,7 @@ DOMAIN-SUFFIX,ebc.net.tw
 DOMAIN-SUFFIX,ebenporno.com
 DOMAIN-SUFFIX,ebony-beauty.com
 DOMAIN-SUFFIX,ebonyinlove.com
+DOMAIN-SUFFIX,ebonythots.com
 DOMAIN-SUFFIX,ebonywebcamhub.com
 DOMAIN-SUFFIX,eboobstore.com
 DOMAIN-SUFFIX,ebook.hyread.com.tw
@@ -7733,6 +7754,7 @@ DOMAIN-SUFFIX,entrust.cn
 DOMAIN-SUFFIX,entrust.com
 DOMAIN-SUFFIX,entrust.net
 DOMAIN-SUFFIX,entrustdatacard.com
+DOMAIN-SUFFIX,eotarchive.org
 DOMAIN-SUFFIX,epac.to
 DOMAIN-SUFFIX,epicbrowser.com
 DOMAIN-SUFFIX,epicgames.com
@@ -9751,6 +9773,7 @@ DOMAIN-SUFFIX,ghbi.ir
 DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,ghettotube.com
 DOMAIN-SUFFIX,ghidra-sre.org
+DOMAIN-SUFFIX,ghostarchive.org
 DOMAIN-SUFFIX,ghostgames.com
 DOMAIN-SUFFIX,ghostpath.com
 DOMAIN-SUFFIX,ghut.org
@@ -10481,6 +10504,7 @@ DOMAIN-SUFFIX,hairy-amateurs.com
 DOMAIN-SUFFIX,hairy-beauty.com
 DOMAIN-SUFFIX,hairy-women-pussy.net
 DOMAIN-SUFFIX,hairyclassic.com
+DOMAIN-SUFFIX,hairycoochies.com
 DOMAIN-SUFFIX,hairydivas.com
 DOMAIN-SUFFIX,hairynature.com
 DOMAIN-SUFFIX,hairyolder.com
@@ -11099,6 +11123,7 @@ DOMAIN-SUFFIX,horizontal-llc.com
 DOMAIN-SUFFIX,horizontal-systems.com
 DOMAIN-SUFFIX,horizontalglue.com
 DOMAIN-SUFFIX,horizontalsystems.com
+DOMAIN-SUFFIX,hornyasianmilfs.com
 DOMAIN-SUFFIX,hornybitches.org
 DOMAIN-SUFFIX,hornybutt.com
 DOMAIN-SUFFIX,hornychat.net
@@ -11737,6 +11762,7 @@ DOMAIN-SUFFIX,icu-project.org
 DOMAIN-SUFFIX,icuminside.com
 DOMAIN-SUFFIX,id.hao123.com
 DOMAIN-SUFFIX,idarkdoll.com
+DOMAIN-SUFFIX,idcflare.com
 DOMAIN-SUFFIX,idea-server.com
 DOMAIN-SUFFIX,ideal-teens.com
 DOMAIN-SUFFIX,ideapocket.com
@@ -13007,6 +13033,7 @@ DOMAIN-SUFFIX,jerkmate.com
 DOMAIN-SUFFIX,jerkmate.tv
 DOMAIN-SUFFIX,jerkmatelive.org
 DOMAIN-SUFFIX,jerkofftocelebs.com
+DOMAIN-SUFFIX,jessicaturner.co.uk
 DOMAIN-SUFFIX,jessicaturner.com
 DOMAIN-SUFFIX,jetbrains.ai
 DOMAIN-SUFFIX,jetbrains.com
@@ -13080,15 +13107,44 @@ DOMAIN-SUFFIX,jkycjk.mom
 DOMAIN-SUFFIX,jkzvz.shop
 DOMAIN-SUFFIX,jkzw.shop
 DOMAIN-SUFFIX,jlb0011.site
+DOMAIN-SUFFIX,jm-comic2.cc
+DOMAIN-SUFFIX,jm18c-bbm.cc
+DOMAIN-SUFFIX,jm18c-bbm.net
+DOMAIN-SUFFIX,jm18c-uoi.net
+DOMAIN-SUFFIX,jm365.work
+DOMAIN-SUFFIX,jm365.xyz
 DOMAIN-SUFFIX,jm98.cc
 DOMAIN-SUFFIX,jma.go.jp
+DOMAIN-SUFFIX,jmapibranch1.cc
+DOMAIN-SUFFIX,jmapibranch2.cc
+DOMAIN-SUFFIX,jmapibranch3.cc
+DOMAIN-SUFFIX,jmapinode.biz
+DOMAIN-SUFFIX,jmapinode.vip
+DOMAIN-SUFFIX,jmapinode.xyz
+DOMAIN-SUFFIX,jmapinode1.top
+DOMAIN-SUFFIX,jmapinode2.top
+DOMAIN-SUFFIX,jmapinode3.top
+DOMAIN-SUFFIX,jmapinodeudzn.net
+DOMAIN-SUFFIX,jmapinodeudzn.xyz
+DOMAIN-SUFFIX,jmapiproxy1.cc
+DOMAIN-SUFFIX,jmapiproxy1.monster
+DOMAIN-SUFFIX,jmapiproxy2.cc
+DOMAIN-SUFFIX,jmapiproxy3.cc
+DOMAIN-SUFFIX,jmapiproxy4.cc
+DOMAIN-SUFFIX,jmapiproxyxxx.vip
+DOMAIN-SUFFIX,jmcomic-fb.vip
+DOMAIN-SUFFIX,jmcomic-zzz.one
+DOMAIN-SUFFIX,jmcomic-zzz.org
+DOMAIN-SUFFIX,jmcomic.group
 DOMAIN-SUFFIX,jmcomic.ltd
 DOMAIN-SUFFIX,jmcomic.me
 DOMAIN-SUFFIX,jmcomic.mobi
 DOMAIN-SUFFIX,jmcomic.moe
+DOMAIN-SUFFIX,jmcomic.rocks
 DOMAIN-SUFFIX,jmcomic1.city
 DOMAIN-SUFFIX,jmcomic1.me
 DOMAIN-SUFFIX,jmcomic1.mobi
+DOMAIN-SUFFIX,jmcomic1.rocks
 DOMAIN-SUFFIX,jmcomic2.moe
 DOMAIN-SUFFIX,jmlr.org
 DOMAIN-SUFFIX,jmsc.hku.hk
@@ -13642,6 +13698,8 @@ DOMAIN-SUFFIX,latelinenews.com
 DOMAIN-SUFFIX,latencytop.com
 DOMAIN-SUFFIX,latex-project.org
 DOMAIN-SUFFIX,latinaabuse.com
+DOMAIN-SUFFIX,latinacoochies.com
+DOMAIN-SUFFIX,latinmommas.com
 DOMAIN-SUFFIX,latintubeporn.com
 DOMAIN-SUFFIX,latticedata.com
 DOMAIN-SUFFIX,launchpad.net
@@ -14694,6 +14752,7 @@ DOMAIN-SUFFIX,meltoday.com
 DOMAIN-SUFFIX,meme111.com
 DOMAIN-SUFFIX,memealerts.com
 DOMAIN-SUFFIX,memehk.com
+DOMAIN-SUFFIX,mementoweb.org
 DOMAIN-SUFFIX,memes.tw
 DOMAIN-SUFFIX,memri.org
 DOMAIN-SUFFIX,memrijttm.org
@@ -17413,6 +17472,7 @@ DOMAIN-SUFFIX,parstream.com
 DOMAIN-SUFFIX,parstream.net
 DOMAIN-SUFFIX,parstream.org
 DOMAIN-SUFFIX,partmaker.com
+DOMAIN-SUFFIX,partnerstack.xyz
 DOMAIN-SUFFIX,partycasino.com
 DOMAIN-SUFFIX,partylikeits1986.org
 DOMAIN-SUFFIX,partypoker.com
@@ -17724,6 +17784,7 @@ DOMAIN-SUFFIX,perfectshemales.com
 DOMAIN-SUFFIX,perfecttitspics.com
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,perl.org
+DOMAIN-SUFFIX,perma.cc
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,perplexity.com
 DOMAIN-SUFFIX,persagg.com
@@ -19346,6 +19407,7 @@ DOMAIN-SUFFIX,routerboard.com
 DOMAIN-SUFFIX,routledgehandbooks.com
 DOMAIN-SUFFIX,rowblocks.com
 DOMAIN-SUFFIX,rowblox.com
+DOMAIN-SUFFIX,roxired.com
 DOMAIN-SUFFIX,royalcams.com
 DOMAIN-SUFFIX,royalsocietypublishing.org
 DOMAIN-SUFFIX,rpglogs.com
@@ -23885,6 +23947,7 @@ DOMAIN-SUFFIX,webcamjackers.com
 DOMAIN-SUFFIX,webcammedellin.co
 DOMAIN-SUFFIX,webcams.tv
 DOMAIN-SUFFIX,webcamtubexxx.com
+DOMAIN-SUFFIX,webcitation.org
 DOMAIN-SUFFIX,webevader.org
 DOMAIN-SUFFIX,webex.ca
 DOMAIN-SUFFIX,webex.co.in
@@ -25995,7 +26058,13 @@ DOMAIN,notary-submissions-prod.s3-accelerate.amazonaws.com
 DOMAIN,notary-submissions-prod.s3.us-west-2.amazonaws.com
 DOMAIN,notify.ppy.sh
 DOMAIN,np-edge.itunes.apple.com
+DOMAIN,ntdfreemobile-tgc.cdn.hinet.net
+DOMAIN,ntdfreepc-tgc.cdn.hinet.net
+DOMAIN,ntdfreetv-tgc.cdn.hinet.net
+DOMAIN,ntdfreevcpc-tgc.cdn.hinet.net
+DOMAIN,ntdofifreemobile-tgc.cdn.hinet.net
 DOMAIN,ntdofifreepc-tgc.cdn.hinet.net
+DOMAIN,ntdofifreetv-tgc.cdn.hinet.net
 DOMAIN,ntdofifreevcpc-tgc.cdn.hinet.net
 DOMAIN,ntp-b.nist.gov
 DOMAIN,ntp-c.colorado.edu

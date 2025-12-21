@@ -1,12 +1,12 @@
 # SOURCE: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Clash.yaml
 # NAME: AWAvenue-Ads
-# AUTHOR: https://github.com/NextSuno
+# AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Shadowrocket 规则中的 RULE-SET 类型
-# UPDATED: 2025-12-14 21:31:04
-# DOMAIN: 886
+# UPDATED: 2025-12-21 21:03:12
+# DOMAIN: 882
 # DOMAIN-SUFFIX: 11
-# TOTAL: 897
+# TOTAL: 893
 
 DOMAIN,1500020991.vodplayer.wxamedia.com
 DOMAIN,1500022744.vodplayer.wxamedia.com
@@ -330,7 +330,6 @@ DOMAIN,dc.sigmob.cn
 DOMAIN,de.tynt.com
 DOMAIN,diagnosis.ad.xiaomi.com
 DOMAIN,dig.bdurl.net
-DOMAIN,dl.zuimeitianqi.com
 DOMAIN,dlogs.bwton.com
 DOMAIN,dm.toutiao.com
 DOMAIN,domain.aishengji.com
@@ -350,8 +349,6 @@ DOMAIN,edge.ads.twitch.tv
 DOMAIN,ef-dongfeng.tanx.com
 DOMAIN,engine.dcad01.com
 DOMAIN,entry.baidu.com
-DOMAIN,errlog.umeng.com
-DOMAIN,errnewlog.umeng.com
 DOMAIN,et-eus.w.inmobi.com
 DOMAIN,event.tradplusad.com
 DOMAIN,events-drcn.op.dbankcloud.cn
@@ -661,7 +658,6 @@ DOMAIN,s1.cdn-sg.advlion.com
 DOMAIN,s8t.teads.tv
 DOMAIN,saad.ms.zhangyue.net
 DOMAIN,saas.hpplay.cn
-DOMAIN,safebrowsing.googleapis.com
 DOMAIN,safebrowsing.urlsec.gg.com
 DOMAIN,samsung-com.112.2o7.net
 DOMAIN,samsungads.com
@@ -729,6 +725,7 @@ DOMAIN,success.ctobsnssdk.com
 DOMAIN,supply.inmobicdn.net
 DOMAIN,sv-video.play.aiseet.atianqi.com
 DOMAIN,syh-imp.cdnjtzy.com
+DOMAIN,syh.zybang.com
 DOMAIN,szbdyd.com
 DOMAIN,t-dsp.pinduoduo.com
 DOMAIN,t.applovin.com
@@ -741,7 +738,6 @@ DOMAIN,t1.teads.tv
 DOMAIN,t2.a.market.xiaomi.com
 DOMAIN,t2.fancyapi.com
 DOMAIN,t3.a.market.xiaomi.com
-DOMAIN,t7z.cupid.iqiyi.com
 DOMAIN,t7z.cupid.ptqy.gitv.tv
 DOMAIN,tangram.e.qq.com
 DOMAIN,target.ads.jihuoniao.com

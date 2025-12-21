@@ -1,13 +1,13 @@
 # SOURCE: https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt
 # NAME: proxy-list
-# AUTHOR: https://github.com/NextSuno
+# AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Domain 类型
-# UPDATED: 2025-12-14 19:27:23
-# DOMAIN: 618
-# DOMAIN-SUFFIX: 25733
+# UPDATED: 2025-12-21 20:50:37
+# DOMAIN: 624
+# DOMAIN-SUFFIX: 25796
 # DOMAIN-REGEX: 151
-# TOTAL: 26502
+# TOTAL: 26571
 
 payload:
     - +.000webhost.com
@@ -2226,6 +2226,7 @@ payload:
     - +.asianboygay.com
     - +.asiancamgirllive.com
     - +.asiancamly.com
+    - +.asiancoochies.com
     - +.asianews.it
     - +.asianfanfics.com
     - +.asianfreeporn.net
@@ -2249,6 +2250,7 @@ payload:
     - +.asianxxxvideos.cc
     - +.asiaone.com
     - +.asiatgp.com
+    - +.asjmapihost.cc
     - +.ask.com
     - +.askfacebook.net
     - +.askfacebook.org
@@ -2634,6 +2636,7 @@ payload:
     - +.aws
     - +.aws-iot-hackathon.com
     - +.aws.com
+    - +.aws.dev
     - +.awsapprunner.com
     - +.awsapps.com
     - +.awsautopilot.com
@@ -3391,12 +3394,15 @@ payload:
     - +.bigbigchannel.com.hk
     - +.bigbigshop.com
     - +.bigblackdicklover.com
+    - +.bigboobalexya.com
     - +.bigboobbundle.com
+    - +.bigboobdaria.com
     - +.bigboobsalert.com
     - +.bigboobsandhotsex.com
     - +.bigboobsonline.org
     - +.bigboobspov.com
     - +.bigboobswives.com
+    - +.bigboobvanessay.com
     - +.bigboss.video
     - +.bigbuckbunny.org
     - +.bigcharts.com
@@ -3417,6 +3423,7 @@ payload:
     - +.bigtitangelawhite.com
     - +.bigtithitomi.com
     - +.bigtithooker.com
+    - +.bigtitkatiethornton.com
     - +.bigtitsextapes.com
     - +.bigtitsgallery.net
     - +.bigtitsmodelsdirectory.com
@@ -3524,6 +3531,7 @@ payload:
     - +.bit-z.com
     - +.bit.do
     - +.bit.ly
+    - +.bitbaby.com
     - +.bitballoon.com
     - +.bitbank.cc
     - +.bitbay.net
@@ -4545,6 +4553,7 @@ payload:
     - +.bustyinescudna.com
     - +.bustykellykay.com
     - +.bustykerrymarie.com
+    - +.bustylezzies.com
     - +.bustylornamorgan.com
     - +.bustymerilyn.com
     - +.bustymomsvideo.com
@@ -4993,11 +5002,17 @@ payload:
     - +.cdn1.lp.saboom.com
     - +.cdn77.com
     - +.cdn77.org
+    - +.cdnblackmyth.club
     - +.cdnews.com.tw
     - +.cdninstagram.com
     - +.cdnjs.com
     - +.cdnlab.live
+    - +.cdnmhws.cc
+    - +.cdnmhwscc.vip
     - +.cdnpure.com
+    - +.cdnuc.vip
+    - +.cdnxxx-proxy.co
+    - +.cdnxxx-proxy.xyz
     - +.cdp1989.org
     - +.cdp1998.org
     - +.cdp2006.org
@@ -5185,6 +5200,7 @@ payload:
     - +.chibabank.co.jp
     - +.chibakogyo-bank.co.jp
     - +.chicagolandbmw.com
+    - +.chicksonblackdicks.com
     - +.chickstagram.com
     - +.chickteases.com
     - +.chid.com.mm
@@ -6773,6 +6789,7 @@ payload:
     - +.disqusservice.com
     - +.dit-inc.us
     - +.divas.com.uy
+    - +.diwodiwo.xyz
     - +.diyarbakirescort.com
     - +.diyin.org
     - +.diyuser.buzz
@@ -6814,6 +6831,8 @@ payload:
     - +.dmed.technology
     - +.dmgmediaprivacy.co.uk
     - +.dmhy.org
+    - +.dmit.io
+    - +.dmit.sh
     - +.dml-lang.org
     - +.dmm-extension.com
     - +.dmm.co.jp
@@ -7254,6 +7273,7 @@ payload:
     - +.dynu.net
     - +.dynupdate.no-ip.com
     - +.dysfz.cc
+    - +.dzcdn.net
     - +.dzen.ru
     - +.dzeninfra.ru
     - +.dzze.com
@@ -7502,6 +7522,7 @@ payload:
     - +.ebenporno.com
     - +.ebony-beauty.com
     - +.ebonyinlove.com
+    - +.ebonythots.com
     - +.ebonywebcamhub.com
     - +.eboobstore.com
     - +.ebook.hyread.com.tw
@@ -7734,6 +7755,7 @@ payload:
     - +.entrust.com
     - +.entrust.net
     - +.entrustdatacard.com
+    - +.eotarchive.org
     - +.epac.to
     - +.epicbrowser.com
     - +.epicgames.com
@@ -9752,6 +9774,7 @@ payload:
     - +.ghcr.io
     - +.ghettotube.com
     - +.ghidra-sre.org
+    - +.ghostarchive.org
     - +.ghostgames.com
     - +.ghostpath.com
     - +.ghut.org
@@ -10482,6 +10505,7 @@ payload:
     - +.hairy-beauty.com
     - +.hairy-women-pussy.net
     - +.hairyclassic.com
+    - +.hairycoochies.com
     - +.hairydivas.com
     - +.hairynature.com
     - +.hairyolder.com
@@ -11100,6 +11124,7 @@ payload:
     - +.horizontal-systems.com
     - +.horizontalglue.com
     - +.horizontalsystems.com
+    - +.hornyasianmilfs.com
     - +.hornybitches.org
     - +.hornybutt.com
     - +.hornychat.net
@@ -11738,6 +11763,7 @@ payload:
     - +.icuminside.com
     - +.id.hao123.com
     - +.idarkdoll.com
+    - +.idcflare.com
     - +.idea-server.com
     - +.ideal-teens.com
     - +.ideapocket.com
@@ -13008,6 +13034,7 @@ payload:
     - +.jerkmate.tv
     - +.jerkmatelive.org
     - +.jerkofftocelebs.com
+    - +.jessicaturner.co.uk
     - +.jessicaturner.com
     - +.jetbrains.ai
     - +.jetbrains.com
@@ -13081,15 +13108,44 @@ payload:
     - +.jkzvz.shop
     - +.jkzw.shop
     - +.jlb0011.site
+    - +.jm-comic2.cc
+    - +.jm18c-bbm.cc
+    - +.jm18c-bbm.net
+    - +.jm18c-uoi.net
+    - +.jm365.work
+    - +.jm365.xyz
     - +.jm98.cc
     - +.jma.go.jp
+    - +.jmapibranch1.cc
+    - +.jmapibranch2.cc
+    - +.jmapibranch3.cc
+    - +.jmapinode.biz
+    - +.jmapinode.vip
+    - +.jmapinode.xyz
+    - +.jmapinode1.top
+    - +.jmapinode2.top
+    - +.jmapinode3.top
+    - +.jmapinodeudzn.net
+    - +.jmapinodeudzn.xyz
+    - +.jmapiproxy1.cc
+    - +.jmapiproxy1.monster
+    - +.jmapiproxy2.cc
+    - +.jmapiproxy3.cc
+    - +.jmapiproxy4.cc
+    - +.jmapiproxyxxx.vip
+    - +.jmcomic-fb.vip
+    - +.jmcomic-zzz.one
+    - +.jmcomic-zzz.org
+    - +.jmcomic.group
     - +.jmcomic.ltd
     - +.jmcomic.me
     - +.jmcomic.mobi
     - +.jmcomic.moe
+    - +.jmcomic.rocks
     - +.jmcomic1.city
     - +.jmcomic1.me
     - +.jmcomic1.mobi
+    - +.jmcomic1.rocks
     - +.jmcomic2.moe
     - +.jmlr.org
     - +.jmsc.hku.hk
@@ -13643,6 +13699,8 @@ payload:
     - +.latencytop.com
     - +.latex-project.org
     - +.latinaabuse.com
+    - +.latinacoochies.com
+    - +.latinmommas.com
     - +.latintubeporn.com
     - +.latticedata.com
     - +.launchpad.net
@@ -14695,6 +14753,7 @@ payload:
     - +.meme111.com
     - +.memealerts.com
     - +.memehk.com
+    - +.mementoweb.org
     - +.memes.tw
     - +.memri.org
     - +.memrijttm.org
@@ -17414,6 +17473,7 @@ payload:
     - +.parstream.net
     - +.parstream.org
     - +.partmaker.com
+    - +.partnerstack.xyz
     - +.partycasino.com
     - +.partylikeits1986.org
     - +.partypoker.com
@@ -17725,6 +17785,7 @@ payload:
     - +.perfecttitspics.com
     - +.periscope.tv
     - +.perl.org
+    - +.perma.cc
     - +.perplexity.ai
     - +.perplexity.com
     - +.persagg.com
@@ -19347,6 +19408,7 @@ payload:
     - +.routledgehandbooks.com
     - +.rowblocks.com
     - +.rowblox.com
+    - +.roxired.com
     - +.royalcams.com
     - +.royalsocietypublishing.org
     - +.rpglogs.com
@@ -23886,6 +23948,7 @@ payload:
     - +.webcammedellin.co
     - +.webcams.tv
     - +.webcamtubexxx.com
+    - +.webcitation.org
     - +.webevader.org
     - +.webex.ca
     - +.webex.co.in
@@ -25996,7 +26059,13 @@ payload:
     - notary-submissions-prod.s3.us-west-2.amazonaws.com
     - notify.ppy.sh
     - np-edge.itunes.apple.com
+    - ntdfreemobile-tgc.cdn.hinet.net
+    - ntdfreepc-tgc.cdn.hinet.net
+    - ntdfreetv-tgc.cdn.hinet.net
+    - ntdfreevcpc-tgc.cdn.hinet.net
+    - ntdofifreemobile-tgc.cdn.hinet.net
     - ntdofifreepc-tgc.cdn.hinet.net
+    - ntdofifreetv-tgc.cdn.hinet.net
     - ntdofifreevcpc-tgc.cdn.hinet.net
     - ntp-b.nist.gov
     - ntp-c.colorado.edu

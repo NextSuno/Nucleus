@@ -1,11 +1,11 @@
 # SOURCE: https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
 # NAME: gfw-list
-# AUTHOR: https://github.com/NextSuno
+# AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型
-# UPDATED: 2025-12-14 21:19:09
-# HOST-SUFFIX: 5962
-# TOTAL: 5962
+# UPDATED: 2025-12-21 20:58:54
+# HOST-SUFFIX: 5965
+# TOTAL: 5965
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,030buy.com,PROXY
@@ -563,6 +563,7 @@ HOST-SUFFIX,bird.so,PROXY
 HOST-SUFFIX,bit-z.com,PROXY
 HOST-SUFFIX,bit.do,PROXY
 HOST-SUFFIX,bit.ly,PROXY
+HOST-SUFFIX,bitbaby.com,PROXY
 HOST-SUFFIX,bitbay.net,PROXY
 HOST-SUFFIX,bitchute.com,PROXY
 HOST-SUFFIX,bitcointalk.org,PROXY
@@ -2639,6 +2640,7 @@ HOST-SUFFIX,iconpaper.org,PROXY
 HOST-SUFFIX,icu-project.org,PROXY
 HOST-SUFFIX,id.hao123.com,PROXY
 HOST-SUFFIX,id.heroku.com,PROXY
+HOST-SUFFIX,idcflare.com,PROXY
 HOST-SUFFIX,idemocracy.asia,PROXY
 HOST-SUFFIX,identi.ca,PROXY
 HOST-SUFFIX,idiomconnection.com,PROXY
@@ -3841,6 +3843,7 @@ HOST-SUFFIX,parkansky.com,PROXY
 HOST-SUFFIX,parler.com,PROXY
 HOST-SUFFIX,parse.com,PROXY
 HOST-SUFFIX,parsevideo.com,PROXY
+HOST-SUFFIX,partnerstack.xyz,PROXY
 HOST-SUFFIX,partycasino.com,PROXY
 HOST-SUFFIX,partypoker.com,PROXY
 HOST-SUFFIX,passion.com,PROXY

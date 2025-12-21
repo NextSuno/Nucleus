@@ -1,5 +1,5 @@
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/shhshopee)
-[![](https://img.shields.io/github/followers/shhshopee?label=follow&style=social)](https://github.com/shhshopee)
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/NextCCB)
+[![](https://img.shields.io/github/followers/shhshopee?label=follow&style=social)](https://github.com/Lunnin)
 
 <details>
    <summary>使用须知</summary>  

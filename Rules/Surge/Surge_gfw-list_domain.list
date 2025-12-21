@@ -1,11 +1,11 @@
 # SOURCE: https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
 # NAME: gfw-list
-# AUTHOR: https://github.com/NextSuno
+# AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Surge 规则中的 DOMAIN-SET 类型
-# UPDATED: 2025-12-14 23:34:20
-# DOMAIN-SUFFIX: 5962
-# TOTAL: 5962
+# UPDATED: 2025-12-21 21:11:38
+# DOMAIN-SUFFIX: 5965
+# TOTAL: 5965
 
 .000webhost.com
 .030buy.com
@@ -563,6 +563,7 @@
 .bit-z.com
 .bit.do
 .bit.ly
+.bitbaby.com
 .bitbay.net
 .bitchute.com
 .bitcointalk.org
@@ -2639,6 +2640,7 @@
 .icu-project.org
 .id.hao123.com
 .id.heroku.com
+.idcflare.com
 .idemocracy.asia
 .identi.ca
 .idiomconnection.com
@@ -3841,6 +3843,7 @@
 .parler.com
 .parse.com
 .parsevideo.com
+.partnerstack.xyz
 .partycasino.com
 .partypoker.com
 .passion.com

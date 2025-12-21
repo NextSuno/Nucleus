@@ -1,12 +1,12 @@
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/speedtest.yaml
 # NAME: geosite-speedtest
-# AUTHOR: https://github.com/NextSuno
+# AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Domain 类型
-# UPDATED: 2025-12-14 19:26:06
+# UPDATED: 2025-12-21 20:33:34
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 11
-# TOTAL: 12
+# DOMAIN-SUFFIX: 12
+# TOTAL: 13
 
 payload:
     - www.speedtest.net.cdn.cloudflare.net
@@ -21,3 +21,4 @@ payload:
     - +.speedtest.net
     - +.speedtestcustom.com
     - +.webtest.net
+    - +.ookla-speedtest-central.hgconair.hgc.com.hk

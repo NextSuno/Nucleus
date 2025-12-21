@@ -1,12 +1,12 @@
 # SOURCE: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Clash.yaml
 # NAME: AWAvenue-Ads
-# AUTHOR: https://github.com/NextSuno
+# AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型
-# UPDATED: 2025-12-14 21:17:09
-# HOST: 886
+# UPDATED: 2025-12-21 20:57:28
+# HOST: 882
 # HOST-SUFFIX: 11
-# TOTAL: 897
+# TOTAL: 893
 
 HOST,1500020991.vodplayer.wxamedia.com,REJECT
 HOST,1500022744.vodplayer.wxamedia.com,REJECT
@@ -330,7 +330,6 @@ HOST,dc.sigmob.cn,REJECT
 HOST,de.tynt.com,REJECT
 HOST,diagnosis.ad.xiaomi.com,REJECT
 HOST,dig.bdurl.net,REJECT
-HOST,dl.zuimeitianqi.com,REJECT
 HOST,dlogs.bwton.com,REJECT
 HOST,dm.toutiao.com,REJECT
 HOST,domain.aishengji.com,REJECT
@@ -350,8 +349,6 @@ HOST,edge.ads.twitch.tv,REJECT
 HOST,ef-dongfeng.tanx.com,REJECT
 HOST,engine.dcad01.com,REJECT
 HOST,entry.baidu.com,REJECT
-HOST,errlog.umeng.com,REJECT
-HOST,errnewlog.umeng.com,REJECT
 HOST,et-eus.w.inmobi.com,REJECT
 HOST,event.tradplusad.com,REJECT
 HOST,events-drcn.op.dbankcloud.cn,REJECT
@@ -661,7 +658,6 @@ HOST,s1.cdn-sg.advlion.com,REJECT
 HOST,s8t.teads.tv,REJECT
 HOST,saad.ms.zhangyue.net,REJECT
 HOST,saas.hpplay.cn,REJECT
-HOST,safebrowsing.googleapis.com,REJECT
 HOST,safebrowsing.urlsec.gg.com,REJECT
 HOST,samsung-com.112.2o7.net,REJECT
 HOST,samsungads.com,REJECT
@@ -729,6 +725,7 @@ HOST,success.ctobsnssdk.com,REJECT
 HOST,supply.inmobicdn.net,REJECT
 HOST,sv-video.play.aiseet.atianqi.com,REJECT
 HOST,syh-imp.cdnjtzy.com,REJECT
+HOST,syh.zybang.com,REJECT
 HOST,szbdyd.com,REJECT
 HOST,t-dsp.pinduoduo.com,REJECT
 HOST,t.applovin.com,REJECT
@@ -741,7 +738,6 @@ HOST,t1.teads.tv,REJECT
 HOST,t2.a.market.xiaomi.com,REJECT
 HOST,t2.fancyapi.com,REJECT
 HOST,t3.a.market.xiaomi.com,REJECT
-HOST,t7z.cupid.iqiyi.com,REJECT
 HOST,t7z.cupid.ptqy.gitv.tv,REJECT
 HOST,tangram.e.qq.com,REJECT
 HOST,target.ads.jihuoniao.com,REJECT

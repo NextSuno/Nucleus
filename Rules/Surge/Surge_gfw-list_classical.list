@@ -1,11 +1,11 @@
 # SOURCE: https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
 # NAME: gfw-list
-# AUTHOR: https://github.com/NextSuno
+# AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Surge 规则中的 RULE-SET 类型
-# UPDATED: 2025-12-14 23:31:26
-# DOMAIN-SUFFIX: 5962
-# TOTAL: 5962
+# UPDATED: 2025-12-21 21:09:31
+# DOMAIN-SUFFIX: 5965
+# TOTAL: 5965
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,030buy.com
@@ -563,6 +563,7 @@ DOMAIN-SUFFIX,bird.so
 DOMAIN-SUFFIX,bit-z.com
 DOMAIN-SUFFIX,bit.do
 DOMAIN-SUFFIX,bit.ly
+DOMAIN-SUFFIX,bitbaby.com
 DOMAIN-SUFFIX,bitbay.net
 DOMAIN-SUFFIX,bitchute.com
 DOMAIN-SUFFIX,bitcointalk.org
@@ -2639,6 +2640,7 @@ DOMAIN-SUFFIX,iconpaper.org
 DOMAIN-SUFFIX,icu-project.org
 DOMAIN-SUFFIX,id.hao123.com
 DOMAIN-SUFFIX,id.heroku.com
+DOMAIN-SUFFIX,idcflare.com
 DOMAIN-SUFFIX,idemocracy.asia
 DOMAIN-SUFFIX,identi.ca
 DOMAIN-SUFFIX,idiomconnection.com
@@ -3841,6 +3843,7 @@ DOMAIN-SUFFIX,parkansky.com
 DOMAIN-SUFFIX,parler.com
 DOMAIN-SUFFIX,parse.com
 DOMAIN-SUFFIX,parsevideo.com
+DOMAIN-SUFFIX,partnerstack.xyz
 DOMAIN-SUFFIX,partycasino.com
 DOMAIN-SUFFIX,partypoker.com
 DOMAIN-SUFFIX,passion.com
