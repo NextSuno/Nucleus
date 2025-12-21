@@ -1,5 +1,9 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/NextCCB)
-[![](https://img.shields.io/github/followers/Lunnin?label=follow&style=social)](https://github.com/Lunnin)
+[![Github followers](https://img.shields.io/github/followers/Lunnin?style=flat&logo=github&logoColor=white&label=关注人数&labelColor=grey&color=blue)](https://github.com/Lunnin "已关注")
+[![GitHub Repo stars](https://img.shields.io/github/stars/Lunnin/Nucleus?style=flat&logo=github&logoColor=white&label=星标次数&labelColor=grey&color=blue)](https://github.com/Lunnin/Nucleus/stargazers "已被星标")
+[![GitHub forks](https://img.shields.io/github/forks/Lunnin/Nucleus?style=flat&logo=github&logoColor=white&label=复刻次数&labelColor=grey&color=blue)](https://github.com/Lunnin/Nucleus/forks "已被复刻")
+[![GitHub last commit](https://img.shields.io/github/last-commit/Lunnin/Nucleus/main?style=flat&logo=github&label=更新时间&color=blue)](https://github.com/Lunnin/Nucleus/activity "更新记录")
+[![README in English](https://img.shields.io/static/v1?label=README&message=in%20English&color=blue&logo=googletranslate&logoColor=white&labelColor=grey&messageColor=white)](https://translate.google.com/translate?hl=en&sl=zh-CN&tl=en&u=https://lowertop.github.io/Nucleus "README in English via Google Translate")
 
 <details>
    <summary>使用须知</summary>  
