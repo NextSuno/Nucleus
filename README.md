@@ -1,10 +1,12 @@
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/NexeCCBh
-[![](https://img.shields.io/github/followers/shhshopee?label=follow&style=social)](https://github.com/Lunninh
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/NextCCB)
+[![](https://img.shields.io/github/followers/shhshopee?label=follow&style=social)](https://github.com/Lunnin)
 
 <details>
    <summary>使用须知</summary>  
 
+
 ### 本仓库内容为纯粹自用，只根据本人的使用习惯和喜好来进行修改和更新，未必适合所有人，请知悉。
+
 > 为避免步骤出错，使用本仓库的内容之前，请仔细阅读每一个文件夹下的 README.md 说明。
 
 ### 注意：
@@ -16,6 +18,7 @@
 
 <details>
    <summary>免责声明</summary> 
+
 
 ### 使用目的与合法性声明
 
@@ -74,6 +77,7 @@
 <details>
    <summary>特别鸣谢</summary> 
 
+
 ### 特别鸣谢各路大佬辛勤付出的成果和分享（排名不分先后）：
 
 * [Loyalsoldier](https://github.com/Loyalsoldier/v2ray-rules-dat)
@@ -115,4 +119,5 @@
 * [Repcz](https://github.com/Repcz)
 
 ### 如有遗漏，欢迎提醒补充。
+
 </details>
