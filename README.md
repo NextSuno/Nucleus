@@ -26,7 +26,7 @@
 SPDX-License-Identifier: CC-BY-NC-SA-4.0
 ```
 
-> 本仓库内容（包括但不限于文档、代码、脚本、设计作品等，以下统称“本内容”）基于 **知识共享 署名-非商业性使用-相同方式共享 4.0 国际许可证（CC BY-NC-SA 4.0）** 授权发布。使用、复制、修改、分发或展示本内容前，务必阅读本声明及 CC BY-NC-SA 4.0 完整条款（参阅 Creative Commons 官方页面：https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode），所有相关行为均须严格遵守 CC BY-NC-SA 4.0 许可证及本声明约束。
+> 本仓库内容（包括但不限于文档、代码、脚本、设计作品等，以下统称“本内容”）基于 **知识共享 署名-非商业性使用-相同方式共享 4.0 国际许可证（CC BY-NC-SA 4.0）** 授权发布。使用、复制、修改、分发或展示本内容前，务必阅读本声明及 CC BY-NC-SA 4.0 完整条款（参阅 Creative Commons [官方页面](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)），所有相关行为均须严格遵守 CC BY-NC-SA 4.0 许可证及本声明约束。
 
 ### 适用范围与禁止性规定
 
