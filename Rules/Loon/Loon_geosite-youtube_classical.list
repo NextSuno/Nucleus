@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Loon 规则中的 Classical 类型
-# UPDATED: 2025-12-21 20:52:22
+# UPDATED: 2026-04-04 19:42:18
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 176
-# TOTAL: 177
+# DOMAIN-SUFFIX: 177
+# TOTAL: 178
 
 DOMAIN,yt3.googleusercontent.com
 DOMAIN-SUFFIX,youtube
@@ -185,3 +185,4 @@ DOMAIN-SUFFIX,youtube.co.ae
 DOMAIN-SUFFIX,youtube-ui.l.google.com
 DOMAIN-SUFFIX,wide-youtube.l.google.com
 DOMAIN-SUFFIX,ggpht.cn
+DOMAIN-SUFFIX,ads.youtube.com

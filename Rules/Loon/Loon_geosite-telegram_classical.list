@@ -3,9 +3,9 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Loon 规则中的 Classical 类型
-# UPDATED: 2025-12-21 20:52:43
-# DOMAIN-SUFFIX: 19
-# TOTAL: 19
+# UPDATED: 2026-04-04 19:42:40
+# DOMAIN-SUFFIX: 20
+# TOTAL: 20
 
 DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,comments.app
@@ -24,5 +24,6 @@ DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,telegram.space
 DOMAIN-SUFFIX,telesco.pe
 DOMAIN-SUFFIX,tg.dev
+DOMAIN-SUFFIX,ton.org
 DOMAIN-SUFFIX,tx.me
 DOMAIN-SUFFIX,usercontent.dev

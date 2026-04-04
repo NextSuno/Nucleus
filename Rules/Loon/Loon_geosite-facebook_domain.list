@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Loon 规则中的 Domain 类型
-# UPDATED: 2025-12-21 20:55:37
+# UPDATED: 2026-04-04 19:44:53
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 393
-# TOTAL: 394
+# DOMAIN-SUFFIX: 396
+# TOTAL: 397
 
 fbcdn-a.akamaihd.net
 .aboutfacebook.com
@@ -402,3 +402,6 @@ fbcdn-a.akamaihd.net
 .redkix.com
 .workplace.com
 .workplaceusecases.com
+.analytics.facebook.com
+.facebookads.com
+.pixel.facebook.com

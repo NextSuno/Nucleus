@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Surge 规则中的 DOMAIN-SET 类型
-# UPDATED: 2025-12-21 21:10:38
+# UPDATED: 2026-04-04 20:02:53
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 176
-# TOTAL: 177
+# DOMAIN-SUFFIX: 177
+# TOTAL: 178
 
 yt3.googleusercontent.com
 .youtube
@@ -185,3 +185,4 @@ yt3.googleusercontent.com
 .youtube-ui.l.google.com
 .wide-youtube.l.google.com
 .ggpht.cn
+.ads.youtube.com

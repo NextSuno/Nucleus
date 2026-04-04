@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Loon 规则中的 Classical 类型
-# UPDATED: 2025-12-21 20:51:45
+# UPDATED: 2026-04-04 19:41:37
 # DOMAIN: 11
-# DOMAIN-SUFFIX: 120
-# TOTAL: 131
+# DOMAIN-SUFFIX: 118
+# TOTAL: 129
 
 DOMAIN,instant.arubanetworks.com
 DOMAIN,setmeup.arubanetworks.com
@@ -27,24 +27,23 @@ DOMAIN-SUFFIX,localhost
 DOMAIN-SUFFIX,test
 DOMAIN-SUFFIX,local
 DOMAIN-SUFFIX,lan
-DOMAIN-SUFFIX,zte.home
-DOMAIN-SUFFIX,my.router
-DOMAIN-SUFFIX,ts.net
+DOMAIN-SUFFIX,plex.direct
+DOMAIN-SUFFIX,peiluyou.com
 DOMAIN-SUFFIX,home.arpa
-DOMAIN-SUFFIX,hiwifi.com
+DOMAIN-SUFFIX,zte.home
 DOMAIN-SUFFIX,tplinkwifi.net
 DOMAIN-SUFFIX,tendawifi.com
+DOMAIN-SUFFIX,hiwifi.com
 DOMAIN-SUFFIX,leike.cc
-DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,router.ctc
 DOMAIN-SUFFIX,phicomm.me
-DOMAIN-SUFFIX,peiluyou.com
+DOMAIN-SUFFIX,ts.net
+DOMAIN-SUFFIX,my.router
 DOMAIN-SUFFIX,127.in-addr.arpa
 DOMAIN-SUFFIX,test.steampowered.com
-DOMAIN-SUFFIX,0.in-addr.arpa
 DOMAIN-SUFFIX,10.in-addr.arpa
 DOMAIN-SUFFIX,82.100.in-addr.arpa
-DOMAIN-SUFFIX,93.100.in-addr.arpa
+DOMAIN-SUFFIX,94.100.in-addr.arpa
 DOMAIN-SUFFIX,30.172.in-addr.arpa
 DOMAIN-SUFFIX,31.172.in-addr.arpa
 DOMAIN-SUFFIX,16.172.in-addr.arpa
@@ -59,7 +58,6 @@ DOMAIN-SUFFIX,localhost.sec.qq.com
 DOMAIN-SUFFIX,20.172.in-addr.arpa
 DOMAIN-SUFFIX,21.172.in-addr.arpa
 DOMAIN-SUFFIX,22.172.in-addr.arpa
-DOMAIN-SUFFIX,23.172.in-addr.arpa
 DOMAIN-SUFFIX,d.f.ip6.arpa
 DOMAIN-SUFFIX,64.100.in-addr.arpa
 DOMAIN-SUFFIX,65.100.in-addr.arpa
@@ -90,8 +88,8 @@ DOMAIN-SUFFIX,89.100.in-addr.arpa
 DOMAIN-SUFFIX,90.100.in-addr.arpa
 DOMAIN-SUFFIX,91.100.in-addr.arpa
 DOMAIN-SUFFIX,92.100.in-addr.arpa
+DOMAIN-SUFFIX,93.100.in-addr.arpa
 DOMAIN-SUFFIX,29.172.in-addr.arpa
-DOMAIN-SUFFIX,94.100.in-addr.arpa
 DOMAIN-SUFFIX,95.100.in-addr.arpa
 DOMAIN-SUFFIX,96.100.in-addr.arpa
 DOMAIN-SUFFIX,97.100.in-addr.arpa
@@ -128,6 +126,7 @@ DOMAIN-SUFFIX,127.100.in-addr.arpa
 DOMAIN-SUFFIX,26.172.in-addr.arpa
 DOMAIN-SUFFIX,25.172.in-addr.arpa
 DOMAIN-SUFFIX,24.172.in-addr.arpa
+DOMAIN-SUFFIX,23.172.in-addr.arpa
 DOMAIN-SUFFIX,b.e.f.ip6.arpa
 DOMAIN-SUFFIX,a.e.f.ip6.arpa
 DOMAIN-SUFFIX,9.e.f.ip6.arpa
@@ -138,4 +137,3 @@ DOMAIN-SUFFIX,2.0.192.in-addr.arpa
 DOMAIN-SUFFIX,255.255.255.255.in-addr.arpa
 DOMAIN-SUFFIX,8.b.d.0.1.0.0.2.ip6.arpa
 DOMAIN-SUFFIX,1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
-DOMAIN-SUFFIX,0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa

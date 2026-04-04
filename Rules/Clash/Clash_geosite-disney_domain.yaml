@@ -3,7 +3,7 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Domain 类型
-# UPDATED: 2025-12-21 20:33:45
+# UPDATED: 2026-04-04 17:44:24
 # DOMAIN: 4
 # DOMAIN-SUFFIX: 152
 # TOTAL: 156
@@ -17,17 +17,16 @@ payload:
     - +.disney.bg
     - +.disney.ca
     - +.disney.ch
-    - +.starplus.com
-    - +.starott.com
-    - +.ngeo.com
-    - +.nationalgeographicpartners.com
-    - +.nationalgeographic.com
-    - +.natgeomaps.com
+    - +.watchespn.com
+    - +.espnqa.com
+    - +.espncdn.com
+    - +.espn.net
+    - +.espn.com
+    - +.dtci.technology
     - +.disney.com
-    - +.themarvelexperiencetour.com
-    - +.marvelsuperwar.com
-    - +.marvelsuperheroseptember.com
-    - +.marvelspotlightplays.com
+    - +.dtci.co
+    - +.dmed.technology
+    - +.edgedatg.com
     - +.disney.cz
     - +.disney.de
     - +.disney.dk
@@ -50,19 +49,19 @@ payload:
     - +.disney.ru
     - +.disney.se
     - +.disney.sg
-    - +.marvelsdoubleagent.com
-    - +.marvelpinball.com
+    - +.abc.com
+    - +.abc-studios.com
     - +.20thcenturystudios.jp
     - +.adventuresbydisney.com
     - +.babble.com
     - +.babyzone.com
     - +.disneymagicmomentsme.com
-    - +.marvelparty.net
+    - +.starplus.com
     - +.dilcdn.com
     - +.disney-asia.com
     - +.disney-discount.com
     - +.disney-plus.net
-    - +.marveldimensionofheroes.com
+    - +.starott.com
     - +.disney-studio.com
     - +.disney-studio.net
     - +.disneyadsales.com
@@ -81,13 +80,13 @@ payload:
     - +.disneyjunior.com
     - +.disneyjuniortreataday.com
     - +.disneylatino.com
-    - +.marvel10thanniversary.com
-    - +.marvel.com
-    - +.hotstarext.com
+    - +.ngeo.com
+    - +.nationalgeographicpartners.com
+    - +.nationalgeographic.com
     - +.disneymagicmoments.de
     - +.disneymagicmoments.es
     - +.disneymagicmoments.fr
-    - +.hotstar-labs.com
+    - +.natgeomaps.com
     - +.disneymagicmoments.gr
     - +.disneymagicmoments.it
     - +.disneyarena.com
@@ -99,16 +98,16 @@ payload:
     - +.disneynewseries.com
     - +.disneynow.com
     - +.disneypeoplesurveys.com
-    - +.hotstar-cdn.net
+    - +.themarvelexperiencetour.com
     - +.disneyplus.com
-    - +.hotstar.com
+    - +.marvelsuperwar.com
     - +.disneyredirects.com
     - +.disneyme.com
     - +.disneystore.com
     - +.disneystreaming.com
     - +.disneysubscription.com
-    - +.watchespn.com
-    - +.espnqa.com
+    - +.marvelsuperheroseptember.com
+    - +.marvelspotlightplays.com
     - +.disneytvajobs.com
     - +.disneyworld-go.com
     - +.dssott.com
@@ -131,37 +130,38 @@ payload:
     - +.thestationbymaker.com
     - +.disney.asia
     - +.watchdisneyfe.com
-    - +.abc-studios.com
-    - +.abc.com
-    - +.edgedatg.com
-    - +.dmed.technology
-    - +.dtci.co
-    - +.dtci.technology
-    - +.espn.com
-    - +.espn.net
-    - +.espncdn.com
-    - +.disney.co.kr
-    - +.disney.co.uk
-    - +.espn.co.uk
-    - +.disney.com.tw
+    - +.hotstar.com
+    - +.hotstar-cdn.net
+    - +.hotstar-labs.com
+    - +.hotstarext.com
+    - +.marvelsdoubleagent.com
+    - +.marvel.com
+    - +.marvel10thanniversary.com
+    - +.marveldimensionofheroes.com
+    - +.marvelparty.net
+    - +.marvelpinball.com
+    - +.disney.co.za
+    - +.disney.co.jp
+    - +.disneytickets.co.uk
+    - +.disney.co.il
     - +.disneyplus.bn5x.net
     - +.disneymagicmoments.gen.tr
     - +.disneymagicmoments.co.za
-    - +.hsprepack.akamaized.net
     - +.disneymagicmoments.co.uk
     - +.disneymagicmoments.co.il
+    - +.disneyturkiye.com.tr
+    - +.20thcenturystudios.com.br
+    - +.disney.co.kr
+    - +.espn.co.uk
+    - +.disney.co.th
     - +.disney.com.hk
     - +.beautyandthebeastmusical.co.uk
-    - +.20thcenturystudios.com.br
-    - +.disneytickets.co.uk
-    - +.disney.co.za
-    - +.disney.co.il
+    - +.20thcenturystudios.com.au
+    - +.disney.com.tw
+    - +.disney.co.uk
     - +.disney.com.br
     - +.disney.com.au
-    - +.disney.co.jp
-    - +.20thcenturystudios.com.au
-    - +.disney.co.th
-    - +.disneyturkiye.com.tr
+    - +.hsprepack.akamaized.net
     - +.disney-portal.my.onetrust.com
     - +.disneyplus.com.ssl.sc.omtrdc.net
     - disney.my.sentry.io

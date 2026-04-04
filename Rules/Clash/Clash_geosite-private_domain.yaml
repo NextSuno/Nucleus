@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Domain 类型
-# UPDATED: 2025-12-21 20:33:05
+# UPDATED: 2026-04-04 17:43:37
 # DOMAIN: 11
-# DOMAIN-SUFFIX: 120
-# TOTAL: 131
+# DOMAIN-SUFFIX: 118
+# TOTAL: 129
 
 payload:
     - instant.arubanetworks.com
@@ -28,24 +28,23 @@ payload:
     - +.test
     - +.local
     - +.lan
-    - +.zte.home
-    - +.my.router
-    - +.ts.net
+    - +.plex.direct
+    - +.peiluyou.com
     - +.home.arpa
-    - +.hiwifi.com
+    - +.zte.home
     - +.tplinkwifi.net
     - +.tendawifi.com
+    - +.hiwifi.com
     - +.leike.cc
-    - +.plex.direct
     - +.router.ctc
     - +.phicomm.me
-    - +.peiluyou.com
+    - +.ts.net
+    - +.my.router
     - +.127.in-addr.arpa
     - +.test.steampowered.com
-    - +.0.in-addr.arpa
     - +.10.in-addr.arpa
     - +.82.100.in-addr.arpa
-    - +.93.100.in-addr.arpa
+    - +.94.100.in-addr.arpa
     - +.30.172.in-addr.arpa
     - +.31.172.in-addr.arpa
     - +.16.172.in-addr.arpa
@@ -60,7 +59,6 @@ payload:
     - +.20.172.in-addr.arpa
     - +.21.172.in-addr.arpa
     - +.22.172.in-addr.arpa
-    - +.23.172.in-addr.arpa
     - +.d.f.ip6.arpa
     - +.64.100.in-addr.arpa
     - +.65.100.in-addr.arpa
@@ -91,8 +89,8 @@ payload:
     - +.90.100.in-addr.arpa
     - +.91.100.in-addr.arpa
     - +.92.100.in-addr.arpa
+    - +.93.100.in-addr.arpa
     - +.29.172.in-addr.arpa
-    - +.94.100.in-addr.arpa
     - +.95.100.in-addr.arpa
     - +.96.100.in-addr.arpa
     - +.97.100.in-addr.arpa
@@ -129,6 +127,7 @@ payload:
     - +.26.172.in-addr.arpa
     - +.25.172.in-addr.arpa
     - +.24.172.in-addr.arpa
+    - +.23.172.in-addr.arpa
     - +.b.e.f.ip6.arpa
     - +.a.e.f.ip6.arpa
     - +.9.e.f.ip6.arpa
@@ -139,4 +138,3 @@ payload:
     - +.255.255.255.255.in-addr.arpa
     - +.8.b.d.0.1.0.0.2.ip6.arpa
     - +.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
-    - +.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa

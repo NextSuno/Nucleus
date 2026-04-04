@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Classical 类型
-# UPDATED: 2025-12-21 20:31:00
+# UPDATED: 2026-04-04 20:41:55
 # DOMAIN: 59
-# DOMAIN-SUFFIX: 29
-# TOTAL: 88
+# DOMAIN-SUFFIX: 30
+# TOTAL: 89
 
 payload:
     - DOMAIN,plex.llon.net
@@ -69,9 +69,9 @@ payload:
     - DOMAIN,emby.aiyowei.ml
     - DOMAIN,cc.ccemby.tk
     - DOMAIN-SUFFIX,mius.uk
-    - DOMAIN-SUFFIX,sfcj.org
+    - DOMAIN-SUFFIX,nvidia.rip
     - DOMAIN-SUFFIX,poloemby.xyz
-    - DOMAIN-SUFFIX,hongxingyunmovie.vip
+    - DOMAIN-SUFFIX,yunti.online
     - DOMAIN-SUFFIX,embyplus.club
     - DOMAIN-SUFFIX,404.sb
     - DOMAIN-SUFFIX,4545.cf
@@ -82,8 +82,8 @@ payload:
     - DOMAIN-SUFFIX,texon.fans
     - DOMAIN-SUFFIX,ju.dog
     - DOMAIN-SUFFIX,123456.al
-    - DOMAIN-SUFFIX,yunti.online
-    - DOMAIN-SUFFIX,nvidia.rip
+    - DOMAIN-SUFFIX,sfcj.org
+    - DOMAIN-SUFFIX,hongxingyunmovie.vip
     - DOMAIN-SUFFIX,pololine.ml
     - DOMAIN-SUFFIX,misakaf.org
     - DOMAIN-SUFFIX,gfwemby.org
@@ -94,6 +94,7 @@ payload:
     - DOMAIN-SUFFIX,sptv.ii00.cc
     - DOMAIN-SUFFIX,sgtv.ii00.cc
     - DOMAIN-SUFFIX,cn-music.mefun.vip
-    - DOMAIN-SUFFIX,singularity.deja-vu.beauty
+    - DOMAIN-SUFFIX,server2.cn2gias.uk
     - DOMAIN-SUFFIX,emby1.69yun69.com
+    - DOMAIN-SUFFIX,singularity.deja-vu.beauty
     - DOMAIN-SUFFIX,stream.ntrrr.top

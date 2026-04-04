@@ -3,7 +3,7 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型，添加 no-resolve 参数
-# UPDATED: 2025-12-21 20:57:55
+# UPDATED: 2026-04-04 19:47:45
 # TOTAL: 0
 
 IP-CIDR,23.246.0.0/18,PROXY,no-resolve
@@ -30,7 +30,6 @@ IP-CIDR,198.45.48.0/20,PROXY,no-resolve
 IP-CIDR,207.45.72.0/22,PROXY,no-resolve
 IP-CIDR,208.75.76.0/22,PROXY,no-resolve
 IP6-CIDR,2607:fb10::/32,PROXY,no-resolve
-IP6-CIDR,2620:0:ef0::/48,PROXY,no-resolve
 IP6-CIDR,2620:10c:7000::/44,PROXY,no-resolve
 IP6-CIDR,2a00:86c0::/32,PROXY,no-resolve
 IP6-CIDR,2a03:5640:1000::/36,PROXY,no-resolve
@@ -43,18 +42,17 @@ IP6-CIDR,2a03:5640:f041::/48,PROXY,no-resolve
 IP6-CIDR,2a03:5640:f043::/48,PROXY,no-resolve
 IP6-CIDR,2a03:5640:f044::/48,PROXY,no-resolve
 IP6-CIDR,2a03:5640:f04b::/48,PROXY,no-resolve
-IP6-CIDR,2a03:5640:f04f::/48,PROXY,no-resolve
-IP6-CIDR,2a03:5640:f050::/44,PROXY,no-resolve
+IP6-CIDR,2a03:5640:f050::/47,PROXY,no-resolve
+IP6-CIDR,2a03:5640:f054::/46,PROXY,no-resolve
+IP6-CIDR,2a03:5640:f058::/45,PROXY,no-resolve
 IP6-CIDR,2a03:5640:f060::/43,PROXY,no-resolve
 IP6-CIDR,2a03:5640:f080::/41,PROXY,no-resolve
 IP6-CIDR,2a03:5640:f140::/47,PROXY,no-resolve
 IP6-CIDR,2a03:5640:f142::/48,PROXY,no-resolve
-IP6-CIDR,2a03:5640:f14f::/48,PROXY,no-resolve
 IP6-CIDR,2a03:5640:f150::/44,PROXY,no-resolve
 IP6-CIDR,2a03:5640:f160::/43,PROXY,no-resolve
 IP6-CIDR,2a03:5640:f180::/41,PROXY,no-resolve
-IP6-CIDR,2a03:5640:f231::/48,PROXY,no-resolve
-IP6-CIDR,2a03:5640:f232::/47,PROXY,no-resolve
+IP6-CIDR,2a03:5640:f233::/48,PROXY,no-resolve
 IP6-CIDR,2a03:5640:f234::/46,PROXY,no-resolve
 IP6-CIDR,2a03:5640:f238::/45,PROXY,no-resolve
 IP6-CIDR,2a03:5640:f240::/42,PROXY,no-resolve
@@ -70,7 +68,7 @@ IP6-CIDR,2a03:5640:f380::/41,PROXY,no-resolve
 IP6-CIDR,2a03:5640:f400::/40,PROXY,no-resolve
 IP6-CIDR,2a03:5640:f501::/48,PROXY,no-resolve
 IP6-CIDR,2a03:5640:f506::/48,PROXY,no-resolve
-IP6-CIDR,2a03:5640:f522::/47,PROXY,no-resolve
+IP6-CIDR,2a03:5640:f523::/48,PROXY,no-resolve
 IP6-CIDR,2a03:5640:f524::/46,PROXY,no-resolve
 IP6-CIDR,2a03:5640:f528::/45,PROXY,no-resolve
 IP6-CIDR,2a03:5640:f536::/47,PROXY,no-resolve

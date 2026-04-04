@@ -3,29 +3,67 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型
-# UPDATED: 2025-12-21 20:57:59
-# HOST-SUFFIX: 25
-# TOTAL: 25
+# UPDATED: 2026-04-04 19:47:50
+# HOST-SUFFIX: 63
+# TOTAL: 63
 
-HOST-SUFFIX,max.com,PROXY
-HOST-SUFFIX,hbo.com,PROXY
-HOST-SUFFIX,hbogoasia.ph,PROXY
+HOST-SUFFIX,beforeigners.com,PROXY
+HOST-SUFFIX,brightline.tv,PROXY
+HOST-SUFFIX,cinemax.com,PROXY
+HOST-SUFFIX,discomax.com,PROXY
+HOST-SUFFIX,elpionero.es,PROXY
 HOST-SUFFIX,forthethrone.com,PROXY
-HOST-SUFFIX,hbogoasia.sg,PROXY
+HOST-SUFFIX,hbo.ba,PROXY
+HOST-SUFFIX,hbo.bg,PROXY
+HOST-SUFFIX,hbo.com,PROXY
+HOST-SUFFIX,hbo.cz,PROXY
+HOST-SUFFIX,hbo.eu,PROXY
+HOST-SUFFIX,hbo.hr,PROXY
+HOST-SUFFIX,hbo.hu,PROXY
+HOST-SUFFIX,hbo.me,PROXY
+HOST-SUFFIX,hbo.mk,PROXY
+HOST-SUFFIX,hbo.pl,PROXY
+HOST-SUFFIX,hbo.ro,PROXY
+HOST-SUFFIX,hbo.rs,PROXY
+HOST-SUFFIX,hbo.sk,PROXY
+HOST-SUFFIX,hboaccess.com,PROXY
+HOST-SUFFIX,hboarchives.com,PROXY
 HOST-SUFFIX,hboasia.com,PROXY
-HOST-SUFFIX,maxgo.com,PROXY
-HOST-SUFFIX,hbogoasia.tw,PROXY
+HOST-SUFFIX,hboenterprises.com,PROXY
+HOST-SUFFIX,hboespana.com,PROXY
+HOST-SUFFIX,hbo-europe.com,PROXY
+HOST-SUFFIX,hbogo.com,PROXY
+HOST-SUFFIX,hbogo.cz,PROXY
 HOST-SUFFIX,hbogo.eu,PROXY
+HOST-SUFFIX,hbogo.hu,PROXY
+HOST-SUFFIX,hbogo.sk,PROXY
 HOST-SUFFIX,hbogoasia.com,PROXY
 HOST-SUFFIX,hbogoasia.hk,PROXY
 HOST-SUFFIX,hbogoasia.id,PROXY
-HOST-SUFFIX,discomax.com,PROXY
-HOST-SUFFIX,cinemax.com,PROXY
-HOST-SUFFIX,hbogo.com,PROXY
+HOST-SUFFIX,hbogoasia.my,PROXY
+HOST-SUFFIX,hbogoasia.ph,PROXY
+HOST-SUFFIX,hbogoasia.sg,PROXY
+HOST-SUFFIX,hbogoasia.tw,PROXY
+HOST-SUFFIX,hboinflight.com,PROXY
+HOST-SUFFIX,hbolacontent.net,PROXY
+HOST-SUFFIX,hbolaunchpad.com,PROXY
+HOST-SUFFIX,hbomailman.com,PROXY
 HOST-SUFFIX,hbomax.com,PROXY
+HOST-SUFFIX,hbomax.eu,PROXY
 HOST-SUFFIX,hbomaxcdn.com,PROXY
+HOST-SUFFIX,hbomediarelations.com,PROXY
+HOST-SUFFIX,hbonordic.com,PROXY
+HOST-SUFFIX,hbonordic.tv,PROXY
 HOST-SUFFIX,hbonow.com,PROXY
-HOST-SUFFIX,brightline.tv,PROXY
+HOST-SUFFIX,hboportugal.com,PROXY
+HOST-SUFFIX,hboprod.com,PROXY
+HOST-SUFFIX,hbospain.com,PROXY
+HOST-SUFFIX,hbotvsales.com,PROXY
+HOST-SUFFIX,homebox.com,PROXY
+HOST-SUFFIX,homeboxoffice.com,PROXY
+HOST-SUFFIX,max.com,PROXY
+HOST-SUFFIX,maxgo.com,PROXY
+HOST-SUFFIX,redbyhbo.com,PROXY
 HOST-SUFFIX,hbogo.co.th,PROXY
 HOST-SUFFIX,hbomax-images.warnermediacdn.com,PROXY
 HOST-SUFFIX,hbo.com.edgesuite.net,PROXY

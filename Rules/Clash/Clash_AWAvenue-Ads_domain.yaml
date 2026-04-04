@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Domain 类型
-# UPDATED: 2025-12-21 20:33:16
-# DOMAIN: 882
+# UPDATED: 2026-04-04 17:43:48
+# DOMAIN: 893
 # DOMAIN-SUFFIX: 11
-# TOTAL: 893
+# TOTAL: 904
 
 payload:
     - 1500020991.vodplayer.wxamedia.com
@@ -44,6 +44,7 @@ payload:
     - ad.tencentmusic.com
     - ad.toutiao.com
     - ad.v3mh.com
+    - ad.weibo.com
     - ad.winrar.com.cn
     - ad.ximalaya.com
     - ad.xunkids.com
@@ -66,6 +67,7 @@ payload:
     - adexpo.tencentmusic.com
     - adfilter.imtt.qq.com
     - adguanggao.eee114.com
+    - adimg.uve.weibo.com
     - adjust.cn
     - adjust.com
     - adks.hpplay.cn
@@ -83,6 +85,7 @@ payload:
     - ads-video-al.xhscdn.com
     - ads-video-qc.xhscdn.com
     - ads.95516.com
+    - ads.auctions.yahoo.com
     - ads.cup.com.cn
     - ads.google.cn
     - ads.huan.tv
@@ -132,11 +135,14 @@ payload:
     - adstats.tencentmusic.com
     - adstore-1252524079.file.myqcloud.com
     - adstore-index-1252524079.file.myqcloud.com
+    - adstrategy.biz.weibo.com
     - adstudio-assets.scdn.co
     - adstudio.spotify.com
     - adtago.s3.amazonaws.com
     - adtech.yahooinc.com
     - adtrack.quark.cn
+    - adtracker.medproad.com
+    - adui.tg.meitu.com
     - adv-api.shenshiads.com
     - adv.sec.intl.miui.com
     - adv.sec.miui.com
@@ -157,6 +163,7 @@ payload:
     - adx-open-service.youku.com
     - adx-os.anythinktech.com
     - adx-saas.advlion.com
+    - adx-strategy-api-cn.statisticslinks.com
     - adx.ads.heytapmobi.com
     - adx.ads.oppomobile.com
     - adx.appsdk.com.cn
@@ -234,7 +241,6 @@ payload:
     - applog.uc.cn
     - applog.zijieapi.com
     - applovin.com
-    - appversion.115.com
     - aqyad.com
     - aspect-upush.umeng.com
     - auction.unityads.unity3d.com
@@ -267,7 +273,6 @@ payload:
     - browser.events.data.msn.com
     - browsercfg-drcn.cloud.dbankcloud.cn
     - bsrv.qq.com
-    - bugly.qq.com
     - business-api.tiktok.com
     - c.bidtoolads.com
     - c.etoolads.cn
@@ -522,12 +527,12 @@ payload:
     - m.ad.zhangyue.com
     - m.atm.youku.com
     - m.shenshiads.com
-    - m1.ad.10010.com
     - mapi.m.jd.com
     - masdkv6.3g.qq.com
     - mazu.m.qq.com
     - mbdlog.iqiyi.com
     - mcs.zijieapi.com
+    - medproad.com
     - metrics.data.hicloud.com
     - metrics.icloud.com
     - metrics.mzstatic.com
@@ -556,6 +561,7 @@ payload:
     - monitor.music.qq.com
     - monitor.uu.qq.com
     - monsetting.toutiao.com
+    - mores.toponad.com
     - ms.applovin.com
     - ms.applvn.com
     - ms4.applovin.com
@@ -631,6 +637,7 @@ payload:
     - proxy.advp.apple.com
     - public.gdtimg.com
     - q.i.gdt.qq.com
+    - qcwx.medproad.com
     - qmlog.baertt.com
     - qn-cdnfile1pcdn.msstatic.com
     - qqdata.ab.qq.com
@@ -677,6 +684,7 @@ payload:
     - sdk.markmedia.com.cn
     - sdk.mobads.adwangmai.com
     - sdkapi.cloooud.com
+    - sdkapp.uve.weibo.com
     - sdkauth.hpplay.cn
     - sdkconf.avlyun.com
     - sdkconfig.ad.intl.xiaomi.com
@@ -728,6 +736,7 @@ payload:
     - syh-imp.cdnjtzy.com
     - syh.zybang.com
     - szbdyd.com
+    - t-adx.52qumao.com
     - t-dsp.pinduoduo.com
     - t.applovin.com
     - t.l.qq.com
@@ -740,6 +749,7 @@ payload:
     - t2.fancyapi.com
     - t3.a.market.xiaomi.com
     - t7z.cupid.ptqy.gitv.tv
+    - tagtic.cn
     - tangram.e.qq.com
     - target.ads.jihuoniao.com
     - tdc.qq.com
@@ -792,6 +802,7 @@ payload:
     - tracker.gitee.com
     - tracking.miui.com
     - tracking.rus.miui.com
+    - tuiguang.meitu.com
     - tvapp.hpplay.cn
     - tvuser-ch.cedock.com
     - tx-ad.a.yximgs.com

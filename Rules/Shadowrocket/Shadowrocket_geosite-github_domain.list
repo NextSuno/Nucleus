@@ -3,31 +3,30 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Shadowrocket 规则中的 DOMAIN-SET 类型
-# UPDATED: 2025-12-21 21:06:23
+# UPDATED: 2026-04-04 19:56:21
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 31
 # TOTAL: 33
 
 github-api.arkoselabs.com
 github-cloud.s3.amazonaws.com
-.githubhackathon.com
+.githubnext.com
 .git.io
 .atom.io
 .ghcr.io
-.githubnext.com
+.githubpreview.dev
 .github.ai
 .github.blog
 .github.com
 .github.community
 .github.dev
 .github.io
-.githubpreview.dev
+.githubstatus.com
 .githubassets.com
-.githubcopilot.com
+.githubhackathon.com
 .gh.io
 .dependabot.com
 .githubapp.com
-.githubstatus.com
 .githubuniverse.com
 .githubusercontent.com
 .myoctocat.com
@@ -36,6 +35,7 @@ github-cloud.s3.amazonaws.com
 .repo.new
 .thegithubshop.com
 .npmjs.org
+.githubcopilot.com
 .npm.community
 .npmjs.com
 .blob.core.windows.net

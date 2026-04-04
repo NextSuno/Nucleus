@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型
-# UPDATED: 2025-12-21 20:58:02
+# UPDATED: 2026-04-04 19:47:53
 # HOST: 59
-# HOST-SUFFIX: 29
-# TOTAL: 88
+# HOST-SUFFIX: 30
+# TOTAL: 89
 
 HOST,plex.llon.net,PROXY
 HOST,emby.nexitally.com,PROXY
@@ -68,9 +68,9 @@ HOST,emby.p-p.men,PROXY
 HOST,emby.aiyowei.ml,PROXY
 HOST,cc.ccemby.tk,PROXY
 HOST-SUFFIX,mius.uk,PROXY
-HOST-SUFFIX,sfcj.org,PROXY
+HOST-SUFFIX,nvidia.rip,PROXY
 HOST-SUFFIX,poloemby.xyz,PROXY
-HOST-SUFFIX,hongxingyunmovie.vip,PROXY
+HOST-SUFFIX,yunti.online,PROXY
 HOST-SUFFIX,embyplus.club,PROXY
 HOST-SUFFIX,404.sb,PROXY
 HOST-SUFFIX,4545.cf,PROXY
@@ -81,8 +81,8 @@ HOST-SUFFIX,plex.direct,PROXY
 HOST-SUFFIX,texon.fans,PROXY
 HOST-SUFFIX,ju.dog,PROXY
 HOST-SUFFIX,123456.al,PROXY
-HOST-SUFFIX,yunti.online,PROXY
-HOST-SUFFIX,nvidia.rip,PROXY
+HOST-SUFFIX,sfcj.org,PROXY
+HOST-SUFFIX,hongxingyunmovie.vip,PROXY
 HOST-SUFFIX,pololine.ml,PROXY
 HOST-SUFFIX,misakaf.org,PROXY
 HOST-SUFFIX,gfwemby.org,PROXY
@@ -93,6 +93,7 @@ HOST-SUFFIX,media-1.co.uk,PROXY
 HOST-SUFFIX,sptv.ii00.cc,PROXY
 HOST-SUFFIX,sgtv.ii00.cc,PROXY
 HOST-SUFFIX,cn-music.mefun.vip,PROXY
-HOST-SUFFIX,singularity.deja-vu.beauty,PROXY
+HOST-SUFFIX,server2.cn2gias.uk,PROXY
 HOST-SUFFIX,emby1.69yun69.com,PROXY
+HOST-SUFFIX,singularity.deja-vu.beauty,PROXY
 HOST-SUFFIX,stream.ntrrr.top,PROXY

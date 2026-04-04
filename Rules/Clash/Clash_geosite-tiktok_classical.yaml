@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Classical 类型
-# UPDATED: 2025-12-21 20:31:02
+# UPDATED: 2026-04-04 20:41:59
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 25
-# TOTAL: 30
+# DOMAIN-SUFFIX: 32
+# TOTAL: 37
 
 payload:
     - DOMAIN-SUFFIX,bytedapm.com
@@ -31,11 +31,18 @@ payload:
     - DOMAIN-SUFFIX,tiktokv.us
     - DOMAIN-SUFFIX,tiktokw.eu
     - DOMAIN-SUFFIX,tiktokw.us
+    - DOMAIN-SUFFIX,ttcdn-us.com
     - DOMAIN-SUFFIX,ttlivecdn.com
     - DOMAIN-SUFFIX,ttoverseaus.net
     - DOMAIN-SUFFIX,ttwstatic.com
+    - DOMAIN-SUFFIX,tiktokcdn-us.com.edgesuite.net
+    - DOMAIN-SUFFIX,tiktokcdn.com.akamaized.net
+    - DOMAIN-SUFFIX,tiktokcdn.com.edgesuite.net
+    - DOMAIN-SUFFIX,tiktokv.com.edgekey.net
+    - DOMAIN-SUFFIX,tiktokv.com.edgesuite.net
     - DOMAIN,p16-tiktokcdn-com.akamaized.net
     - DOMAIN,roovza-launches.appsflyersdk.com
     - DOMAIN,roovza.inapps.appsflyersdk.com
     - DOMAIN,roovza.launches.appsflyersdk.com
     - DOMAIN,roovza.skadsdk.appsflyersdk.com
+    - DOMAIN-SUFFIX,analytics.tiktok.com

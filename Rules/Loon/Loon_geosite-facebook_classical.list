@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Loon 规则中的 Classical 类型
-# UPDATED: 2025-12-21 20:52:40
+# UPDATED: 2026-04-04 19:42:37
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 393
-# TOTAL: 394
+# DOMAIN-SUFFIX: 396
+# TOTAL: 397
 
 DOMAIN,fbcdn-a.akamaihd.net
 DOMAIN-SUFFIX,aboutfacebook.com
@@ -402,3 +402,6 @@ DOMAIN-SUFFIX,facebookwork.com
 DOMAIN-SUFFIX,redkix.com
 DOMAIN-SUFFIX,workplace.com
 DOMAIN-SUFFIX,workplaceusecases.com
+DOMAIN-SUFFIX,analytics.facebook.com
+DOMAIN-SUFFIX,facebookads.com
+DOMAIN-SUFFIX,pixel.facebook.com

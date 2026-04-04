@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型
-# UPDATED: 2025-12-21 20:58:03
-# HOST: 8
+# UPDATED: 2026-04-04 19:47:55
+# HOST: 11
 # HOST-SUFFIX: 15
-# TOTAL: 23
+# TOTAL: 26
 
 HOST,audio-ak-spotify-com.akamaized.net,PROXY
 HOST,audio4-ak-spotify-com.akamaized.net,PROXY
@@ -31,3 +31,6 @@ HOST-SUFFIX,spotifyforbrands.com,PROXY
 HOST-SUFFIX,spotifyjobs.com,PROXY
 HOST-SUFFIX,spotify.link,PROXY
 HOST-SUFFIX,tospotify.com,PROXY
+HOST,adeventtracker.spotify.com,PROXY
+HOST,adstudio-assets.scdn.co,PROXY
+HOST,bloodhound.spotify.com,PROXY

@@ -3,9 +3,9 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型
-# UPDATED: 2025-12-21 20:58:12
-# HOST-SUFFIX: 19
-# TOTAL: 19
+# UPDATED: 2026-04-04 19:48:06
+# HOST-SUFFIX: 20
+# TOTAL: 20
 
 HOST-SUFFIX,cdn-telegram.org,PROXY
 HOST-SUFFIX,comments.app,PROXY
@@ -24,5 +24,6 @@ HOST-SUFFIX,telegram.org,PROXY
 HOST-SUFFIX,telegram.space,PROXY
 HOST-SUFFIX,telesco.pe,PROXY
 HOST-SUFFIX,tg.dev,PROXY
+HOST-SUFFIX,ton.org,PROXY
 HOST-SUFFIX,tx.me,PROXY
 HOST-SUFFIX,usercontent.dev,PROXY

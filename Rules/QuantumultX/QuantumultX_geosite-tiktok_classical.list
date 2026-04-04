@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型
-# UPDATED: 2025-12-21 20:58:05
+# UPDATED: 2026-04-04 19:47:57
 # HOST: 5
-# HOST-SUFFIX: 25
-# TOTAL: 30
+# HOST-SUFFIX: 32
+# TOTAL: 37
 
 HOST-SUFFIX,bytedapm.com,PROXY
 HOST-SUFFIX,byteoversea.com,PROXY
@@ -30,11 +30,18 @@ HOST-SUFFIX,tiktokv.eu,PROXY
 HOST-SUFFIX,tiktokv.us,PROXY
 HOST-SUFFIX,tiktokw.eu,PROXY
 HOST-SUFFIX,tiktokw.us,PROXY
+HOST-SUFFIX,ttcdn-us.com,PROXY
 HOST-SUFFIX,ttlivecdn.com,PROXY
 HOST-SUFFIX,ttoverseaus.net,PROXY
 HOST-SUFFIX,ttwstatic.com,PROXY
+HOST-SUFFIX,tiktokcdn-us.com.edgesuite.net,PROXY
+HOST-SUFFIX,tiktokcdn.com.akamaized.net,PROXY
+HOST-SUFFIX,tiktokcdn.com.edgesuite.net,PROXY
+HOST-SUFFIX,tiktokv.com.edgekey.net,PROXY
+HOST-SUFFIX,tiktokv.com.edgesuite.net,PROXY
 HOST,p16-tiktokcdn-com.akamaized.net,PROXY
 HOST,roovza-launches.appsflyersdk.com,PROXY
 HOST,roovza.inapps.appsflyersdk.com,PROXY
 HOST,roovza.launches.appsflyersdk.com,PROXY
 HOST,roovza.skadsdk.appsflyersdk.com,PROXY
+HOST-SUFFIX,analytics.tiktok.com,PROXY
