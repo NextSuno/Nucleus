@@ -3,9 +3,9 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Surge 规则中的 RULE-SET 类型，添加 no-resolve 参数
-# UPDATED: 2026-04-04 20:00:42
-# IP-CIDR: 67
-# IP-CIDR6: 42
+# UPDATED: 2026-04-13 22:21:20
+# IP-CIDR: 68
+# IP-CIDR6: 41
 # TOTAL: 109
 
 IP-CIDR,31.13.24.0/21,no-resolve
@@ -55,6 +55,7 @@ IP-CIDR,157.240.132.0/24,no-resolve
 IP-CIDR,157.240.134.0/24,no-resolve
 IP-CIDR,157.240.136.0/23,no-resolve
 IP-CIDR,157.240.139.0/24,no-resolve
+IP-CIDR,157.240.140.0/24,no-resolve
 IP-CIDR,157.240.156.0/22,no-resolve
 IP-CIDR,157.240.169.0/24,no-resolve
 IP-CIDR,157.240.170.0/24,no-resolve
@@ -107,8 +108,7 @@ IP-CIDR6,2a03:2887:ff5f::/48,no-resolve
 IP-CIDR6,2a03:2887:ff60::/48,no-resolve
 IP-CIDR6,2a03:2887:ff62::/47,no-resolve
 IP-CIDR6,2a03:2887:ff64::/46,no-resolve
-IP-CIDR6,2a03:2887:ff68::/47,no-resolve
-IP-CIDR6,2a03:2887:ff6a::/48,no-resolve
+IP-CIDR6,2a03:2887:ff68::/46,no-resolve
 IP-CIDR6,2a03:2887:ff70::/47,no-resolve
 IP-CIDR6,2a03:2887:ff73::/48,no-resolve
 IP-CIDR6,2c0f:ef78:3::/48,no-resolve

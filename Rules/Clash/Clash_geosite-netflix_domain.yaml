@@ -3,33 +3,33 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Domain 类型
-# UPDATED: 2026-04-04 17:44:19
+# UPDATED: 2026-04-13 21:49:39
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 23
 # TOTAL: 24
 
 payload:
-    - netflix.com.edgesuite.net
-    - +.fast.com
-    - +.netflix.ca
-    - +.netflix.com
-    - +.netflix.net
-    - +.netflixinvestor.com
-    - +.netflixtechblog.com
-    - +.nflxext.com
-    - +.nflximg.com
-    - +.nflximg.net
-    - +.nflxsearch.net
-    - +.nflxso.net
-    - +.nflxvideo.net
-    - +.netflixdnstest0.com
-    - +.netflixdnstest1.com
-    - +.netflixdnstest2.com
-    - +.netflixdnstest3.com
-    - +.netflixdnstest4.com
-    - +.netflixdnstest5.com
-    - +.netflixdnstest6.com
-    - +.netflixdnstest7.com
-    - +.netflixdnstest8.com
-    - +.netflixdnstest9.com
-    - +.netflixdnstest10.com
+  - netflix.com.edgesuite.net
+  - +.fast.com
+  - +.netflix.ca
+  - +.netflix.com
+  - +.netflix.net
+  - +.netflixinvestor.com
+  - +.netflixtechblog.com
+  - +.nflxext.com
+  - +.nflximg.com
+  - +.nflximg.net
+  - +.nflxsearch.net
+  - +.nflxso.net
+  - +.nflxvideo.net
+  - +.netflixdnstest0.com
+  - +.netflixdnstest1.com
+  - +.netflixdnstest2.com
+  - +.netflixdnstest3.com
+  - +.netflixdnstest4.com
+  - +.netflixdnstest5.com
+  - +.netflixdnstest6.com
+  - +.netflixdnstest7.com
+  - +.netflixdnstest8.com
+  - +.netflixdnstest9.com
+  - +.netflixdnstest10.com

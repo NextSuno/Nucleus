@@ -3,32 +3,32 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Domain 类型
-# UPDATED: 2026-04-04 17:44:22
+# UPDATED: 2026-04-13 21:49:43
 # DOMAIN: 10
 # DOMAIN-SUFFIX: 13
 # TOTAL: 23
 
 payload:
-    - d1v5ir2lpwr8os.cloudfront.net
-    - d22qjgkvxw22r6.cloudfront.net
-    - d25xi40x97liuc.cloudfront.net
-    - d27xxe7juh1us6.cloudfront.net
-    - dmqdd6hw24ucf.cloudfront.net
-    - images-eu.ssl-images-amazon.com
-    - images-na.ssl-images-amazon.com
-    - images-fe.ssl-images-amazon.com
-    - msh.amazon.co.uk
-    - static.siege-amazon.com
-    - +.aiv-cdn.net
-    - +.amazonprimevideos.com
-    - +.amazonvideo.cc
-    - +.amazonvideo.com
-    - +.prime-video.com
-    - +.primevideo.cc
-    - +.primevideo.com
-    - +.primevideo.info
-    - +.primevideo.org
-    - +.primevideo.tv
-    - +.prod.service.minerva.devices.a2z.com
-    - +.amazonprimevideo.cn
-    - +.amazonprimevideo.com.cn
+  - d1v5ir2lpwr8os.cloudfront.net
+  - d22qjgkvxw22r6.cloudfront.net
+  - d25xi40x97liuc.cloudfront.net
+  - d27xxe7juh1us6.cloudfront.net
+  - dmqdd6hw24ucf.cloudfront.net
+  - images-eu.ssl-images-amazon.com
+  - images-na.ssl-images-amazon.com
+  - images-fe.ssl-images-amazon.com
+  - msh.amazon.co.uk
+  - static.siege-amazon.com
+  - +.aiv-cdn.net
+  - +.amazonprimevideos.com
+  - +.amazonvideo.cc
+  - +.amazonvideo.com
+  - +.prime-video.com
+  - +.primevideo.cc
+  - +.primevideo.com
+  - +.primevideo.info
+  - +.primevideo.org
+  - +.primevideo.tv
+  - +.prod.service.minerva.devices.a2z.com
+  - +.amazonprimevideo.cn
+  - +.amazonprimevideo.com.cn

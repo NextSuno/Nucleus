@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Surge 规则中的 DOMAIN-SET 类型
-# UPDATED: 2026-04-04 20:02:12
-# DOMAIN: 11
-# DOMAIN-SUFFIX: 118
-# TOTAL: 129
+# UPDATED: 2026-04-13 22:23:14
+# DOMAIN: 12
+# HOST-SUFFIX: 118
+# TOTAL: 130
 
 instant.arubanetworks.com
 setmeup.arubanetworks.com
@@ -19,6 +19,7 @@ www.routerlogin.com
 tplogin.cn
 miwifi.com
 www.miwifi.com
+local.adguard.org
 .internal
 .localdomain
 .example
@@ -27,34 +28,34 @@ www.miwifi.com
 .test
 .local
 .lan
-.plex.direct
-.peiluyou.com
+.router.ctc
+.my.router
 .home.arpa
 .zte.home
 .tplinkwifi.net
 .tendawifi.com
+.plex.direct
 .hiwifi.com
-.leike.cc
-.router.ctc
 .phicomm.me
+.peiluyou.com
 .ts.net
-.my.router
+.leike.cc
 .127.in-addr.arpa
-.test.steampowered.com
 .10.in-addr.arpa
 .82.100.in-addr.arpa
-.94.100.in-addr.arpa
+.93.100.in-addr.arpa
+.29.172.in-addr.arpa
 .30.172.in-addr.arpa
 .31.172.in-addr.arpa
 .16.172.in-addr.arpa
 .17.172.in-addr.arpa
-.28.172.in-addr.arpa
+.27.172.in-addr.arpa
 .168.192.in-addr.arpa
 .254.169.in-addr.arpa
 .18.172.in-addr.arpa
-.19.172.in-addr.arpa
 .localhost.ptlogin2.qq.com
 .localhost.sec.qq.com
+.19.172.in-addr.arpa
 .20.172.in-addr.arpa
 .21.172.in-addr.arpa
 .22.172.in-addr.arpa
@@ -77,7 +78,7 @@ www.miwifi.com
 .79.100.in-addr.arpa
 .80.100.in-addr.arpa
 .81.100.in-addr.arpa
-.27.172.in-addr.arpa
+.26.172.in-addr.arpa
 .83.100.in-addr.arpa
 .84.100.in-addr.arpa
 .85.100.in-addr.arpa
@@ -88,8 +89,8 @@ www.miwifi.com
 .90.100.in-addr.arpa
 .91.100.in-addr.arpa
 .92.100.in-addr.arpa
-.93.100.in-addr.arpa
-.29.172.in-addr.arpa
+.28.172.in-addr.arpa
+.94.100.in-addr.arpa
 .95.100.in-addr.arpa
 .96.100.in-addr.arpa
 .97.100.in-addr.arpa
@@ -123,7 +124,6 @@ www.miwifi.com
 .125.100.in-addr.arpa
 .126.100.in-addr.arpa
 .127.100.in-addr.arpa
-.26.172.in-addr.arpa
 .25.172.in-addr.arpa
 .24.172.in-addr.arpa
 .23.172.in-addr.arpa
@@ -134,6 +134,7 @@ www.miwifi.com
 .113.0.203.in-addr.arpa
 .100.51.198.in-addr.arpa
 .2.0.192.in-addr.arpa
+.kis.v2.scr.kaspersky-labs.com
 .255.255.255.255.in-addr.arpa
 .8.b.d.0.1.0.0.2.ip6.arpa
 .1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa

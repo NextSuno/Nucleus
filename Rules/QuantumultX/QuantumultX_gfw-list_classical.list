@@ -3,9 +3,9 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型
-# UPDATED: 2026-04-04 19:48:56
-# HOST-SUFFIX: 4206
-# TOTAL: 4206
+# UPDATED: 2026-04-13 22:14:13
+# HOST-SUFFIX: 4207
+# TOTAL: 4207
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,0rz.tw,PROXY
@@ -193,11 +193,9 @@ HOST-SUFFIX,angela-merkel.de,PROXY
 HOST-SUFFIX,angola.org,PROXY
 HOST-SUFFIX,angularjs.org,PROXY
 HOST-SUFFIX,aniscartujo.com,PROXY
-HOST-SUFFIX,annas-archive.in,PROXY
-HOST-SUFFIX,annas-archive.li,PROXY
-HOST-SUFFIX,annas-archive.org,PROXY
-HOST-SUFFIX,annas-archive.pm,PROXY
-HOST-SUFFIX,annas-archive.se,PROXY
+HOST-SUFFIX,annas-archive.gd,PROXY
+HOST-SUFFIX,annas-archive.gl,PROXY
+HOST-SUFFIX,annas-archive.pk,PROXY
 HOST-SUFFIX,anobii.com,PROXY
 HOST-SUFFIX,anonfiles.com,PROXY
 HOST-SUFFIX,anonymouse.org,PROXY
@@ -245,6 +243,7 @@ HOST-SUFFIX,appsocks.net,PROXY
 HOST-SUFFIX,appspot.com,PROXY
 HOST-SUFFIX,appsto.re,PROXY
 HOST-SUFFIX,aptoide.com,PROXY
+HOST-SUFFIX,archive-it.org,PROXY
 HOST-SUFFIX,archive.fo,PROXY
 HOST-SUFFIX,archive.is,PROXY
 HOST-SUFFIX,archive.li,PROXY
@@ -852,6 +851,7 @@ HOST-SUFFIX,cpj.org,PROXY
 HOST-SUFFIX,cpu-monkey.com,PROXY
 HOST-SUFFIX,cq99.us,PROXY
 HOST-SUFFIX,crackle.com,PROXY
+HOST-SUFFIX,crashlytics.com,PROXY
 HOST-SUFFIX,crazypool.org,PROXY
 HOST-SUFFIX,crazyshit.com,PROXY
 HOST-SUFFIX,crbug.com,PROXY
@@ -987,6 +987,7 @@ HOST-SUFFIX,dmcdn.net,PROXY
 HOST-SUFFIX,dmhy.org,PROXY
 HOST-SUFFIX,dmm.co.jp,PROXY
 HOST-SUFFIX,dns.cloudflare.com,PROXY
+HOST-SUFFIX,dns.sb,PROXY
 HOST-SUFFIX,dns2go.com,PROXY
 HOST-SUFFIX,dnscrypt.org,PROXY
 HOST-SUFFIX,dnssec.net,PROXY
@@ -997,6 +998,7 @@ HOST-SUFFIX,docker.io,PROXY
 HOST-SUFFIX,dockerstatus.com,PROXY
 HOST-SUFFIX,docs.new,PROXY
 HOST-SUFFIX,documentingreality.com,PROXY
+HOST-SUFFIX,doh.sb,PROXY
 HOST-SUFFIX,dolc.de,PROXY
 HOST-SUFFIX,dolf.org.hk,PROXY
 HOST-SUFFIX,dongtaiwang.com,PROXY
@@ -1004,6 +1006,7 @@ HOST-SUFFIX,dongtaiwang.net,PROXY
 HOST-SUFFIX,doom9.org,PROXY
 HOST-SUFFIX,doosho.com,PROXY
 HOST-SUFFIX,doourbest.org,PROXY
+HOST-SUFFIX,dot.sb,PROXY
 HOST-SUFFIX,dotplane.com,PROXY
 HOST-SUFFIX,dotsub.com,PROXY
 HOST-SUFFIX,dotvpn.com,PROXY
@@ -2316,7 +2319,6 @@ HOST-SUFFIX,mediafreakcity.com,PROXY
 HOST-SUFFIX,mediawiki.org,PROXY
 HOST-SUFFIX,medium.com,PROXY
 HOST-SUFFIX,meee.com.tw,PROXY
-HOST-SUFFIX,meetup.com,PROXY
 HOST-SUFFIX,mega.co.nz,PROXY
 HOST-SUFFIX,mega.io,PROXY
 HOST-SUFFIX,mega.nz,PROXY
@@ -2384,6 +2386,7 @@ HOST-SUFFIX,mirrorbooks.com,PROXY
 HOST-SUFFIX,mirrormedia.mg,PROXY
 HOST-SUFFIX,missav.com,PROXY
 HOST-SUFFIX,missav.ws,PROXY
+HOST-SUFFIX,mistral.ai,PROXY
 HOST-SUFFIX,mitbbs.com,PROXY
 HOST-SUFFIX,miuipolska.pl,PROXY
 HOST-SUFFIX,mixero.com,PROXY
@@ -2890,7 +2893,6 @@ HOST-SUFFIX,pursuestar.com,PROXY
 HOST-SUFFIX,putty.org,PROXY
 HOST-SUFFIX,pximg.net,PROXY
 HOST-SUFFIX,python.com.tw,PROXY
-HOST-SUFFIX,pytorch.org,PROXY
 HOST-SUFFIX,qbittorrent.org,PROXY
 HOST-SUFFIX,qgirl.com.tw,PROXY
 HOST-SUFFIX,qi-gong.me,PROXY
@@ -3051,6 +3053,7 @@ HOST-SUFFIX,savetibet.org,PROXY
 HOST-SUFFIX,savetibetstore.org,PROXY
 HOST-SUFFIX,saveuighur.org,PROXY
 HOST-SUFFIX,sbme.me,PROXY
+HOST-SUFFIX,sbti.unun.dev,PROXY
 HOST-SUFFIX,scache.vzw.com,PROXY
 HOST-SUFFIX,scache1.vzw.com,PROXY
 HOST-SUFFIX,scache2.vzw.com,PROXY
@@ -3355,7 +3358,6 @@ HOST-SUFFIX,tbsn.org,PROXY
 HOST-SUFFIX,tbssqh.org,PROXY
 HOST-SUFFIX,teachparentstech.org,PROXY
 HOST-SUFFIX,technews.tw,PROXY
-HOST-SUFFIX,techspot.com,PROXY
 HOST-SUFFIX,techviz.net,PROXY
 HOST-SUFFIX,teck.in,PROXY
 HOST-SUFFIX,teco-hk.org,PROXY
@@ -3369,7 +3371,6 @@ HOST-SUFFIX,telegram.me,PROXY
 HOST-SUFFIX,telegram.org,PROXY
 HOST-SUFFIX,telegram.space,PROXY
 HOST-SUFFIX,telegramdownload.com,PROXY
-HOST-SUFFIX,telegraph.co.uk,PROXY
 HOST-SUFFIX,telesco.pe,PROXY
 HOST-SUFFIX,tellapart.com,PROXY
 HOST-SUFFIX,temu.com,PROXY

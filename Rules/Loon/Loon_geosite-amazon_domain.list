@@ -3,9 +3,9 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Loon 规则中的 Domain 类型
-# UPDATED: 2026-04-04 19:45:15
+# UPDATED: 2026-04-13 21:45:51
 # DOMAIN: 12
-# DOMAIN-SUFFIX: 232
+# HOST-SUFFIX: 232
 # TOTAL: 244
 
 d1v5ir2lpwr8os.cloudfront.net
@@ -26,8 +26,10 @@ static.siege-amazon.com
 .kindle
 .imdb
 .aws
-.awstrust.com
-.amazonlaunchpad.com
+.createspace.com
+.amazonimages.com
+.aboutamazon.es
+.aboutamazon.eu
 .aboutamazon.fr
 .aboutamazon.in
 .aboutamazon.it
@@ -42,19 +44,18 @@ static.siege-amazon.com
 .amazon.ae
 .amazon.ca
 .amazon.cl
-.amazon.com
-.amazon.de
+.ss2.us
+.awstrust.com
+.amazontrust.com
+.amzndns.org
 .wholeplanetfoundation.org
 .wholekidsfoundation.org
 .wholefoodsmarket.com
-.amazonaws-china.com
 .wholefoods.com
 .wholecitiesfoundation.org
-.wfm.com
+.amazonaws-china.com
 .primevideo.tv
-.elasticbeanstalk.com
-.primevideo.info
-.primevideo.com
+.amazon.de
 .amazon.dev
 .amazon.eg
 .amazon.es
@@ -78,8 +79,8 @@ static.siege-amazon.com
 .amazondevicesupport.com
 .amazonfctours.com
 .amazonianblog.com
-.amazonimages.com
-.aesworkshops.com
+.amazonaws.biz
+.amazonlaunchpad.com
 .amazonliterarypartnership.com
 .amazonlumberyard.wang
 .amazonpay.com
@@ -104,17 +105,14 @@ static.siege-amazon.com
 .yamaxun.com
 .alexa.com
 .audible.com
-.createspace.com
-.amazontrust.com
-.aboutamazon.es
-.ss2.us
-.aboutamazon.de
-.awsbraket.com
 .primevideo.org
-.aboutamazon.eu
-.primevideo.cc
-.amazonaws.biz
-.amzndns.org
+.aboutamazon.com
+.awsbraket.com
+.elasticbeanstalk.com
+.aesworkshops.com
+.wfm.com
+.aboutamazon.de
+.amazon.com
 .amazonaws.com
 .amazonaws.info
 .amazonaws.net
@@ -154,10 +152,9 @@ static.siege-amazon.com
 .thinkboxsoftware.com
 .awsautoscaling.com
 .amzndns.com
-.prime-video.com
-.amazonvideo.com
-.amazonvideo.cc
-.aboutamazon.com
+.primevideo.info
+.primevideo.com
+.primevideo.cc
 .boxofficemojo.com
 .imdb.com
 .imdb.to
@@ -177,25 +174,28 @@ static.siege-amazon.com
 .kindleoasis.jp
 .kindleoasis.org
 .kindleoasis.us
-.amazonprimevideos.com
+.prime-video.com
+.amazonvideo.com
 .aiv-cdn.net
-.wholefoodsmarket.co.uk
-.amazonaws.co.uk
-.kindle.co.uk
-.amazon.com.br
-.amazon.com.tr
-.amazon.co.uk
-.amazon.com.ng
-.kindle.co.jp
+.amazonprimevideos.com
+.amazonvideo.cc
+.amazon.co.jp
+.aboutamazon.co.uk
 .amazon.com.co
 .amazon.com.mx
 .amzndns.co.uk
+.aboutamazon.com.au
+.amazon.com.tr
+.kindle.co.jp
+.amazon.com.ng
+.kindle.co.uk
+.amazonaws.co.uk
+.amazon.com.br
 .amazon.com.be
 .amazon.com.au
+.wholefoodsmarket.co.uk
 .amazon.co.za
-.amazon.co.jp
-.aboutamazon.com.au
-.aboutamazon.co.uk
+.amazon.co.uk
 .aboutamazon.cn
 .alexafund.cn
 .alexafund.com.cn

@@ -3,28 +3,28 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Classical 类型
-# UPDATED: 2026-04-04 20:42:09
+# UPDATED: 2026-04-13 21:48:06
 # DOMAIN-SUFFIX: 20
 # TOTAL: 20
 
 payload:
-    - DOMAIN-SUFFIX,cdn-telegram.org
-    - DOMAIN-SUFFIX,comments.app
-    - DOMAIN-SUFFIX,contest.com
-    - DOMAIN-SUFFIX,fragment.com
-    - DOMAIN-SUFFIX,graph.org
-    - DOMAIN-SUFFIX,quiz.directory
-    - DOMAIN-SUFFIX,t.me
-    - DOMAIN-SUFFIX,tdesktop.com
-    - DOMAIN-SUFFIX,telega.one
-    - DOMAIN-SUFFIX,telegra.ph
-    - DOMAIN-SUFFIX,telegram-cdn.org
-    - DOMAIN-SUFFIX,telegram.dog
-    - DOMAIN-SUFFIX,telegram.me
-    - DOMAIN-SUFFIX,telegram.org
-    - DOMAIN-SUFFIX,telegram.space
-    - DOMAIN-SUFFIX,telesco.pe
-    - DOMAIN-SUFFIX,tg.dev
-    - DOMAIN-SUFFIX,ton.org
-    - DOMAIN-SUFFIX,tx.me
-    - DOMAIN-SUFFIX,usercontent.dev
+  - DOMAIN-SUFFIX,cdn-telegram.org
+  - DOMAIN-SUFFIX,comments.app
+  - DOMAIN-SUFFIX,contest.com
+  - DOMAIN-SUFFIX,fragment.com
+  - DOMAIN-SUFFIX,graph.org
+  - DOMAIN-SUFFIX,quiz.directory
+  - DOMAIN-SUFFIX,t.me
+  - DOMAIN-SUFFIX,tdesktop.com
+  - DOMAIN-SUFFIX,telega.one
+  - DOMAIN-SUFFIX,telegra.ph
+  - DOMAIN-SUFFIX,telegram-cdn.org
+  - DOMAIN-SUFFIX,telegram.dog
+  - DOMAIN-SUFFIX,telegram.me
+  - DOMAIN-SUFFIX,telegram.org
+  - DOMAIN-SUFFIX,telegram.space
+  - DOMAIN-SUFFIX,telesco.pe
+  - DOMAIN-SUFFIX,tg.dev
+  - DOMAIN-SUFFIX,ton.org
+  - DOMAIN-SUFFIX,tx.me
+  - DOMAIN-SUFFIX,usercontent.dev

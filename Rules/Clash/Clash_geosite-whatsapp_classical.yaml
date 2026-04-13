@@ -3,21 +3,21 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Classical 类型
-# UPDATED: 2026-04-04 20:42:11
+# UPDATED: 2026-04-13 21:48:10
 # DOMAIN-SUFFIX: 13
 # TOTAL: 13
 
 payload:
-    - DOMAIN-SUFFIX,wa.me
-    - DOMAIN-SUFFIX,whatsapp-plus.info
-    - DOMAIN-SUFFIX,whatsapp-plus.me
-    - DOMAIN-SUFFIX,whatsapp-plus.net
-    - DOMAIN-SUFFIX,whatsapp.cc
-    - DOMAIN-SUFFIX,whatsapp.com
-    - DOMAIN-SUFFIX,whatsapp.info
-    - DOMAIN-SUFFIX,whatsapp.net
-    - DOMAIN-SUFFIX,whatsapp.org
-    - DOMAIN-SUFFIX,whatsapp.tv
-    - DOMAIN-SUFFIX,whatsappbrand.com
-    - DOMAIN-SUFFIX,graph.whatsapp.com
-    - DOMAIN-SUFFIX,graph.whatsapp.net
+  - DOMAIN-SUFFIX,wa.me
+  - DOMAIN-SUFFIX,whatsapp-plus.info
+  - DOMAIN-SUFFIX,whatsapp-plus.me
+  - DOMAIN-SUFFIX,whatsapp-plus.net
+  - DOMAIN-SUFFIX,whatsapp.cc
+  - DOMAIN-SUFFIX,whatsapp.com
+  - DOMAIN-SUFFIX,whatsapp.info
+  - DOMAIN-SUFFIX,whatsapp.net
+  - DOMAIN-SUFFIX,whatsapp.org
+  - DOMAIN-SUFFIX,whatsapp.tv
+  - DOMAIN-SUFFIX,whatsappbrand.com
+  - DOMAIN-SUFFIX,graph.whatsapp.com
+  - DOMAIN-SUFFIX,graph.whatsapp.net

@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型
-# UPDATED: 2026-04-04 19:47:07
-# HOST: 893
+# UPDATED: 2026-04-13 22:12:36
+# HOST: 895
 # HOST-SUFFIX: 11
-# TOTAL: 904
+# TOTAL: 906
 
 HOST,1500020991.vodplayer.wxamedia.com,REJECT
 HOST,1500022744.vodplayer.wxamedia.com,REJECT
@@ -204,6 +204,7 @@ HOST,ap.dongqiudi.com,REJECT
 HOST,apd-pcdnwxlogin.teg.tencent-cloud.net,REJECT
 HOST,apd-pcdnwxnat.teg.tencent-cloud.net,REJECT
 HOST,apd-pcdnwxstat.teg.tencent-cloud.net,REJECT
+HOST,api-access.pangolin-sdk-toutiao-b.com,REJECT
 HOST,api-access.pangolin-sdk-toutiao.com,REJECT
 HOST,api-access.pangolin-sdk-toutiao1.com,REJECT
 HOST,api-access.pangolin-sdk-toutiao2.com,REJECT
@@ -551,6 +552,7 @@ HOST,mobads-pre-config.cdn.bcebos.com,REJECT
 HOST,mobads.baidu.com,REJECT
 HOST,mobaliyun.res.mgtv.com,REJECT
 HOST,mobile.da.mgtv.com,REJECT
+HOST,mobile.events.data.microsoft.com,REJECT
 HOST,mobilead.kuwo.cn,REJECT
 HOST,mobilelog.kugou.com,REJECT
 HOST,mobilelog.upqzfile.com,REJECT

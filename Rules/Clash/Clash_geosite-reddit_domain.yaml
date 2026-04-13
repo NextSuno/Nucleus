@@ -3,20 +3,20 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Domain 类型
-# UPDATED: 2026-04-04 17:44:47
+# UPDATED: 2026-04-13 21:50:11
 # DOMAIN-SUFFIX: 12
 # TOTAL: 12
 
 payload:
-    - +.redd.it
-    - +.reddit.com
-    - +.redditblog.com
-    - +.reddithelp.com
-    - +.redditinc.com
-    - +.redditmail.com
-    - +.redditmedia.com
-    - +.redditspace.com
-    - +.redditstatic.com
-    - +.redditstatus.com
-    - +.reddit.app.link
-    - +.reddit.map.fastly.net
+  - +.redd.it
+  - +.reddit.com
+  - +.redditblog.com
+  - +.reddithelp.com
+  - +.redditinc.com
+  - +.redditmail.com
+  - +.redditmedia.com
+  - +.redditspace.com
+  - +.redditstatic.com
+  - +.redditstatus.com
+  - +.reddit.app.link
+  - +.reddit.map.fastly.net

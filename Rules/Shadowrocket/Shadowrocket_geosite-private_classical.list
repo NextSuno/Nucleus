@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Shadowrocket 规则中的 RULE-SET 类型
-# UPDATED: 2026-04-04 19:50:44
-# DOMAIN: 11
+# UPDATED: 2026-04-13 22:16:55
+# DOMAIN: 12
 # DOMAIN-SUFFIX: 118
-# TOTAL: 129
+# TOTAL: 130
 
 DOMAIN,instant.arubanetworks.com
 DOMAIN,setmeup.arubanetworks.com
@@ -19,6 +19,7 @@ DOMAIN,www.routerlogin.com
 DOMAIN,tplogin.cn
 DOMAIN,miwifi.com
 DOMAIN,www.miwifi.com
+DOMAIN,local.adguard.org
 DOMAIN-SUFFIX,internal
 DOMAIN-SUFFIX,localdomain
 DOMAIN-SUFFIX,example
@@ -27,34 +28,34 @@ DOMAIN-SUFFIX,localhost
 DOMAIN-SUFFIX,test
 DOMAIN-SUFFIX,local
 DOMAIN-SUFFIX,lan
-DOMAIN-SUFFIX,plex.direct
-DOMAIN-SUFFIX,peiluyou.com
+DOMAIN-SUFFIX,router.ctc
+DOMAIN-SUFFIX,my.router
 DOMAIN-SUFFIX,home.arpa
 DOMAIN-SUFFIX,zte.home
 DOMAIN-SUFFIX,tplinkwifi.net
 DOMAIN-SUFFIX,tendawifi.com
+DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,hiwifi.com
-DOMAIN-SUFFIX,leike.cc
-DOMAIN-SUFFIX,router.ctc
 DOMAIN-SUFFIX,phicomm.me
+DOMAIN-SUFFIX,peiluyou.com
 DOMAIN-SUFFIX,ts.net
-DOMAIN-SUFFIX,my.router
+DOMAIN-SUFFIX,leike.cc
 DOMAIN-SUFFIX,127.in-addr.arpa
-DOMAIN-SUFFIX,test.steampowered.com
 DOMAIN-SUFFIX,10.in-addr.arpa
 DOMAIN-SUFFIX,82.100.in-addr.arpa
-DOMAIN-SUFFIX,94.100.in-addr.arpa
+DOMAIN-SUFFIX,93.100.in-addr.arpa
+DOMAIN-SUFFIX,29.172.in-addr.arpa
 DOMAIN-SUFFIX,30.172.in-addr.arpa
 DOMAIN-SUFFIX,31.172.in-addr.arpa
 DOMAIN-SUFFIX,16.172.in-addr.arpa
 DOMAIN-SUFFIX,17.172.in-addr.arpa
-DOMAIN-SUFFIX,28.172.in-addr.arpa
+DOMAIN-SUFFIX,27.172.in-addr.arpa
 DOMAIN-SUFFIX,168.192.in-addr.arpa
 DOMAIN-SUFFIX,254.169.in-addr.arpa
 DOMAIN-SUFFIX,18.172.in-addr.arpa
-DOMAIN-SUFFIX,19.172.in-addr.arpa
 DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
 DOMAIN-SUFFIX,localhost.sec.qq.com
+DOMAIN-SUFFIX,19.172.in-addr.arpa
 DOMAIN-SUFFIX,20.172.in-addr.arpa
 DOMAIN-SUFFIX,21.172.in-addr.arpa
 DOMAIN-SUFFIX,22.172.in-addr.arpa
@@ -77,7 +78,7 @@ DOMAIN-SUFFIX,78.100.in-addr.arpa
 DOMAIN-SUFFIX,79.100.in-addr.arpa
 DOMAIN-SUFFIX,80.100.in-addr.arpa
 DOMAIN-SUFFIX,81.100.in-addr.arpa
-DOMAIN-SUFFIX,27.172.in-addr.arpa
+DOMAIN-SUFFIX,26.172.in-addr.arpa
 DOMAIN-SUFFIX,83.100.in-addr.arpa
 DOMAIN-SUFFIX,84.100.in-addr.arpa
 DOMAIN-SUFFIX,85.100.in-addr.arpa
@@ -88,8 +89,8 @@ DOMAIN-SUFFIX,89.100.in-addr.arpa
 DOMAIN-SUFFIX,90.100.in-addr.arpa
 DOMAIN-SUFFIX,91.100.in-addr.arpa
 DOMAIN-SUFFIX,92.100.in-addr.arpa
-DOMAIN-SUFFIX,93.100.in-addr.arpa
-DOMAIN-SUFFIX,29.172.in-addr.arpa
+DOMAIN-SUFFIX,28.172.in-addr.arpa
+DOMAIN-SUFFIX,94.100.in-addr.arpa
 DOMAIN-SUFFIX,95.100.in-addr.arpa
 DOMAIN-SUFFIX,96.100.in-addr.arpa
 DOMAIN-SUFFIX,97.100.in-addr.arpa
@@ -123,7 +124,6 @@ DOMAIN-SUFFIX,124.100.in-addr.arpa
 DOMAIN-SUFFIX,125.100.in-addr.arpa
 DOMAIN-SUFFIX,126.100.in-addr.arpa
 DOMAIN-SUFFIX,127.100.in-addr.arpa
-DOMAIN-SUFFIX,26.172.in-addr.arpa
 DOMAIN-SUFFIX,25.172.in-addr.arpa
 DOMAIN-SUFFIX,24.172.in-addr.arpa
 DOMAIN-SUFFIX,23.172.in-addr.arpa
@@ -134,6 +134,7 @@ DOMAIN-SUFFIX,8.e.f.ip6.arpa
 DOMAIN-SUFFIX,113.0.203.in-addr.arpa
 DOMAIN-SUFFIX,100.51.198.in-addr.arpa
 DOMAIN-SUFFIX,2.0.192.in-addr.arpa
+DOMAIN-SUFFIX,kis.v2.scr.kaspersky-labs.com
 DOMAIN-SUFFIX,255.255.255.255.in-addr.arpa
 DOMAIN-SUFFIX,8.b.d.0.1.0.0.2.ip6.arpa
 DOMAIN-SUFFIX,1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa

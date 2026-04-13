@@ -3,22 +3,22 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Classical 类型
-# UPDATED: 2026-04-04 20:41:37
+# UPDATED: 2026-04-13 21:47:35
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 12
 # TOTAL: 13
 
 payload:
-    - DOMAIN,www.speedtest.net.cdn.cloudflare.net
-    - DOMAIN-SUFFIX,cdnst.net
-    - DOMAIN-SUFFIX,cellmaps.com
-    - DOMAIN-SUFFIX,ekahau.cloud
-    - DOMAIN-SUFFIX,ekahau.com
-    - DOMAIN-SUFFIX,ookla.com
-    - DOMAIN-SUFFIX,ooklaserver.net
-    - DOMAIN-SUFFIX,pingtest.net
-    - DOMAIN-SUFFIX,speedtest.co
-    - DOMAIN-SUFFIX,speedtest.net
-    - DOMAIN-SUFFIX,speedtestcustom.com
-    - DOMAIN-SUFFIX,webtest.net
-    - DOMAIN-SUFFIX,ookla-speedtest-central.hgconair.hgc.com.hk
+  - DOMAIN,www.speedtest.net.cdn.cloudflare.net
+  - DOMAIN-SUFFIX,cdnst.net
+  - DOMAIN-SUFFIX,cellmaps.com
+  - DOMAIN-SUFFIX,ekahau.cloud
+  - DOMAIN-SUFFIX,ekahau.com
+  - DOMAIN-SUFFIX,ookla.com
+  - DOMAIN-SUFFIX,ooklaserver.net
+  - DOMAIN-SUFFIX,pingtest.net
+  - DOMAIN-SUFFIX,speedtest.co
+  - DOMAIN-SUFFIX,speedtest.net
+  - DOMAIN-SUFFIX,speedtestcustom.com
+  - DOMAIN-SUFFIX,webtest.net
+  - DOMAIN-SUFFIX,ookla-speedtest-central.hgconair.hgc.com.hk

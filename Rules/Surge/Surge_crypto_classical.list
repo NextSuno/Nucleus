@@ -3,11 +3,12 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Surge 规则中的 RULE-SET 类型
-# UPDATED: 2026-04-04 20:00:14
+# UPDATED: 2026-04-13 22:20:56
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 251
 # DOMAIN-KEYWORD: 4
-# TOTAL: 257
+# PROCESS-NAME: 3
+# TOTAL: 260
 
 DOMAIN-SUFFIX,bitcointalk.org
 DOMAIN-SUFFIX,aex.com
@@ -80,6 +81,7 @@ DOMAIN-SUFFIX,bnappzh.mobi
 DOMAIN-SUFFIX,bsc.getblock.io
 DOMAIN-SUFFIX,bscscan.com
 DOMAIN-SUFFIX,binancecnt.com
+PROCESS-NAME,Binance.exe
 DOMAIN-KEYWORD,binance
 DOMAIN-SUFFIX,binanceapi.com
 DOMAIN-SUFFIX,bnbstatic.com
@@ -102,12 +104,14 @@ DOMAIN-SUFFIX,huobi.ws
 DOMAIN-SUFFIX,huobi.ug
 DOMAIN-SUFFIX,huobi.co.ma
 DOMAIN-SUFFIX,huobi.br.com
+PROCESS-NAME,Huobi.exe
 DOMAIN-KEYWORD,huobi
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,okx-dns.com
 DOMAIN-SUFFIX,okx-dns1.com
 DOMAIN-SUFFIX,okx-dns2.com
+PROCESS-NAME,OKX.exe
 DOMAIN-KEYWORD,okx
 DOMAIN-SUFFIX,asproex.com
 DOMAIN-SUFFIX,asproexapi.com

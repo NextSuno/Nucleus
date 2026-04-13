@@ -3,7 +3,7 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型，添加 no-resolve 参数
-# UPDATED: 2026-04-04 19:48:04
+# UPDATED: 2026-04-13 22:13:27
 # TOTAL: 0
 
 IP-CIDR,31.13.24.0/21,PROXY,no-resolve
@@ -53,6 +53,7 @@ IP-CIDR,157.240.132.0/24,PROXY,no-resolve
 IP-CIDR,157.240.134.0/24,PROXY,no-resolve
 IP-CIDR,157.240.136.0/23,PROXY,no-resolve
 IP-CIDR,157.240.139.0/24,PROXY,no-resolve
+IP-CIDR,157.240.140.0/24,PROXY,no-resolve
 IP-CIDR,157.240.156.0/22,PROXY,no-resolve
 IP-CIDR,157.240.169.0/24,PROXY,no-resolve
 IP-CIDR,157.240.170.0/24,PROXY,no-resolve
@@ -105,8 +106,7 @@ IP6-CIDR,2a03:2887:ff5f::/48,PROXY,no-resolve
 IP6-CIDR,2a03:2887:ff60::/48,PROXY,no-resolve
 IP6-CIDR,2a03:2887:ff62::/47,PROXY,no-resolve
 IP6-CIDR,2a03:2887:ff64::/46,PROXY,no-resolve
-IP6-CIDR,2a03:2887:ff68::/47,PROXY,no-resolve
-IP6-CIDR,2a03:2887:ff6a::/48,PROXY,no-resolve
+IP6-CIDR,2a03:2887:ff68::/46,PROXY,no-resolve
 IP6-CIDR,2a03:2887:ff70::/47,PROXY,no-resolve
 IP6-CIDR,2a03:2887:ff73::/48,PROXY,no-resolve
 IP6-CIDR,2c0f:ef78:3::/48,PROXY,no-resolve

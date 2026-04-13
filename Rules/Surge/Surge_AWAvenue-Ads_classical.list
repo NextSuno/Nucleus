@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Surge 规则中的 RULE-SET 类型
-# UPDATED: 2026-04-04 19:59:44
-# DOMAIN: 893
+# UPDATED: 2026-04-13 22:20:42
+# DOMAIN: 895
 # DOMAIN-SUFFIX: 11
-# TOTAL: 904
+# TOTAL: 906
 
 DOMAIN,1500020991.vodplayer.wxamedia.com
 DOMAIN,1500022744.vodplayer.wxamedia.com
@@ -204,6 +204,7 @@ DOMAIN,ap.dongqiudi.com
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
 DOMAIN,apd-pcdnwxnat.teg.tencent-cloud.net
 DOMAIN,apd-pcdnwxstat.teg.tencent-cloud.net
+DOMAIN,api-access.pangolin-sdk-toutiao-b.com
 DOMAIN,api-access.pangolin-sdk-toutiao.com
 DOMAIN,api-access.pangolin-sdk-toutiao1.com
 DOMAIN,api-access.pangolin-sdk-toutiao2.com
@@ -551,6 +552,7 @@ DOMAIN,mobads-pre-config.cdn.bcebos.com
 DOMAIN,mobads.baidu.com
 DOMAIN,mobaliyun.res.mgtv.com
 DOMAIN,mobile.da.mgtv.com
+DOMAIN,mobile.events.data.microsoft.com
 DOMAIN,mobilead.kuwo.cn
 DOMAIN,mobilelog.kugou.com
 DOMAIN,mobilelog.upqzfile.com

@@ -3,37 +3,37 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Domain 类型
-# UPDATED: 2026-04-04 17:44:46
+# UPDATED: 2026-04-13 21:50:09
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 26
 # TOTAL: 28
 
 payload:
-    - discord-attachments-uploads-prd.storage.googleapis.com
-    - hammerandchisel.ssl.zendesk.com
-    - +.dis.gd
-    - +.discord.co
-    - +.discord.com
-    - +.discord.design
-    - +.discord.dev
-    - +.discord.gg
-    - +.discord.gift
-    - +.discord.gifts
-    - +.discord.media
-    - +.discord.new
-    - +.discord.store
-    - +.discord.tools
-    - +.discord-activities.com
-    - +.discordactivities.com
-    - +.discordapp.com
-    - +.discordapp.net
-    - +.discordmerch.com
-    - +.discordpartygames.com
-    - +.discordsays.com
-    - +.discordstatus.com
-    - +.airhorn.solutions
-    - +.airhornbot.com
-    - +.bigbeans.solutions
-    - +.watchanimeattheoffice.com
-    - +.discordapp.io
-    - +.discordcdn.com
+  - discord-attachments-uploads-prd.storage.googleapis.com
+  - hammerandchisel.ssl.zendesk.com
+  - +.dis.gd
+  - +.discord.co
+  - +.discord.com
+  - +.discord.design
+  - +.discord.dev
+  - +.discord.gg
+  - +.discord.gift
+  - +.discord.gifts
+  - +.discord.media
+  - +.discord.new
+  - +.discord.store
+  - +.discord.tools
+  - +.discord-activities.com
+  - +.discordactivities.com
+  - +.discordapp.com
+  - +.discordapp.net
+  - +.discordmerch.com
+  - +.discordpartygames.com
+  - +.discordsays.com
+  - +.discordstatus.com
+  - +.airhorn.solutions
+  - +.airhornbot.com
+  - +.bigbeans.solutions
+  - +.watchanimeattheoffice.com
+  - +.discordapp.io
+  - +.discordcdn.com

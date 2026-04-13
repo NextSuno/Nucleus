@@ -3,24 +3,24 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Classical 类型
-# UPDATED: 2026-04-04 20:42:21
+# UPDATED: 2026-04-13 21:48:23
 # DOMAIN-SUFFIX: 16
 # TOTAL: 16
 
 payload:
-    - DOMAIN-SUFFIX,onedrive
-    - DOMAIN-SUFFIX,onedriveupdater
-    - DOMAIN-SUFFIX,sharepointonline.com
-    - DOMAIN-SUFFIX,microsoftpersonalcontent.com
-    - DOMAIN-SUFFIX,onedrive.com
-    - DOMAIN-SUFFIX,sharepoint.cn
-    - DOMAIN-SUFFIX,livefilestore.com
-    - DOMAIN-SUFFIX,sharepoint.com
-    - DOMAIN-SUFFIX,1drv.com
-    - DOMAIN-SUFFIX,storage.msn.com
-    - DOMAIN-SUFFIX,spoprod-a.akamaihd.net
-    - DOMAIN-SUFFIX,storage.live.com
-    - DOMAIN-SUFFIX,oneclient.sfx.ms
-    - DOMAIN-SUFFIX,photos.live.com
-    - DOMAIN-SUFFIX,onedrive.live.com
-    - DOMAIN-SUFFIX,skydrive.wns.windows.com
+  - DOMAIN-SUFFIX,onedrive
+  - DOMAIN-SUFFIX,onedriveupdater
+  - DOMAIN-SUFFIX,sharepointonline.com
+  - DOMAIN-SUFFIX,microsoftpersonalcontent.com
+  - DOMAIN-SUFFIX,onedrive.com
+  - DOMAIN-SUFFIX,sharepoint.cn
+  - DOMAIN-SUFFIX,livefilestore.com
+  - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,1drv.com
+  - DOMAIN-SUFFIX,storage.msn.com
+  - DOMAIN-SUFFIX,spoprod-a.akamaihd.net
+  - DOMAIN-SUFFIX,storage.live.com
+  - DOMAIN-SUFFIX,oneclient.sfx.ms
+  - DOMAIN-SUFFIX,photos.live.com
+  - DOMAIN-SUFFIX,onedrive.live.com
+  - DOMAIN-SUFFIX,skydrive.wns.windows.com

@@ -3,32 +3,32 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Classical 类型
-# UPDATED: 2026-04-04 20:41:49
+# UPDATED: 2026-04-13 21:47:47
 # DOMAIN: 10
 # DOMAIN-SUFFIX: 13
 # TOTAL: 23
 
 payload:
-    - DOMAIN,d1v5ir2lpwr8os.cloudfront.net
-    - DOMAIN,d22qjgkvxw22r6.cloudfront.net
-    - DOMAIN,d25xi40x97liuc.cloudfront.net
-    - DOMAIN,d27xxe7juh1us6.cloudfront.net
-    - DOMAIN,dmqdd6hw24ucf.cloudfront.net
-    - DOMAIN,images-eu.ssl-images-amazon.com
-    - DOMAIN,images-na.ssl-images-amazon.com
-    - DOMAIN,images-fe.ssl-images-amazon.com
-    - DOMAIN,msh.amazon.co.uk
-    - DOMAIN,static.siege-amazon.com
-    - DOMAIN-SUFFIX,aiv-cdn.net
-    - DOMAIN-SUFFIX,amazonprimevideos.com
-    - DOMAIN-SUFFIX,amazonvideo.cc
-    - DOMAIN-SUFFIX,amazonvideo.com
-    - DOMAIN-SUFFIX,prime-video.com
-    - DOMAIN-SUFFIX,primevideo.cc
-    - DOMAIN-SUFFIX,primevideo.com
-    - DOMAIN-SUFFIX,primevideo.info
-    - DOMAIN-SUFFIX,primevideo.org
-    - DOMAIN-SUFFIX,primevideo.tv
-    - DOMAIN-SUFFIX,prod.service.minerva.devices.a2z.com
-    - DOMAIN-SUFFIX,amazonprimevideo.cn
-    - DOMAIN-SUFFIX,amazonprimevideo.com.cn
+  - DOMAIN,d1v5ir2lpwr8os.cloudfront.net
+  - DOMAIN,d22qjgkvxw22r6.cloudfront.net
+  - DOMAIN,d25xi40x97liuc.cloudfront.net
+  - DOMAIN,d27xxe7juh1us6.cloudfront.net
+  - DOMAIN,dmqdd6hw24ucf.cloudfront.net
+  - DOMAIN,images-eu.ssl-images-amazon.com
+  - DOMAIN,images-na.ssl-images-amazon.com
+  - DOMAIN,images-fe.ssl-images-amazon.com
+  - DOMAIN,msh.amazon.co.uk
+  - DOMAIN,static.siege-amazon.com
+  - DOMAIN-SUFFIX,aiv-cdn.net
+  - DOMAIN-SUFFIX,amazonprimevideos.com
+  - DOMAIN-SUFFIX,amazonvideo.cc
+  - DOMAIN-SUFFIX,amazonvideo.com
+  - DOMAIN-SUFFIX,prime-video.com
+  - DOMAIN-SUFFIX,primevideo.cc
+  - DOMAIN-SUFFIX,primevideo.com
+  - DOMAIN-SUFFIX,primevideo.info
+  - DOMAIN-SUFFIX,primevideo.org
+  - DOMAIN-SUFFIX,primevideo.tv
+  - DOMAIN-SUFFIX,prod.service.minerva.devices.a2z.com
+  - DOMAIN-SUFFIX,amazonprimevideo.cn
+  - DOMAIN-SUFFIX,amazonprimevideo.com.cn
