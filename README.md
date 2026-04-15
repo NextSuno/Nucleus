@@ -90,7 +90,7 @@ SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
    - 联系人/机构：`Lunnin`
 
-   - 联系邮箱：`llavabyte@gmail.com`
+   - 联系邮箱：``
 
    - 辅助渠道：仓库 Issue（建议同步发送邮件确认）
 
