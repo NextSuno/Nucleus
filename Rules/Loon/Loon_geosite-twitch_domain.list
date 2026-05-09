@@ -3,14 +3,15 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Loon 规则中的 Domain 类型
-# UPDATED: 2026-04-13 21:45:06
-# DOMAIN: 25
-# HOST-SUFFIX: 7
-# TOTAL: 32
+# UPDATED: 2026-05-09 22:30:05
+# DOMAIN: 26
+# HOST-SUFFIX: 8
+# TOTAL: 34
 
 d1g1f25tn8m2e6.cloudfront.net
 d1m7jfoe9zdc1j.cloudfront.net
 d1mhjrowxxagfy.cloudfront.net
+d1ndex63qxojbr.cloudfront.net
 d1oca24q5dwo6d.cloudfront.net
 d1w2poirtb3as9.cloudfront.net
 d1xhnb4ptk05mw.cloudfront.net
@@ -39,4 +40,5 @@ dykkng5hnh52u.cloudfront.net
 .ttvnw.net
 .twitch.tv
 .twitchcdn.net
+.twitchcon.com
 .twitchsvc.net

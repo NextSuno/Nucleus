@@ -3,14 +3,15 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Loon 规则中的 Classical 类型
-# UPDATED: 2026-04-13 21:41:19
-# DOMAIN: 25
-# DOMAIN-SUFFIX: 7
-# TOTAL: 32
+# UPDATED: 2026-05-09 22:27:49
+# DOMAIN: 26
+# DOMAIN-SUFFIX: 8
+# TOTAL: 34
 
 DOMAIN,d1g1f25tn8m2e6.cloudfront.net
 DOMAIN,d1m7jfoe9zdc1j.cloudfront.net
 DOMAIN,d1mhjrowxxagfy.cloudfront.net
+DOMAIN,d1ndex63qxojbr.cloudfront.net
 DOMAIN,d1oca24q5dwo6d.cloudfront.net
 DOMAIN,d1w2poirtb3as9.cloudfront.net
 DOMAIN,d1xhnb4ptk05mw.cloudfront.net
@@ -39,4 +40,5 @@ DOMAIN-SUFFIX,live-video.net
 DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net
+DOMAIN-SUFFIX,twitchcon.com
 DOMAIN-SUFFIX,twitchsvc.net

@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Classical 类型，添加 no-resolve 参数
-# UPDATED: 2026-04-13 21:48:05
+# UPDATED: 2026-05-09 21:59:40
 # IP-CIDR: 68
-# IP-CIDR6: 41
-# TOTAL: 109
+# IP-CIDR6: 39
+# TOTAL: 107
 
 payload:
   - IP-CIDR,31.13.24.0/21,no-resolve
@@ -47,7 +47,7 @@ payload:
   - IP-CIDR,129.134.164.0/23,no-resolve
   - IP-CIDR,129.134.168.0/21,no-resolve
   - IP-CIDR,129.134.176.0/20,no-resolve
-  - IP-CIDR,129.134.194.0/24,no-resolve
+  - IP-CIDR,129.134.194.0/23,no-resolve
   - IP-CIDR,129.134.196.0/24,no-resolve
   - IP-CIDR,157.240.0.0/17,no-resolve
   - IP-CIDR,157.240.128.0/23,no-resolve
@@ -92,7 +92,6 @@ payload:
   - IP-CIDR6,2a03:2887:ff22::/47,no-resolve
   - IP-CIDR6,2a03:2887:ff28::/46,no-resolve
   - IP-CIDR6,2a03:2887:ff2f::/48,no-resolve
-  - IP-CIDR6,2a03:2887:ff30::/48,no-resolve
   - IP-CIDR6,2a03:2887:ff33::/48,no-resolve
   - IP-CIDR6,2a03:2887:ff37::/48,no-resolve
   - IP-CIDR6,2a03:2887:ff38::/46,no-resolve
@@ -110,8 +109,7 @@ payload:
   - IP-CIDR6,2a03:2887:ff62::/47,no-resolve
   - IP-CIDR6,2a03:2887:ff64::/46,no-resolve
   - IP-CIDR6,2a03:2887:ff68::/46,no-resolve
-  - IP-CIDR6,2a03:2887:ff70::/47,no-resolve
-  - IP-CIDR6,2a03:2887:ff73::/48,no-resolve
+  - IP-CIDR6,2a03:2887:ff70::/46,no-resolve
   - IP-CIDR6,2c0f:ef78:3::/48,no-resolve
   - IP-CIDR6,2c0f:ef78:5::/48,no-resolve
   - IP-CIDR6,2c0f:ef78:9::/48,no-resolve

@@ -3,7 +3,7 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Loon 规则中的 Domain 类型
-# UPDATED: 2026-04-13 21:45:14
+# UPDATED: 2026-05-09 22:30:11
 # DOMAIN: 4
 # HOST-SUFFIX: 152
 # TOTAL: 156
@@ -16,17 +16,16 @@ espndotcom.tt.omtrdc.net
 .disney.bg
 .disney.ca
 .disney.ch
+.dmed.technology
+.edgedatg.com
+.abc.com
+.abc-studios.com
 .starplus.com
+.disney.com
 .starott.com
 .ngeo.com
 .nationalgeographicpartners.com
 .nationalgeographic.com
-.natgeomaps.com
-.disney.com
-.themarvelexperiencetour.com
-.marvelsuperwar.com
-.marvelsuperheroseptember.com
-.marvelspotlightplays.com
 .disney.cz
 .disney.de
 .disney.dk
@@ -49,19 +48,19 @@ espndotcom.tt.omtrdc.net
 .disney.ru
 .disney.se
 .disney.sg
-.marvelsdoubleagent.com
-.marvelpinball.com
+.natgeomaps.com
+.themarvelexperiencetour.com
 .20thcenturystudios.jp
 .adventuresbydisney.com
 .babble.com
 .babyzone.com
 .disneymagicmomentsme.com
-.marvelparty.net
+.marvelsuperwar.com
 .dilcdn.com
 .disney-asia.com
 .disney-discount.com
 .disney-plus.net
-.marveldimensionofheroes.com
+.marvelsuperheroseptember.com
 .disney-studio.com
 .disney-studio.net
 .disneyadsales.com
@@ -80,13 +79,13 @@ espndotcom.tt.omtrdc.net
 .disneyjunior.com
 .disneyjuniortreataday.com
 .disneylatino.com
-.marvel10thanniversary.com
-.marvel.com
-.hotstarext.com
+.marvelspotlightplays.com
+.marvelsdoubleagent.com
+.marvelpinball.com
 .disneymagicmoments.de
 .disneymagicmoments.es
 .disneymagicmoments.fr
-.hotstar-labs.com
+.marvelparty.net
 .disneymagicmoments.gr
 .disneymagicmoments.it
 .disneyarena.com
@@ -98,16 +97,16 @@ espndotcom.tt.omtrdc.net
 .disneynewseries.com
 .disneynow.com
 .disneypeoplesurveys.com
-.hotstar-cdn.net
+.marveldimensionofheroes.com
 .disneyplus.com
-.hotstar.com
+.marvel10thanniversary.com
 .disneyredirects.com
 .disneyme.com
 .disneystore.com
 .disneystreaming.com
 .disneysubscription.com
-.watchespn.com
-.espnqa.com
+.marvel.com
+.hotstarext.com
 .disneytvajobs.com
 .disneyworld-go.com
 .dssott.com
@@ -130,37 +129,38 @@ espndotcom.tt.omtrdc.net
 .thestationbymaker.com
 .disney.asia
 .watchdisneyfe.com
-.abc-studios.com
-.abc.com
-.edgedatg.com
-.dmed.technology
 .dtci.co
 .dtci.technology
 .espn.com
 .espn.net
 .espncdn.com
+.espnqa.com
+.watchespn.com
+.hotstar-labs.com
+.hotstar.com
+.hotstar-cdn.net
+.disneytickets.co.uk
 .disney.co.kr
-.disney.co.uk
-.espn.co.uk
+.hsprepack.akamaized.net
 .disney.com.tw
+.20thcenturystudios.com.br
 .disneyplus.bn5x.net
 .disneymagicmoments.gen.tr
 .disneymagicmoments.co.za
-.hsprepack.akamaized.net
 .disneymagicmoments.co.uk
 .disneymagicmoments.co.il
 .disney.com.hk
 .beautyandthebeastmusical.co.uk
-.20thcenturystudios.com.br
-.disneytickets.co.uk
-.disney.co.za
 .disney.co.il
+.20thcenturystudios.com.au
+.disney.co.za
+.disney.co.jp
 .disney.com.br
 .disney.com.au
-.disney.co.jp
-.20thcenturystudios.com.au
-.disney.co.th
+.espn.co.uk
 .disneyturkiye.com.tr
+.disney.co.th
+.disney.co.uk
 .disney-portal.my.onetrust.com
 .disneyplus.com.ssl.sc.omtrdc.net
 disney.my.sentry.io
