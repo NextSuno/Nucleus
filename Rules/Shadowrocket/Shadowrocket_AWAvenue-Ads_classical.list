@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Shadowrocket 规则中的 RULE-SET 类型
-# UPDATED: 2026-04-13 22:17:00
-# DOMAIN: 895
+# UPDATED: 2026-06-16 16:13:41
+# DOMAIN: 889
 # DOMAIN-SUFFIX: 11
-# TOTAL: 906
+# TOTAL: 900
 
 DOMAIN,1500020991.vodplayer.wxamedia.com
 DOMAIN,1500022744.vodplayer.wxamedia.com
@@ -124,6 +124,7 @@ DOMAIN,adsfile.qq.com
 DOMAIN,adsfilebssdlbig.ali.kugou.com
 DOMAIN,adsfileretry.service.kugou.com
 DOMAIN,adsfs-sdkconfig.heytapimage.com
+DOMAIN,adsfs.heytapimage.com
 DOMAIN,adsfs.oppomobile.com
 DOMAIN,adslvfile.qq.com
 DOMAIN,adsmart.konka.com
@@ -342,7 +343,6 @@ DOMAIN,domain.aishengji.com
 DOMAIN,doubleclick-cn.net
 DOMAIN,download.changhong.upgrade2.huan.tv
 DOMAIN,downloadxml.changhong.upgrade2.huan.tv
-DOMAIN,drcn-weather.cloud.huawei.com
 DOMAIN,dsp-x.jd.com
 DOMAIN,dsp.fcbox.com
 DOMAIN,dualstack-logs.amap.com
@@ -770,23 +770,17 @@ DOMAIN,tmfmazu-wangka.m.qq.com
 DOMAIN,tmfmazu.m.qq.com
 DOMAIN,tmfsdk.m.qq.com
 DOMAIN,tmfsdktcpv4.m.qq.com
-DOMAIN,tnc0-aliec2.zijieapi.com
-DOMAIN,tnc0-alisc1.zijieapi.com
 DOMAIN,tnc0-bjlgy.zijieapi.com
 DOMAIN,tnc3-aliec1.toutiaoapi.com
 DOMAIN,tnc3-aliec2.bytedance.com
 DOMAIN,tnc3-aliec2.snssdk.com
 DOMAIN,tnc3-aliec2.toutiaoapi.com
-DOMAIN,tnc3-aliec2.zijieapi.com
 DOMAIN,tnc3-alisc1.bytedance.com
 DOMAIN,tnc3-alisc1.snssdk.com
 DOMAIN,tnc3-alisc1.toutiaoapi.com
-DOMAIN,tnc3-alisc1.zijieapi.com
-DOMAIN,tnc3-alisc2.zijieapi.com
 DOMAIN,tnc3-bjlgy.bytedance.com
 DOMAIN,tnc3-bjlgy.snssdk.com
 DOMAIN,tnc3-bjlgy.toutiaoapi.com
-DOMAIN,tnc3-bjlgy.zijieapi.com
 DOMAIN,toblog.ctobsnssdk.com
 DOMAIN,tpa-hcdn.iqiyi.com
 DOMAIN,tpc.googlesyndication-cn.com

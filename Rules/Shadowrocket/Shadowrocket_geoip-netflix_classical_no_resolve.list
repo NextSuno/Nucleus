@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Shadowrocket 规则中的 RULE-SET 类型，添加 no-resolve 参数
-# UPDATED: 2026-04-13 22:17:20
+# UPDATED: 2026-06-16 16:14:01
 # IP-CIDR: 23
-# IP-CIDR6: 56
-# TOTAL: 79
+# IP-CIDR6: 60
+# TOTAL: 83
 
 IP-CIDR,23.246.0.0/18,no-resolve
 IP-CIDR,37.77.184.0/21,no-resolve
@@ -44,18 +44,22 @@ IP-CIDR6,2a03:5640:f041::/48,no-resolve
 IP-CIDR6,2a03:5640:f043::/48,no-resolve
 IP-CIDR6,2a03:5640:f044::/48,no-resolve
 IP-CIDR6,2a03:5640:f04b::/48,no-resolve
-IP-CIDR6,2a03:5640:f050::/47,no-resolve
-IP-CIDR6,2a03:5640:f054::/46,no-resolve
+IP-CIDR6,2a03:5640:f050::/48,no-resolve
+IP-CIDR6,2a03:5640:f055::/48,no-resolve
+IP-CIDR6,2a03:5640:f056::/47,no-resolve
 IP-CIDR6,2a03:5640:f058::/45,no-resolve
 IP-CIDR6,2a03:5640:f060::/43,no-resolve
 IP-CIDR6,2a03:5640:f080::/41,no-resolve
 IP-CIDR6,2a03:5640:f140::/47,no-resolve
 IP-CIDR6,2a03:5640:f142::/48,no-resolve
-IP-CIDR6,2a03:5640:f150::/44,no-resolve
+IP-CIDR6,2a03:5640:f152::/47,no-resolve
+IP-CIDR6,2a03:5640:f154::/46,no-resolve
+IP-CIDR6,2a03:5640:f158::/45,no-resolve
 IP-CIDR6,2a03:5640:f160::/43,no-resolve
 IP-CIDR6,2a03:5640:f180::/41,no-resolve
 IP-CIDR6,2a03:5640:f233::/48,no-resolve
-IP-CIDR6,2a03:5640:f234::/46,no-resolve
+IP-CIDR6,2a03:5640:f234::/48,no-resolve
+IP-CIDR6,2a03:5640:f236::/48,no-resolve
 IP-CIDR6,2a03:5640:f238::/45,no-resolve
 IP-CIDR6,2a03:5640:f240::/42,no-resolve
 IP-CIDR6,2a03:5640:f280::/41,no-resolve
@@ -71,7 +75,7 @@ IP-CIDR6,2a03:5640:f400::/40,no-resolve
 IP-CIDR6,2a03:5640:f501::/48,no-resolve
 IP-CIDR6,2a03:5640:f506::/48,no-resolve
 IP-CIDR6,2a03:5640:f523::/48,no-resolve
-IP-CIDR6,2a03:5640:f524::/46,no-resolve
+IP-CIDR6,2a03:5640:f526::/47,no-resolve
 IP-CIDR6,2a03:5640:f528::/45,no-resolve
 IP-CIDR6,2a03:5640:f536::/47,no-resolve
 IP-CIDR6,2a03:5640:f538::/45,no-resolve

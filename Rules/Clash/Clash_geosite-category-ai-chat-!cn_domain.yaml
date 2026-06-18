@@ -3,22 +3,12 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Domain 类型
-# UPDATED: 2026-05-09 22:01:08
+# UPDATED: 2026-06-16 16:29:57
 # DOMAIN: 26
-# DOMAIN-SUFFIX: 123
-# TOTAL: 149
+# DOMAIN-SUFFIX: 132
+# TOTAL: 158
 
 payload:
-  - openaiapi-site.azureedge.net
-  - openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-  - openaicom.imgix.net
-  - openaicomproductionae4b.blob.core.windows.net
-  - production-openaicom-storage.azureedge.net
-  - ppl-ai-file-upload.s3.amazonaws.com
-  - pplx-res.cloudinary.com
-  - copilot-proxy.githubusercontent.com
-  - copilot-workspace.githubnext.com
-  - copilotprodattachments.blob.core.windows.net
   - ai.google.dev
   - alkalicore-pa.clients6.google.com
   - alkalimakersuite-pa.clients6.google.com
@@ -30,82 +20,60 @@ payload:
   - notebooklm.googleapis.com
   - antigravity-pa.googleapis.com
   - antigravity.googleapis.com
+  - openaiapi-site.azureedge.net
+  - openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+  - openaicom.imgix.net
+  - openaicomproductionae4b.blob.core.windows.net
+  - production-openaicom-storage.azureedge.net
   - servd-anthropic-website.b-cdn.net
-  - +.lpsnmedia.net
-  - +.cursor-cdn.com
-  - +.githubcopilot.com
+  - copilot-proxy.githubusercontent.com
+  - copilot-workspace.githubnext.com
+  - copilotprodattachments.blob.core.windows.net
+  - ppl-ai-file-upload.s3.amazonaws.com
+  - pplx-res.cloudinary.com
+  - +.chatgpt.com
+  - +.openclaw.ai
+  - +.cohere.ai
+  - +.cohere.com
   - +.clipdrop.co
   - +.jasper.ai
   - +.agentclientprotocol.com
   - +.anythingllm.com
+  - +.arena.ai
   - +.chutes.ai
   - +.clawhub.ai
+  - +.elevenlabs.io
   - +.crewai.com
   - +.devin.ai
   - +.diabrowser.com
   - +.diabrowser.engineering
   - +.dify.ai
   - +.duck.ai
+  - +.elevenlabs.com
   - +.h2o.ai
   - +.kiro.dev
   - +.langchain.com
   - +.lmstudio.ai
   - +.lovart.ai
   - +.meta.ai
+  - +.midjourney.com
   - +.minimax.io
   - +.mistral.ai
+  - +.youmind.site
   - +.ollama.com
   - +.openart.ai
-  - +.openclaw.ai
+  - +.youmind.com
   - +.openrouter.ai
   - +.openspec.dev
   - +.plannotator.ai
+  - +.qoder.com
+  - +.sider.ai
   - +.spicywriter.com
-  - +.chat.com
-  - +.chatgpt.com
-  - +.crixet.com
-  - +.oaistatic.com
-  - +.oaiusercontent.com
-  - +.openai.com
-  - +.sora.com
-  - +.oystermercury.top
-  - +.comfyregistry.org
-  - +.comfyci.org
-  - +.comfy.org
-  - +.claudeusercontent.com
-  - +.coderabbit.ai
-  - +.claude.com
-  - +.perplexity.ai
-  - +.perplexity.com
-  - +.pplx.ai
-  - +.codeium.com
-  - +.codeiumdata.com
-  - +.windsurf.build
-  - +.windsurf.com
-  - +.cerebras.ai
-  - +.manus.im
-  - +.manuscdn.com
-  - +.elevenlabs.com
-  - +.elevenlabs.io
-  - +.cohere.com
-  - +.cohere.ai
-  - +.claudemcpclient.com
-  - +.liveperson.net
+  - +.tapnow.ai
+  - +.cursor-cdn.com
   - +.cursor.com
   - +.cursor.sh
   - +.cursorapi.com
-  - +.hf.co
-  - +.hf.space
-  - +.huggingface.co
-  - +.poe.com
-  - +.poecdn.net
-  - +.grok.com
-  - +.x.ai
-  - +.claude.ai
-  - +.envato-static.com
-  - +.envato.com
-  - +.envatousercontent.com
-  - +.themeforest.net
   - +.gemini.google
   - +.deepmind.google
   - +.antigravity-unleash.goog
@@ -113,44 +81,81 @@ payload:
   - +.opal.google
   - +.labs.google
   - +.generativeai.google
-  - +.jules.google
-  - +.ai.studio
-  - +.notebooklm.google
   - +.deepmind.com
+  - +.ai.studio
+  - +.jules.google
+  - +.notebooklm.google
+  - +.youmind.ai
+  - +.pplx.ai
+  - +.perplexity.com
+  - +.perplexity.ai
+  - +.manuscdn.com
+  - +.manus.im
+  - +.groq.com
+  - +.githubcopilot.com
+  - +.mozilla.ai
+  - +.claudeusercontent.com
+  - +.claudemcpcontent.com
+  - +.claudemcpclient.com
+  - +.claude.com
+  - +.claude.ai
   - +.clau.de
   - +.anthropic.com
-  - +.youmind.site
-  - +.youmind.com
-  - +.youmind.ai
-  - +.groq.com
-  - +.aicode.googleapis.com
+  - +.poecdn.net
+  - +.hf.co
+  - +.hf.space
+  - +.huggingface.co
+  - +.codeium.com
+  - +.codeiumdata.com
+  - +.windsurf.build
+  - +.windsurf.com
+  - +.grok.com
+  - +.x.ai
+  - +.poe.com
+  - +.comfy.org
+  - +.comfyci.org
+  - +.comfyregistry.org
+  - +.oystermercury.top
+  - +.liveperson.net
+  - +.lpsnmedia.net
+  - +.cerebras.ai
+  - +.envato-static.com
+  - +.envato.com
+  - +.envatousercontent.com
+  - +.themeforest.net
+  - +.chat.com
+  - +.coderabbit.ai
+  - +.crixet.com
+  - +.oaistatic.com
+  - +.oaistatsig.com
+  - +.oaiusercontent.com
+  - +.openai.com
+  - +.sora.com
   - +.host.livekit.cloud
-  - +.aisandbox-pa.googleapis.com
-  - +.notebooklm.google.com
-  - +.aida.googleapis.com
-  - +.proactivebackend-pa.googleapis.com
-  - +.aistudio.google.com
-  - +.generativelanguage.googleapis.com
-  - +.geller-pa.googleapis.com
-  - +.stitch.withgoogle.com
-  - +.copilot.microsoft.com
-  - +.makersuite.google.com
-  - +.labs.google.com
-  - +.opal.google.com
-  - +.robinfrontend-pa.googleapis.com
-  - +.gemini.google.com
   - +.grok.x.com
-  - +.jules.google.com
   - +.chatgpt.livekit.cloud
-  - +.bard.google.com
+  - +.labs.google.com
   - +.turn.livekit.cloud
-  - +.coderabbit.gallery.vsassets.io
+  - +.stitch.withgoogle.com
+  - +.geller-pa.googleapis.com
+  - +.jules.google.com
+  - +.opal.google.com
+  - +.proactivebackend-pa.googleapis.com
+  - +.aida.googleapis.com
+  - +.copilot.microsoft.com
+  - +.robinfrontend-pa.googleapis.com
+  - +.makersuite.google.com
+  - +.generativelanguage.googleapis.com
+  - +.aistudio.google.com
+  - +.notebooklm.google.com
+  - +.bard.google.com
+  - +.gemini.gstatic.com
+  - +.aisandbox-pa.googleapis.com
+  - +.gemini.google.com
+  - +.aicode.googleapis.com
   - +.gateway.ai.cloudflare.com
+  - +.coderabbit.gallery.vsassets.io
   - +.openai.com.cdn.cloudflare.net
-  - o33249.ingest.sentry.io
-  - browser-intake-datadoghq.com
-  - copilot-telemetry-service.githubusercontent.com
-  - copilot-telemetry.githubusercontent.com
   - +.coze.com
   - +.marscode.com
   - +.trae.ai
@@ -158,3 +163,7 @@ payload:
   - +.ciciai.com
   - +.ciciaicdn.com
   - +.dola.com
+  - o33249.ingest.sentry.io
+  - browser-intake-datadoghq.com
+  - copilot-telemetry-service.githubusercontent.com
+  - copilot-telemetry.githubusercontent.com

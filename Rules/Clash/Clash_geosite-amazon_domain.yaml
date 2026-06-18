@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Domain 类型
-# UPDATED: 2026-05-09 22:01:50
+# UPDATED: 2026-06-16 16:30:39
 # DOMAIN: 12
-# DOMAIN-SUFFIX: 232
-# TOTAL: 244
+# DOMAIN-SUFFIX: 233
+# TOTAL: 245
 
 payload:
   - d1v5ir2lpwr8os.cloudfront.net
@@ -27,10 +27,8 @@ payload:
   - +.kindle
   - +.imdb
   - +.aws
-  - +.createspace.com
-  - +.amazonimages.com
-  - +.aboutamazon.es
-  - +.aboutamazon.eu
+  - +.awstrust.com
+  - +.amazonlaunchpad.com
   - +.aboutamazon.fr
   - +.aboutamazon.in
   - +.aboutamazon.it
@@ -45,18 +43,19 @@ payload:
   - +.amazon.ae
   - +.amazon.ca
   - +.amazon.cl
-  - +.ss2.us
-  - +.awstrust.com
-  - +.amazontrust.com
-  - +.amzndns.org
+  - +.amazon.com
+  - +.amazon.de
   - +.wholeplanetfoundation.org
   - +.wholekidsfoundation.org
   - +.wholefoodsmarket.com
+  - +.amazonaws-china.com
   - +.wholefoods.com
   - +.wholecitiesfoundation.org
-  - +.amazonaws-china.com
+  - +.wfm.com
   - +.primevideo.tv
-  - +.amazon.de
+  - +.elasticbeanstalk.com
+  - +.primevideo.info
+  - +.primevideo.com
   - +.amazon.dev
   - +.amazon.eg
   - +.amazon.es
@@ -80,8 +79,8 @@ payload:
   - +.amazondevicesupport.com
   - +.amazonfctours.com
   - +.amazonianblog.com
-  - +.amazonaws.biz
-  - +.amazonlaunchpad.com
+  - +.amazonimages.com
+  - +.aesworkshops.com
   - +.amazonliterarypartnership.com
   - +.amazonlumberyard.wang
   - +.amazonpay.com
@@ -106,14 +105,17 @@ payload:
   - +.yamaxun.com
   - +.alexa.com
   - +.audible.com
-  - +.primevideo.org
-  - +.aboutamazon.com
-  - +.awsbraket.com
-  - +.elasticbeanstalk.com
-  - +.aesworkshops.com
-  - +.wfm.com
+  - +.createspace.com
+  - +.amazontrust.com
+  - +.aboutamazon.es
+  - +.ss2.us
   - +.aboutamazon.de
-  - +.amazon.com
+  - +.awsbraket.com
+  - +.primevideo.org
+  - +.aboutamazon.eu
+  - +.primevideo.cc
+  - +.amazonaws.biz
+  - +.amzndns.org
   - +.amazonaws.com
   - +.amazonaws.info
   - +.amazonaws.net
@@ -153,9 +155,10 @@ payload:
   - +.thinkboxsoftware.com
   - +.awsautoscaling.com
   - +.amzndns.com
-  - +.primevideo.info
-  - +.primevideo.com
-  - +.primevideo.cc
+  - +.prime-video.com
+  - +.amazonvideo.com
+  - +.amazonvideo.cc
+  - +.aboutamazon.com
   - +.boxofficemojo.com
   - +.imdb.com
   - +.imdb.to
@@ -175,28 +178,25 @@ payload:
   - +.kindleoasis.jp
   - +.kindleoasis.org
   - +.kindleoasis.us
-  - +.prime-video.com
-  - +.amazonvideo.com
-  - +.aiv-cdn.net
   - +.amazonprimevideos.com
-  - +.amazonvideo.cc
-  - +.amazon.co.jp
-  - +.aboutamazon.co.uk
+  - +.aiv-cdn.net
+  - +.wholefoodsmarket.co.uk
+  - +.amazonaws.co.uk
+  - +.kindle.co.uk
+  - +.amazon.com.br
+  - +.amazon.com.tr
+  - +.amazon.co.uk
+  - +.amazon.com.ng
+  - +.kindle.co.jp
   - +.amazon.com.co
   - +.amazon.com.mx
   - +.amzndns.co.uk
-  - +.aboutamazon.com.au
-  - +.amazon.com.tr
-  - +.kindle.co.jp
-  - +.amazon.com.ng
-  - +.kindle.co.uk
-  - +.amazonaws.co.uk
-  - +.amazon.com.br
   - +.amazon.com.be
   - +.amazon.com.au
-  - +.wholefoodsmarket.co.uk
   - +.amazon.co.za
-  - +.amazon.co.uk
+  - +.amazon.co.jp
+  - +.aboutamazon.com.au
+  - +.aboutamazon.co.uk
   - +.aboutamazon.cn
   - +.alexafund.cn
   - +.alexafund.com.cn
@@ -226,6 +226,7 @@ payload:
   - +.a2z.org.cn
   - +.amazonaws.cn
   - +.amazonaws.com.cn
+  - +.amazonwebservices.cn
   - +.amazonwebservices.com.cn
   - +.amazonworkdocs.cn
   - +.amazonworkdocs.com.cn

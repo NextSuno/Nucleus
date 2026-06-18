@@ -3,10 +3,11 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Surge 规则中的 RULE-SET 类型
-# UPDATED: 2026-04-13 22:21:07
-# DOMAIN-SUFFIX: 63
-# TOTAL: 63
+# UPDATED: 2026-06-16 16:20:38
+# DOMAIN-SUFFIX: 64
+# TOTAL: 64
 
+DOMAIN-SUFFIX,hbo
 DOMAIN-SUFFIX,beforeigners.com
 DOMAIN-SUFFIX,brightline.tv
 DOMAIN-SUFFIX,cinemax.com

@@ -3,13 +3,15 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Shadowrocket 规则中的 DOMAIN-SET 类型
-# UPDATED: 2026-04-13 22:19:11
+# UPDATED: 2026-06-16 16:15:25
 # DOMAIN: 1
-# HOST-SUFFIX: 49
-# TOTAL: 50
+# HOST-SUFFIX: 51
+# TOTAL: 52
 
 .bilicomic.com
 .bilicomics.com
+.maoer.com
+.missevan.com
 .acg.tv
 .acgvideo.com
 .animetamashi.cn
@@ -35,12 +37,6 @@
 .huasheng.cn
 .im9.com
 .yo9.com
-.bilibiligame.cn
-.bilibiligame.co
-.bilibiligame.net
-.biligame.co
-.biligame.com
-.biligame.net
 .bilicdn1.com
 .bilicdn2.com
 .bilicdn3.com
@@ -54,6 +50,12 @@
 .hdslb.org
 .maoercdn.com
 .mincdn.com
+.bilibiligame.cn
+.bilibiligame.co
+.bilibiligame.net
+.biligame.co
+.biligame.com
+.biligame.net
 .bilibili.tv
 .biliintl.com
 .dreamcast.hk

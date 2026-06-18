@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Domain 类型
-# UPDATED: 2026-05-09 22:00:57
-# DOMAIN: 895
+# UPDATED: 2026-06-16 16:29:46
+# DOMAIN: 889
 # DOMAIN-SUFFIX: 11
-# TOTAL: 906
+# TOTAL: 900
 
 payload:
   - 1500020991.vodplayer.wxamedia.com
@@ -125,6 +125,7 @@ payload:
   - adsfilebssdlbig.ali.kugou.com
   - adsfileretry.service.kugou.com
   - adsfs-sdkconfig.heytapimage.com
+  - adsfs.heytapimage.com
   - adsfs.oppomobile.com
   - adslvfile.qq.com
   - adsmart.konka.com
@@ -343,7 +344,6 @@ payload:
   - doubleclick-cn.net
   - download.changhong.upgrade2.huan.tv
   - downloadxml.changhong.upgrade2.huan.tv
-  - drcn-weather.cloud.huawei.com
   - dsp-x.jd.com
   - dsp.fcbox.com
   - dualstack-logs.amap.com
@@ -771,23 +771,17 @@ payload:
   - tmfmazu.m.qq.com
   - tmfsdk.m.qq.com
   - tmfsdktcpv4.m.qq.com
-  - tnc0-aliec2.zijieapi.com
-  - tnc0-alisc1.zijieapi.com
   - tnc0-bjlgy.zijieapi.com
   - tnc3-aliec1.toutiaoapi.com
   - tnc3-aliec2.bytedance.com
   - tnc3-aliec2.snssdk.com
   - tnc3-aliec2.toutiaoapi.com
-  - tnc3-aliec2.zijieapi.com
   - tnc3-alisc1.bytedance.com
   - tnc3-alisc1.snssdk.com
   - tnc3-alisc1.toutiaoapi.com
-  - tnc3-alisc1.zijieapi.com
-  - tnc3-alisc2.zijieapi.com
   - tnc3-bjlgy.bytedance.com
   - tnc3-bjlgy.snssdk.com
   - tnc3-bjlgy.toutiaoapi.com
-  - tnc3-bjlgy.zijieapi.com
   - toblog.ctobsnssdk.com
   - tpa-hcdn.iqiyi.com
   - tpc.googlesyndication-cn.com

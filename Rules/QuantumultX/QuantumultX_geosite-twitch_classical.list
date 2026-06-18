@@ -3,14 +3,15 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型
-# UPDATED: 2026-04-13 22:13:00
-# HOST: 25
-# HOST-SUFFIX: 7
-# TOTAL: 32
+# UPDATED: 2026-06-16 16:11:56
+# HOST: 26
+# HOST-SUFFIX: 8
+# TOTAL: 34
 
 HOST,d1g1f25tn8m2e6.cloudfront.net,PROXY
 HOST,d1m7jfoe9zdc1j.cloudfront.net,PROXY
 HOST,d1mhjrowxxagfy.cloudfront.net,PROXY
+HOST,d1ndex63qxojbr.cloudfront.net,PROXY
 HOST,d1oca24q5dwo6d.cloudfront.net,PROXY
 HOST,d1w2poirtb3as9.cloudfront.net,PROXY
 HOST,d1xhnb4ptk05mw.cloudfront.net,PROXY
@@ -39,4 +40,5 @@ HOST-SUFFIX,live-video.net,PROXY
 HOST-SUFFIX,ttvnw.net,PROXY
 HOST-SUFFIX,twitch.tv,PROXY
 HOST-SUFFIX,twitchcdn.net,PROXY
+HOST-SUFFIX,twitchcon.com,PROXY
 HOST-SUFFIX,twitchsvc.net,PROXY

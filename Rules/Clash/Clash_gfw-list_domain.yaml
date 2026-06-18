@@ -3,9 +3,9 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Domain 类型
-# UPDATED: 2026-05-09 22:02:09
-# DOMAIN-SUFFIX: 4231
-# TOTAL: 4231
+# UPDATED: 2026-06-16 16:30:56
+# DOMAIN-SUFFIX: 4252
+# TOTAL: 4252
 
 payload:
   - +.000webhost.com
@@ -35,6 +35,7 @@ payload:
   - +.2047.one
   - +.2049bbs.xyz
   - +.233abc.com
+  - +.24hbook.com
   - +.24hrs.ca
   - +.32red.com
   - +.36rain.com
@@ -268,6 +269,7 @@ payload:
   - +.artstation.com
   - +.arvanstorage.ir
   - +.arweave.org
+  - +.as.mr
   - +.asacp.org
   - +.asiaharvest.org
   - +.asianage.com
@@ -332,6 +334,7 @@ payload:
   - +.bangdream.space
   - +.bangkokpost.com
   - +.bangumi.moe
+  - +.bangumi.tv
   - +.bangyoulater.com
   - +.bankmobilevibe.com
   - +.bannedbook.org
@@ -387,6 +390,7 @@ payload:
   - +.betvictor.com
   - +.bfnn.org
   - +.bfsh.hk
+  - +.bgm.tv
   - +.bgme.me
   - +.bgvpn.com
   - +.biblesforamerica.org
@@ -705,6 +709,7 @@ payload:
   - +.chenshan20042005.wordpress.com
   - +.cherrysave.com
   - +.chhongbi.org
+  - +.chii.in
   - +.china-mmm.net
   - +.china-review.com.ua
   - +.china-week.com
@@ -749,6 +754,7 @@ payload:
   - +.chingcheong.com
   - +.chinman.net
   - +.chobit.cc
+  - +.chonglangtv.org
   - +.chrdnet.com
   - +.christianfreedom.org
   - +.christianstudy.com
@@ -805,7 +811,6 @@ payload:
   - +.cn.uptodown.com
   - +.cna.com.tw
   - +.cnbbnews.wordpress.com
-  - +.cnbc.com
   - +.cnbeta.com.tw
   - +.cnd.org
   - +.cnnews.chosun.com
@@ -928,6 +933,7 @@ payload:
   - +.darrenliuwei.com
   - +.dashlane.com
   - +.data-vocabulary.org
+  - +.data18.com
   - +.daum.net
   - +.david-kilgour.com
   - +.dawangidc.com
@@ -1026,6 +1032,7 @@ payload:
   - +.douchi.space
   - +.dougscripts.com
   - +.doujincafe.com
+  - +.dowjones.io
   - +.download.dappcdn.com
   - +.dpool.top
   - +.dpp.org.tw
@@ -1039,6 +1046,7 @@ payload:
   - +.dropboxusercontent.com
   - +.dscn.info
   - +.dstk.dk
+  - +.dt18.com
   - +.dtiblog.com
   - +.dtic.mil
   - +.dubox.com
@@ -1159,6 +1167,7 @@ payload:
   - +.f-droid.org
   - +.f2pool.com
   - +.f8.com
+  - +.f95zone.to
   - +.facebook.com
   - +.facebook.de
   - +.facebook.design
@@ -1346,6 +1355,7 @@ payload:
   - +.fxnetworks.com
   - +.g-area.org
   - +.g-queen.com
+  - +.g.ai
   - +.g.co
   - +.g0v.social
   - +.g6hentai.com
@@ -1377,6 +1387,7 @@ payload:
   - +.geek-art.net
   - +.gekikame.com
   - +.gelbooru.com
+  - +.gencraft.com
   - +.generated.photos
   - +.genius.com
   - +.geph.io
@@ -1791,6 +1802,7 @@ payload:
   - +.hicairo.com
   - +.hiccears.com
   - +.hidden-advent.org
+  - +.hiddify.com
   - +.hide.me
   - +.hideipvpn.com
   - +.hideman.net
@@ -2197,6 +2209,7 @@ payload:
   - +.lematin.ch
   - +.lemonde.fr
   - +.lenwhite.com
+  - +.leonardo.ai
   - +.lesoir.be
   - +.letscorp.net
   - +.lexica.art
@@ -2304,6 +2317,7 @@ payload:
   - +.martsangkagyuofficial.org
   - +.marxist.net
   - +.marxists.org
+  - +.mas.to
   - +.mash.to
   - +.mastodon.cloud
   - +.mastodon.host
@@ -2448,6 +2462,7 @@ payload:
   - +.motherless.com
   - +.movements.org
   - +.moviefap.com
+  - +.mozilla.ai
   - +.mpettis.com
   - +.mpfinance.com
   - +.mpinews.com
@@ -2511,6 +2526,7 @@ payload:
   - +.ndi.org
   - +.nekoslovakia.net
   - +.neo-miracle.com
+  - +.neodb.social
   - +.neowin.net
   - +.nephobox.com
   - +.netalert.me
@@ -2714,7 +2730,6 @@ payload:
   - +.pacom.mil
   - +.pacopacomama.com
   - +.page.link
-  - +.pages.dev
   - +.paimon.moe
   - +.pancakeswap.finance
   - +.pandafan.pub
@@ -2961,6 +2976,7 @@ payload:
   - +.raizoji.or.jp
   - +.rakuten.co.jp
   - +.ramcity.com.au
+  - +.raphael.app
   - +.rapidmoviez.com
   - +.rapidvpn.com
   - +.rarbgprx.org
@@ -3040,6 +3056,7 @@ payload:
   - +.rti.tw
   - +.rtm.tnt-ea.com
   - +.rts.ch
+  - +.rule34.us
   - +.rule34.xxx
   - +.rule34video.com
   - +.rumble.com
@@ -3142,6 +3159,7 @@ payload:
   - +.shwchurch.org
   - +.shwchurch3.com
   - +.sidelinesnews.com
+  - +.sider.ai
   - +.signal.org
   - +.silvergatebank.com
   - +.simbolostwitter.com
@@ -3195,7 +3213,6 @@ payload:
   - +.socks-proxy.net
   - +.sockslist.net
   - +.socrec.org
-  - +.softether-download.com
   - +.softether.co.jp
   - +.softether.org
   - +.softfamous.com
@@ -3217,6 +3234,7 @@ payload:
   - +.sos.org
   - +.sosad.fun
   - +.sosreader.com
+  - +.sotwe.com
   - +.soubory.com
   - +.soulcaliburhentai.net
   - +.soundcloud.com
@@ -3324,6 +3342,7 @@ payload:
   - +.surfeasy.com.au
   - +.surfshark.com
   - +.surrenderat20.net
+  - +.suyingtv.com
   - +.swagbucks.com
   - +.swapspace.co
   - +.swissinfo.ch
@@ -3772,6 +3791,7 @@ payload:
   - +.vatn.org
   - +.vcf-online.org
   - +.vcfbuilder.org
+  - +.veed.io
   - +.vegas.williamhill.com
   - +.vegasred.com
   - +.venetianmacao.com
@@ -4006,6 +4026,7 @@ payload:
   - +.wowporn.com
   - +.woyaolian.org
   - +.wp.com
+  - +.wplace.live
   - +.wpoforum.com
   - +.writesonic.com
   - +.wsj.com
@@ -4140,7 +4161,6 @@ payload:
   - +.yfsp.tv
   - +.yhcw.net
   - +.yibaochina.com
-  - +.yidio.com
   - +.yigeni.com
   - +.yipub.com
   - +.yizhihongxing.com
@@ -4203,6 +4223,7 @@ payload:
   - +.zh.pokerstrategy.com
   - +.zh.wikiquote.org
   - +.zhangtianliang.com
+  - +.zhangzhehan.net
   - +.zhanlve.org
   - +.zhao.1984.city
   - +.zhengjian.org

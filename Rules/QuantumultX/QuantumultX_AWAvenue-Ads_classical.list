@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型
-# UPDATED: 2026-04-13 22:12:36
-# HOST: 895
+# UPDATED: 2026-06-16 16:11:40
+# HOST: 889
 # HOST-SUFFIX: 11
-# TOTAL: 906
+# TOTAL: 900
 
 HOST,1500020991.vodplayer.wxamedia.com,REJECT
 HOST,1500022744.vodplayer.wxamedia.com,REJECT
@@ -124,6 +124,7 @@ HOST,adsfile.qq.com,REJECT
 HOST,adsfilebssdlbig.ali.kugou.com,REJECT
 HOST,adsfileretry.service.kugou.com,REJECT
 HOST,adsfs-sdkconfig.heytapimage.com,REJECT
+HOST,adsfs.heytapimage.com,REJECT
 HOST,adsfs.oppomobile.com,REJECT
 HOST,adslvfile.qq.com,REJECT
 HOST,adsmart.konka.com,REJECT
@@ -342,7 +343,6 @@ HOST,domain.aishengji.com,REJECT
 HOST,doubleclick-cn.net,REJECT
 HOST,download.changhong.upgrade2.huan.tv,REJECT
 HOST,downloadxml.changhong.upgrade2.huan.tv,REJECT
-HOST,drcn-weather.cloud.huawei.com,REJECT
 HOST,dsp-x.jd.com,REJECT
 HOST,dsp.fcbox.com,REJECT
 HOST,dualstack-logs.amap.com,REJECT
@@ -770,23 +770,17 @@ HOST,tmfmazu-wangka.m.qq.com,REJECT
 HOST,tmfmazu.m.qq.com,REJECT
 HOST,tmfsdk.m.qq.com,REJECT
 HOST,tmfsdktcpv4.m.qq.com,REJECT
-HOST,tnc0-aliec2.zijieapi.com,REJECT
-HOST,tnc0-alisc1.zijieapi.com,REJECT
 HOST,tnc0-bjlgy.zijieapi.com,REJECT
 HOST,tnc3-aliec1.toutiaoapi.com,REJECT
 HOST,tnc3-aliec2.bytedance.com,REJECT
 HOST,tnc3-aliec2.snssdk.com,REJECT
 HOST,tnc3-aliec2.toutiaoapi.com,REJECT
-HOST,tnc3-aliec2.zijieapi.com,REJECT
 HOST,tnc3-alisc1.bytedance.com,REJECT
 HOST,tnc3-alisc1.snssdk.com,REJECT
 HOST,tnc3-alisc1.toutiaoapi.com,REJECT
-HOST,tnc3-alisc1.zijieapi.com,REJECT
-HOST,tnc3-alisc2.zijieapi.com,REJECT
 HOST,tnc3-bjlgy.bytedance.com,REJECT
 HOST,tnc3-bjlgy.snssdk.com,REJECT
 HOST,tnc3-bjlgy.toutiaoapi.com,REJECT
-HOST,tnc3-bjlgy.zijieapi.com,REJECT
 HOST,toblog.ctobsnssdk.com,REJECT
 HOST,tpa-hcdn.iqiyi.com,REJECT
 HOST,tpc.googlesyndication-cn.com,REJECT
