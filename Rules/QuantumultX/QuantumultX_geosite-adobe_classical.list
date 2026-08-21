@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型
-# UPDATED: 2026-06-16 16:12:30
-# HOST: 138
+# UPDATED: 2026-08-21 13:31:35
+# HOST: 134
 # HOST-SUFFIX: 126
-# TOTAL: 264
+# TOTAL: 260
 
 HOST,3dns-1.adobe.com,REJECT
 HOST,3dns-2.adobe.com,REJECT
@@ -40,11 +40,7 @@ HOST,lm.licenses.adobe.com,REJECT
 HOST,lmlicenses.wip4.adobe.com,REJECT
 HOST,na1r.services.adobe.com,REJECT
 HOST,ood.opsource.net,REJECT
-HOST,practivate.adobe,REJECT
 HOST,practivate.adobe.com,REJECT
-HOST,practivate.adobe.ipp,REJECT
-HOST,practivate.adobe.newoa,REJECT
-HOST,practivate.adobe.ntp,REJECT
 HOST,wip.adobe.com,REJECT
 HOST,wip1.adobe.com,REJECT
 HOST,wip2.adobe.com,REJECT
@@ -192,7 +188,6 @@ HOST-SUFFIX,authorxml.com,REJECT
 HOST-SUFFIX,businesscatalyst.com,REJECT
 HOST-SUFFIX,ccnsite.com,REJECT
 HOST-SUFFIX,ccpsx.com,REJECT
-HOST-SUFFIX,demdex.net,REJECT
 HOST-SUFFIX,dollarfotoclub.com,REJECT
 HOST-SUFFIX,dollarphotoclub.com,REJECT
 HOST-SUFFIX,dollarphotosclub.com,REJECT
@@ -271,4 +266,5 @@ HOST-SUFFIX,mageconf.com.ua,REJECT
 HOST-SUFFIX,marketo.co.uk,REJECT
 HOST-SUFFIX,adobedc.cn,REJECT
 HOST-SUFFIX,advertising.adobe.com,REJECT
+HOST-SUFFIX,demdex.net,REJECT
 HOST-SUFFIX,tubemogul.com,REJECT

@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型
-# UPDATED: 2026-06-16 16:12:14
+# UPDATED: 2026-08-21 13:31:21
 # HOST: 1
-# HOST-SUFFIX: 396
-# TOTAL: 397
+# HOST-SUFFIX: 395
+# TOTAL: 396
 
 HOST,fbcdn-a.akamaihd.net,PROXY
 HOST-SUFFIX,aboutfacebook.com,PROXY
@@ -379,7 +379,6 @@ HOST-SUFFIX,nextstop.com,PROXY
 HOST-SUFFIX,online-deals.net,PROXY
 HOST-SUFFIX,opencreate.org,PROXY
 HOST-SUFFIX,reachtheworldonfacebook.com,PROXY
-HOST-SUFFIX,rocksdb.org,PROXY
 HOST-SUFFIX,shopfacebook.com,PROXY
 HOST-SUFFIX,sportsfacebook.com,PROXY
 HOST-SUFFIX,sportstream.com,PROXY

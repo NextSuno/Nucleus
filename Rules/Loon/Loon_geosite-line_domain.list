@@ -3,27 +3,27 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Loon 规则中的 Domain 类型
-# UPDATED: 2026-06-16 16:09:55
+# UPDATED: 2026-08-21 13:29:26
 # HOST-SUFFIX: 20
 # TOTAL: 20
 
 .linemobile.com
-.lineshoppingseller.com
+.lin.ee
 .line-apps-beta.com
 .line-apps-rc.com
 .line-apps.com
 .line-beta.me
 .line-cdn.net
-.line.biz
-.nhncorp.jp
-.lin.ee
 .line-scdn.net
-.linecorp.com
+.line.me
+.line.biz
 .linefriends.com
+.linecorp.com
+.nhncorp.jp
 .linetv.tw
 .linegame.jp
 .gcld-line.com
 .linemyshop.com
-.line.me
+.lineshoppingseller.com
 .linefriends.com.tw
 .line.naver.jp

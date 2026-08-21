@@ -3,13 +3,12 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型
-# UPDATED: 2026-06-16 16:12:09
+# UPDATED: 2026-08-21 13:31:16
 # HOST: 5
-# HOST-SUFFIX: 32
-# TOTAL: 37
+# HOST-SUFFIX: 31
+# TOTAL: 36
 
 HOST-SUFFIX,bytedapm.com,PROXY
-HOST-SUFFIX,byteoversea.com,PROXY
 HOST-SUFFIX,muscdn.com,PROXY
 HOST-SUFFIX,musical.ly,PROXY
 HOST-SUFFIX,tik-tokapi.com,PROXY

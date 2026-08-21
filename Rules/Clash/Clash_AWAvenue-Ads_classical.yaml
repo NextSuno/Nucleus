@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Classical 类型
-# UPDATED: 2026-06-16 16:25:12
-# DOMAIN: 889
-# DOMAIN-SUFFIX: 11
-# TOTAL: 900
+# UPDATED: 2026-08-21 13:18:29
+# DOMAIN: 887
+# DOMAIN-SUFFIX: 10
+# TOTAL: 897
 
 payload:
   - DOMAIN,1500020991.vodplayer.wxamedia.com
@@ -85,6 +85,7 @@ payload:
   - DOMAIN,ads-video-al.xhscdn.com
   - DOMAIN,ads-video-qc.xhscdn.com
   - DOMAIN,ads.95516.com
+  - DOMAIN,ads.adfunlink.com
   - DOMAIN,ads.auctions.yahoo.com
   - DOMAIN,ads.cup.com.cn
   - DOMAIN,ads.google.cn
@@ -142,6 +143,7 @@ payload:
   - DOMAIN,adtago.s3.amazonaws.com
   - DOMAIN,adtech.yahooinc.com
   - DOMAIN,adtrack.quark.cn
+  - DOMAIN,adtracker.adfunlink.com
   - DOMAIN,adtracker.medproad.com
   - DOMAIN,adui.tg.meitu.com
   - DOMAIN,adv-api.shenshiads.com
@@ -337,7 +339,6 @@ payload:
   - DOMAIN,dc.sigmob.cn
   - DOMAIN,de.tynt.com
   - DOMAIN,diagnosis.ad.xiaomi.com
-  - DOMAIN,dig.bdurl.net
   - DOMAIN,dlogs.bwton.com
   - DOMAIN,dm.toutiao.com
   - DOMAIN,domain.aishengji.com
@@ -436,7 +437,6 @@ payload:
   - DOMAIN,image-ad.sm.cn
   - DOMAIN,image.hpplay.cn
   - DOMAIN,images.outbrainimg.com
-  - DOMAIN,images.pinduoduo.com
   - DOMAIN,imdns.hpplay.cn
   - DOMAIN,img-c.heytapimage.com
   - DOMAIN,img-x.jd.com
@@ -532,7 +532,6 @@ payload:
   - DOMAIN,masdkv6.3g.qq.com
   - DOMAIN,mazu.m.qq.com
   - DOMAIN,mbdlog.iqiyi.com
-  - DOMAIN,mcs.zijieapi.com
   - DOMAIN,medproad.com
   - DOMAIN,metrics.data.hicloud.com
   - DOMAIN,metrics.icloud.com
@@ -892,7 +891,6 @@ payload:
   - DOMAIN,ykad-data.cp31.ott.cibntv.net
   - DOMAIN,ykad-data.youku.com
   - DOMAIN,ykad-gateway.youku.com
-  - DOMAIN,youku-acs.m.taobao.com
   - DOMAIN,ytx-file.110route.cn
   - DOMAIN,zeus.ad.xiaomi.com
   - DOMAIN,zhihu-web-analytics.zhihu.com
@@ -904,7 +902,6 @@ payload:
   - DOMAIN-SUFFIX,adintl.cn
   - DOMAIN-SUFFIX,adx.adwangmai.com
   - DOMAIN-SUFFIX,data.hicloud.com
-  - DOMAIN-SUFFIX,log.aliyuncs.com
   - DOMAIN-SUFFIX,ubixioe.com
   - DOMAIN-SUFFIX,vlion.cn
   - DOMAIN-SUFFIX,yfanads.com

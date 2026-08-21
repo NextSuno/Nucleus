@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型
-# UPDATED: 2026-06-16 16:12:07
+# UPDATED: 2026-08-21 13:31:14
 # HOST: 11
-# HOST-SUFFIX: 15
-# TOTAL: 26
+# HOST-SUFFIX: 17
+# TOTAL: 28
 
 HOST,audio-ak-spotify-com.akamaized.net,PROXY
 HOST,audio4-ak-spotify-com.akamaized.net,PROXY
@@ -17,19 +17,21 @@ HOST,spotify.com.edgesuite.net,PROXY
 HOST,spotify.map.fastly.net,PROXY
 HOST,spotify.map.fastlylb.net,PROXY
 HOST-SUFFIX,byspotify.com,PROXY
+HOST-SUFFIX,lifeatspotify.com,PROXY
 HOST-SUFFIX,pscdn.co,PROXY
 HOST-SUFFIX,scdn.co,PROXY
 HOST-SUFFIX,spoti.fi,PROXY
 HOST-SUFFIX,spotify-everywhere.com,PROXY
 HOST-SUFFIX,spotify.com,PROXY
 HOST-SUFFIX,spotify.design,PROXY
+HOST-SUFFIX,spotify.link,PROXY
 HOST-SUFFIX,spotifycdn.com,PROXY
 HOST-SUFFIX,spotifycdn.net,PROXY
 HOST-SUFFIX,spotifycharts.com,PROXY
 HOST-SUFFIX,spotifycodes.com,PROXY
 HOST-SUFFIX,spotifyforbrands.com,PROXY
+HOST-SUFFIX,spotifyforvendors.com,PROXY
 HOST-SUFFIX,spotifyjobs.com,PROXY
-HOST-SUFFIX,spotify.link,PROXY
 HOST-SUFFIX,tospotify.com,PROXY
 HOST,adeventtracker.spotify.com,PROXY
 HOST,adstudio-assets.scdn.co,PROXY

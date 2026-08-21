@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型
-# UPDATED: 2026-06-16 16:11:40
-# HOST: 889
-# HOST-SUFFIX: 11
-# TOTAL: 900
+# UPDATED: 2026-08-21 13:30:49
+# HOST: 887
+# HOST-SUFFIX: 10
+# TOTAL: 897
 
 HOST,1500020991.vodplayer.wxamedia.com,REJECT
 HOST,1500022744.vodplayer.wxamedia.com,REJECT
@@ -84,6 +84,7 @@ HOST,ads-sg.tiktok.com,REJECT
 HOST,ads-video-al.xhscdn.com,REJECT
 HOST,ads-video-qc.xhscdn.com,REJECT
 HOST,ads.95516.com,REJECT
+HOST,ads.adfunlink.com,REJECT
 HOST,ads.auctions.yahoo.com,REJECT
 HOST,ads.cup.com.cn,REJECT
 HOST,ads.google.cn,REJECT
@@ -141,6 +142,7 @@ HOST,adstudio.spotify.com,REJECT
 HOST,adtago.s3.amazonaws.com,REJECT
 HOST,adtech.yahooinc.com,REJECT
 HOST,adtrack.quark.cn,REJECT
+HOST,adtracker.adfunlink.com,REJECT
 HOST,adtracker.medproad.com,REJECT
 HOST,adui.tg.meitu.com,REJECT
 HOST,adv-api.shenshiads.com,REJECT
@@ -336,7 +338,6 @@ HOST,datacollection.uve.weibo.com,REJECT
 HOST,dc.sigmob.cn,REJECT
 HOST,de.tynt.com,REJECT
 HOST,diagnosis.ad.xiaomi.com,REJECT
-HOST,dig.bdurl.net,REJECT
 HOST,dlogs.bwton.com,REJECT
 HOST,dm.toutiao.com,REJECT
 HOST,domain.aishengji.com,REJECT
@@ -435,7 +436,6 @@ HOST,ii.gdt.qq.com,REJECT
 HOST,image-ad.sm.cn,REJECT
 HOST,image.hpplay.cn,REJECT
 HOST,images.outbrainimg.com,REJECT
-HOST,images.pinduoduo.com,REJECT
 HOST,imdns.hpplay.cn,REJECT
 HOST,img-c.heytapimage.com,REJECT
 HOST,img-x.jd.com,REJECT
@@ -531,7 +531,6 @@ HOST,mapi.m.jd.com,REJECT
 HOST,masdkv6.3g.qq.com,REJECT
 HOST,mazu.m.qq.com,REJECT
 HOST,mbdlog.iqiyi.com,REJECT
-HOST,mcs.zijieapi.com,REJECT
 HOST,medproad.com,REJECT
 HOST,metrics.data.hicloud.com,REJECT
 HOST,metrics.icloud.com,REJECT
@@ -891,7 +890,6 @@ HOST,yk-ssp.ad.youku.com,REJECT
 HOST,ykad-data.cp31.ott.cibntv.net,REJECT
 HOST,ykad-data.youku.com,REJECT
 HOST,ykad-gateway.youku.com,REJECT
-HOST,youku-acs.m.taobao.com,REJECT
 HOST,ytx-file.110route.cn,REJECT
 HOST,zeus.ad.xiaomi.com,REJECT
 HOST,zhihu-web-analytics.zhihu.com,REJECT
@@ -903,7 +901,6 @@ HOST-SUFFIX,ad.gameley.com,REJECT
 HOST-SUFFIX,adintl.cn,REJECT
 HOST-SUFFIX,adx.adwangmai.com,REJECT
 HOST-SUFFIX,data.hicloud.com,REJECT
-HOST-SUFFIX,log.aliyuncs.com,REJECT
 HOST-SUFFIX,ubixioe.com,REJECT
 HOST-SUFFIX,vlion.cn,REJECT
 HOST-SUFFIX,yfanads.com,REJECT

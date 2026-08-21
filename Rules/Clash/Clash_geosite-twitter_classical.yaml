@@ -3,24 +3,24 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Classical 类型
-# UPDATED: 2026-06-16 16:25:42
+# UPDATED: 2026-08-21 13:18:59
 # DOMAIN-SUFFIX: 24
 # TOTAL: 24
 
 payload:
   - DOMAIN-SUFFIX,twitter.jp
-  - DOMAIN-SUFFIX,x.com
-  - DOMAIN-SUFFIX,cms-twdigitalassets.com
+  - DOMAIN-SUFFIX,twitter.biz
+  - DOMAIN-SUFFIX,pscp.tv
   - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,tellapart.com
   - DOMAIN-SUFFIX,tweetdeck.com
   - DOMAIN-SUFFIX,twimg.com
-  - DOMAIN-SUFFIX,twitpic.com
-  - DOMAIN-SUFFIX,twitter.biz
   - DOMAIN-SUFFIX,twittercommunity.com
-  - DOMAIN-SUFFIX,pscp.tv
-  - DOMAIN-SUFFIX,periscope.tv
+  - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,twitter.com
+  - DOMAIN-SUFFIX,periscope.tv
+  - DOMAIN-SUFFIX,cms-twdigitalassets.com
+  - DOMAIN-SUFFIX,twitpic.com
   - DOMAIN-SUFFIX,twitterflightschool.com
   - DOMAIN-SUFFIX,twitterinc.com
   - DOMAIN-SUFFIX,twitteroauth.com

@@ -3,14 +3,13 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Classical 类型
-# UPDATED: 2026-06-16 16:25:40
+# UPDATED: 2026-08-21 13:18:57
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 32
-# TOTAL: 37
+# DOMAIN-SUFFIX: 31
+# TOTAL: 36
 
 payload:
   - DOMAIN-SUFFIX,bytedapm.com
-  - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,muscdn.com
   - DOMAIN-SUFFIX,musical.ly
   - DOMAIN-SUFFIX,tik-tokapi.com

@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Classical 类型
-# UPDATED: 2026-06-16 16:25:58
+# UPDATED: 2026-08-21 13:19:15
 # DOMAIN: 32
-# DOMAIN-SUFFIX: 30
-# TOTAL: 62
+# DOMAIN-SUFFIX: 32
+# TOTAL: 64
 
 payload:
   - DOMAIN,github-api.arkoselabs.com
@@ -47,6 +47,7 @@ payload:
   - DOMAIN-SUFFIX,git.io
   - DOMAIN-SUFFIX,github.ai
   - DOMAIN-SUFFIX,github.blog
+  - DOMAIN-SUFFIX,github.career
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,github.community
   - DOMAIN-SUFFIX,github.dev
@@ -57,6 +58,7 @@ payload:
   - DOMAIN-SUFFIX,githubnext.com
   - DOMAIN-SUFFIX,githubpreview.dev
   - DOMAIN-SUFFIX,githubstatus.com
+  - DOMAIN-SUFFIX,githubsupport.com
   - DOMAIN-SUFFIX,githubuniverse.com
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,myoctocat.com

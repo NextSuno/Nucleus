@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Loon 规则中的 Classical 类型
-# UPDATED: 2026-06-16 16:07:12
+# UPDATED: 2026-08-21 13:27:49
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 396
-# TOTAL: 397
+# DOMAIN-SUFFIX: 395
+# TOTAL: 396
 
 DOMAIN,fbcdn-a.akamaihd.net
 DOMAIN-SUFFIX,aboutfacebook.com
@@ -379,7 +379,6 @@ DOMAIN-SUFFIX,nextstop.com
 DOMAIN-SUFFIX,online-deals.net
 DOMAIN-SUFFIX,opencreate.org
 DOMAIN-SUFFIX,reachtheworldonfacebook.com
-DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,shopfacebook.com
 DOMAIN-SUFFIX,sportsfacebook.com
 DOMAIN-SUFFIX,sportstream.com

@@ -3,23 +3,23 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型
-# UPDATED: 2026-06-16 16:12:10
+# UPDATED: 2026-08-21 13:31:17
 # HOST-SUFFIX: 24
 # TOTAL: 24
 
 HOST-SUFFIX,twitter.jp,PROXY
-HOST-SUFFIX,x.com,PROXY
-HOST-SUFFIX,cms-twdigitalassets.com,PROXY
+HOST-SUFFIX,twitter.biz,PROXY
+HOST-SUFFIX,pscp.tv,PROXY
 HOST-SUFFIX,t.co,PROXY
 HOST-SUFFIX,tellapart.com,PROXY
 HOST-SUFFIX,tweetdeck.com,PROXY
 HOST-SUFFIX,twimg.com,PROXY
-HOST-SUFFIX,twitpic.com,PROXY
-HOST-SUFFIX,twitter.biz,PROXY
 HOST-SUFFIX,twittercommunity.com,PROXY
-HOST-SUFFIX,pscp.tv,PROXY
-HOST-SUFFIX,periscope.tv,PROXY
+HOST-SUFFIX,x.com,PROXY
 HOST-SUFFIX,twitter.com,PROXY
+HOST-SUFFIX,periscope.tv,PROXY
+HOST-SUFFIX,cms-twdigitalassets.com,PROXY
+HOST-SUFFIX,twitpic.com,PROXY
 HOST-SUFFIX,twitterflightschool.com,PROXY
 HOST-SUFFIX,twitterinc.com,PROXY
 HOST-SUFFIX,twitteroauth.com,PROXY

@@ -3,7 +3,7 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型，添加 no-resolve 参数
-# UPDATED: 2026-06-16 16:11:49
+# UPDATED: 2026-08-21 13:30:57
 # TOTAL: 0
 
 IP-CIDR,106.75.74.76/32,DIRECT,no-resolve

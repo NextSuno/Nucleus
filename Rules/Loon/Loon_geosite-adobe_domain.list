@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Loon 规则中的 Domain 类型
-# UPDATED: 2026-06-16 16:10:04
-# DOMAIN: 138
+# UPDATED: 2026-08-21 13:29:35
+# DOMAIN: 134
 # HOST-SUFFIX: 126
-# TOTAL: 264
+# TOTAL: 260
 
 3dns-1.adobe.com
 3dns-2.adobe.com
@@ -40,11 +40,7 @@ lm.licenses.adobe.com
 lmlicenses.wip4.adobe.com
 na1r.services.adobe.com
 ood.opsource.net
-practivate.adobe
 practivate.adobe.com
-practivate.adobe.ipp
-practivate.adobe.newoa
-practivate.adobe.ntp
 wip.adobe.com
 wip1.adobe.com
 wip2.adobe.com
@@ -192,7 +188,6 @@ wwis-dubc1-vip99.adobe.com
 .businesscatalyst.com
 .ccnsite.com
 .ccpsx.com
-.demdex.net
 .dollarfotoclub.com
 .dollarphotoclub.com
 .dollarphotosclub.com
@@ -271,4 +266,5 @@ wwis-dubc1-vip99.adobe.com
 .marketo.co.uk
 .adobedc.cn
 .advertising.adobe.com
+.demdex.net
 .tubemogul.com

@@ -3,17 +3,17 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Loon 规则中的 Domain 类型
-# UPDATED: 2026-06-16 16:10:03
-# DOMAIN: 3
-# HOST-SUFFIX: 35
-# TOTAL: 38
+# UPDATED: 2026-08-21 13:29:34
+# DOMAIN: 2
+# HOST-SUFFIX: 38
+# TOTAL: 40
 
 location.microsoft.com
 .bing
-.microsoftdiplomados.com
-.bing123.com
-.flipwithsurface.com
 .masalladeloslimites.com
+.microsoftpartnersolutions.com
+.bing123.com
+.bingagencyawards.com
 .bingapis.com
 .bingapistatistics.com
 .bingparachute.com
@@ -22,19 +22,22 @@ location.microsoft.com
 .bingworld.com
 .bluehatnights.com
 .dictate.ms
-.sprinklesapp.com
-.bing.net
-.bingagencyawards.com
-.microsoft-give.com
-.microsoftcloudsummit.com
+.flipwithsurface.com
 .bing.com
+.bing.net
+.microsoftdiplomados.com
+.microsoft-give.com
 .microsoftlatamholiday.com
 .microsoftmxfilantropia.com
-.microsoftpartnersolutions.com
+.microsoftcloudsummit.com
 .msunlimitedcloudsummit.com
 .office365love.com
 .office365tw.com
 .renovacionoffice.com
+.sprinklesapp.com
+.copilot-stg.com
+.copilot.com
+.copilot.cloud.microsoft
 .copilot.microsoft.com
 .bing.com.cn
 .bingads.com
@@ -45,4 +48,3 @@ location.microsoft.com
 .r.bing.com
 .th.bing.com
 bj1.api.bing.com
-emoi-cncdn.bing.com

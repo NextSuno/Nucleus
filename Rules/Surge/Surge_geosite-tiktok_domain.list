@@ -3,13 +3,12 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Surge 规则中的 DOMAIN-SET 类型
-# UPDATED: 2026-06-16 16:22:49
+# UPDATED: 2026-08-21 13:39:30
 # DOMAIN: 5
-# HOST-SUFFIX: 32
-# TOTAL: 37
+# HOST-SUFFIX: 31
+# TOTAL: 36
 
 .bytedapm.com
-.byteoversea.com
 .muscdn.com
 .musical.ly
 .tik-tokapi.com

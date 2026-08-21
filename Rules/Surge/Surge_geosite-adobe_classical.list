@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Surge 规则中的 RULE-SET 类型
-# UPDATED: 2026-06-16 16:21:06
-# DOMAIN: 138
+# UPDATED: 2026-08-21 13:38:22
+# DOMAIN: 134
 # DOMAIN-SUFFIX: 126
-# TOTAL: 264
+# TOTAL: 260
 
 DOMAIN,3dns-1.adobe.com
 DOMAIN,3dns-2.adobe.com
@@ -40,11 +40,7 @@ DOMAIN,lm.licenses.adobe.com
 DOMAIN,lmlicenses.wip4.adobe.com
 DOMAIN,na1r.services.adobe.com
 DOMAIN,ood.opsource.net
-DOMAIN,practivate.adobe
 DOMAIN,practivate.adobe.com
-DOMAIN,practivate.adobe.ipp
-DOMAIN,practivate.adobe.newoa
-DOMAIN,practivate.adobe.ntp
 DOMAIN,wip.adobe.com
 DOMAIN,wip1.adobe.com
 DOMAIN,wip2.adobe.com
@@ -192,7 +188,6 @@ DOMAIN-SUFFIX,authorxml.com
 DOMAIN-SUFFIX,businesscatalyst.com
 DOMAIN-SUFFIX,ccnsite.com
 DOMAIN-SUFFIX,ccpsx.com
-DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,dollarfotoclub.com
 DOMAIN-SUFFIX,dollarphotoclub.com
 DOMAIN-SUFFIX,dollarphotosclub.com
@@ -271,4 +266,5 @@ DOMAIN-SUFFIX,mageconf.com.ua
 DOMAIN-SUFFIX,marketo.co.uk
 DOMAIN-SUFFIX,adobedc.cn
 DOMAIN-SUFFIX,advertising.adobe.com
+DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,tubemogul.com

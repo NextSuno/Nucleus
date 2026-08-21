@@ -3,13 +3,12 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Loon 规则中的 Classical 类型
-# UPDATED: 2026-06-16 16:07:07
+# UPDATED: 2026-08-21 13:27:43
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 32
-# TOTAL: 37
+# DOMAIN-SUFFIX: 31
+# TOTAL: 36
 
 DOMAIN-SUFFIX,bytedapm.com
-DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,tik-tokapi.com

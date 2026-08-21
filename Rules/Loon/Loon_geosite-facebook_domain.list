@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Loon 规则中的 Domain 类型
-# UPDATED: 2026-06-16 16:09:48
+# UPDATED: 2026-08-21 13:29:20
 # DOMAIN: 1
-# HOST-SUFFIX: 396
-# TOTAL: 397
+# HOST-SUFFIX: 395
+# TOTAL: 396
 
 fbcdn-a.akamaihd.net
 .aboutfacebook.com
@@ -379,7 +379,6 @@ fbcdn-a.akamaihd.net
 .online-deals.net
 .opencreate.org
 .reachtheworldonfacebook.com
-.rocksdb.org
 .shopfacebook.com
 .sportsfacebook.com
 .sportstream.com

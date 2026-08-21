@@ -3,7 +3,7 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Surge 规则中的 DOMAIN-SET 类型
-# UPDATED: 2026-06-16 16:22:38
+# UPDATED: 2026-08-21 13:39:19
 # DOMAIN: 1
 # HOST-SUFFIX: 177
 # TOTAL: 178
@@ -11,7 +11,7 @@
 yt3.googleusercontent.com
 .youtube
 .youtube.ru
-.youtube.az
+.youtube.iq
 .ytimg.com
 .withyoutube.com
 .youtu.be
@@ -21,7 +21,7 @@ yt3.googleusercontent.com
 .youtube.al
 .youtube.am
 .youtube.at
-.youtube.ro
+.youtube.az
 .youtube.ba
 .youtube.be
 .youtube.bg
@@ -31,7 +31,7 @@ yt3.googleusercontent.com
 .youtube.ca
 .youtube.cat
 .youtube.ch
-.youtube.qa
+.youtube.cl
 .youtube.co
 .youtubemobilesupport.com
 .youtubekids.com
@@ -49,7 +49,7 @@ yt3.googleusercontent.com
 .youtube.tn
 .youtube.sv
 .youtube.soy
-.youtube.rs
+.youtube.sn
 .youtube.sk
 .ggpht.com
 .youtube.com
@@ -58,9 +58,9 @@ yt3.googleusercontent.com
 .youtube.se
 .youtube.sa
 .youtube.ee
-.youtube.sn
 .googlevideo.com
-.youtube.cl
+.youtube.qa
+.youtube.rs
 .youtube.pt
 .youtube.pr
 .youtube.pl
@@ -91,7 +91,7 @@ yt3.googleusercontent.com
 .youtube.jo
 .youtube.it
 .youtube.is
-.youtube.iq
+.youtube.ro
 .youtube.in
 .youtube.ie
 .youtube.hu

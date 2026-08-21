@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Shadowrocket 规则中的 DOMAIN-SET 类型
-# UPDATED: 2026-06-16 16:16:13
+# UPDATED: 2026-08-21 13:36:27
 # DOMAIN: 12
-# HOST-SUFFIX: 233
-# TOTAL: 245
+# HOST-SUFFIX: 234
+# TOTAL: 246
 
 d1v5ir2lpwr8os.cloudfront.net
 d22qjgkvxw22r6.cloudfront.net
@@ -26,8 +26,8 @@ static.siege-amazon.com
 .kindle
 .imdb
 .aws
-.awstrust.com
-.amazonlaunchpad.com
+.amazonvideo.com
+.aiv-cdn.net
 .aboutamazon.fr
 .aboutamazon.in
 .aboutamazon.it
@@ -44,17 +44,17 @@ static.siege-amazon.com
 .amazon.cl
 .amazon.com
 .amazon.de
-.wholeplanetfoundation.org
-.wholekidsfoundation.org
-.wholefoodsmarket.com
-.amazonaws-china.com
-.wholefoods.com
-.wholecitiesfoundation.org
-.wfm.com
-.primevideo.tv
-.elasticbeanstalk.com
-.primevideo.info
-.primevideo.com
+.kindleoasis.us
+.kindleoasis.org
+.kindleoasis.jp
+.kindleoasis.info
+.kindleoasisnews.com
+.kindle.jp
+.kindle.in
+.kindleproject.com
+.kindle.fr
+.kindle.es
+.kindle.de
 .amazon.dev
 .amazon.eg
 .amazon.es
@@ -79,7 +79,7 @@ static.siege-amazon.com
 .amazonfctours.com
 .amazonianblog.com
 .amazonimages.com
-.aesworkshops.com
+.amazonlaunchpad.com
 .amazonliterarypartnership.com
 .amazonlumberyard.wang
 .amazonpay.com
@@ -90,7 +90,7 @@ static.siege-amazon.com
 .amzn.asia
 .amzn.com
 .amzn.to
-.amznl.com
+.primevideo.tv
 .associates-amazon.com
 .gameon-masters.com
 .gdansk-amazon.com
@@ -105,16 +105,34 @@ static.siege-amazon.com
 .alexa.com
 .audible.com
 .createspace.com
-.amazontrust.com
+.primevideo.org
+.amazonprimevideos.com
+.amazonvideo.cc
 .aboutamazon.es
+.prime-video.com
+.primevideo.cc
+.primevideo.com
+.amznl.com
+.aboutamazon.eu
+.primevideo.info
+.kindle.com
+.kindleoasis.com
+.wfm.com
+.wholecitiesfoundation.org
+.wholefoods.com
+.wholefoodsmarket.com
+.wholekidsfoundation.org
+.wholeplanetfoundation.org
+.kindle.it
+.amazontrust.com
+.awstrust.com
 .ss2.us
 .aboutamazon.de
 .awsbraket.com
-.primevideo.org
-.aboutamazon.eu
-.primevideo.cc
+.thinkboxsoftware.com
+.aesworkshops.com
+.amazonaws-china.com
 .amazonaws.biz
-.amzndns.org
 .amazonaws.com
 .amazonaws.info
 .amazonaws.net
@@ -122,6 +140,7 @@ static.siege-amazon.com
 .amazonaws.tv
 .amazoncognito.com
 .amazonses.com
+.amazonwebservices.com
 .amazonworkdocs.com
 .amplifyapp.com
 .amplifyframework.com
@@ -131,12 +150,12 @@ static.siege-amazon.com
 .awsapprunner.com
 .awsapps.com
 .awsautopilot.com
-.amzndns.net
+.awsautoscaling.com
+.acmvalidations.com
 .acmvalidationsaws.com
-.awseducate.net
-.awsedstart.com
-.awseducate.com
 .awscommandlineinterface.com
+.awseducate.com
+.awseducate.net
 .awseducate.org
 .awsglobalaccelerator.com
 .awsloft-johannesburg.com
@@ -150,52 +169,34 @@ static.siege-amazon.com
 .cloudfront.com
 .cloudfront.net
 .containersonaws.com
-.acmvalidations.com
-.thinkboxsoftware.com
-.awsautoscaling.com
+.elasticbeanstalk.com
+.awsedstart.com
 .amzndns.com
-.prime-video.com
-.amazonvideo.com
-.amazonvideo.cc
+.amzndns.org
+.amzndns.net
+.a2z.com
+.media-imdb.com
+.imdb.to
+.imdb.com
 .aboutamazon.com
 .boxofficemojo.com
-.imdb.com
-.imdb.to
-.media-imdb.com
-.a2z.com
-.kindle.it
-.kindle.in
-.kindle.com
-.kindle.de
-.kindle.jp
-.kindle.fr
-.kindleproject.com
-.kindleoasisnews.com
-.kindle.es
-.kindleoasis.com
-.kindleoasis.info
-.kindleoasis.jp
-.kindleoasis.org
-.kindleoasis.us
-.amazonprimevideos.com
-.aiv-cdn.net
-.wholefoodsmarket.co.uk
-.amazonaws.co.uk
-.kindle.co.uk
-.amazon.com.br
-.amazon.com.tr
-.amazon.co.uk
-.amazon.com.ng
-.kindle.co.jp
-.amazon.com.co
-.amazon.com.mx
-.amzndns.co.uk
-.amazon.com.be
-.amazon.com.au
-.amazon.co.za
 .amazon.co.jp
+.amazon.co.za
+.wholefoodsmarket.co.uk
+.kindle.co.uk
+.amazon.com.tr
+.amazon.com.ng
+.amzndns.co.uk
+.amazonaws.co.uk
+.amazon.com.au
+.amazon.com.co
+.amazon.com.br
+.amazon.com.mx
+.amazon.co.uk
+.amazon.com.be
 .aboutamazon.com.au
 .aboutamazon.co.uk
+.kindle.co.jp
 .aboutamazon.cn
 .alexafund.cn
 .alexafund.com.cn
@@ -222,6 +223,8 @@ images-cn.ssl-images-amazon.com
 images-cn-8.ssl-images-amazon.com
 .amazon-adsystem.com
 .serving-sys.com
+.amazonprimevideo.cn
+.amazonprimevideo.com.cn
 .a2z.org.cn
 .amazonaws.cn
 .amazonaws.com.cn
@@ -251,5 +254,3 @@ images-cn-8.ssl-images-amazon.com
 .kindle.cn
 .kindleoasis.cn
 .kindleoasis.com.cn
-.amazonprimevideo.cn
-.amazonprimevideo.com.cn

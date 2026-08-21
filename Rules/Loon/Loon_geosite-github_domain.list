@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Loon 规则中的 Domain 类型
-# UPDATED: 2026-06-16 16:10:00
+# UPDATED: 2026-08-21 13:29:31
 # DOMAIN: 32
-# HOST-SUFFIX: 30
-# TOTAL: 62
+# HOST-SUFFIX: 32
+# TOTAL: 64
 
 github-api.arkoselabs.com
 github-cloud.s3.amazonaws.com
@@ -46,6 +46,7 @@ copilotprodattachments.blob.core.windows.net
 .git.io
 .github.ai
 .github.blog
+.github.career
 .github.com
 .github.community
 .github.dev
@@ -56,6 +57,7 @@ copilotprodattachments.blob.core.windows.net
 .githubnext.com
 .githubpreview.dev
 .githubstatus.com
+.githubsupport.com
 .githubuniverse.com
 .githubusercontent.com
 .myoctocat.com

@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Domain 类型
-# UPDATED: 2026-06-16 16:30:34
+# UPDATED: 2026-08-21 13:20:49
 # DOMAIN: 32
-# DOMAIN-SUFFIX: 30
-# TOTAL: 62
+# DOMAIN-SUFFIX: 32
+# TOTAL: 64
 
 payload:
   - github-api.arkoselabs.com
@@ -47,6 +47,7 @@ payload:
   - +.git.io
   - +.github.ai
   - +.github.blog
+  - +.github.career
   - +.github.com
   - +.github.community
   - +.github.dev
@@ -57,6 +58,7 @@ payload:
   - +.githubnext.com
   - +.githubpreview.dev
   - +.githubstatus.com
+  - +.githubsupport.com
   - +.githubuniverse.com
   - +.githubusercontent.com
   - +.myoctocat.com

@@ -3,7 +3,7 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Shadowrocket 规则中的 RULE-SET 类型
-# UPDATED: 2026-06-16 16:13:58
+# UPDATED: 2026-08-21 13:34:23
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 177
 # TOTAL: 178
@@ -11,7 +11,7 @@
 DOMAIN,yt3.googleusercontent.com
 DOMAIN-SUFFIX,youtube
 DOMAIN-SUFFIX,youtube.ru
-DOMAIN-SUFFIX,youtube.az
+DOMAIN-SUFFIX,youtube.iq
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,withyoutube.com
 DOMAIN-SUFFIX,youtu.be
@@ -21,7 +21,7 @@ DOMAIN-SUFFIX,youtube.ae
 DOMAIN-SUFFIX,youtube.al
 DOMAIN-SUFFIX,youtube.am
 DOMAIN-SUFFIX,youtube.at
-DOMAIN-SUFFIX,youtube.ro
+DOMAIN-SUFFIX,youtube.az
 DOMAIN-SUFFIX,youtube.ba
 DOMAIN-SUFFIX,youtube.be
 DOMAIN-SUFFIX,youtube.bg
@@ -31,7 +31,7 @@ DOMAIN-SUFFIX,youtube.by
 DOMAIN-SUFFIX,youtube.ca
 DOMAIN-SUFFIX,youtube.cat
 DOMAIN-SUFFIX,youtube.ch
-DOMAIN-SUFFIX,youtube.qa
+DOMAIN-SUFFIX,youtube.cl
 DOMAIN-SUFFIX,youtube.co
 DOMAIN-SUFFIX,youtubemobilesupport.com
 DOMAIN-SUFFIX,youtubekids.com
@@ -49,7 +49,7 @@ DOMAIN-SUFFIX,youtube.tv
 DOMAIN-SUFFIX,youtube.tn
 DOMAIN-SUFFIX,youtube.sv
 DOMAIN-SUFFIX,youtube.soy
-DOMAIN-SUFFIX,youtube.rs
+DOMAIN-SUFFIX,youtube.sn
 DOMAIN-SUFFIX,youtube.sk
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,youtube.com
@@ -58,9 +58,9 @@ DOMAIN-SUFFIX,youtube.sg
 DOMAIN-SUFFIX,youtube.se
 DOMAIN-SUFFIX,youtube.sa
 DOMAIN-SUFFIX,youtube.ee
-DOMAIN-SUFFIX,youtube.sn
 DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,youtube.cl
+DOMAIN-SUFFIX,youtube.qa
+DOMAIN-SUFFIX,youtube.rs
 DOMAIN-SUFFIX,youtube.pt
 DOMAIN-SUFFIX,youtube.pr
 DOMAIN-SUFFIX,youtube.pl
@@ -91,7 +91,7 @@ DOMAIN-SUFFIX,youtube.jp
 DOMAIN-SUFFIX,youtube.jo
 DOMAIN-SUFFIX,youtube.it
 DOMAIN-SUFFIX,youtube.is
-DOMAIN-SUFFIX,youtube.iq
+DOMAIN-SUFFIX,youtube.ro
 DOMAIN-SUFFIX,youtube.in
 DOMAIN-SUFFIX,youtube.ie
 DOMAIN-SUFFIX,youtube.hu

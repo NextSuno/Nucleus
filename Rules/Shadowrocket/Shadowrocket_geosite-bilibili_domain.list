@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Shadowrocket 规则中的 DOMAIN-SET 类型
-# UPDATED: 2026-06-16 16:15:25
+# UPDATED: 2026-08-21 13:35:48
 # DOMAIN: 1
-# HOST-SUFFIX: 51
-# TOTAL: 52
+# HOST-SUFFIX: 52
+# TOTAL: 53
 
 .bilicomic.com
 .bilicomics.com
@@ -36,6 +36,7 @@
 .biligo.com
 .huasheng.cn
 .im9.com
+.updream.cn
 .yo9.com
 .bilicdn1.com
 .bilicdn2.com

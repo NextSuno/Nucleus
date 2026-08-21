@@ -3,7 +3,7 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型
-# UPDATED: 2026-06-16 16:11:57
+# UPDATED: 2026-08-21 13:31:05
 # HOST: 1
 # HOST-SUFFIX: 177
 # TOTAL: 178
@@ -11,7 +11,7 @@
 HOST,yt3.googleusercontent.com,PROXY
 HOST-SUFFIX,youtube,PROXY
 HOST-SUFFIX,youtube.ru,PROXY
-HOST-SUFFIX,youtube.az,PROXY
+HOST-SUFFIX,youtube.iq,PROXY
 HOST-SUFFIX,ytimg.com,PROXY
 HOST-SUFFIX,withyoutube.com,PROXY
 HOST-SUFFIX,youtu.be,PROXY
@@ -21,7 +21,7 @@ HOST-SUFFIX,youtube.ae,PROXY
 HOST-SUFFIX,youtube.al,PROXY
 HOST-SUFFIX,youtube.am,PROXY
 HOST-SUFFIX,youtube.at,PROXY
-HOST-SUFFIX,youtube.ro,PROXY
+HOST-SUFFIX,youtube.az,PROXY
 HOST-SUFFIX,youtube.ba,PROXY
 HOST-SUFFIX,youtube.be,PROXY
 HOST-SUFFIX,youtube.bg,PROXY
@@ -31,7 +31,7 @@ HOST-SUFFIX,youtube.by,PROXY
 HOST-SUFFIX,youtube.ca,PROXY
 HOST-SUFFIX,youtube.cat,PROXY
 HOST-SUFFIX,youtube.ch,PROXY
-HOST-SUFFIX,youtube.qa,PROXY
+HOST-SUFFIX,youtube.cl,PROXY
 HOST-SUFFIX,youtube.co,PROXY
 HOST-SUFFIX,youtubemobilesupport.com,PROXY
 HOST-SUFFIX,youtubekids.com,PROXY
@@ -49,7 +49,7 @@ HOST-SUFFIX,youtube.tv,PROXY
 HOST-SUFFIX,youtube.tn,PROXY
 HOST-SUFFIX,youtube.sv,PROXY
 HOST-SUFFIX,youtube.soy,PROXY
-HOST-SUFFIX,youtube.rs,PROXY
+HOST-SUFFIX,youtube.sn,PROXY
 HOST-SUFFIX,youtube.sk,PROXY
 HOST-SUFFIX,ggpht.com,PROXY
 HOST-SUFFIX,youtube.com,PROXY
@@ -58,9 +58,9 @@ HOST-SUFFIX,youtube.sg,PROXY
 HOST-SUFFIX,youtube.se,PROXY
 HOST-SUFFIX,youtube.sa,PROXY
 HOST-SUFFIX,youtube.ee,PROXY
-HOST-SUFFIX,youtube.sn,PROXY
 HOST-SUFFIX,googlevideo.com,PROXY
-HOST-SUFFIX,youtube.cl,PROXY
+HOST-SUFFIX,youtube.qa,PROXY
+HOST-SUFFIX,youtube.rs,PROXY
 HOST-SUFFIX,youtube.pt,PROXY
 HOST-SUFFIX,youtube.pr,PROXY
 HOST-SUFFIX,youtube.pl,PROXY
@@ -91,7 +91,7 @@ HOST-SUFFIX,youtube.jp,PROXY
 HOST-SUFFIX,youtube.jo,PROXY
 HOST-SUFFIX,youtube.it,PROXY
 HOST-SUFFIX,youtube.is,PROXY
-HOST-SUFFIX,youtube.iq,PROXY
+HOST-SUFFIX,youtube.ro,PROXY
 HOST-SUFFIX,youtube.in,PROXY
 HOST-SUFFIX,youtube.ie,PROXY
 HOST-SUFFIX,youtube.hu,PROXY

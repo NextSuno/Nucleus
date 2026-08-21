@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Shadowrocket 规则中的 DOMAIN-SET 类型
-# UPDATED: 2026-06-16 16:15:47
+# UPDATED: 2026-08-21 13:36:05
 # DOMAIN: 11
-# HOST-SUFFIX: 15
-# TOTAL: 26
+# HOST-SUFFIX: 17
+# TOTAL: 28
 
 audio-ak-spotify-com.akamaized.net
 audio4-ak-spotify-com.akamaized.net
@@ -17,19 +17,21 @@ spotify.com.edgesuite.net
 spotify.map.fastly.net
 spotify.map.fastlylb.net
 .byspotify.com
+.lifeatspotify.com
 .pscdn.co
 .scdn.co
 .spoti.fi
 .spotify-everywhere.com
 .spotify.com
 .spotify.design
+.spotify.link
 .spotifycdn.com
 .spotifycdn.net
 .spotifycharts.com
 .spotifycodes.com
 .spotifyforbrands.com
+.spotifyforvendors.com
 .spotifyjobs.com
-.spotify.link
 .tospotify.com
 adeventtracker.spotify.com
 adstudio-assets.scdn.co
